@@ -1,0 +1,1881 @@
+@Font:	Win95:Arial Unicode MS:-13:0
+@UTF8
+@Begin
+@Languages:	cy, en
+@Participants:	GAI Gail Teenager, TRA Tracy Teenager
+@ID:	cy|siarad|GAI|16;|female|||Teenager||
+@ID:	cy|siarad|TRA|14;|female|||Teenager||
+@Situation:	informal conversation between friends at the National
+	Eisteddfod
+@Comment:	GAI was brought up in north-west Wales and has lived there
+	all her life
+@Comment:	TRA was brought up in north-west Wales and has lived there
+	all her life
+@Date:	09-AUG-2006
+@Comment:	Researcher:	Peredur Davies, Bangor University
+@Coder:	Elen Robert, Bangor University
+@Time Duration:	00:20:04
+@Comment:	Filename: Davies7.CHA; Soundfile: davies7.WAV
+@Comment:	Language markers: @1 = Welsh, @2 = English, @0 =
+	Undetermined, @21 = word with first morpheme(s) English, second
+	morpheme(s) Welsh, @12 = word with first morpheme(s) Welsh, second
+	morpheme(s) English
+@Comment:	A lot of background noise
+*GAI:	xxx &=laugh . %snd:"davies7"_0_7825
+*TRA:	<sure@0 o@1 bigo@1 fyny@1 y@1 dŵr@1 yn@1 mynd@1 lawr@1> [?] . %snd:"davies7"_7825_18982
+%gls:	sure of pick.NONFIN up DET water PRT go.NONFIN down
+%eng:	sure to pick up the water going down
+*TRA:	oh@0 my@2 God@2 oh@0 my@2 God@2 help@0 ! %snd:"davies7"_18982_20445
+%gls:	IM my God IM my God help
+%eng:	oh my God, oh my God, help!
+%com:	they were given glasses of water. Presumably there is a problem
+	regarding these
+*GAI:	&=laugh xx . %snd:"davies7"_20445_21931
+*TRA:	&=laugh . %snd:"davies7"_21304_23336
+*GAI:	&=laugh . %snd:"davies7"_23336_25287
+*TRA:	&=laugh . %snd:"davies7"_25287_26517
+*GAI:	+< &=laugh just@0 # paid@1 <ysgwyd@1 dim_byd@1> [=! laughs] . %snd:"davies7"_25739_28584
+%gls:	just desist.2S.IMPER shake.NONFIN nothing
+%eng:	just don't shake anything
+*TRA:	&=laugh . %snd:"davies7"_28584_30115
+*GAI:	&=laugh . %snd:"davies7"_29639_30893
+*TRA:	&=inhale iawn@1 . %snd:"davies7"_30893_33575
+%gls:	right
+%eng:	alright
+*GAI:	iawn@1 . %snd:"davies7"_33575_34445
+%gls:	right
+%eng:	alright
+*TRA:	um@0 # &=laugh . %snd:"davies7"_34445_41284
+%gls:	IM
+%eng:	um
+*GAI:	&=crunch_food . %snd:"davies7"_41284_44987
+*TRA:	oh@0 gwatsia@1 gwatsia@1 # dw@1 i@1 (y)n@1 symud@1 o@1 . %snd:"davies7"_44987_46288
+%gls:	IM watch.2S.IMPER watch.2S.IMPER be.1S.PRES PRON.1S PRT move.NONFIN
+	PRON.3SM
+%eng:	oh watch out, I'm moving it
+*TRA:	<dw@1 mynd@1 i@1> [?] [//] &=laugh # <mynd@1 i@1 dipio@1 rywfaint@1>
+	[?] . %snd:"davies7"_46288_52859
+%gls:	be.1S.PRES go.NONFIN to go.NONFIN to tip.NONFIN some_amount
+%eng:	I'm going to...going to tip some of it
+*GAI:	o_k@0 [?] yfa@1 fo@1 xx [=! laughs] . %snd:"davies7"_52859_55471
+%gls:	o_k drink.2S.IMPER PRON.3SM xx
+%eng:	ok, drink it [...]
+*TRA:	xxx . %snd:"davies7"_55471_68219
+*GAI:	&=laugh <just@0 yfa@1 fo@1> [=! laughs] . %snd:"davies7"_68219_73316
+%gls:	just drink.2S.IMPER PRON.3SM
+%eng:	just drink it
+*TRA:	&=laugh <edrych@1 fel@1 poodle@0> [?] xx # &=laugh . %snd:"davies7"_73316_77368
+%gls:	look.NONFIN like poodle xx
+%eng:	look like a poodle [...]
+*GAI:	&=laugh <just@0 yfa@1 fo@1> [=! laughs] . %snd:"davies7"_77368_78981
+%gls:	just drink.2S.IMPER PRON.3SM
+%eng:	just drink it
+*TRA:	&=laugh <dw@1 (ddi)m@1 yn@1 gallu@1> [=! laughs] . %snd:"davies7"_78981_80653
+%gls:	be.1S.PRES NEG PRT can.NONFIN
+%eng:	I can't
+*TRA:	&=slurp . %snd:"davies7"_80653_82836
+*GAI:	fo@1 . %snd:"davies7"_82836_83950
+%gls:	PRON.3SM
+%eng:	that's it
+*TRA:	be@1 sy@1 fan@1 (a)cw@1 ? %snd:"davies7"_83950_91926
+%gls:	what be.PRES.REL place there
+%eng:	what's there?
+*GAI:	be@1 ? %snd:"davies7"_91926_92902
+%gls:	what
+%eng:	what?
+*TRA:	be@1 sy@1 yn@1 fan@1 (a)cw@1 ? %snd:"davies7"_92902_93656
+%gls:	what be.PRES.REL in place there
+%eng:	what's in there?
+*GAI:	yn@1 lle@1 ? %snd:"davies7"_93656_94643
+%gls:	in where
+%eng:	where?
+*TRA:	yn@1 y@1 catalogue@0 ? %snd:"davies7"_94643_96060
+%gls:	in DET catalogue
+%eng:	in the catalogue
+*GAI:	catalogue@0 ? %snd:"davies7"_96060_97430
+%gls:	catalogue
+%eng:	catalogue?
+*TRA:	xx . %snd:"davies7"_97430_98289
+*GAI:	pynciau@1 Caerdydd@1 . %snd:"davies7"_98289_100843
+%gls:	subjects Cardiff
+%eng:	the subjects of Cardiff
+*GAI:	lluniau@1 students@0 . %snd:"davies7"_100843_103896
+%gls:	pictures students
+%eng:	pictures of students
+*TRA:	Aber@0 mae@1 Mar(tha)@0 [/] Martha@0 yn@1 mynd@1 de@1 . %snd:"davies7"_103896_109086
+%gls:	Aber be.3S.PRES Martha Martha PRT go.NONFIN TAG
+%eng:	Mar...Martha's going to Aber, isn't she
+*GAI:	yep@0 . %snd:"davies7"_109086_110050
+%gls:	yep
+%eng:	yep
+*GAI:	ooh@0 cerddorfa@1 . %snd:"davies7"_110050_111768
+%gls:	IM orchestra
+%eng:	ooh orchestra
+*GAI:	ia@1 # wneud@1 # gwleidyddiaeth@1 ryngwladol@1 . %snd:"davies7"_111768_117399
+%gls:	yes do.NONFIN politics internationa
+%eng:	yes, to do international politics
+*GAI:	&=laugh .
+*GAI:	ti@1 mynd@1 i@1 Ffrainc@1 ? %snd:"davies7"_121091_126153
+%gls:	PRON.2S go.NONFIN to France
+%eng:	you going to France?
+*TRA:	&=laugh well@0 +/. %snd:"davies7"_126153_127929
+%gls:	well
+%eng:	well...
+*GAI:	ti@1 mynd@1 i@1 Ffrainc@1 i@1 wneud@1 o@1 +/? %snd:"davies7"_127546_128568
+%gls:	PRON.2S go.NONFIN to France to do.NONFIN PRON.3SM
+%eng:	you going to France to do it..?
+*TRA:	well@0 +/. %snd:"davies7"_128568_129392
+%gls:	well
+%eng:	well...
+*GAI:	+, y@1 delyn@1 ? %snd:"davies7"_129392_130193
+%gls:	DET harp
+%eng:	the harp?
+*TRA:	dw@1 (ddi)m@1 (gwy)bod@1 . %snd:"davies7"_130193_132051
+%gls:	be.1S.PRES NEG know.NONFIN
+%eng:	I don't know
+*GAI:	ti@1 isio@1 ? %snd:"davies7"_132051_133304
+%gls:	PRON.2S want
+%eng:	do you want to?
+*TRA:	(b)aswn@1 [?] licio@1 de@1 . %snd:"davies7"_133304_134732
+%gls:	be.1S.CONDIT like.NONFIN TAG
+%eng:	I'd like to, you know
+*TRA:	lle@1 ti@1 xx ? %snd:"davies7"_134732_138204
+%gls:	where PRON.2S xx
+%eng:	where are you [...] ?
+*GAI:	dw@1 i@1 (we)di@1 wneud@1 thing@2 (y)na@1 (e)fo@1 # Caerdydd@1 de@1
+	. %snd:"davies7"_138204_142360
+%gls:	be.1S.PRES PRON.1S PRT.PAST do.NONFIN thing there with Cardiff TAG
+%eng:	I've done that thing with Cardiff, you know
+*GAI:	ond@1 # oedd@1 o@1 (y)n@1 afiach@1 . %snd:"davies7"_142360_145832
+%gls:	but be.3S.IMP PRON.3SM PRT disgusting
+%eng:	but it was disgusting
+*GAI:	achos@1 # o'ch@1 chdi@1 gorod@1 torri@1 fyny@1 cyrff@1 a@1 pethau@1
+	. %snd:"davies7"_145832_148711
+%gls:	because be.2S.IMP PRON.2S must.NONFIN cut.NONFIN up bodies and things
+%eng:	because you had to cut up bodies and things
+*GAI:	so@0 &=laugh +... %snd:"davies7"_148711_151567
+%gls:	so
+%eng:	so...
+*TRA:	be@1 ti@1 isio@1 bod@1 ? %snd:"davies7"_151567_153041
+%gls:	what PRON.2S want be.NONFIN
+%eng:	what do you want to be?
+*GAI:	doctor@0 de@1 . %snd:"davies7"_153041_154214
+%gls:	doctor TAG
+%eng:	doctor, isn't it
+*GAI:	ond@1 # ti@1 cael@1 corff@1 . %snd:"davies7"_154214_155538
+%gls:	but PRON.2S get.NONFIN body
+%eng:	but you get a body
+*GAI:	<a@1 ti@1 gorod@1 roi@1 enw@1 i@1 fo@1> [?] . %snd:"davies7"_155538_156373
+%gls:	and PRON.2S must.NONFIN give.NONFIN name to PRON.3SM
+%eng:	and you have to give it a name
+*GAI:	a@1 xx ti@1 gorod@1 torri@1 fo@1 fyny@1 a@1 stuff@0 . %snd:"davies7"_156373_158870
+%gls:	and xx PRON.2S must.NONFIN cut.NONFIN PRON.3SM up and stuff
+%eng:	and [...] you have to cut it up and stuff
+*TRA:	oh@0 . %snd:"davies7"_158870_161041
+%gls:	IM
+%eng:	oh
+*GAI:	so@0 Paul_Jones@0 de@1 # gynno@1 fo@1 enw@1 o@1 (y)r@1 enw@1 Beti@0
+	. %snd:"davies7"_160611_162921
+%gls:	so Paul_Jones TAG with.3SM PRON.3SM name of DET name Beti
+%eng:	so, Paul Jones, right, he's got a name called Beti
+*TRA:	&=crunch (y)dy@1 Paul_Jones@0 yn@1 Caerdydd@1 . %snd:"davies7"_162921_167937
+%gls:	be.3S.PRES Paul_Jones in Cardiff
+%eng:	is Paul Jones in Cardiff
+*GAI:	yndy@1 # a@1 Daf@0 . %snd:"davies7"_167937_169713
+%gls:	be.3S.PRES and Daf
+%eng:	yes, and Daf
+*GAI:	so@0 [?] +... %snd:"davies7"_169713_172488
+%gls:	so
+%eng:	so...
+*TRA:	<mae@1 (y)r@1 ddau@1> [?] xx perthyn@1 (y)dy@1 . %snd:"davies7"_172488_175077
+%gls:	be.3S.PRES DET two.M xx belong.NONFIN be.3S.PRES
+%eng:	they're related, aren't they
+*GAI:	cefndryd@1 . %snd:"davies7"_175077_177585
+%gls:	cousins
+%eng:	cousins
+*TRA:	faint@1 o@1 amser@1 dan@1 ni@1 bod@1 wan@1 ? %snd:"davies7"_177585_180998
+%gls:	how_much of time be.1PL.PRES PRON.1PL be.NONFIN now
+%eng:	how much time have we been now?
+*TRA:	dw@1 isio@1 mynd@1 i@1 tent@0 chi@1 rywbryd@1 . %snd:"davies7"_180998_184110
+%gls:	be.1S.PRES want go.NONFIN to tent PRON.2PL sometime
+%eng:	I want to go to your tent sometime
+*GAI:	+< xx . %snd:"davies7"_182844_183401
+*GAI:	tyrd@1 heno@1 # a@1 wedyn@1 um@0 +/. %snd:"davies7"_184110_186188
+%gls:	come.2S.IMPER tonight and then IM
+%eng:	come tonight and then, um...
+*TRA:	xx medru@1 xx heno@1 though@2 . %snd:"davies7"_186188_188022
+%gls:	xx can.NONFIN xx tonight though
+%eng:	[...] can [...] tonight though
+*GAI:	pam@1 ddim@1 ? %snd:"davies7"_188022_188487
+%gls:	why NEG
+%eng:	why not?
+*TRA:	achos@1 # dan@1 ni@1 gael@1 swper@1 efo@1 nhw@1 . %snd:"davies7"_188301_190484
+%gls:	because be.1PL.PRES PRON.1PL get.NONFIN supper with PRON.3PL
+%eng:	because we're having supper with them
+*GAI:	tŷ@1 xx . %snd:"davies7"_190484_192585
+%gls:	house [...]
+%eng:	[...] house
+*TRA:	eh@0 ? %snd:"davies7"_192585_193316
+%gls:	IM
+%eng:	eh?
+*GAI:	tŷ@1 # <oedden@1 ni@1> [?] neithiwr@1 ? %snd:"davies7"_193316_195081
+%gls:	house be.1PL.IMP PRON.1PL last_night
+%eng:	the house we were in last night?
+*TRA:	+< ia@1 . %snd:"davies7"_194559_194942
+%gls:	yes
+%eng:	yes
+*GAI:	massive@2 tŷ@1 yndy@1 . %snd:"davies7"_195081_197484
+%gls:	massive house be.3S.PRES
+%eng:	massive house, isn't it
+*TRA:	mmm@0 . %snd:"davies7"_197484_198204
+%gls:	IM
+%eng:	mm
+*GAI:	stunning@2 God@2 . %snd:"davies7"_198204_199168
+%gls:	stunning God
+%eng:	stunning, God
+*TRA:	xx . %snd:"davies7"_199168_200364
+*GAI:	na@1 um@0 +/. %snd:"davies7"_200364_201432
+%gls:	no IM
+%eng:	no um...
+*TRA:	xx coelio@1 [?] chdi@1 methu@1 fo@1 de@1 . %snd:"davies7"_201072_202419
+%gls:	xx believe.NONFIN PRON.2S fail.NONFIN PRON.3SM TAG
+%eng:	[...] you missed it, you know
+*GAI:	methu@1 be@1 ? %snd:"davies7"_202419_203313
+%gls:	fail.NONFIN what
+%eng:	missed what?
+*GAI:	oh@0 na@1 bechod@1 . %snd:"davies7"_203313_204683
+%gls:	IM no sin
+%eng:	oh no, shame
+*TRA:	oedden@1 ni@1 chwifio@1 &=laugh . %snd:"davies7"_204299_205658
+%gls:	be.1PL.IMP PRON.1PL wave.NONFIN
+%eng:	we were waving
+*GAI:	oeddech@1 chi@1 gyd@1 fath@1 â@1 pump@1 ohonach@1 chi@1 (y)na@1
+	fath@1 â@1 # weifio@1 (ar)na@1 i@1 . %snd:"davies7"_205658_208489
+%gls:	be.2PL.IMP PRON.2PL all kind with five of.2PL PRON.2PL there kind
+	with wave.NONFIN at.1S PRON.1S
+%eng:	you were all, like, five of you there, like, waving at me
+*GAI:	um@0 # &=sigh # um@0 xxx . %snd:"davies7"_208489_216000
+%gls:	IM IM xxx
+%eng:	um, um, [...]
+*GAI:	ia@1 # tyrd@1 nos@1 fory@1 . %snd:"davies7"_216000_223082
+%gls:	yes come.2S.IMPER night tomorrow
+%eng:	yes, come tomorrow night
+*TRA:	yeah@0 nos@1 fory@1 . %snd:"davies7"_223082_224963
+%gls:	yeah night tomorrow
+%eng:	yeah, tomorrow night
+*GAI:	achos@1 gynno@1 fi@1 mond@1 thing@2 llefaru@1 diwrnod@1 wedyn@1 . %snd:"davies7"_224963_227889
+%gls:	because with.1S PRON.1S only thing recite.NONFIN day after
+%eng:	because I've only got a reciting thing the day after
+*TRA:	a@1 dydd@1 Sadwrn@1 hefyd@1 . %snd:"davies7"_227889_229990
+%gls:	and day Saturday also
+%eng:	and Saturday too
+*GAI:	<dydd@1 Sa(dwrn)@1> [//] nos@1 Sadwrn@1 ia@1 # nos@1 Sadwrn@1 . %snd:"davies7"_229990_232556
+%gls:	day Saturday night Saturday yes night Saturday
+%eng:	Sat...Saturday night, yes, Saturday night
+*TRA:	xx dydd@1 Sul@1 dach@1 chi@1 mynd@1 de@1 . %snd:"davies7"_232556_233764
+%gls:	xx day Sunday be.2PL.PRES PRON.2PL go.NONFIN TAG
+%eng:	[...] you're going on Sunday, aren't you
+*GAI:	nos@1 Sul@1 neu@1 nos@1 Lun@1 . %snd:"davies7"_233764_235412
+%gls:	night Sunday or night Monday
+%eng:	Sunday night or Monday night
+*GAI:	<dw@1 meddwl@1> [?] bod@1 # Martha@0 mynd@1 <lawr@1 i@1> [//] #
+	fyny@1 Aberystwyth@0 . %snd:"davies7"_235412_238919
+%gls:	be.1S.PRES think.NONFIN be.NONFIN Martha go.NONFIN down to up to
+	Aberystwyth
+%eng:	I think Martha's going down to...up to Aberystwyth
+*TRA:	xx ? %snd:"davies7"_238919_239917
+*GAI:	dydd@1 Llun@1 . %snd:"davies7"_239917_240451
+%gls:	day Monday
+%eng:	Monday
+*GAI:	mae@1 (y)n@1 cael@1 clyweliad@1 # thing@2 # offerynnol@1 # i@1 gael@1
+	pres@1 . %snd:"davies7"_240451_246186
+%gls:	be.3S.PRES PRT get.NONFIN audition thing instrumental to get.NONFIN
+	money
+%eng:	she's got an audition for an instrumental thing, to get money
+*TRA:	mmm@0 ? %snd:"davies7"_246186_247080
+%gls:	IM
+%eng:	mm?
+*GAI:	i@1 gael@1 pres@1 . %snd:"davies7"_247080_248497
+%gls:	to get.NONFIN money
+%eng:	to get money
+*GAI:	oherwydd@1 [?] xx # ella@1 a@1 i@1 fyny@1 ella@1 efo@1 mam@0 . %snd:"davies7"_248497_253663
+%gls:	because xx perhaps go.1S.NONPAST PRON.1S up perhaps with mum
+%eng:	because [...] perhaps I'll go up perhaps with mum
+*GAI:	dibynnu@1 os@1 (y)dy@1 mam@0 yn@1 iawn@1 # achos@1 +/. %snd:"davies7"_253663_257493
+%gls:	depend.NONFIN if be.3S.PRES mum PRT right because
+%eng:	it depends whether mum's alright, because...
+*TRA:	oh@0 yeah@0 . %snd:"davies7"_257528_258282
+%gls:	IM yeah
+%eng:	oh yeah
+*TRA:	(y)dy@1 well@1 wan@1 ? %snd:"davies7"_258282_259072
+%gls:	be.3S.PRES better now
+%eng:	is she better now?
+*GAI:	dw@1 meddwl@1 . %snd:"davies7"_259072_259989
+%gls:	be.1S.PRES think.NONFIN
+%eng:	I think so
+*GAI:	hung@2 over@2 (y)dy@1 . %snd:"davies7"_259989_260883
+%gls:	hung over be.3S.PRES
+%eng:	she's hung-over
+*TRA:	bug@0 (y)dy@1 o@1 de@1 . %snd:"davies7"_260883_261672
+%gls:	bug be.3S.PRES PRON.3SM TAG
+%eng:	it's a bug, isn't it
+*GAI:	na@1 . %snd:"davies7"_261672_262682
+%gls:	no
+%eng:	no
+*TRA:	yeah@0 . %snd:"davies7"_262682_263333
+%gls:	yeah
+%eng:	yeah
+*GAI:	wnaeth@1 hi@1 cael@1 gwin@1 yn@1 tŷ@1 chi@1 do@1 . %snd:"davies7"_263077_264366
+%gls:	do.3S.PAST PRON.3SF get.NONFIN wine in house PRON.2PL yes
+%eng:	she had wine in your house, didn't she
+*TRA:	&=laugh . %snd:"davies7"_263994_264993
+*GAI:	<a@1 wedyn@1> [=! laughs] <wnaeth@1 ddod@1> [?] adre@1 <wnaeth@1
+	mam@0> [//] wnaethon@1 nhw@1 fynd@1 trwy@1 (y)r@1 tair@1 <botel@1
+	o@1 win@1 xx> [=! laughs] . %snd:"davies7"_264993_269114
+%gls:	and then do.3S.PAST come.NONFIN home do.3S.PAST mum do.3PL.PAST
+	PRON.3PL go.NONFIN through DET three.F bottle of wine xx
+%eng:	and then she came home, mum went...they went through the three
+	bottles of wine [...]
+*GAI:	<a@1 wedyn@1 gaethon@1 nhw@1 vodka@0> [=! laughs] . %snd:"davies7"_269114_271936
+%gls:	and then get.3PL.PAST PRON.3PL vodka
+%eng:	and then they had vodka
+*GAI:	so@0 um@0 # ia@1 . %snd:"davies7"_271936_273689
+%gls:	so IM yes
+%eng:	so um, yes
+*GAI:	embarrassing@2 . %snd:"davies7"_273689_278971
+%gls:	embarrassing
+%eng:	embarrassing
+*TRA:	chdi@1 <(y)dy@1 hwnna@1> [?] . %snd:"davies7"_278971_285461
+%gls:	PRON.2S be.3S.PRES that
+%eng:	that's you
+*GAI:	lle@1 ? %snd:"davies7"_285461_286506
+%gls:	where
+%eng:	where?
+*TRA:	<yn@1 fan@1 (a)cw@1> [=! laughs] . %snd:"davies7"_286506_287644
+%gls:	in place there
+%eng:	there
+*GAI:	ia@1 funny@2 . %snd:"davies7"_287644_288898
+%gls:	yes funny
+%eng:	yes, funny
+*TRA:	chwarter@1 awr@1 ta@1 hanner@1 awr@1 dan@1 ni@1 mynd@1 i@1 fod@1 . %snd:"davies7"_288898_294981
+%gls:	quarter hour or half hour be.1PL.PRES PRON.1PL go.NONFIN to be.NONFIN
+%eng:	are we going to be a quarter of an hour or half an hour
+*TRA:	achos@1 dw@1 i@1 angen@1 bod@1 nôl@1 xx erbyn@1 chwech@1 . %snd:"davies7"_294981_297652
+%gls:	because be.1S.PRES PRON.1S need be.NONFIN back xx by six
+%eng:	because I need to be back [...] by six
+*GAI:	faint@1 o@1 gloch@1 (y)dy@1 wan@1 ? %snd:"davies7"_297652_299962
+%gls:	how_much of clock be.3S.PRES now
+%eng:	what time is it now?
+*TRA:	pump@1 (y)dy@1 wan@1 . %snd:"davies7"_299962_301077
+%gls:	five be.3S.PRES now
+%eng:	it's five now
+*GAI:	hanner@1 awr@1 felly@1 yeah@0 ? %snd:"davies7"_301077_302830
+%gls:	half hour thus yeah
+%eng:	half an hour then, yeah
+*TRA:	yeah@0 dw@1 isio@1 mynd@1 i@1 # tent@0 chi@1 . %snd:"davies7"_302830_305442
+%gls:	yeah be.1S.PRES want go.NONFIN to tent PRON.2PL
+%eng:	yeah, I want to go to your tent
+*TRA:	faint@1 mae@1 gymryd@1 ? %snd:"davies7"_305442_305860
+%gls:	how_much be.3S.PRES take.NONFIN
+%eng:	how much does it take?
+*TRA:	deg@1 munud@1 . %snd:"davies7"_305860_306382
+%gls:	ten minute
+%eng:	ten minutes?
+*GAI:	yeah@0 ond@1 dw@1 i@1 cyfarfod@1 efo@1 hogiau@1 i_gyd@1 . %snd:"davies7"_306382_307776
+%gls:	yeah but be.1S.PRES PRON.1S meet.NONFIN with boys all
+%eng:	yeah but I'm meeting with all the lads
+*GAI:	achos@1 dw@1 i@1 heb@1 weld@1 nhw@1 ers@1 oes@1 . %snd:"davies7"_307776_309018
+%gls:	because be.1S.PRES PRON.1S without see.NONFIN PRON.3PL since age
+%eng:	because I haven't seen them for ages
+*TRA:	pa@1 bryd@1 ? %snd:"davies7"_309018_310016
+%gls:	which time
+%eng:	when?
+*GAI:	dw@1 (ddi)m@1 yn@1 gwybod@1 . %snd:"davies7"_310016_311375
+%gls:	be.1S.PRES NEG PRT know.NONFIN
+%eng:	I don't know
+*TRA:	faint@1 o@1 gloch@1 ? %snd:"davies7"_311259_311874
+%gls:	how_much of clock
+%eng:	what time?
+*GAI:	+< mae@1 fod@1 text_io@21 fi@1 pan@1 mae@1 nhw@1 cyrraedd@1 adre@1 .
+	%snd:"davies7"_311375_313000
+%gls:	be.3S.PRES be.NONFIN text.NONFIN PRON.1S when be.3PL.PRES PRON.3PL
+	arrive.NONFIN home
+%eng:	he/she's supposed to text me when they get home
+*TRA:	+< yn@1 lle@1 ? %snd:"davies7"_312292_312884
+%gls:	in where
+%eng:	where?
+*GAI:	dw@1 (ddi)m@1 yn@1 gwybod@1 . %snd:"davies7"_313000_314022
+%gls:	be.1S.PRES NEG PRT know.NONFIN
+%eng:	I don't know
+*GAI:	rywle@1 ar@1 y@1 maes@1 de@1 . %snd:"davies7"_314022_315891
+%gls:	somewhere on DET ground TAG
+%eng:	somewhere on the ground, right
+*GAI:	achos@1 # ges@1 i@1 party@0 lle@1 oedd@1 Adam@0 xx . %snd:"davies7"_315891_320558
+%gls:	because get.1S.NONPAST PRON.1S party where be.3S.IMP Adam xx
+%eng:	because I had a party where Adam was [...]
+*GAI:	ond@1 dw@1 i@1 heb@1 gweld@1 y@1 rei@1 eraill@1 ers@1 fath@1 â@1 #
+	diwedd@1 T_G_A_U@1 so@0 +... %snd:"davies7"_320558_325086
+%gls:	but be.1S.PRES PRON.1S without see.NONFIN DET some others since kind
+	with end G_C_S_E so
+%eng:	but I haven't seen the others since, like, the end of GCSEs, so...
+*TRA:	oh@0 . %snd:"davies7"_325086_327838
+%gls:	IM
+%eng:	oh
+*GAI:	mae@1 nhw@1 gyd@1 yn@1 Maes_B@0 . %snd:"davies7"_327838_329405
+%gls:	be.3PL.PRES PRON.3PL all in Maes_B
+%eng:	they're all in Maes B
+*GAI:	T_G_A_U@1 [=! whispers] ! %snd:"davies7"_329405_333434
+%gls:	G_C_S_E
+%eng:	GCSEs!
+*TRA:	hmm@0 ? %snd:"davies7"_333434_333933
+%gls:	IM
+%eng:	hm?
+*GAI:	T_G_A_U@1 fi@1 . %snd:"davies7"_333933_334966
+%gls:	G_C_S_E PRON.1S
+%eng:	my GCSEs
+*TRA:	<pryd@1 mae@1 xx> [///] pa@1 bryd@1 ti@1 gael@1 gwybod@1 ? %snd:"davies7"_334966_340968
+%gls:	when be.3S.PRES xx which time PRON.2S get.NONFIN know.NONFIN
+%eng:	when's [...] ...when do you find out?
+*GAI:	mae@1 Martha@0 yn@1 cael@1 ar@1 y@1 un_deg_saith@1 de@1 . %snd:"davies7"_340968_344254
+%gls:	be.3S.PRES Martha PRT get.NONFIN on DET seventeen TAG
+%eng:	Martha's getting on the seventeenth, right
+*GAI:	a@1 wedyn@1 # ar@1 y@1 dau_ddeg_pedwar@1 dw@1 i@1 cael@1 +/. %snd:"davies7"_344254_346042
+%gls:	and then on DET twenty_four.M be.1S.PRES PRON.1S get.NONFIN
+%eng:	and then on the twenty-fourth I'm getting...
+*TRA:	be@1 o@1 Awst@1 ? %snd:"davies7"_346042_346785
+%gls:	what of August
+%eng:	what of August?
+*GAI:	yeah@0 . %snd:"davies7"_346785_347400
+%gls:	yeah
+%eng:	yeah
+*GAI:	&=gasp ond@1 mae@1 # ffrindiau@1 fi@1 # mae@1 rhei@1 o@1 nhw@1 ar@1
+	gwyliau@1 . %snd:"davies7"_347400_352902
+%gls:	but be.3S.PRES friends PRON.1S be.3S.PRES some of PRON.3PL on holiday
+%eng:	but my friends, some of them are on holiday
+*GAI:	so@0 mae@1 nhw@1 gorod@1 cael@1 ffacsio@1 fo@1 neu@1 just@0
+	disgwyl@1 # neu@1 cael@1 rywun@1 arall@1 i@1 nôl@1 nhw@1 . %snd:"davies7"_352902_357838
+%gls:	so be.3PL.PRES PRON.3PL must.NONFIN get.NONFIN fax.NONFIN PRON.3SM
+	or just wait.NONFIN or get.NONFIN somebody other to fetch.NONFIN
+	PRON.3PL
+%eng:	so they have to have it faxed or just wait, or get someone else to
+	get them
+*TRA:	+< ti@1 mynd@1 i@1 fod@1 adre@1 wyt@1 ? %snd:"davies7"_357385_358232
+%gls:	PRON.2S go.NONFIN to be.NONFIN home be.2S.PRES
+%eng:	you'll be home, will you?
+*GAI:	yndw@1 # hopefully@2 . %snd:"davies7"_358232_359637
+%gls:	be.1S.PRES hopefully
+%eng:	yes, hopefully
+*GAI:	God@2 . %snd:"davies7"_359637_362087
+%gls:	God
+%eng:	God
+*TRA:	oh@0 my@2 God@2 dau_ddeg_pedwar@1 ti@1 (y)n@1 gael@1 o@1 . %snd:"davies7"_362087_364455
+%gls:	IM my God twenty_four.M PRON.2S PRT get.NONFIN PRON.3SM
+%eng:	oh my God, you're getting it on the twenty-fourth
+*TRA:	be@1 <wnest@1 ti@1> [?] gael@1 ? %snd:"davies7"_364455_367195
+%gls:	what do.2S.PAST PRON.2S get.NONFIN
+%eng:	what did you get?
+*TRA:	celf@1 cerdd@1 +/? %snd:"davies7"_367195_368496
+%gls:	art music
+%eng:	art, music..?
+*GAI:	celf@1 cerdd@1 addysg@1 grefyddol@1 . %snd:"davies7"_368043_369947
+%gls:	art music education religious
+%eng:	art, music, religious education
+*TRA:	a@1 wedyn@1 <gweddill@1 yeah@0> [?] . %snd:"davies7"_369947_371421
+%gls:	and then remainter yeah
+%eng:	and then the rest, yeah
+*GAI:	a@1 wedyn@1 ti@1 cael@1 # maths@0 dwyt@1 +/. %snd:"davies7"_370771_373790
+%gls:	and then PRON.2S get.NONFIN maths be.2S.PRES
+%eng:	and then you get maths, don't you...
+*TRA:	un@1 maths@0 ta@1 dau@1 faths@0 ? %snd:"davies7"_373790_375276
+%gls:	one maths or two.M maths
+%eng:	one maths or two maths?
+*GAI:	+, dau@1 Cymraeg@1 # dau@1 Saesneg@1 +/. %snd:"davies7"_374591_377598
+%gls:	two.M Welsh two.M English
+%eng:	two Welsh, two English...
+*TRA:	dau@1 gwyddoniaeth@1 . %snd:"davies7"_377598_378712
+%gls:	two.M science
+%eng:	two science
+*GAI:	+, a@1 dau@1 gwyddon(iaeth)@1 yeah@0 . %snd:"davies7"_378712_379711
+%gls:	and two.M science yeah
+%eng:	and two science, yeah
+*GAI:	so@0 dw@1 (ddi)m@1 yn@1 gwybod@1 . %snd:"davies7"_379711_382079
+%gls:	so be.1S.PRES NEG PRT know.NONFIN
+%eng:	so, I don't know
+*TRA:	<oedda@1 chdi@1 (y)n@1 gweld@1 nhw@1 (y)n@1> [///] # pa@1 rei@1
+	o'ch@1 chdi@1 (y)n@1 gweld@1 yn@1 anodd@1 ? %snd:"davies7"_382079_384479
+%gls:	be.2S.IMP PRON.2S PRT see.NONFIN PRON.3PL PRT which some be.2S.IMP
+	PRON.2S PRT see.NONFIN PRT difficult
+%eng:	did you find them...which ones did you think were difficult?
+*GAI:	cerdd@1 . %snd:"davies7"_384479_385164
+%gls:	music
+%eng:	music
+*GAI:	o'n@1 i@1 (y)n@1 disgwyl@1 hwnna@1 fod@1 yn@1 really@2 hawdd@1 . %snd:"davies7"_385164_387474
+%gls:	be.1S.IMP PRON.1S PRT expect.NONFIN that be.NONFIN PRT really easy
+%eng:	I expected that to be really easy
+*GAI:	o(edd)@1 perfformio@1 (y)n@1 iawn@1 de@1 . %snd:"davies7"_387474_388543
+%gls:	be.3S.IMP perform.NONFIN PRT right TAG
+%eng:	performing was alright, right
+*GAI:	a@1 wedyn@1 um@0 # papur@1 oedd@1 o@1 (y)n@1 awful@2 . %snd:"davies7"_388543_392629
+%gls:	and then IM paper be.3S.IMP PRON.3SM PRT awful
+%eng:	and then, um, the paper, it was awful
+*TRA:	+< serious@2 ? %snd:"davies7"_391050_391805
+%gls:	serious
+%eng:	serious?
+*TRA:	go@1 iawn@1 ? %snd:"davies7"_392629_393686
+%gls:	rather right
+%eng:	really?
+*GAI:	horrible@0 . %snd:"davies7"_393686_395021
+%gls:	horrible
+%eng:	horrible
+*TRA:	pa@1 fath@1 o@1 gwestiynau@1 xx ? %snd:"davies7"_395021_396066
+%gls:	which kind of questions xx
+%eng:	what kind of questions [...] ?
+*GAI:	ti@1 gorod@1 gwrando@1 ar@1 y@1 darnau@1 de@1 . %snd:"davies7"_396066_397633
+%gls:	PRON.2S must.NONFIN listen.NONFIN at DET pieces TAG
+%eng:	you have to listen to the pieces, right
+*GAI:	a@1 wedyn@1 # ti@1 cael@1 # fath@1 â@1 pump@1 bar@0 . %snd:"davies7"_397633_400129
+%gls:	and then PRON.2S get.NONFIN kind with five bar
+%eng:	and then you get, like, five bars
+*GAI:	a@1 ti@1 gorod@1 sgwennu@1 (y)r@1 nodau@1 gyd@1 lawr@1 a@1 stuff@0 .
+	%snd:"davies7"_400129_401801
+%gls:	and PRON.2S must.NONFIN write.NONFIN DET notes all down and stuff
+%eng:	and you have to write all the notes down and stuff
+*TRA:	serious@2 ? %snd:"davies7"_401801_403496
+%gls:	serious
+%eng:	serious?
+*GAI:	+< just@0 gwrando@1 (ar)no@1 fo@1 ddwywaith@1 . %snd:"davies7"_402765_403810
+%gls:	just listen.NONFIN at.3SM PRON.3SM twice
+%eng:	just listen to it twice
+*GAI:	yeah@0 . %snd:"davies7"_403810_404100
+%gls:	yeah
+%eng:	yeah
+*TRA:	ti@1 gorod@1 pitsio@1 bob_dim@1 [?] ? %snd:"davies7"_404100_406108
+%gls:	PRON.2S must.NONFIN pitch.NONFIN everything
+%eng:	do you have to pitch and everything?
+*GAI:	mmm@0 ? %snd:"davies7"_406108_406666
+%gls:	IM
+%eng:	mm?
+*TRA:	ti@1 gorod@1 pitsio@1 fo@1 ? %snd:"davies7"_406666_407722
+%gls:	PRON.2S must.NONFIN pitch.NONFIN PRON.3SM
+%eng:	do you have to pitch it?
+*GAI:	+< o't@1 ti@1 heb@1 dewis@1 naddo@1 +//? %snd:"davies7"_406933_407757
+%gls:	be.2S.IMP PRON.2S without choose.NONFIN no
+%eng:	you didn't choose, did you..?
+*GAI:	wyt@1 . %snd:"davies7"_407757_408291
+%gls:	be.2S.PRES
+%eng:	yes
+*TRA:	oh@0 my@2 God@2 . %snd:"davies7"_408291_412668
+%gls:	IM my God
+%eng:	oh my God
+*GAI:	hwnna@1 (y)dy@1 (y)r@1 peth@1 gwaetha@1 though@2 . %snd:"davies7"_412668_415048
+%gls:	that be.3S.PRES DET thing worst though
+%eng:	that's the worst thing, though
+*GAI:	a@1 ti@1 gorod@1 sgwennu@1 traethawd@1 # am@1 ryw@1 ddarn@1 o@1
+	music@0 ti@1 clywed@1 . %snd:"davies7"_415048_417962
+%gls:	and PRON.2S must.NONFIN write.NONFIN essay about some piece of music
+	PRON.2S hear.NONFIN
+%eng:	and you have to write an essay about some piece of music you hear
+*GAI:	mae@1 addysg@1 gref(yddol)@1 yn@1 iawn@1 . %snd:"davies7"_417962_420911
+%gls:	be.3S.PRES education religious PRT right
+%eng:	religious education's alright
+*GAI:	ond@1 ti@1 gorod@1 dysgu@1 loads@2 o@1 stuff@0 . %snd:"davies7"_420911_422467
+%gls:	but PRON.2S must.NONFIN learn.NONFIN loads of stuff
+%eng:	but you have to learn loads of stuff
+*TRA:	xx <o'n@1 i@1 (y)n@1 meddwl@1 just@0 [?]> [//] # o'n@1 i@1
+	meddwl@1 # cymryd@1 addysg@1 gref(yddol)@1 . %snd:"davies7"_422467_425927
+%gls:	xx be.1S.IMP PRON.1S PRT think.NONFIN just be.1S.IMP PRON.1S
+	think.NONFIN take.NONFIN education religious
+%eng:	[...] I was thinking of learn...I was thinking of taking religious
+	education
+*TRA:	a@1 wedyn@1 wnes@1 i@1 gymryd@1 # chwaraeon@1 xx . %snd:"davies7"_425927_427332
+%gls:	and then do.1S.PAST PRON.1S take.NONFIN sports xx
+%eng:	and then I took sports [...]
+*GAI:	be@1 ? %snd:"davies7"_427332_428620
+%gls:	what
+%eng:	what?
+*TRA:	&=clears_throat o'n@1 i@1 meddwl@1 just@0 [?] um@0 dewis@1
+	addysg@1 gref(yddol)@1 de@1 . %snd:"davies7"_428620_431592
+%gls:	be.1S.IMP PRON.1S think.NONFIN learn.NONFIN IM choose.NONFIN
+	education religious TAG
+%eng:	I was thinking of, um, taking religious education, right
+*TRA:	ond@1 # fath@1 â@1 dw@1 i@1 wneud@1 # gym@2 yn@1 lle@1 . %snd:"davies7"_431592_434913
+%gls:	but kind with be.1S.PRES PRON.1S do.NONFIN gym in place
+%eng:	but, like, I'm doing gym instead
+*GAI:	mmhm@0 . %snd:"davies7"_434913_436085
+%gls:	IM
+%eng:	mmhm
+*TRA:	achos@1 +//. %snd:"davies7"_436085_438302
+%gls:	because
+%eng:	because...
+*TRA:	oh@0 [=? a@1] mae@1 (y)na@1 lwyth@1 o@1 bobl@1 yn@1 cymryd@1 #
+	addysg@1 gref(yddol)@1 anyway@2 does@1 . %snd:"davies7"_438302_440915
+%gls:	IM be.3S.PRES there load of people PRT take.NONFIN education
+	religious anyway be.3S.PRES.NEG
+%eng:	oh loads of people are taking religious education anyway,
+	aren't they
+*GAI:	un@1 hogyn@1 wnaeth@1 wneud@1 yn@1 blwyddyn@1 ni@1 though@2 . %snd:"davies7"_440915_443899
+%gls:	one boy do.3S.PAST do.NONFIN in year PRON.1PL though
+%eng:	only one boy did in our year, though
+*TRA:	pwy@1 ? %snd:"davies7"_443899_444607
+%gls:	who
+%eng:	who?
+*GAI:	Ben@0 . %snd:"davies7"_444607_445257
+%gls:	Ben
+%eng:	Ben
+*GAI:	&=laugh <xx chwerthin@1> [=! laughs] . %snd:"davies7"_445257_449054
+%gls:	xx laugh.NONFIN
+%eng:	[...] laugh
+*GAI:	ia@1 so@0 xxx . %snd:"davies7"_449054_452014
+%gls:	yes so xxx
+%eng:	yes, so [...]
+*TRA:	<sut@1 oedda@1> [?] chdi@1 ffeindio@1 # celf@1 ? %snd:"davies7"_452014_456507
+%gls:	how be.2S.IMP PRON.2S find.NONFIN art
+%eng:	how did you find art?
+*GAI:	horrible@0 . %snd:"davies7"_456507_458005
+%gls:	horrible
+%eng:	horrible
+*GAI:	&=laugh oedd@1 o@1 (y)n@1 afiach@1 # na@1 [?] . %snd:"davies7"_458005_461999
+%gls:	be.3S.IMP PRON.3SM PRT disgusting no
+%eng:	it was disgusting, no
+*TRA:	<be@1 chdi@1 gorod@1 wneud@1> [?] ? %snd:"davies7"_461999_463009
+%gls:	what PRON.2S must.NONFIN do.NONFIN
+%eng:	what did you have to do?
+*GAI:	be@1 ? %snd:"davies7"_463009_463787
+%gls:	what
+%eng:	what?
+*TRA:	be@1 +//? %snd:"davies7"_463787_464193
+%gls:	what
+%eng:	what..?
+*TRA:	oh@0 yeah@0 # gwyddoniaeth@1 ti@1 gorod@1 # fath@1 â@1 +//. %snd:"davies7"_464193_466724
+%gls:	IM yeah science PRON.2S must.NONFIN kind with
+%eng:	oh yeah, it's science you have to, like...
+*TRA:	ti@1 (y)n@1 mynd@1 i@1 wneud@1 gwyddoniaeth@1 yn@1 # chwech@1 un@1
+	(fe)lly@1 dwyt@1 # a@1 chwech@1 dau@1 . %snd:"davies7"_466724_470959
+%gls:	PRON.2S PRT go.NONFIN to do.NONFIN science in six one thus
+	be.2S.PRES.NEG and six two
+%eng:	you're going to do science then, aren't you, in the lower sixth, and
+	the upper sixth
+*GAI:	dibynnu@1 be@1 dw@1 i@1 wneud@1 . %snd:"davies7"_470962_471716
+%gls:	depend.NONFIN what be.1S.PRES PRON.1S do.NONFIN
+%eng:	it depends what I do
+*GAI:	achos@1 mae@1 meddygaeth@1 xx fath@1 â@1 # horrible@0 de@1 . %snd:"davies7"_471716_473632
+%gls:	because be.3S.PRES medicine xx kind with horrible TAG
+%eng:	because medicine [...] like, horrible, right
+*GAI:	so@0 # os@1 +/. %snd:"davies7"_473632_476662
+%gls:	so if
+%eng:	so if...
+*TRA:	doctor@0 ti@1 isio@1 bod@1 ? %snd:"davies7"_476279_477324
+%gls:	doctor PRON.2S want be.NONFIN
+%eng:	you want to be a doctor?
+*GAI:	dim@1 (d)im@1 [?] mwy@1 . %snd:"davies7"_477324_478949
+%gls:	NEG NEG more
+%eng:	not anymore
+*GAI:	achos@1 # aeth@1 [=? oedd@1] um@0 # Barry@0 yn@1 sâl@1 de@1 . %snd:"davies7"_478949_481980
+%gls:	because go.3S.PAST IM Barry PRT sick TAG
+%eng:	because Barry got ill, right
+*GAI:	a@1 wedyn@1 o'n@1 i@1 gorod@1 <llnau@1 o@1> [=! laughs] fyny@1 de@1
+	. %snd:"davies7"_481980_485997
+%gls:	and then be.1S.IMP PRON.1S must.NONFIN clean.NONFIN PRON.3SM up TAG
+%eng:	and then I had to clean it up, right
+*GAI:	a@1 xx just@0 yn@1 disgusting@2 . %snd:"davies7"_485997_487111
+%gls:	and xx just PRT disgusting
+%eng:	and [...] just disgusting
+*GAI:	so@0 # fedra@1 i@1 (ddi)m@1 # wneud@1 # operations@0 na@1
+	(di)m_byd@1 fel@1 (yn)a@1 . %snd:"davies7"_487111_490954
+%gls:	so can.1S.NONPAST PRON.1S NEG do.NONFIN operations NEG nothing like
+	there
+%eng:	so I can't do operations or anything like that
+*GAI:	mae@1 horrible@0 . %snd:"davies7"_490954_491837
+%gls:	be.3S.PRES horrible
+%eng:	it's horrible
+*TRA:	yeah@0 ond@1 # nurse@0 (ba)sai@1 wneud@1 hynna@1 de@1 . %snd:"davies7"_491837_495470
+%gls:	yeah but nurse be.1S.CONDIT do.NONFIN that TAG
+%eng:	yeah but it's a nurse that would do that, you know
+*TRA:	oh@0 dw@1 (ddi)m@1 (gwy)bod@1 . %snd:"davies7"_495470_496980
+%gls:	IM be.1S.PRES NEG know.NONFIN
+%eng:	oh I don't know
+*GAI:	fydd@1 Big_Brother@0 (we)di@1 gorffen@1 erbyn@1 # &s diwedd@1
+	Steddfod@0 . %snd:"davies7"_496980_503714
+%gls:	be.3S.FUT Big_Brother PRT.PAST finish.NONFIN by end Eisteddfod
+%eng:	will Big Brother have finished by the end of the Eisteddfod
+*GAI:	neu@1 (y)dy@1 o@1 (y)n@1 +..? %snd:"davies7"_503714_504364
+%gls:	or be.3S.PRES PRON.3SM PRT
+%eng:	or is it..?
+*TRA:	e:r@0 # na@1 na@1 ? %snd:"davies7"_504364_508671
+%gls:	IM no no
+%eng:	er, no, no?
+*GAI:	na@1 ? %snd:"davies7"_508671_509217
+%gls:	no
+%eng:	no?
+*GAI:	faint@1 sy@1 ar_ôl@1 wan@1 ? %snd:"davies7"_509217_510111
+%gls:	how_much be.PRES.REL after now
+%eng:	how much is left now?
+*TRA:	&ə &t oh@0 na@1 achos@1 mae@1 (y)na@1 un@1 yn@1 mynd@1 nôl@1 fewn@1
+	does@1 . %snd:"davies7"_510111_513164
+%gls:	IM no because be.3S.PRES there one PRT go.NONFIN back in
+	be.3S.PRES.NEG
+%eng:	oh no, because there's one going back in, isn't there
+*GAI:	un@1 mynd@1 fewn@1 ? %snd:"davies7"_513164_514302
+%gls:	one go.NONFIN in
+%eng:	one going in?
+*TRA:	achos@1 mae@1 # Glyn@0 &ais +/. %snd:"davies7"_514302_516009
+%gls:	because be.3S.PRES Glyn
+%eng:	because Glyn...
+*GAI:	+< dydd@1 Gwener@1 yeah@0 ? %snd:"davies7"_514952_515579
+%gls:	day Friday yeah
+%eng:	on Friday, yeah?
+*TRA:	+, Glyn@0 # Aisleyne@0 +... %snd:"davies7"_516009_518574
+%gls:	Glyn Aisleyne
+%eng:	Glyn, Aisleyne...
+*GAI:	a@1 mae@1 Jenny@0 (y)n@1 aros@1 tan@1 y@1 diwedd@1 . %snd:"davies7"_518574_520931
+%gls:	and be.3S.PRES Jennt PRT stay.NONFIN until DET end
+%eng:	and Jenny's staying til the end
+*TRA:	achos@1 wnaeth@1 hi@1 ennill@1 ryw@1 game@0 . %snd:"davies7"_520931_522394
+%gls:	because do.3S.PAST PRON.3SF win.NONFIN some game
+%eng:	because she won some game
+*GAI:	oh@0 my@2 God@2 . %snd:"davies7"_522394_523741
+%gls:	IM my God
+%eng:	oh my God
+*GAI:	ydy@1 ? %snd:"davies7"_523741_524565
+%gls:	be.3S.PRES
+%eng:	is she?
+*TRA:	+< oh@0 my@2 God@2 . %snd:"davies7"_524205_525088
+%gls:	IM my God
+%eng:	oh my God
+*TRA:	Glyn@0 de@1 . %snd:"davies7"_525088_526388
+%gls:	Glyn TAG
+%eng:	Glyn, right
+*GAI:	Glyn@0 # Aisleyne@0 # Richard@0 # Jenny@0 . %snd:"davies7"_526086_529035
+%gls:	Glyn Aisleyne Richard Jenny
+%eng:	Glyn, Aisleyne, Richard, Jenny
+*TRA:	Imogen@0 . %snd:"davies7"_529035_529906
+%gls:	Imogen
+%eng:	Imogen
+*GAI:	Imogen@0 . %snd:"davies7"_529906_530521
+%gls:	Imogen
+%eng:	Imogen
+*TRA:	a@1 (we)dyn@1 un@1 arall@1 wedyn@1 . %snd:"davies7"_530521_532425
+%gls:	and then one other then
+%eng:	and then another one
+*GAI:	Suzie@0 dal@1 fewn@1 (y)ndy@1 ? %snd:"davies7"_532425_533632
+%gls:	Suzie still in be.3S.PRES
+%eng:	Suzie still in, is she?
+*TRA:	na@1 xxx . %snd:"davies7"_533632_534584
+%gls:	no xxx
+%eng:	no [...]
+*GAI:	xx Suzie@0 (we)di@1 mynd@1 . %snd:"davies7"_534178_535130
+%gls:	xx Suzie PRT.PAST go.NONFIN
+%eng:	[...] Suzie's gone
+*TRA:	(wnae)th@1 hi@1 mynd@1 efo@1 Mikey@0 do@1 <yr@1 un@1> [/] yr@1 un@1
+	noson@1 â@1 Mikey@0 . %snd:"davies7"_535130_537739
+%gls:	do.3S.PAST PRON.3SF go.NONFIN with Mikey yes DET one DET one night
+	PRT Mikey
+%eng:	she went with Mikey, didn't she, the same night as Mikey
+*GAI:	+< oh@0 yeah@0 # wnes@1 i@1 fethu@1 fo@1 . %snd:"davies7"_535220_536334
+%gls:	IM yeah do.1S.PAST PRON.1S fail.NONFIN PRON.3SM
+%eng:	oh yeah, I missed it
+*GAI:	so@0 mae@1 (y)na@1 bump@1 o@1 rei@1 iawn@1 a@1 wedyn@1 un@1 dod@1
+	nôl@1 fewn@1 . %snd:"davies7"_537739_541303
+%gls:	so be.3S.PRES there five of some right and then one.NONFIN
+	come.NONFIN back in
+%eng:	so there are five real ones and then one coming back in
+*TRA:	yeah@0 . %snd:"davies7"_541303_541977
+%gls:	yeah
+%eng:	yeah
+*GAI:	a@1 faint@1 sy@1 ar_ôl@1 # ar@1 y@1 noson@1 ola@1 ? %snd:"davies7"_541977_546481
+%gls:	and how_much be.PRES.REL after on DET night last
+%eng:	and how many are left on the last night?
+*GAI:	pedwar@1 fel@1 arfer@1 yeah@0 ? %snd:"davies7"_546481_547259
+%gls:	four.M like habit yeah
+%eng:	four usually, yeah?
+*TRA:	um@0 +... %snd:"davies7"_547259_549546
+%gls:	IM
+%eng:	um...
+*GAI:	so@0 fydd@1 (y)na@1 double@0 eviction@2 neu@1 (ry)wbeth@1 yeah@0 #
+	a@1 wedyn@1 # pedwar@1 <o@1 nhw@1> [?] dod@1 allan@1 ? %snd:"davies7"_549546_553668
+%gls:	so be.3S.FUT there double eviction or something yeah and then four.M
+	of PRON.3PL come.NONFIN out
+%eng:	so there'll be a double eviction or something, yeah, and then four
+	of them coming out?
+*TRA:	+< yeah@0 . %snd:"davies7"_551567_551973
+%gls:	yeah
+%eng:	yeah
+*TRA:	yeah@0 . %snd:"davies7"_553668_554713
+%gls:	yeah
+%eng:	yeah
+*GAI:	+< cute@0 [?] . %snd:"davies7"_554156_554724
+%gls:	cute
+%eng:	cute
+*GAI:	pwy@1 ti@1 meddwl@1 eith@1 nôl@1 fewn@1 ? %snd:"davies7"_554724_558115
+%gls:	who PRON.2S think.NONFIN go.3S.NONPAST back in
+%eng:	who do you think will go in?
+*GAI:	Nikki@0 ? %snd:"davies7"_558115_559078
+%gls:	Nikki
+%eng:	Nikki?
+*TRA:	um@0 # dw@1 (ddi)m@1 (gwy)bod@1 . %snd:"davies7"_559078_562712
+%gls:	IM be.1S.PRES NEG know.NONFIN
+%eng:	um, I don't know
+*TRA:	ella@1 wneith@1 Lisa@0 dw@1 (ddi)m@1 (gwy)bod@1 . %snd:"davies7"_562712_565591
+%gls:	perhaps do.3S.NONPAST Lisa be.1S.PRES NEG know.NONFIN
+%eng:	perhaps Lisa will, I don't know
+*GAI:	Lisa@0 ? %snd:"davies7"_565591_566613
+%gls:	Lisa
+%eng:	Lisa?
+*TRA:	yeah@0 . %snd:"davies7"_566613_567240
+%gls:	yeah
+%eng:	yeah
+*GAI:	(y)dy@1 hi@1 (y)n@1 gallu@1 mynd@1 nôl@1 fewn@1 ? %snd:"davies7"_567240_568889
+%gls:	be.3S.PRES PRON.3SF PRT can.NONFIN go.NONFIN back in
+%eng:	can she go back in?
+*TRA:	+< xx gwybod@1 . %snd:"davies7"_567879_568459
+%gls:	xx know.NONFIN
+%eng:	[...] know
+*TRA:	mmm@0 . %snd:"davies7"_568889_569736
+%gls:	IM
+%eng:	mm
+*GAI:	oh@0 yeah@0 . %snd:"davies7"_569736_570804
+%gls:	IM yeah
+%eng:	oh yeah
+*TRA:	dw@1 (ddi)m@1 yn@1 gweld@1 Grace@0 <mynd@1 fewn@1> [?] de@1 . %snd:"davies7"_570700_571896
+%gls:	be.1S.PRES NEG PRT see.NONFIN Grace go.NONFIN in TAG
+%eng:	I don't see Grace going in, right
+*TRA:	achos@1 yn@1 y@1 thing@2 um@0 +... %snd:"davies7"_571896_573370
+%gls:	brcause in DET thing IM
+%eng:	because in the thing, um...
+*TRA:	timod@1 # Big_Brother_Little_Brother@0 de@1 # yn@1 bore@1 de@1 . %snd:"davies7"_573370_577817
+%gls:	know.2S Big_Brother_Little_Brother TAG in morning TAG
+%eng:	you know Big Brother Little Brother, right, in the morning, right
+*GAI:	+< yeah@0 . %snd:"davies7"_576795_577178
+%gls:	yeah
+%eng:	yeah
+*TRA:	um@0 # dyma@1 yr@1 hen@1 rei@1 gyd@1 yn@1 # cael@1 chat@0 efo@1 #
+	timod@1 y@1 boy@0 (y)na@1 . %snd:"davies7"_577817_584272
+%gls:	IM here DET old some all PRT get.NONFIN chat with know.2S DET boy
+	there
+%eng:	um, all the old ones had a chat with, you know that guy
+*GAI:	Dermot@0 boy@0 . %snd:"davies7"_584272_585967
+%gls:	Dermot boy
+%eng:	Dermot guy
+*TRA:	+< be@1 (y)dy@1 enw@1 fo@1 ? %snd:"davies7"_585294_585967
+%gls:	what be.3S.PRES name PRON.3SM
+%eng:	what's his name?
+*TRA:	y@1 boy@0 . %snd:"davies7"_585967_587116
+%gls:	DET boy
+%eng:	the guy
+*GAI:	Dermot@0 . %snd:"davies7"_587116_587732
+%gls:	Dermot
+%eng:	Dermot
+*TRA:	ia@1 . %snd:"davies7"_587732_588219
+%gls:	yes
+%eng:	yes
+*GAI:	ia@1 . %snd:"davies7"_588219_588509
+%gls:	yes
+%eng:	yes
+*TRA:	a@1 wedyn@1 # oedd@1 pawb@1 yna@1 heblaw@1 # Grace@0 . %snd:"davies7"_588509_593223
+%gls:	and then be.3S.IMP everybody there except Grace
+%eng:	and then everybody was there except for Grace
+*TRA:	oedd@1 hi@1 mewn@1 [?] syrffio@1 (ryw)beth@1 . %snd:"davies7"_593223_595139
+%gls:	be.3S.IMP PRON.3SF in surf.NONFIN something
+%eng:	she was in surfing or something
+*GAI:	mewn@1 be@1 ? %snd:"davies7"_595139_596010
+%gls:	in what
+%eng:	in what?
+*TRA:	oedd@1 hi@1 (we)di@1 bod@1 yn@1 syrffio@1 . %snd:"davies7"_596010_597507
+%gls:	be.3S.IMP PRON.3SF PRT.PAST be.NONFIN PRT surf.NONFIN
+%eng:	she'd been surfing
+*GAI:	o_k@0 . %snd:"davies7"_597507_599214
+%gls:	o_k
+%eng:	ok
+*TRA:	so@0 # oedd@1 hi@1 (ddi)m@1 yna@1 de@1 i@1 siarad@1 . %snd:"davies7"_599214_601513
+%gls:	so be.3S.IMP PRON.3SF NEG there TAG to speak.NONFIN
+%eng:	so she wasn't there, you know, to speak
+*TRA:	ond@1 oedd@1 pawb@1 arall@1 yna@1 . %snd:"davies7"_601513_602500
+%gls:	but be.3S.IMP everybody other there
+%eng:	but everybody else was there
+*TRA:	ac@1 oedden@1 nhw@1 deud@1 fath@1 â@1 pam@1 oedden@1 nhw@1 isio@1
+	mynd@1 yn_ôl@1 pethau@1 fel@1 (yn)a@1 . %snd:"davies7"_602500_604845
+%gls:	and be.3PL.IMP PRON.3PL say.NONFIN kind with why be.3PL.IMP PRON.3PL
+	want go.NONFIN back things like there
+%eng:	and they were saying, like, why they wanted to go back, things like
+	there
+*GAI:	yeah@0 . %snd:"davies7"_604845_608409
+%gls:	yeah
+%eng:	yeah
+*TRA:	dw@1 (ddi)m@1 yn@1 gweld@1 Suzie@0 mynd@1 xx yn_ôl@1 i_fewn@1 de@1
+	. %snd:"davies7"_608409_610557
+%gls:	be.1S.PRES NEG PRT see.NONFIN Suzie go.NONFIN xx back in TAG
+%eng:	I don't see Suzie going back in, you know
+*GAI:	na@1 . %snd:"davies7"_610557_611358
+%gls:	no
+%eng:	no
+*TRA:	achos@1 oedd@1 hi@1 (y)n@1 really@2 boring@2 xxx . %snd:"davies7"_610963_612821
+%gls:	because be.3S.IMP PRON.3SF PRT really boring xxx
+%eng:	because she was really boring [...]
+*GAI:	(o)s@1 na@1 de@1 # (oe)s@1 gyn@1 ti@1 fath@1 â@1 # ffefryn@1 yn@1
+	y@1 tŷ@1 # a@1 wedyn@1 # ti@1 (y)n@1 # fotio@1 i@1 gael@1 rywun@1
+	really@2 +/. %snd:"davies7"_612821_619342
+%gls:	if TAG be.3S.PRES with PRON.2S kind with favourite in DET house and
+	then PRON.2S PRT vote.NONFIN to get.NONFIN somebody really
+%eng:	unless, right, have you got, like, a favourite in the house, and then
+	you vote to get someone really...
+*TRA:	pwy@1 (y)dy@1 ffefryn@1 chdi@1 (y)n@1 y@1 tŷ@1 ? %snd:"davies7"_619322_620460
+%gls:	who be.3S.PRES favourite PRON.2S in DET house
+%eng:	who's your favourite in the house?
+*GAI:	Glyn@0 rŵan@1 . %snd:"davies7"_620460_623119
+%gls:	Glyn now
+%eng:	Glyn now
+*GAI:	ond@1 dw@1 heb@1 weld@1 o@1 ers@1 mor@1 hir@1 de@1 . %snd:"davies7"_623119_625627
+%gls:	but be.1S.PRES without see.NONFIN PRON.3SM since so long TAG
+%eng:	but I haven't seen it for so long, you know
+*TRA:	pwy@1 oedd@1 ? %snd:"davies7"_625627_626474
+%gls:	who be.3S.IMP
+%eng:	who was?
+*GAI:	um@0 # Pete@0 yn@1 dechrau@1 de@1 . %snd:"davies7"_626474_628912
+%gls:	IM Pete in start TAG
+%eng:	um, Pete at the beginning, right
+*TRA:	mae@1 Pete@0 (we)di@1 mynd@1 yn@1 eitha@1 boring@2 wan@1 do@1 . %snd:"davies7"_628912_631223
+%gls:	be.3S.PRES Pete PRT.PAST go.NONFIN PRT quite boring now yes
+%eng:	Pete's gone quite boring now, hasn't he
+*GAI:	mae@1 Pete@0 mynd@1 yn@1 really@2 distaw@1 . %snd:"davies7"_630096_631350
+%gls:	be.3S.PRES Pete go.NONFIN PRT really quiet
+%eng:	Pete's gone really quiet
+*GAI:	achos@1 # ers@1 i@1 Nikki@0 fynd@1 +... %snd:"davies7"_631350_633475
+%gls:	because since for Nikki go.NONFIN
+%eng:	because, since Nikki left...
+*TRA:	+< do@1 . %snd:"davies7"_631350_631768
+%gls:	yes
+%eng:	yes
+*TRA:	+< dw@1 (ddi)m@1 yn@1 gwybod@1 +//. %snd:"davies7"_632093_632778
+%gls:	be.1S.PRES NEG PRT know.NONFIN
+%eng:	I don't know...
+*GAI:	(ddi)m@1 yn@1 gwybod@1 . %snd:"davies7"_633475_635042
+%gls:	NEG PRT know.NONFIN
+%eng:	don't know
+*TRA:	dw@1 (ddi)m@1 yn@1 gwybod@1 de@1 os@1 mai@1 # fel@1 (yn)a@1 mae@1
+	o@1 rŵan@1 a@1 bod@1 o@1 (we)di@1 roid@1 act@0 ar@1 y@1 dechrau@1
+	neu@1 # os@1 ydy@1 o@1 wedi@1 mynd@1 # lawr@1 yn@1 ei@1 hun@1 os@1
+	ti@1 ddallt@1 be@1 dw@1 feddwl@1 . %snd:"davies7"_635042_644934
+%gls:	be.1S.PRES NEG PRT know.NONFIN TAG if PRT like there be.3S.PRES
+	PRON.3SM now and be.NONFIN PRON.3SM PRT.PAST put.NONFIN act on DET
+	beginning or if be.3S.PRES PRON.3SM PRT.PAST go.NONFIN down in
+	poss.3S self if PRON.2S understand.NONFIN what be.1S.PRES
+	think.NONFIN
+%eng:	I don't know, right, if that's how he is now and that he put an act
+	on at the beginning, or of he's gone down in himself, if you know
+	what I mean
+*GAI:	+< ia@1 . %snd:"davies7"_644342_644713
+%gls:	yes
+%eng:	yes
+*GAI:	neu@1 os@1 (y)dy@1 o@1 (y)n@1 bod@1 yn@1 gysetlyd@1 . %snd:"davies7"_644934_646931
+%gls:	or if be.3S.PRES PRON.3SM PRT be.NONFIN PRT fastidious
+%eng:	or if he's being fastidious
+*TRA:	&=laugh . %snd:"davies7"_646931_648208
+*GAI:	<achos@1 mae@1 o@1 mor@1 boblogaidd@1 # mae@1 o@1 meddwl@1 bod@1 o@1
+	mynd@1 i@1 ennill@1> [=! laughs] . %snd:"davies7"_647662_650855
+%gls:	because be.3S.PRES PRON.3SM so popular be.3S.PRES PRON.3SM
+	think.NONFIN be.NONFIN PRON.3SM go.NONFIN to win.NONFIN
+%eng:	because he's so popular, he thinks he's going to win
+*TRA:	+< &=laugh . %snd:"davies7"_648997_650031
+*GAI:	so@0 # (dy)dy@1 o@1 (ddi)m@1 yn@1 wneud@1 dim_byd@1 a@1 wedyn@1 +...
+	%snd:"davies7"_650855_652713
+%gls:	so be.3S.PRES.NEG PRON.3SM NEG PRT do.NONFIN nothing and then
+%eng:	so he doesn't do anything and then...
+*TRA:	+< yeah@0 . %snd:"davies7"_652051_652631
+%gls:	yeah
+%eng:	yeah
+*TRA:	dw@1 [?] (ddi)m@1 (gwy)bod@1 . %snd:"davies7"_652713_654350
+%gls:	be.1S.PRES NEG know.NONFIN
+%eng:	I don't know
+*GAI:	cymryd@1 yn@1 ganiataol@1 wneith@1 o@1 ennill@1 neu@1 (ryw)beth@1 . %snd:"davies7"_654350_656881
+%gls:	take.NONFIN PRT permissible do.3S.NONPAST PRON.3SM win.NONFIN or
+	something
+%eng:	takes for granted he'll win or something
+*TRA:	achos@1 mae@1 pawb@1 yn@1 really@2 licio@1 Pete@0 doedd@1 [?] xx
+	fath@1 â@1 +... %snd:"davies7"_656556_659388
+%gls:	because be.3S.PRES everybody PRT really like.NONFIN Pete
+	be.3S.IMP.NEG xx kind with
+%eng:	because everybody really likes Pete, didn't they [...] like...
+*GAI:	yndy@1 . %snd:"davies7"_659133_659690
+%gls:	be.3S.PRES
+%eng:	yes
+*TRA:	xxx . %snd:"davies7"_659690_661536
+*GAI:	ond@1 Glyn@0 sy@1 (we)di@1 newid@1 fwya@1 de@1 . %snd:"davies7"_661536_663568
+%gls:	but Glyn be.PRES.REL PRT.PAST change.NONFIN most TAG
+%eng:	but it's Glyn that's changed most, isn't it
+*TRA:	ia@1 do@1 mae@1 (we)di@1 xx yn@1 fwy@1 confident@2 de@1 . %snd:"davies7"_663568_666563
+%gls:	yes yes be.3S.PRES PRT.PAST xx PRT more confident TAG
+%eng:	yes, yes, he's [...] more confident, right
+*TRA:	a@1 mae@1 (we)di@1 mynd@1 yn@1 llai@1 fath@1 â@1 # ar_goll@1 [?] . %snd:"davies7"_666563_669582
+%gls:	and be.3S.PRES PRT.PAST go.NONFIN PRT less kind with lost
+%eng:	and he's become less, like, lost
+*GAI:	yndy@1 wsnos@1 gynta@1 . %snd:"davies7"_669582_671625
+%gls:	be.3S.PRES week first
+%eng:	yes, the first week
+*GAI:	ond@1 um@0 # Shahbaz@0 oedd@1 hynna@1 de@1 . %snd:"davies7"_671625_674203
+%gls:	but IM Shahbaz be.3S.IMP that TAG
+%eng:	but um, that was Shahbaz, wasn't it
+*TRA:	yeah@0 . %snd:"davies7"_674203_675642
+%gls:	yeah
+%eng:	yeah
+*GAI:	achos@1 mond@1 tua@1 tri@1 loud@2 [?] o(edd)@1 (y)na@1 . %snd:"davies7"_675526_677465
+%gls:	because only approximately three.M loud be.3S.IMP there
+%eng:	because there were only about three loud ones there
+*GAI:	a@1 pawb@1 arall@1 yn@1 ddistaw@1 fath@1 â@1 +... %snd:"davies7"_677454_680263
+%gls:	and everybody other PRT quiet kind with
+%eng:	and everybody else quiet, like...
+*TRA:	+< yeah@0 . %snd:"davies7"_678498_679009
+%gls:	yeah
+%eng:	yeah
+*TRA:	oedd@1 Lisa@0 (y)n@1 deud@1 bod@1 hi@1 isio@1 mynd@1 i@1 nôl@1
+	fewn@1 a@1 hefyd@1 um@0 achos@1 bod@1 Mikey@0 (we)di@1 gadael@1
+	Glyn@0 bod@1 hi@1 isio@1 mynd@1 efo@1 [?] Glyn@0 (ryw)beth@1 #
+	bod@1 hi@1 isio@1 dod@1 yn@1 ffrindiau@1 (e)fo@1 Glyn@0 yn@1 fwy@1
+	o@1 ffrindiau@1 (e)fo@1 fo@1 . %snd:"davies7"_680263_693371
+%gls:	be.3S.IMP Lisa PRT say.NONFIN be.NONFIN PRON.3SF want go.NONFIN to
+	back in and also IM because be.NONFIN Mikey PRT.PAST leave.NONFIN
+	Glyn be.NONFIN PRON.3SF want go.NONFIN with Glyn something be.NONFIN
+	PRON.3SF want come.NONFIN PRT friends with Glyn PRT more of friends
+	with PRON.3SM
+%eng:	Lisa was saying that she wanted to go back in and also, um, because
+	Mikey had left that she wanted to go with Glyn or something, that
+	she wanted to become friends with Glyn, more friends with him
+*GAI:	<mae@1 hynna@1> [?] just@0 fath@1 â@1 # mynd@1 efo@1 rei@1
+	poblogaidd@1 dydy@1 . %snd:"davies7"_693371_697260
+%gls:	be.3S.PRES that just kind with go.NONFIN with some popular
+	be.3S.PRES.NEG
+%eng:	that's just, like, going with the popular ones, isn't it
+*TRA:	mmm@0 +... %snd:"davies7"_697144_698084
+%gls:	IM
+%eng:	mmm
+*GAI:	achos@1 [?] oedd@1 hi@1 a@1 Pete@0 +/. %snd:"davies7"_698084_699425
+%gls:	because be.3S.IMP PRON.3SF and Pete
+%eng:	because she and Pete...
+*TRA:	achos@1 dw@1 i@1 meddwl@1 achos@1 bod@1 hi@1 (we)di@1 dod@1 allan@1
+	mae@1 sylwi@1 <am@1 bobl@1 yn@1> [?] licio@1 Glyn@0 dydy@1 . %snd:"davies7"_698763_702188
+%gls:	because be.1S.PRES PRON.1S think.NONFIN because be.NONFIN PRON.3SF
+	PRT.PAST come.NONFIN out be.3S.PRES notice.NONFIN at people PRT
+	like.NONFIN Glyn be.3S.PRES.NEG
+%eng:	because I think because she's come out, she notices people liking
+	Glyn, doesn't she
+*GAI:	yndy@1 . %snd:"davies7"_702177_702687
+%gls:	be.3S.PRES
+%eng:	yes
+*TRA:	so@0 bod@1 hi@1 (y)n@1 trio@1 +//. %snd:"davies7"_702560_703593
+%gls:	so be.NONFIN PRON.3SF PRT try.NONFIN
+%eng:	so she's trying...
+*TRA:	ti@1 dallt@1 be@1 dw@1 feddwl@1 . %snd:"davies7"_703593_704464
+%gls:	PRON.2S understand.NONFIN what be.1S.PRES think.NONFIN
+%eng:	you know what I mean
+*TRA:	a@1 mae@1 Bonnie@0 a@1 +//. %snd:"davies7"_704464_707796
+%gls:	and be.3S.PRES Bonnie and
+%eng:	and Bonnie and...
+*TRA:	er@0 Bonnie@0 ? %snd:"davies7"_707796_708632
+%gls:	IM Bonnie
+%eng:	er, Bonnie?
+*GAI:	Bonnie@0 . %snd:"davies7"_708272_708667
+%gls:	Bonnie
+%eng:	Bonnie
+*TRA:	mae@1 # um@0 +... %snd:"davies7"_708667_710327
+%gls:	be.3S.PRES IM
+%eng:	um...
+*TRA:	be@1 (y)dy@1 enw@1 hi@1 ? %snd:"davies7"_710327_713090
+%gls:	what be.3S.PRES name PRON.3SM
+%eng:	what's her name
+*TRA:	oh@0 be@1 (y)dy@1 enw@1 hi@1 ? %snd:"davies7"_713090_715807
+%gls:	IM what be.3S.PRES name PRON.3SF
+%eng:	oh, what's her name?
+*GAI:	Leah@0 ? %snd:"davies7"_715807_716585
+%gls:	Leah
+%eng:	Leah?
+*TRA:	Jennie@0 . %snd:"davies7"_716585_717420
+%gls:	Jennie
+%eng:	Jennie
+*GAI:	Jennie@0 ? %snd:"davies7"_717420_717827
+%gls:	Jennie
+%eng:	Jennie?
+*TRA:	oedd@1 Jennie@0 wedi@1 # gaddo@1 bod@1 yn@1 ffrindiau@1 gorau@1
+	(e)fo@1 Glyn@0 am@1 byth@1 &=laugh . %snd:"davies7"_717827_722715
+%gls:	be.3S.IMP Jennie PRT.PAST promise.NONFIN be.NONFIN PRT friends best
+	with Glyn for ever
+%eng:	Jennie promised to be best friends with Glyn for ever
+*GAI:	oh@0 . %snd:"davies7"_722715_723307
+%gls:	IM
+%eng:	oh
+*TRA:	so@0 mae@1 nhw@1 (we)di@1 xx ffrindiau@1 wan@1 . %snd:"davies7"_723307_725443
+%gls:	so be.3PL.PRES PRON.3PL PRT.PAST xx friends now
+%eng:	so they've [...] friends now
+*GAI:	ti@1 meddwl@1 eith@1 o@1 nôl@1 i@1 coleg@1 ? %snd:"davies7"_725246_726256
+%gls:	PRON.2S think.NONFIN go.3S.NONPAST PRON.3SF back to college
+%eng:	do you think he'll go back to college? [note, 'coleg' in Welsh often
+	means university]
+*TRA:	xx . %snd:"davies7"_726256_728322
+*TRA:	(doe)s@1 dim@1 really@2 angen@1 chdi@1 fynd@1 pan@1 ti@1 gael@1
+	gymaint@1 â@1 hynna@1 o@1 bres@1 nag@1 oes@1 . %snd:"davies7"_728322_731225
+%gls:	be.3S.PRES.NEG NEG really need PRON.2S go.NONFIN when PRON.2S
+	get.NONFIN so_much PRT that of money NEG be.3S.PRES
+%eng:	you don't really need to go when you get that much money, do you
+*GAI:	Bangor@0 mae@1 mynd@1 de@1 . %snd:"davies7"_731225_732304
+%gls:	Bangor be.3S.PRES go.NONFIN TAG
+%eng:	he's going to Bangor, isn't he
+*TRA:	ia@1 +!? %snd:"davies7"_732304_733582
+%gls:	yes
+%eng:	yes!?
+*TRA:	(ddi)m@1 yn@1 gwybod@1 hynna@1 . %snd:"davies7"_733582_735056
+%gls:	NEG PRT know.NONFIN that
+%eng:	didn't know that
+*TRA:	be@1 mynd@1 i@1 fynd@1 ? %snd:"davies7"_735056_737065
+%gls:	what go.NONFIN to go.NONFIN
+%eng:	what, going to go?
+*GAI:	mae@1 o@1 fath@1 â@1 (we)di@1 cael@1 # graddau@1 digon@1 da@1 wan@1
+	. %snd:"davies7"_737065_741976
+%gls:	be.3S.PRES PRON.3SM kind with PRT.PAST get.NONFIN grades enough good
+	now
+%eng:	he's, like, had good enough grades now
+*GAI:	mae@1 (we)di@1 cael@1 ei@1 dderbyn@1 dw@1 meddwl@1 . %snd:"davies7"_741976_743206
+%gls:	be.3S.PRES PRT.PAST get.NONFIN poss.3SM accept.NONFIN be.1S.PRES
+	think.NONFIN
+%eng:	he's been accepted, I think
+*TRA:	be@1 gafodd@1 o@1 ? %snd:"davies7"_743206_745203
+%gls:	what get.3S.PAST PRON.3SM
+%eng:	what did he get?
+*GAI:	mae@1 fod@1 i@1 cael@1 a@1 am@1 bob_dim@1 . %snd:"davies7"_745203_747560
+%gls:	be.3S.PRES be.NONFIN to get.NONFIN A for everything
+%eng:	he's supposed to get an A for everything
+*GAI:	ond@1 oedd@1 o@1 fod@1 i@1 cael@1 a@1 yn@1 Saesneg@1 . %snd:"davies7"_747560_750044
+%gls:	but be.3S.IMP PRON.3SM be.NONFIN to get.NONFIN A in English
+%eng:	but he was supposed to get an A in English
+*TRA:	a@1 be@1 gafodd@1 o@1 ? %snd:"davies7"_750044_751089
+%gls:	and what get.3S.PAST PRON.3SM
+%eng:	and what did he get?
+*GAI:	oedd@1 [///] wnaeth@1 [///] (dy)dy@1 o@1 heb@1 wneud@1 lefel_a@1
+	fo@1 . %snd:"davies7"_751089_752924
+%gls:	be.3S.IMP do.3S.PAST be.3S.PRES.NEG PRON.3SM without do.NONFIN
+	a_level PRON.3SM
+%eng:	he hasn't done his A levels
+*TRA:	oh@0 . %snd:"davies7"_752889_753226
+%gls:	IM
+%eng:	oh
+*GAI:	aeth@1 o@1 fewn@1 i@1 (y)r@1 tŷ@1 yn@1 lle@1 . %snd:"davies7"_753226_754375
+%gls:	go.3S.PAST PRON.3SM in to DET house in place
+%eng:	he went into the house instead
+*TRA:	oh@0 ! %snd:"davies7"_754375_755733
+%gls:	IM
+%eng:	oh!
+*TRA:	so@0 # <ydy@1 o@1 gael@1 ei@1 dderbyn@1 xx> [//] (y)dy@1 o@1 (y)n@1
+	gael@1 ei@1 dderbyn@1 anyway@2 ? %snd:"davies7"_755733_759019
+%gls:	so be.3S.PRES PRON.3SM get.NONFIN poss.3SM accept.NONFIN xx
+	be.3S.PRES PRON.3SM PRT get.NONFIN poss.3SM accept.NONFIN anyway
+%eng:	so is he getting accepted [...] ...is he getting accepted anyway?
+*GAI:	yndy@1 . %snd:"davies7"_759019_759553
+%gls:	be.3S.PRES
+%eng:	yes
+*GAI:	fasa@1 chdi@1 meddwl@1 [?] (ba)sai@1 fo@1 (ddi)m@1 yn@1 cael@1 a@1 #
+	achos@1 ffordd@1 mae@1 siarad@1 Saesneg@1 . %snd:"davies7"_759553_764592
+%gls:	be.2S.CONDIT PRON.2S think.NONFIN be.3S.CONDIT PRON.3SM NEG PRT
+	get.NONFIN A because way be.3S.PRES speak.NONFIN English
+%eng:	you wouldn't think he'd get an A, because of the way he speaks
+	English
+*TRA:	dw@1 i@1 gwybod@1 . %snd:"davies7"_764592_765796
+%gls:	be.1S.PRES PRON.1S know.NONFIN
+%eng:	I know
+*TRA:	mae@1 o@1 braidd@1 yn@1 +/. %snd:"davies7"_765796_766867
+%gls:	be.3S.PRES PRON.3SM rather PRT
+%eng:	he's a bit...
+*GAI:	oedd@1 o@1 fath@1 â@1 xx siarad@1 Cymraeg@1 . %snd:"davies7"_766867_768144
+%gls:	be.3S.IMP PRON.3SM kind with xx speak.NONFIN Welsh
+%eng:	he was like [...] speak Welsh
+*TRA:	ond@1 ella@1 bod@1 o@1 just@0 [/] # just@0 achos@1 yr@1 accent@2 xx
+	dw@1 (ddi)m@1 (gwy)bod@1 . %snd:"davies7"_767796_771117
+%gls:	but perhaps be.NONFIN PRON.3SM just just because DET accent xx
+	be.1S.PRES NEG know.NONFIN
+%eng:	but perhaps it's just...just because of the accent [...] I don't know
+*GAI:	ia@1 ella@1 de@1 . %snd:"davies7"_771117_772127
+%gls:	yes perhaps TAG
+%eng:	yes perhaps, isn't it
+*GAI:	hynna@1 wir@1 . %snd:"davies7"_772127_774182
+%gls:	that true
+%eng:	that's true
+*TRA:	mae@1 um@0 +//. %snd:"davies7"_774182_775459
+%gls:	be.3S.PRES IM
+%eng:	um...
+*TRA:	timod@1 yr@1 hogan@1 addysg@1 grefyddol@1 ? %snd:"davies7"_775459_777374
+%gls:	know.2S DET girl education religious
+%eng:	you know the religious education woman?
+*TRA:	oh@0 timod@1 <yr@1 hogan@1> [//] dim@1 <yr@1 hogan@1> [//] yr@1
+	actual@2 hogan@1 addysg@1 grefyddol@1 . %snd:"davies7"_777374_782216
+%gls:	IM know.2S DET girl NEG DET girl DET actual girl education religious
+%eng:	oh you know the girl...not the girl...the actual religious education
+	girl
+*GAI:	Miss_Hughes@0 ? %snd:"davies7"_782216_783725
+%gls:	Miss_Hughes
+%eng:	Miss Hughes?
+*TRA:	+< hogan@1 +... %snd:"davies7"_782680_783377
+%gls:	girl
+%eng:	the girl...
+*TRA:	ia@1 dim@1 hi@1 # um@0 Miss@0 +/. %snd:"davies7"_783725_786895
+%gls:	yes NEG PRON.3SF IM Miss
+%eng:	yes, not her, um Miss...
+*GAI:	student@0 ? %snd:"davies7"_786546_787220
+%gls:	student
+%eng:	student?
+*TRA:	ia@1 . %snd:"davies7"_787220_787881
+%gls:	yes
+%eng:	yes
+*TRA:	timod@1 mae@1 (we)di@1 mynd@1 wan@1 . %snd:"davies7"_787881_789066
+%gls:	know.2S be.3S.PRES PRT.PAST go.NONFIN now
+%eng:	you know, she's gone now
+*GAI:	um@0 +... %snd:"davies7"_789066_790076
+%gls:	IM
+%eng:	um...
+*TRA:	dw@1 (ddi)m@1 yn@1 gofio@1 be@1 (y)dy@1 enw@1 hi@1 . %snd:"davies7"_790076_792293
+%gls:	be.1S.PRES NEG PRT remember.NONFIN what be.3S.PRES name PRON.3SF
+%eng:	I don't remember her name
+*GAI:	na@1 dw@1 (ddi)m@1 cofio@1 . %snd:"davies7"_792293_793280
+%gls:	no be.1S.PRES NEG remember.NONFIN
+%eng:	no, I don't remember
+*GAI:	yr@1 un@1 efo@1 gwallt@1 melyn@1 ? %snd:"davies7"_793280_795265
+%gls:	DET one with hair yellow
+%eng:	the one with blonde hair?
+*TRA:	ia@1 . %snd:"davies7"_795265_795707
+%gls:	yes
+%eng:	yes
+*GAI:	oh@0 yeah@0 . %snd:"davies7"_795707_796148
+%gls:	IM yeah
+%eng:	oh yeah
+*TRA:	&=laugh um@0 <aeth@1 hi@1> [?] hiya@0 [?] ["] . %snd:"davies7"_796148_802220
+%gls:	IM go.3S.PAST PRON.3SF hiya
+%eng:	she went "hiya"
+%com:	it may be that Tracy's actually greeting a passer-by
+*TRA:	oedd@1 hi@1 # yn@1 deud@1 bod@1 hi@1 nabod@1 chwaer@1 # Glyn@0 . %snd:"davies7"_802220_808187
+%gls:	be.3S.IMP PRON.3SF PRT say.NONFIN be.NONFIN PRON.3SF know.NONFIN
+	sister Glyn
+%eng:	she said she knew Glyn's sister
+*GAI:	++ +< Glyn@0 . %snd:"davies7"_807630_808152
+%gls:	Glyn
+%eng:	Glyn
+*TRA:	ia@1 . %snd:"davies7"_808152_808443
+%gls:	yes
+%eng:	yes
+*GAI:	yeah@0 . %snd:"davies7"_808443_808942
+%gls:	yeah
+%eng:	yeah
+*TRA:	Sylvia@0 neu@1 rywbeth@1 (y)dy@1 enw@1 hi@1 yeah@0 ? %snd:"davies7"_808942_810312
+%gls:	Sylvia or something be.3S.PRES name PRON.3SF yeah
+%eng:	her name's Sylvia or something, yeah?
+%com:	interference on radiomic
+*GAI:	ia@1 . %snd:"davies7"_810312_811183
+%gls:	yes
+%eng:	yes
+*TRA:	achos@1 mae@1 hi@1 byw@1 yn@1 Blaenau@0 hefyd@1 dydy@1 . %snd:"davies7"_811183_812611
+%gls:	because be.3S.PRES PRON.3SF live.NONFIN in Blaenau also
+	be.3S.PRES.NEG
+%eng:	because she lives in Blaenau too, doesn't she
+%com:	interference from radiomic
+*TRA:	oh@0 my@2 God@2 . %snd:"davies7"_812611_813235
+%gls:	IM my God
+%eng:	oh my God
+%com:	interference from radiomic
+*GAI:	oh@0 o_k@0 . %snd:"davies7"_813142_813653
+%gls:	IM o_k
+%eng:	oh ok
+*GAI:	be@1 ? %snd:"davies7"_813653_814141
+%gls:	what
+%eng:	what?
+@Comment:	phone vibrates %snd:"davies7"_814141_816300
+*TRA:	hello@0 [= addresses interlocutor on the phone] ? %snd:"davies7"_816300_817287
+%gls:	hello
+%eng:	hello?
+*GAI:	paid@1 â@1 roi@1 llaw@1 chdi@1 ar@1 mic@0 . %snd:"davies7"_817287_820050
+%gls:	desist.2S.IMPER with put.NONFIN hand PRON.2S on mic
+%eng:	don't put your hand on the mic
+*TRA:	<well@0 # dan@1 ni@1 mynd@1 i@1 fynd@1 mewn@1 (y)chydig@1> [=
+	addresses interlocutor on the phone] . %snd:"davies7"_820050_823893
+%gls:	well be.1PL.PRES PRON.1PL go.NONFIN to go.NONFIN in a_little
+%eng:	well, we're going to go in a little
+*TRA:	um@0 deud@1 (wr)thi@1 bod@1 fi@1 gael@1 pres@1 # so@0 +... %snd:"davies7"_823893_826215
+%gls:	IM say.2S.IMPER to.3SF be.NONFIN PRON.1S get.NONFIN money so
+%eng:	um, tell her I'm having money, so...
+@Comment:	interlocutor on phone speaking %snd:"davies7"_826215_828782
+*TRA:	do@1 ? %snd:"davies7"_828782_829374
+%gls:	yes
+%eng:	yes?
+@Comment:	interlocutor on phone speaking %snd:"davies7"_829374_830663
+*TRA:	o_k@0 . %snd:"davies7"_830663_831522
+%gls:	o_k
+%eng:	ok
+@Comment:	new interlocutor on phone %snd:"davies7"_831522_834065
+*TRA:	hiya@0 dw@1 i@1 yn@1 +//. %snd:"davies7"_834065_835597
+%gls:	hiya be.1S.PRES PRON.1S in
+%eng:	hiya, I'm in...
+*TRA:	<lle@1 ydan@1 ni@1> [= addresses Gail] ? %snd:"davies7"_835597_836305
+%gls:	where be.1PL.PRES PRON.1PL
+%eng:	where are we?
+*GAI:	er@0 lle@1 # Prifysgol_Bangor@1 . %snd:"davies7"_836305_838233
+%gls:	IM place Bangor_University
+%eng:	er, Bangor University's place
+*TRA:	<dw@1 i@1 yn@1 &pri [//] lle@1 prifysgol@1> [= addresses
+	interlocutor on phone] . %snd:"davies7"_838233_840949
+%gls:	be.1S.PRES PRON.1S in place university
+%eng:	I'm at the university's place
+*GAI:	++ Bangor@0 [=! laughs] &=laughs . %snd:"davies7"_840949_843167
+%gls:	Bangor
+%eng:	Bangor
+@Comment:	interlocuton on phone speaking %snd:"davies7"_843167_844107
+*TRA:	oh@0 ti@1 isio@1 fi@1 ddod@1 i@1 Mudiad_Ysgolion_Meithrin@0 wan@1
+	ta@1 ? %snd:"davies7"_844107_846104
+%gls:	IM PRON.2S want PRON.1S come.NONFIN to Mudiad_Ysgolion_Meithrin now
+	then
+%eng:	oh you want me to come to Mudiad Ysgolion Meithrin [Association
+	of Nursery Schools] now then?
+@Comment:	interlocutor on phone speaking %snd:"davies7"_846104_847174
+*TRA:	o_k@0 . %snd:"davies7"_847174_847638
+%gls:	o_k
+%eng:	ok
+@Comment:	interlocutor on phone speaking %snd:"davies7"_847638_848845
+*TRA:	ta_ra@0 . %snd:"davies7"_848845_849426
+%gls:	ta_ra
+%eng:	ta-ra
+*GAI:	xxx pryd@1 +/? %snd:"davies7"_849426_851040
+%gls:	xxx when
+%eng:	[...] when
+*TRA:	oh@0 mam@0 mam@0 ? %snd:"davies7"_850285_851295
+%gls:	IM mum mum
+%eng:	oh, mum, mum?
+*TRA:	mam@0 ? %snd:"davies7"_851295_852050
+%gls:	mum
+%eng:	mum?
+*TRA:	(y)dy@1 o@1 (y)n@1 o_k@0 os@1 fydda@1 i@1 ryw@1 bum@1 munud@1 ? %snd:"davies7"_852050_853489
+%gls:	be.3S.PRES PRON.3SM PRT o_k if be.1S.FUT PRON.1S some five minute
+%eng:	is it ok if I'll be about five minutes
+@Comment:	interlocutor on phone speaking %snd:"davies7"_853489_855451
+*TRA:	os@1 fydda@1 i@1 ryw@1 bum@1 munud@1 . %snd:"davies7"_855451_856740
+%gls:	if be.1S.FUT PRON.1S some five minute
+%eng:	if I'll be about five minutes
+@Comment:	interlocutor on phone speaking %snd:"davies7"_856740_859191
+*TRA:	<os@1 fydda@1 i@1 ryw@1 bum@1 munud@1> [% said slowly and
+	emphatically] . %snd:"davies7"_859191_860817
+%gls:	if be.1S.FUT PRON.1S some five minute
+%eng:	if I'll be a bout five minutes
+@Comment:	interlocutor on phone speaking %snd:"davies7"_860817_863800
+*TRA:	na@1 [?] xx . %snd:"davies7"_863800_864474
+%gls:	no xx
+%eng:	no [...]
+@Comment:	interlocutor on phone speaking %snd:"davies7"_864474_865786
+*TRA:	pum@1 munud@1 fydda@1 i@1 o_k@0 ? %snd:"davies7"_865786_866772
+%gls:	five minute be.1S.FUT PRON.1S o_k
+%eng:	I'll be five minutes, ok?
+*TRA:	ta_ra@0 . %snd:"davies7"_866772_868456
+%gls:	ta_ra
+%eng:	ta-ra
+*GAI:	&=laugh xxx. %snd:"davies7"_868456_873390
+*TRA:	ia@1 . %snd:"davies7"_873390_879381
+%gls:	yes
+%eng:	yes
+*GAI:	yeah@0 ti@1 (we)di@1 wneud@1 unawd@1 chdi@1 eto@1 ? %snd:"davies7"_879381_881180
+%gls:	yeah PRON.2S PRT.PAST do.NONFIN solo PRON.2S yet
+%eng:	yeah, have you done your solo yet?
+*TRA:	na@1 fory@1 mae@1 o@1 . %snd:"davies7"_881180_882167
+%gls:	no tomorrow be.3S.PRES PRON.3SM
+%eng:	no, it's tomorrow
+*GAI:	fory@1 ? %snd:"davies7"_882167_883084
+%gls:	tomorrow
+%eng:	tomorrow?
+*GAI:	faint@1 o@1 gloch@1 ? %snd:"davies7"_883084_884118
+%gls:	how_much of clock
+%eng:	what time?
+*TRA:	dw@1 (ddi)m@1 yn@1 gwybod@1 . %snd:"davies7"_884118_885536
+%gls:	be.1S.PRES NEG PRT know.NONFIN
+%eng:	I don't know
+*TRA:	oh@0 tyrd@1 efo@1 fi@1 # i@1 [//] at@1 Mudiad_Ysgolion_Meithrin@0
+	o_k@0 . %snd:"davies7"_885536_889704
+%gls:	IM come.2S.IMPER with PRON.1S to to Mudiad_Ysgolion_Meithrin o_k
+%eng:	oh come with me to Mudiad Ysgolion Meithrin, ok
+*GAI:	mewn@1 pum@1 munud@1 iawn@1 fine@0 . %snd:"davies7"_889704_890934
+%gls:	in five minutes right fine
+%eng:	in five minutes, alright, fine
+*GAI:	ond@1 er@0 # o'n@1 i@1 meddwl@1 bod@1 y@1 rei@1 ifanc@1 yn@1
+	dechrau@1 wsnos@1 # fel@1 arfer@1 ## fath@1 â@1 +... %snd:"davies7"_890934_897658
+%gls:	but IM be.1S.IMP PRON.1S think.NONFIN be.NONFIN DET some young in
+	start week like habit kind with
+%eng:	but er, I thought the young ones were at the beginning of the week
+	usually, like...
+*TRA:	ia@1 dw@1 gwybod@1 . %snd:"davies7"_897691_899189
+%gls:	yes be.1S.PRES know.NONFIN
+%eng:	yes, I know
+*TRA:	ond@1 # dw@1 (ddi)m@1 (gwy)bod@1 . %snd:"davies7"_899189_900466
+%gls:	but be.1S.PRES NEG know.NONFIN
+%eng:	but I don't know
+*GAI:	mmm@0 # xx . %snd:"davies7"_900466_902672
+%gls:	IM xx
+%eng:	mm [...]
+*TRA:	um@0 wna@1 i@1 ddeud@1 (wr)tha@1 chdi@1 . %snd:"davies7"_902395_903254
+%gls:	IM do.1S.NONPAST PRON.1S say.NONFIN to.2S PRON.2S
+%eng:	um, I'll tell you
+*TRA:	achos@1 # dw@1 i@1 (y)n@1 gweld@1 xx +//. %snd:"davies7"_903254_904601
+%gls:	because be.1S.PRES PRON.1S PRT see.NONFIN xx
+%eng:	because I'm seeing xx...
+*TRA:	achos@1 dw@1 (ddi)m@1 yn@1 gwybod@1 xx pa@1 bryd@1 mae@1 o@1 [?] . %snd:"davies7"_904601_906017
+%gls:	because be.1S.PRES NEG PRT know.NONFIN xx which time be.3S.PRES
+	PRON.3SM
+%eng:	because I don't know [...] when it is
+*TRA:	mae@1 just@0 [?] &ru [/] rywle@1 [//] er@0 rywbryd@1 fory@1 . %snd:"davies7"_906017_907608
+%gls:	be.3S.PRES just somewhere IM sometime tomorrow
+%eng:	it's just somewhere...er, sometime tomorrow
+*TRA:	yn@1 pagoda@0 mae@1 o@1 . %snd:"davies7"_907608_908432
+%gls:	in pagoda be.3S.PRES PRON.3SM
+%eng:	it's in the pagoda
+*GAI:	yn@1 pagoda@0 iawn@1 . %snd:"davies7"_908432_909303
+%gls:	in pagoda right
+%eng:	in pagoda, alright
+*GAI:	ddo@1 i@1 weld@1 chdi@1 os@1 dw@1 gallu@1 . %snd:"davies7"_909303_910719
+%gls:	come.1S.NONPAST PRON.1S see.NONFIN PRON.2S if be.1S.PRES can.NONFIN
+%eng:	I'll come see you if I can
+*TRA:	you@2 better@2 be@2 there@2 . %snd:"davies7"_910336_911207
+%gls:	you better be there
+%eng:	you better be there
+*GAI:	<oedd@1 o@1 (y)n@1 y@1 cyfarfod@1> [?] xxx # E_Bay@0 [?] . %snd:"davies7"_911207_915003
+%gls:	be.3S.IMP PRON.3SM in DET meeting xxx E_Bay
+%eng:	he was at the meeting [...] e-bay
+*TRA:	o:h@0 yeah@0 ! %snd:"davies7"_915003_916884
+%gls:	IM yeah
+%eng:	oh yeah!
+*GAI:	os@1 dan@1 ni@1 gorfod@1 wneud@1 fath@1 â@1 interview@2 thing@2
+	de@1 gei@1 di@1 wneud@1 o@1 . %snd:"davies7"_916884_923351
+%gls:	if be.1PL.PRES PRON.1PL must.NONFIN do.NONFIN kind with interview
+	thing TAG get.2S.NONPAST PRON.2S do.NONFIN PRON.3SM
+%eng:	if we have to do, like, an interview thing, right, you can do it
+*TRA:	pam@1 ? %snd:"davies7"_923351_924372
+%gls:	why
+%eng:	why?
+*GAI:	achos@1 # dw@1 (ddi)m@1 isio@1 . %snd:"davies7"_924372_926613
+%gls:	because be.1S.PRES NEG want
+%eng:	because I don't want to
+*GAI:	neu@1 na@1 actually@2 geith@1 Martha@0 wneud@1 o@1 . %snd:"davies7"_926613_930677
+%gls:	or no actually get.3S.NONPAST Martha do.NONFIN PRON.3SM
+%eng:	or no, actually, Martha can do it
+*TRA:	ceith@1 . %snd:"davies7"_930677_931538
+%gls:	get.3S.NONPAST
+%eng:	yes
+*GAI:	mae@1 siarad@1 yn@1 well@1 . %snd:"davies7"_931538_932733
+%gls:	be.3S.PRES speak.NONFIN PRT better
+%eng:	she talks better
+*TRA:	&s dan@1 ni@1 dwy@1 (we)di@1 siarad@1 <yn@1 barod@1> [?] do@1 .
+%gls:	be.1PL.PRES PRON.1PL two.F PRT.PAST speak.NONFIN PRT ready yes
+%eng:	we've spoken already, haven't we
+*GAI:	be@1 ? %snd:"davies7"_934510_934858
+%gls:	what
+%eng:	what?
+*TRA:	dan@1 ni@1 (ei)n@1 dwy@1 (we)di@1 siarad@1 yn@1 barod@1 do@1 . %snd:"davies7"_934858_936750
+%gls:	be.1PL.PRES PRON.1PL poss.1PL two.F PRT.PAST speak.NONFIN PRT ready
+	yes
+%eng:	we've spoken already, haven't we
+*GAI:	oh@0 yndan@1 . %snd:"davies7"_936414_937110
+%gls:	IM be.1PL.PRES
+%eng:	oh yes
+*GAI:	ia@1 . %snd:"davies7"_937110_938016
+%gls:	yes
+%eng:	yes
+*GAI:	pwy@1 oedd@1 ar@1 phone@0 wan@1 ? %snd:"davies7"_938016_944308
+%gls:	who be.3S.IMP on phone now
+%eng:	who was on the phone now?
+*GAI:	mam@0 chdi@1 ? %snd:"davies7"_944308_944854
+%gls:	mum PRON.2S
+%eng:	your mum?
+*TRA:	&=cough well@0 oedd@1 [=? wnaeth@1] Adam@0 ffonio@1 fi@1 . %snd:"davies7"_944854_947327
+%gls:	well be.3S.IMP Adam phone.NONFIN PRON.1S
+%eng:	well, Adam phoned me
+*TRA:	ond@1 oedd@1 Adam@0 # wrth@1 ymyl@1 mam@0 . %snd:"davies7"_947327_948836
+%gls:	but be.3S.IMP Adam by side mum
+%eng:	but Adam was next to mum
+*GAI:	oh@0 right@0 . %snd:"davies7"_948836_950090
+%gls:	IM right
+%eng:	oh right
+*GAI:	yn@1 lle@1 oedden@1 nhw@1 ? %snd:"davies7"_950090_951553
+%gls:	in where be.3PL.IMP PRON.3PL
+%eng:	where were they?
+*TRA:	Mudiad_Ysgolion_Meithrin@0 . %snd:"davies7"_951553_953608
+%gls:	Mudiad_Ysgolion_Meithrin
+%eng:	Mudiad Ysgolion Meithrin
+*GAI:	oh@0 right@0 . %snd:"davies7"_953608_955164
+%gls:	IM right
+%eng:	oh right
+*GAI:	oh@0 yeah@0 mae@1 Sheila@0 yn@1 gweithio@1 fan@1 (y)na@1
+	(y)ndy@1 so@0 +... %snd:"davies7"_955164_957393
+%gls:	IM yeah be.3S.PRES Sheila PRT work.NONFIN place there be.3S.PRES so
+%eng:	oh yeah, Sheila works there, doesn't she, so...
+*TRA:	yndy@1 ? %snd:"davies7"_957393_958020
+%gls:	be.3S.PRES
+%eng:	does she?
+*TRA:	pwy@1 Sheila@0 ? %snd:"davies7"_958020_959007
+%gls:	what Sheila
+%eng:	what Sheila?
+*GAI:	mam@0 Adam@0 [?] . %snd:"davies7"_959007_960088
+%gls:	mum Adam
+%eng:	Adam's mum
+*TRA:	serious@2 +!? %snd:"davies7"_960088_961075
+%gls:	serious
+%eng:	serious!?
+*GAI:	oh@0 neu@1 [?] mae@1 (ry)wbeth@1 xx (e)fo@1 ysgolion@1 meithrin@1 xx
+	. %snd:"davies7"_961075_962724
+%gls:	IM or be.3S.PRES something xx with schools nurture.NONFIN xx
+%eng:	oh or she's something [...] with nursery schools [...]
+*TRA:	o'n@1 i@1 (ddi)m@1 yn@1 gwybod@1 hynna@1 . %snd:"davies7"_962724_963664
+%gls:	be.1S.IMP PRON.1S NEG PRT know.NONFIN that
+%eng:	I didn't know that
+*GAI:	na@1 achos@1 [?] <oedd@1 hi@1> [?] [/] oedd@1 hi@1 (y)n@1 dysgu@1 #
+	ti@1 gwybod@1 fath@1 â@1 # Rhian@0 . %snd:"davies7"_963664_966694
+%gls:	no because be.3S.IMP PRON.3SF be.3S.IMP PRON.3SF PRT teach.NONFIN
+	PRON.2S know.NONFIN kind with Rhian
+%eng:	no because she was...she was teaching, you know, like, Rhian
+*TRA:	xx . %snd:"davies7"_966694_968621
+*GAI:	Sheila@0 yn@1 wneud@1 (y)r@1 un@1 gwaith@1 # fath@1 â@1
+	textiles@2 a@1 +/. %snd:"davies7"_968621_972987
+%gls:	Sheila PRT do.NONFIN DET one work kind with textiles and
+%eng:	Sheila does the same work, like textiles and...
+*TRA:	oh@0 . %snd:"davies7"_972987_974183
+%gls:	IM
+%eng:	oh
+*GAI:	+, cwcio@1 a@1 stuff@0 &=laugh . %snd:"davies7"_974183_977190
+%gls:	cook.NONFIN and stuff
+%eng:	cooking and stuff
+*TRA:	yeah@0 . %snd:"davies7"_977190_978711
+%gls:	yeah
+%eng:	yeah
+*GAI:	yeah@0 wedyn@1 <dw@1 (ddi)m@1 gwybod@1> [?] . %snd:"davies7"_978711_980464
+%gls:	yeah then be.1S.PRES NEG know.NONFIN
+%eng:	yeah then, I don't know
+*GAI:	be@1 ? %snd:"davies7"_980464_981903
+%gls:	what
+%eng:	what?
+*TRA:	um@0 ## xx . %snd:"davies7"_981903_986930
+%gls:	IM xx
+%eng:	um, [...]
+*TRA:	ti@1 [?] isio@1 biscuit@2 arall@1 ? %snd:"davies7"_986930_990193
+%gls:	PRON.2S want biscuit other
+%eng:	you want another biscuit?
+*GAI:	ti@1 isio@1 un@1 ? %snd:"davies7"_990193_991168
+%gls:	PRON.2S want one
+%eng:	you want one?
+*GAI:	pa@1 un@1 ti@1 isio@1 ? %snd:"davies7"_991168_992062
+%gls:	which one PRON.2S want
+%eng:	which one do you want?
+*TRA:	yr@1 un@1 ginger@2 . %snd:"davies7"_992062_993631
+%gls:	DET one ginger
+%eng:	the ginger one
+*GAI:	sinsir@1 ? %snd:"davies7"_993631_994608
+%gls:	ginger
+%eng:	ginger?
+*GAI:	yey@0 . %snd:"davies7"_994608_995314
+%gls:	yey
+%eng:	yey
+*GAI:	be@1 &=laugh ? %snd:"davies7"_995314_997346
+%gls:	what
+%eng:	what?
+*GAI:	mae@1 hyn@1 yn@1 rhyfedd@1 . %snd:"davies7"_997346_1000237
+%gls:	be.3S.PRES this PRT strange
+%eng:	this is strange
+*TRA:	+< yeah@0 [?] . %snd:"davies7"_999424_1000167
+%gls:	yeah
+%eng:	yeah
+*GAI:	na@1 (ba)swn@1 i@1 (y)n@1 gallu@1 siarad@1 am@1 oes@1 efo@1 chdi@1
+	fel@1 arfer@1 de@1 . %snd:"davies7"_1000167_1003197
+%gls:	no be.1S.CONDIT PRON.1S PRT can.NONFIN speak.NONFIN for age with
+	PRON.2S like habit TAG
+%eng:	no, I'd be able to speak to you for ages usually, you know
+*TRA:	&=laugh . %snd:"davies7"_1003093_1004068
+*GAI:	oh@0 ti@1 gwybod@1 pan@1 mae@1 gyn@1 ti@1 rywun@1 gwrando@1
+	fath@1 â@1 +/. %snd:"davies7"_1004068_1006053
+%gls:	IM PRON.2S know.NONFIN when be.3S.PRES with PRON.2S somebody PRT
+	listen.NONFIN kind with
+%eng:	oh you know when you've got somebody listening, like...
+*TRA:	xx dallt@1 xx dallt@1 . %snd:"davies7"_1006053_1007389
+%gls:	xx understand.NONFIN xxx understand.NONFIN
+%eng:	[...] understand, [...] understand
+*GAI:	ti@1 (we)di@1 cael@1 # prawf@1 Cymraeg@1 fath@1 â@1 llafar@1 eto@1 ?
+	%snd:"davies7"_1007389_1009954
+%gls:	PRON.2S PRT.PAST get.NONFIN test Welsh kind with oral yet
+%eng:	have you had a Welsh test, like, oral, yet?
+*TRA:	do@1 . %snd:"davies7"_1009954_1010221
+%gls:	yes
+%eng:	yes
+*GAI:	o'n@1 i@1 just@0 yn@1 [?] mynd@1 off@0 xx de@1 . %snd:"davies7"_1010221_1013403
+%gls:	be.1S.IMP PRON.1S just PRT go.NONFIN off xx TAG
+%eng:	I just went off [...] you know
+*GAI:	gwrando@1 ar@1 tâp@1 xx de@1 # oedden@1 ni@1 fod@1 yn@1 siarad@1
+	am@1 xx lyfr@1 yma@1 . %snd:"davies7"_1013403_1017930
+%gls:	listen.NONFIN on tape xx TAG be.1PL.IMP PRON.1PL be.NONFIN PRT
+	speak.NONFIN about xx book here
+%eng:	listening to the [...] tape, right, we were supposed to talk about
+	this book
+*GAI:	a@1 wnaeth@1 ni@1 dreulio@1 fath@1 â@1 # xx wyth_deg@1 cant@1 o@1
+	(y)r@1 amser@1 yn@1 siarad@1 am@1 Pokemon@0 de@1 . %snd:"davies7"_1017930_1022273
+%gls:	and do.1PL.NONPAST PRON.1PL spend.NONFIN kind with xx eighty hundred
+	of DET time PRT speak.NONFIN about Pokemon TAG
+%eng:	and we spent [...] eighty per cent of the time talking about
+	Pokemon, right
+*GAI:	xxx fath@1 â@1 craze@2 xxx . %snd:"davies7"_1022273_1024548
+%gls:	xxx kind with craze xxx
+%eng:	[...] like, craze [...]
+*GAI:	oh@0 # mor@1 funny@2 . %snd:"davies7"_1024548_1026800
+%gls:	IM so funny
+%eng:	oh, so funny
+*TRA:	yn@1 be@1 wan@1 ? %snd:"davies7"_1026800_1027636
+%gls:	in what now
+%eng:	in what now?
+*TRA:	yn@1 +..? %snd:"davies7"_1027636_1028356
+%gls:	in
+%eng:	in..?
+*GAI:	yn@1 xx . %snd:"davies7"_1028356_1029389
+%gls:	in xx
+%eng:	in [...]
+*TRA:	oh@0 . %snd:"davies7"_1029389_1030434
+%gls:	IM
+%eng:	oh
+*GAI:	ac@1 xx T_G_A_U@1 de@1 # ti@1 (ddi)m@1 yn@1 cael@1 deud@1 un@1
+	gair@1 o@1 Saesneg@1 . %snd:"davies7"_1030434_1036205
+%gls:	and [...] G_C_S_E TAG PRON.2S NEG PRT get.NONFIN say.NONFIN one work
+	of English
+%eng:	and [...] GCSEs right, you're not allowed to say one word of English
+*TRA:	dw@1 (y)n@1 gwybod@1 . %snd:"davies7"_1036205_1037087
+%gls:	be.1S.PRES PRT know.NONFIN
+%eng:	I know
+*GAI:	xx mor@1 anodd@1 . %snd:"davies7"_1036715_1037853
+%gls:	xx so difficult
+%eng:	[...] so difficult
+*GAI:	achos@1 dw@1 i@1 fath@1 â@1 <really@2 really@2 really@2> ["] trwy@1
+	(y)r@1 amser@1 de@1 . %snd:"davies7"_1037853_1040384
+%gls:	because be.1S.PRES PRON.1S kind with really really really through
+	DET time TAG
+%eng:	because I'm like "really, really, really" all the time, right
+*GAI:	ond@1 ti@1 (ddi)m@1 yn@1 cael@1 wneud@1 [?] o@1 . %snd:"davies7"_1040384_1042520
+%gls:	but PRON.2S NEG PRT get.NONFIN do.NONFIN PRON.3SM
+%eng:	but you're not allowed to do it
+*GAI:	ti@1 gorod@1 deud@1 <yn@1 hynod@1 # anodd@1> ["] <neu@1 (ry)wbeth@1
+	de@1> [=! laughs] . %snd:"davies7"_1042520_1046770
+%gls:	PRON.2S must.NONFIN say.NONFIN PRT extraordinary difficult or
+	something TAG
+%eng:	you have ot say "extremely difficult" or something, you know
+*TRA:	+< &=laugh . %snd:"davies7"_1045028_1045957
+*GAI:	xx annaturiol@1 . %snd:"davies7"_1046770_1049103
+%gls:	xx unnatural
+%eng:	[...] unnatural
+*GAI:	ond@1 (dy)na@1 fo@1 . %snd:"davies7"_1049080_1050996
+%gls:	but there PRON.3SM
+%eng:	but that's it
+*TRA:	<ond@1 timod@1> [?] fath@1 â@1 # mae@1 xx fath@1 â@1 geiriau@1
+	Saesneg@1 yn@1 slipio@1 i_fewn@1 ti@1 dallt@1 be@1 feddwl@1 . %snd:"davies7"_1050996_1058229
+%gls:	but know.2S kind with be.3S.PRES xx kind with words English PRT
+	slip.NONFIN in PRON.2S understand.NONFIN what think.NONFIN
+%eng:	but you know, like, xx English words do slip in, you know what I mean
+*TRA:	so@0 fath@1 â@1 +/. %snd:"davies7"_1058229_1059332
+%gls:	so kind with
+%eng:	so, like...
+*GAI:	<fel@1 (y)ma@1> [?] ia@1 . %snd:"davies7"_1058925_1059831
+%gls:	like here yes
+%eng:	like this, yes
+*TRA:	xx fath@1 â@1 um@0 # um@0 +... %snd:"davies7"_1059831_1067459
+%gls:	xx kind with IM IM
+%eng:	[...] like, um, um...
+*GAI:	xxx gair@1 Saesneg@1 efo@1 io@0 ["] # neu@1 (ry)wbeth@1 ar@1
+	ddiwedd@1 o@1 . %snd:"davies7"_1067459_1072149
+%gls:	xxx word English with io or something on end PRON.3SM
+%eng:	[...] an English word with "io" or something at the end
+*TRA:	fath@1 â@1 be@1 ? %snd:"davies7"_1072149_1073426
+%gls:	kind with what
+%eng:	like what?
+*GAI:	<dw@1 (ddi)m@1 yn@1 gwybod@1> [?] . %snd:"davies7"_1073426_1074645
+%gls:	be.1S.PRES NEG PRT know.NONFIN
+%eng:	I don't know
+*TRA:	pethau@1 fath@1 â@1 excited@2 ["] dw@1 i@1 (y)n@1 iwsio@1 . %snd:"davies7"_1074645_1080740
+%gls:	things kind with excited be.1S.PRES PRON.1S PRT use.NONFIN
+%eng:	I use things like "excited"
+*GAI:	fath@1 â@1 # excited@2 ["] yeah@0 . %snd:"davies7"_1080740_1083492
+%gls:	kind with excited yeah
+%eng:	like, "excited" yeah
+*TRA:	+< <ti@1 (ddi)m@1 yn@1> [/] <ti@1 (ddi)m@1 yn@1> [/] ti@1 (ddi)m@1
+	yn@1 deud@1 xx <teimlo@1 (y)n@1 gyffrous@1> ["] nag@1 wyt@1 . %snd:"davies7"_1082621_1084862
+%gls:	PRON.2S NEG PRT PRON.2S NEG PRT PRON.2S NEG PRT say.NONFIN xx
+	feel.NONFIN excited NEG be.2S.PRES
+%eng:	you don't...you don't...you don't say "teimlo'n gyffrous" do you
+*GAI:	<teimlo@1 (y)n@1 gyffrous@1> ["] [=! laughs] na@1 [=! laughs]
+	&=laugh . %snd:"davies7"_1084862_1088763
+%gls:	feel.NONFIN PRT excited no
+%eng:	"teimlo'n gyffrous" no
+*TRA:	well@0 na@1 ti@1 (y)n@1 gallu@1 . %snd:"davies7"_1087660_1088751
+%gls:	well no PRON.2S PRT can.NONFIN
+%eng:	well, no you can
+*TRA:	dw@1 (ddi)m@1 yn@1 gweld@1 dim_byd@1 yn@1 wrong@0 efo@1 hwnna@1 . %snd:"davies7"_1088751_1089877
+%gls:	be.1S.PRES NEG PRT see.NONFIN nothing PRT wrong with that
+%eng:	I don't see anything wrong with that
+*TRA:	just@0 fi@1 # sy@1 <ddim@1 yn@1 deud@1 hynna@1> [?] . %snd:"davies7"_1089877_1091967
+%gls:	just PRON.1S be.PRES.REL NEG PRT say.NONFIN that
+%eng:	it's just me that doesn't say that.
+*GAI:	ia@1 fath@1 â@1 # o'ch@1 chdi@1 ddeud@1 ddoe@1 efo@1 dad@0
+	chdi@1 de@1 [=! laughs] +"/. %snd:"davies7"_1091967_1096298
+%gls:	yes kind with be.2S.IMP PRON.2S say.NONFIN yesterday with dad
+	PRON.2S TAG
+%eng:	yes, like, you said yesterday with your dad, right
+*GAI:	+" <mae@1 hwnna@1 (y)n@1 cool@0> [=! laughs] . %snd:"davies7"_1096298_1098353
+%gls:	be.3S.PRES that PRT cool
+%eng:	"that's cool"
+*GAI:	de@1 . %snd:"davies7"_1098353_1098620
+%gls:	TAG
+%eng:	right
+*TRA:	oh@0 yeah@0 xxx +/. %snd:"davies7"_1098527_1099769
+%gls:	IM yeah xxx
+%eng:	oh yeah [...] ...
+*GAI:	+< (ba)sa@1 chdi@1 byth@1 deud@1 +"/. %snd:"davies7"_1099073_1099932
+%gls:	be.2S.CONDIT PRON.2S never say.NONFIN
+%eng:	you'd never say:
+*GAI:	+" <mae@1 dy@1 drowsus@1 yn@1 ffasiynol@1> [=! laughs] . %snd:"davies7"_1099932_1101766
+%gls:	be.3S.PRES poss.2S trousers PRT fashionable
+%eng:	your trousers are fashionable
+*TRA:	+< &=laugh . %snd:"davies7"_1101116_1102289
+*GAI:	+< de@1 . %snd:"davies7"_1101766_1102021
+%gls:	TAG
+%eng:	right
+*GAI:	&=laugh oh@0 mae@1 mor@1 funny@2 dad@0 ti@1 [=? chdi@1] . %snd:"davies7"_1102289_1104193
+%gls:	IM be.3S.PRES so funny dad PRON.2S
+%eng:	oh he's so funny, your dad
+*GAI:	xx rhyfedd@1 though@2 . %snd:"davies7"_1104193_1110316
+%gls:	xx strange though
+%eng:	[...] strange though
+*GAI:	pan@1 ti@1 (y)n@1 clywed@1 ffrindiau@1 chdi@1 gyd@1 yn@1 siarad@1
+	fath@1 â@1 Cymraeg@1 perffaith@1 +/. %snd:"davies7"_1110327_1113576
+%gls:	when PRON.2S PRT hear.NONFIN friends PRON.2S all PRT speak.NONFIN
+	kind with Welsh perfect
+%eng:	when you hear all your friends speaking, like, perfect Welsh
+*TRA:	well@0 +/. %snd:"davies7"_1113576_1114725
+%gls:	well
+%eng:	well...
+*GAI:	mewn@1 prawf@1 mae@1 fath@1 â@1 +... %snd:"davies7"_1114574_1115445
+%gls:	in test be.3S.PRES kind with
+%eng:	in a test, it's like...
+*TRA:	mmm@0 [?] . %snd:"davies7"_1115294_1115828
+%gls:	IM
+%eng:	mmm
+*GAI:	oh@0 na@1 ti@1 (e)fo@1 ffrindiau@1 xx Cymraeg@1 though@2 dwyt@1 . %snd:"davies7"_1115828_1117616
+%gls:	IM no PRON.2S with friends xx Welsh though be.2S.PRES.NEG
+%eng:	oh no you've got friends [...] though haven't you
+*TRA:	mmm@0 . %snd:"davies7"_1117616_1118394
+%gls:	IM
+%eng:	mm
+*GAI:	Delyth@0 a@1 (r)heina@1 . %snd:"davies7"_1118394_1119520
+%gls:	Delyth and those
+%eng:	Delyth and those
+*TRA:	mmm@0 . %snd:"davies7"_1119520_1120286
+%gls:	IM
+%eng:	mm
+*GAI:	ti@1 cofio@1 pan@1 <ddoth@1 hi@1 at@1 Rhodri_Morgan@0> [?] ? %snd:"davies7"_1120286_1121923
+%gls:	PRON.2S remember.NONFIN when come.3S.PAST PRON.3SF to Rhodri_Morgan
+%eng:	you remember when she came to Rhodri Morgan?
+*GAI:	oedda@1 chdi@1 (y)na@1 ? %snd:"davies7"_1121923_1122434
+%gls:	be.2S.IMP PRON.2S there
+%eng:	were you there?
+*TRA:	oh@0 yeah@0 [=! laughs] . %snd:"davies7"_1122121_1122841
+%gls:	IM yeah
+%eng:	oh yeah
+*GAI:	+" &=laugh excuse@2 me@2 pryd@1 [?] dan@1 ni@1 cael@1 darn@1
+	Cymraeg@1 ? %snd:"davies7"_1122841_1126057
+%gls:	excuse me when be.1PL.PRES PRON.1PL get.NONFIN piece Welsh
+%eng:	"excuse me, when are we getting the Welsh piece?"
+*GAI:	<oedd@1 o@1 (y)n@1 xx> [=! laughs] &=laugh . %snd:"davies7"_1126057_1129876
+%gls:	be.3S.IMP PRON.3SM PRT xx
+%eng:	it was [...]
+*TRA:	xx bod@1 hanner@1 awr@1 wan@1 ? %snd:"davies7"_1129876_1140372
+%gls:	xx be.NONFIN half hour now
+%eng:	[...] been half an hour now?
+*GAI:	(ddi)m@1 gwybod@1 . %snd:"davies7"_1140372_1141417
+%gls:	NEG know.NONFIN
+%eng:	don't know
+*TRA:	xx ofyn@1 . %snd:"davies7"_1141417_1142543
+%gls:	xx ask.NONFIN
+%eng:	[...] ask
+*GAI:	oh@0 mae@1 Alun@0 (we)di@1 cael@1 llwyfan@1 (e)fo@1 #
+	Richard_Burton@0 . %snd:"davies7"_1142055_1144493
+%gls:	IM be.3S.PRES Alun PRT.PAST get.NONFIN stage with Richard_Burton
+%eng:	oh, Alun's gotten the stage with Richard Burton
+%com:	i.e. he's gone through to the final round (on stage) of the Richard
+	Bruton competition
+*TRA:	Alan@0 ? %snd:"davies7"_1144493_1145608
+%gls:	Alan
+%eng:	Alan?
+*TRA:	oh@0 Alun@0 . %snd:"davies7"_1145608_1146780
+%gls:	IM Alun
+%eng:	oh Alun
+*GAI:	+< Alun@0 . %snd:"davies7"_1146304_1147082
+%gls:	Alun
+%eng:	Alun
+*GAI:	Alun@0 ac@1 Ifan@0 a@1 # Gwyn@1 a@1 +... %snd:"davies7"_1147082_1151053
+%gls:	Alun and Ifan and Gwyn and
+%eng:	Alun and Ifan and Gwyn and...
+*GAI:	ti@1 mynd@1 ? %snd:"davies7"_1151053_1153236
+%gls:	PRON.2S go.NONFIN
+%eng:	you going?
+*TRA:	faint@1 o@1 amser@1 (oe)dden@1 [?] ni@1 fod@1 am@1 ? %snd:"davies7"_1153236_1155674
+%gls:	how_much of time  be.1PL.IMP PRON.1PL be.NONFIN for
+%eng:	how much time were we supposed to be [?]
+*GAI:	dw@1 (ddi)m@1 gwybod@1 . %snd:"davies7"_1159379_1159785
+%gls:	be.1S.PRES NEG know.NONFIN
+%eng:	I don't know
+*GAI:	dan@1 ni@1 (ddi)m@1 (we)di@1 deud@1 dim_byd@1 naddo@1 [?] . %snd:"davies7"_1159785_1160770
+%gls:	be.1PL.PRES PRON.1PL NEG PRT.PAST say.NONFIN nothing no
+%eng:	we haven't said anything, have we
+*TRA:	+< dan@1 ni@1 (we)di@1 bod@1 hanner@1 awr@1 do@1 . %snd:"davies7"_1159797_1161246
+%gls:	be.1PL.PRES PRON.1PL PRT.PAST be.NONFIN half hour yes
+%eng:	we've been half an hour, haven't we
+*GAI:	dw@1 (ddi)m@1 gwybod@1 . %snd:"davies7"_1161246_1162222
+%gls:	be.1S.PRES NEG know.NONFIN
+%eng:	I don't know
+*GAI:	achos@1 aethon@1 ni@1 off@0 do@1 . %snd:"davies7"_1162222_1163301
+%gls:	because go.1PL.PAST PRON.1PL off yes
+%eng:	because we went off, didn't we
+*TRA:	do@1 dan@1 ni@1 wedi@1 bod@1 hanner@1 awr@1 . %snd:"davies7"_1163301_1164904
+%gls:	yes be.1PL.PRES PRON.1PL PRT.PAST be.NONFIN half hour
+%eng:	yes we have been half an hour
+*GAI:	ia@1 ond@1 # dw@1 (ddi)m@1 gwybod@1 . %snd:"davies7"_1164904_1166889
+%gls:	yes but be.1S.PRES NEG know.NONFIN
+%eng:	yes but I don't know
+*TRA:	do@1 # achos@1 # ugain@1 munud@1 i@1 # ar@1 phone@0 fi@1 #
+	wnaethon@1 ni@1 ddechrau@1 . %snd:"davies7"_1166889_1173925
+%gls:	yes because twenty minute to on phone PRON.1S do.1PL.PAST PRON.1PL
+	start.NONFIN
+%eng:	yes because we started at twenty to on my phone
+*TRA:	mae@1 ddeg@1 munud@1 wedi@1 wan@1 . %snd:"davies7"_1173925_1176548
+%gls:	be.3S.PRES ten minute past now
+%eng:	it's ten past now
+*TRA:	xx # xx . %snd:"davies7"_1176548_1184385
+*GAI:	be@1 ? %snd:"davies7"_1184385_1185790
+%gls:	what
+%eng:	what?
+*GAI:	oh@0 ti@1 gwybod@1 be@1 # dw@1 i@1 really@2 skint@0 de@1 . %snd:"davies7"_1185790_1190097
+%gls:	IM PRON.2S know.NONFIN what be.1S.PRES PRON.1S really skint TAG
+%eng:	oh you know what, I'm really skint, right
+*GAI:	achos@1 +... %snd:"davies7"_1190097_1190898
+%gls:	because
+%eng:	because...
+*TRA:	be@1 sorry@0 ? %snd:"davies7"_1190898_1192361
+%gls:	what sorry
+%eng:	what, sorry?
+*GAI:	ti@1 gwybod@1 o'n@1 i@1 (y)n@1 gweithio@1 (y)n@1 cafe@0 de@1 . %snd:"davies7"_1192361_1193882
+%gls:	PRON.2S know.NONFIN be.1S.IMP PRON.1S PRT work.NONFIN in cafe TAG
+%eng:	you know I was working at the cafe, right
+*TRA:	oh@0 yeah@0 . %snd:"davies7"_1193882_1194532
+%gls:	IM yeah
+%eng:	oh yeah
+*GAI:	ia@1 ges@1 i@1 (y)r@1 sack@0 . %snd:"davies7"_1194532_1196169
+%gls:	yes get.1S.NONPAST PRON.1S DET sack
+%eng:	yes, I got the sack
+*TRA:	pam@1 ? %snd:"davies7"_1196169_1197284
+%gls:	why
+%eng:	why?
+*GAI:	achos@1 bod@1 fi@1 (y)n@1 slow@0 . %snd:"davies7"_1197284_1199269
+%gls:	because be.NONFIN PRON.1S PRT slow
+%eng:	because I'm slow
+*TRA:	serious@2 ? %snd:"davies7"_1199269_1201614
+%gls:	serious
+%eng:	serious?
+*GAI:	ia@1 oedd@1 ddynes@1 fath@1 â@1 # oh@0 ["] . %snd:"davies7"_1201614_1204250
+%gls:	yes be.3S.IMP woman kind with IM
+%eng:	yes, the woman was like "oh"
+@End
