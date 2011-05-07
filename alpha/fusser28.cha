@@ -1,0 +1,1286 @@
+@UTF8
+@Font:	Win95:Arial Unicode MS:-13:0
+@Begin
+@Languages:	cy, en
+@Participants:	LLA Llawdden Adult, IFO Ifor Adult, MAD Madlen Adult, RES Researcher Adult
+@ID:	cy|siarad|LLA|21;|male|||Adult||
+@ID:	cy|siarad|IFO|30;|male|||Adult||
+@ID:	cy|siarad|MAD||female|||Adult||
+@Situation:	recording of speakers' activity at their workplace, a tile shop. The three speakers are colleagues
+@Comment:	LLA was born and brought up in north-west Wales where he is now living, after spending some years in south-west Wales
+@Comment:	IFO was born in north-west Wales and has lived there all his life
+@Date:	16-MAR-2006
+@Comment:	Researcher:	Marika Fusser, Bangor University
+@Coder:	Elen Robert, Bangor University
+@Time Duration:	00:20:12
+@Comment:	Filename: Fusser28.CHA; Soundfile: Fusser28.wav
+@Comment:	Language markers: @1 = Welsh, @2 = English, @0 = Undetermined, @21 = word with first morpheme(s) English, second morpheme(s) Welsh, @12 = word with first morpheme(s) Welsh, second morpheme(s) English
+@Comment:	Llawdden and Ifor are the main speakers. No information was collected for Madlen. She is only transcribed when in conversation  with one or both of the other speakers. She is usually heard speaking from afar, and so some of her utterances may have been lost.
+@Comment:	Radio can be heard in the background through much of the recording
+*IFO:	na@1 dan@1 ni@1 isio@1 um@0 # ffonio@1 pobl@1 xxx . %snd:"fusser28"_0_4923
+%gls:	no be.1PL.PRES PRON.1PL want IM phone.NONFIN people xxx
+%eng:	no, we want to phone people [...]
+*IFO:	wnaeth@1 Danny@0 ffonio@1 do@1 [?] meddai@1 chdi@1 do@1 # Danny_Edmunds@0 . %snd:"fusser28"_4923_7674
+%gls:	do.3S.PAST Danny phone.NONFIN yes say.3S.PAST PRON.2S yes Danny_Edmunds
+%eng:	Danny phoned, didn't he, you said, didn't he, Danny Edmunds
+*LLA:	do@1 er@0 &m Danny_Maelor@0 yeah@0 ? %snd:"fusser28"_7674_9520
+%gls:	yes IM Danny_Maelor yeah
+%eng:	yes, er, Danny Maelor, yeah?
+*IFO:	oh@0 wnaeth@1 o@1 ffonio@1 ? %snd:"fusser28"_9520_11738
+%gls:	IM do.3S.PAST PRON.3SM phone.NONFIN
+%eng:	oh, did he phone?
+*LLA:	Danny_Maelor@0 oedd@1 o@1 de@1 Madlen@0 ? %snd:"fusser28"_11738_13986
+%gls:	Danny_Maelor be.3S.IMP PRON.3SM TAG Madlen
+%eng:	it was Danny Maelor, wasn't it, Madlen?
+*MAD:	eh@0 ? %snd:"fusser28"_14002_14733
+%gls:	IM
+%eng:	eh?
+*LLA:	ffoniodd@1 [?] neithiwr@1 Danny_Maelor@0 . %snd:"fusser28"_14733_16324
+%gls:	phone.3S.PAST last_night Danny_Maelor
+%eng:	phoned last night, Danny Maelor
+*MAD:	ia@1 . %snd:"fusser28"_16324_18054
+%gls:	yes
+%eng:	yes
+*IFO:	+< efo@1 [?] be@1 ? %snd:"fusser28"_17636_18030
+%gls:	with what
+%eng:	what for?
+*IFO:	xxx . %snd:"fusser28"_18030_18878
+*LLA:	yeah@0 . %snd:"fusser28"_18773_19377
+%gls:	yeah
+%eng:	yeah
+*IFO:	Danny_Maelor@0 ? %snd:"fusser28"_19377_20410
+%gls:	Danny_Maelor
+%eng:	Danny Maelor?
+*LLA:	yeah@0 . %snd:"fusser28"_20341_20770
+%gls:	yeah
+%eng:	yeah
+*IFO:	dim@1 Danny_Edmunds@0 ? %snd:"fusser28"_20770_21722
+%gls:	NEG Danny_Edmunds
+%eng:	not Danny Edmunds?
+*MAD:	xxx . %snd:"fusser28"_21722_23812
+*IFO:	+< dim@1 [?] Danny@0 +/? %snd:"fusser28"_22872_23591
+%gls:	NEG Danny
+%eng:	not Danny..?
+*MAD:	<Maelor@0 ["] (y)dy@1 enw@1 (e)i@1> [?] dŷ@1 fo@1 de@1 . %snd:"fusser28"_23777_25646
+%gls:	Maelor be.3S.PRES name POSS.3SM house PRON.3SM TAG
+%eng:	Maelor is the name of his house, isn't it
+*IFO:	+< Danny_Edmunds@0 ? %snd:"fusser28"_23859_24776
+%gls:	Danny_Edmunds
+%eng:	Danny Edmunds?
+*IFO:	eh@0 ? %snd:"fusser28"_25646_26250
+%gls:	IM
+%eng:	eh?
+*MAD:	Maelor@0 ["] (y)dy@1 enw@1 (e)i@1 dŷ@1 fo@1 . %snd:"fusser28"_26146_27667
+%gls:	Maelor be.3S.PRES name POSS.3SM house PRON.3SM
+%eng:	Maelor is the name of his house
+*IFO:	oh@0 ia@1 Danny_Edmunds@0 ia@1 . %snd:"fusser28"_27667_29176
+%gls:	IM yes Danny_Edmunds yes
+%eng:	oh yes, Danny Edmunds, yes
+*LLA:	+< oh@0 . %snd:"fusser28"_27818_28247
+%gls:	IM
+%eng:	oh
+*IFO:	mae@1 xxx yna@1 . %snd:"fusser28"_29176_30221
+%gls:	be.3S.PRES xxx there
+%eng:	[...] is there
+*MAD:	lle@1 [?] ? %snd:"fusser28"_30093_30465
+%gls:	where
+%eng:	where?
+*LLA:	ah@0 yeah@0 (dy)na@1 chdi@1 . %snd:"fusser28"_30314_31475
+%gls:	IM yeah there PRON.2S
+%eng:	ah yeah, that's it
+*IFO:	a@1 Steffan@0 (y)dy@1 llall@1 de@1 . %snd:"fusser28"_31475_33100
+%gls:	and Steffan be.3S.PRES other TAG
+%eng:	and Steffan's the other one, isn't it
+*IFO:	mae@1 Steffan@0 yn@1 ffonio@1 heno@1 actually@2 . %snd:"fusser28"_33100_34540
+%gls:	be.3S.PRES Steffan PRT phone.NONFIN tonight actually
+%eng:	Steffan's phoning tonight actually
+*IFO:	(dy)dy@1 o@1 (ddi)m@1 isio@1 llawer@1 . %snd:"fusser28"_34540_37113
+%gls:	be.3S.PRES.NEG PRON.3SM NEG want much
+%eng:	he doesn't want much
+*IFO:	five@2 square@2 metres@2 (ryw)beth@1 fel@1 (yn)a@1 . %snd:"fusser28"_37113_38534
+%gls:	five square metres something thus
+%eng:	five square metres something like that
+*LLA:	xxx . %snd:"fusser28"_38534_41123
+*IFO:	+< xxx . %snd:"fusser28"_40380_41030
+*IFO:	dw@1 isio@1 ffonio@1 hwn@1 actually@2 . %snd:"fusser28"_41030_42620
+%gls:	be.1S.PRES want phone.NONFIN this actually
+%eng:	I need to phone this guy actually
+@Comment:	Ifor dials a telephone number
+*LLA:	&s . %snd:"fusser28"_42620_45720
+*IFO:	xxx . %snd:"fusser28"_45720_49493
+*LLA:	<beth@1 yw@1 enw@1 o@1> [?] ? %snd:"fusser28"_49493_50910
+%gls:	what be.3S.PRES name PRON.3SM
+%eng:	what's his name?
+*LLA:	oes@1 [?] . %snd:"fusser28"_50910_53092
+%gls:	be.3S.PRES
+%eng:	yes
+*LLA:	xxx . %snd:"fusser28"_53092_54544
+@Comment:	Ifor waits for phone to be picked up then starts talking to the person on the other end. Llawdden is quiet during this conversation and seems to be rummaging through some things
+*IFO:	good@2 evening@2 . %snd:"fusser28"_60616_61556
+*IFO:	er@0 it's@2 Ifor@0 here@2 from@2 xxx up@2 in@2 north@2 Wales@2 . %snd:"fusser28"_61556_64644
+%com:	company name bleeped out
+*IFO:	<oh@0 right@0> [=! laughs] . %snd:"fusser28"_64644_67384
+*IFO:	I@2 left@2 a@2 message@2 on@2 your@2 answerphone@2 this@2 morning@2 . %snd:"fusser28"_67384_69416
+*IFO:	yeah@0 . %snd:"fusser28"_69416_74966
+*IFO:	yeah@0 no@2 problem@0 . %snd:"fusser28"_74966_79087
+*IFO:	I@2 can@2 get@2 some@2 samples@0 to@2 you@2 . %snd:"fusser28"_79087_80457
+*IFO:	sorry@0 ? %snd:"fusser28"_80457_83313
+*IFO:	Sahara@0 yeah@0 . %snd:"fusser28"_83313_89223
+%com:	writes down order
+*IFO:	Silver_Sunset@0 yeah@0 . %snd:"fusser28"_89223_94389
+%com:	seems to be still writing down the order
+*IFO:	Tropical_Haze@0 . %snd:"fusser28"_94389_97965
+*IFO:	o_k@0 . %snd:"fusser28"_97965_100426
+*IFO:	they'll@2 be@2 # either@2 four@2 or@2 six@2 inch@2 samples@0 . %snd:"fusser28"_100426_103410
+*IFO:	o_k@0 . %snd:"fusser28"_103410_105384
+*IFO:	oh@0 yeah@0 . %snd:"fusser28"_105384_109145
+*IFO:	i(n)@2 [/] in@2 the@2 cubicle@0 ? %snd:"fusser28"_109145_113332
+*IFO:	xxx +/. %snd:"fusser28"_113332_114655
+*IFO:	yeah@0 very@0 tasteful@2 . %snd:"fusser28"_114655_117500
+*IFO:	that's@2 nice@0 that@2 yeah@0 . %snd:"fusser28"_117500_118591
+*IFO:	the@2 only@2 thing@2 I@2 will@2 express@2 yeah@0 with@2 a@2 natural@2 product@2 like@2 slate@2 like@2 this@2 +/. %snd:"fusser28"_118591_123184
+*IFO:	it@2 [/] yeah@0 it's@2 considerable@2 . %snd:"fusser28"_123208_125151
+*IFO:	um@0 I've@2 had@2 a@2 few@2 customers@0 who've@2 purchased@2 the@2 Silver_Sunset@0 . %snd:"fusser28"_125151_128495
+*IFO:	and@2 they've@2 # actually@2 seen@2 it@2 on@2 er@0 # our@2 website@2 # and@2 on@2 [?] a@2 sample@0 and@2 said@2 +"/. %snd:"fusser28"_128495_133111
+*IFO:	+" yeah@0 I'll@2 have@2 some@2 of@2 that@2 . %snd:"fusser28"_133111_134462
+*IFO:	but@2 &θ [/] the@2 [/] <the@2 variation@2> [=! laughs] is@2 very@0 very@0 considerable@2 . %snd:"fusser28"_134462_138243
+*IFO:	yeah@0 # that@2 [/] that's@2 the@2 beauty@2 of@2 it@2 really@2 anyway@2 . %snd:"fusser28"_138224_141950
+*IFO:	that's@2 the@2 beauty@2 of@2 natural@2 stone@0 # yeah@0 . %snd:"fusser28"_141950_145283
+*IFO:	o_k@0 so@0 # if@2 I@2 can@2 take@2 your@2 full@2 address@2 +... %snd:"fusser28"_145283_148634
+*LLA:	+< hiya@0 dach@1 chi@1 (y)n@1 o@1 lew@1 ? %snd:"fusser28"_147101_148320
+%gls:	hiya be.2PL.PRES PRON.2PL PRT rather right
+%eng:	hiya, are you alright?
+@Comment:	Llawdden addresses customer who has just walked in. Section blanked out of Llawdden's track
+@Comment:	Section blanked out of Ifor's track where Ifor takes customer's address
+*IFO:	crikey@2 that's@2 far@2 [=! laughs] . %snd:"fusser28"_182941_185623
+*IFO:	that's@2 not@2 far@2 from@2 Norwich@0 is@2 it@2 . %snd:"fusser28"_185623_187899
+*IFO:	Great_Yarmouth@0 yeah@0 . %snd:"fusser28"_187899_191150
+*IFO:	yeah@0 . %snd:"fusser28"_191150_195016
+@Comment:	Secion blanked out where Ifor takes customer's post code
+*IFO:	brilliant@2 . %snd:"fusser28"_200763_201738
+*IFO:	that's@2 great@0 . %snd:"fusser28"_201738_203584
+*IFO:	o_k@0 . %snd:"fusser28"_203584_204060
+*IFO:	I'll@2 sort@2 these@2 samples@0 out@2 for@2 you@2 . %snd:"fusser28"_204060_205558
+*IFO:	er@0 er@0 have@2 you@2 got@2 the@2 prices@2 have@2 you@2 ? %snd:"fusser28"_205558_208774
+*IFO:	yeah@0 no@2 xxx I'm@2 not@2 sure@0 if@2 the@2 price@0 of@2 these@2 # Sahara@0 Silver_Sunset@0 # and@2 Tropical_Haze@0 are@2 on@2 the@2 website@2 you@2 see@2 . %snd:"fusser28"_208774_223065
+*IFO:	no@2 problem@0 . %snd:"fusser28"_223065_226734
+*IFO:	yeah@0 <all@2 came@2 today@2> [?] . %snd:"fusser28"_226734_231065
+*IFO:	yeah@0 I'll@2 sort@2 these@2 out@2 for@2 you@2 . %snd:"fusser28"_231065_232632
+*IFO:	er@0 hopefully@2 they'll@2 be@2 with@2 you@2 around@2 Tuesday@2 Wednesday@2 . %snd:"fusser28"_232632_234629
+*IFO:	is@2 that@2 o_k@0 ? %snd:"fusser28"_234629_235314
+*IFO:	brilliant@2 . %snd:"fusser28"_235314_236719
+*IFO:	you're@2 very@0 welcome@2 . %snd:"fusser28"_236719_237833
+*IFO:	thank@2 you@2 . %snd:"fusser28"_237833_238576
+*IFO:	bye_bye@2 now@2 . %snd:"fusser28"_238576_239145
+@Comment:	Ifor ends phone call
+@Comment:	loud crash heard %snd:"fusser28"_239145_240829
+*IFO:	&=imit:beep &=laugh . %snd:"fusser28"_240829_245229
+*IFO:	&ʃ &=laugh sure@0 bod@1 ti@1 newydd@1 ddychryn@1 . %snd:"fusser28"_245229_248433
+%gls:	sure be.NONFIN PRON.2S new get_scared.NONFIN
+%eng:	I'm sure you were just scared
+%com:	not sure who he's addressing
+@Comment:	long silence and then Ifor dials a phone number, then starts talking to the person on the other end %snd:"fusser28"_248433_277075
+*IFO:	sut@1 wyt@1 ti@1 ? %snd:"fusser28"_277075_279734
+%gls:	how be.2S.PRES PRON.2S
+%eng:	how are you?
+*IFO:	hi@0 iawn@1 ? %snd:"fusser28"_279734_281343
+%gls:	hi right
+%eng:	hi, alright?
+@Comment:	Llawdden comes back from dealing with the customer in the store. Ifor continues conversing over the phone whilst Llawdden converses a little with Madlen
+*IFO:	aye@0 . %snd:"fusser28"_281343_282713
+*IFO:	oes@1 . %snd:"fusser28"_282713_284803
+%gls:	be.3S.PRES
+%eng:	yes
+*IFO:	xxx +/. %snd:"fusser28"_284803_286707
+*IFO:	oh@0 do@1 ? %snd:"fusser28"_286707_288774
+%gls:	IM yes
+%eng:	oh yes?
+*IFO:	sut@1 temper@0 sy@1 (ar)no@1 fo@1 ? %snd:"fusser28"_288774_290318
+%gls:	how temper be.PRES.REL on.3SM PRON.3SM
+%eng:	what kind of mood is he in?
+*IFO:	oh@0 (y)dy@1 ? %snd:"fusser28"_290318_291862
+%gls:	IM be.3S.PRES
+%eng:	oh is he?
+*LLA:	&s fynedd@1 efo@1 fo@1 does@1 . %snd:"fusser28"_291688_293174
+%gls:	patience with PRON.3SM be.3S.PRES.NEG
+%eng:	he's got patience, hasn't he/you need patience with it, don't you
+*MAD:	eh@0 ? %snd:"fusser28"_293174_293603
+%gls:	IM
+%eng:	eh?
+*LLA:	<(oe)s@1 (yn)a@1> [?] fynedd@1 efo@1 fo@1 does@1 . %snd:"fusser28"_293603_295264
+%gls:	be.3S.PRES there patience with PRON.3SM be.3S.PRES.NEG
+%eng:	he's got patience, hasn't he/you need patience with it, don't you
+*IFO:	+< ia@1 . %snd:"fusser28"_294068_294451
+%gls:	yes
+%eng:	yes
+*MAD:	Duw@1 chwarae@1 teg@1 xxx (ddi)m@1 amser@1 . %snd:"fusser28"_295264_297504
+%gls:	God play fair xxx NEG time
+%eng:	God, fair play [...] no time
+*MAD:	xxx . %snd:"fusser28"_297504_299641
+*IFO:	+< ia@1 yeah@0 . %snd:"fusser28"_298863_299617
+%gls:	yes yeah
+%eng:	yes yeah
+*LLA:	oh@0 na@1 dim@1 efo@1 fo@1 dw@1 i@1 ddeud@1 efo@1 um@0 # &m # bod@1 (y)na@1 diles@0 ar@1 llawr@1 . %snd:"fusser28"_299641_303437
+%gls:	IM no NEG with PRON.3SM be.1S.PRES PRON.1S say.NONFIN with IM be.NONFIN there tiles on floor
+%eng:	oh no, I don't mean about him, but that there are tiles on the floor
+*IFO:	+< ia@1 . %snd:"fusser28"_301823_302206
+%gls:	yes
+%eng:	yes
+*MAD:	yeah@0 na@1 <am@1 y@1> [?] tiles@0 yn@1 ganol@1 llawr@1 dw@1 i@1 feddwl@1 . %snd:"fusser28"_303437_306641
+%gls:	yeah no about DET tiles in middle floor be.1S.PRES PRON.1S think.NONFIN
+%eng:	yeah, no, I mean the tiles in the middle of the floor
+*IFO:	yeah@0 . %snd:"fusser28"_306502_306978
+%gls:	yeah
+%eng:	yeah
+*IFO:	ia@1 . %snd:"fusser28"_306978_308917
+%gls:	yes
+%eng:	yes
+*IFO:	be@1 [/] be@1 i@1 xxx (fe)lly@1 ? %snd:"fusser28"_308917_310642
+%gls:	what what to xxx thus
+%eng:	what...what, to [...] like?
+*IFO:	ia@1 . %snd:"fusser28"_310635_312516
+%gls:	yes
+%eng:	yes
+*IFO:	ia@1 . %snd:"fusser28"_312516_316440
+%gls:	yes
+%eng:	yes
+*LLA:	<sut@1 goblin@0> [?] mae@1 hwn@1 yn@1 gweithio@1 dŵad@1 # Madlen@0 ? %snd:"fusser28"_316440_319122
+%gls:	how goblin be.3S.PRES this PRT work.NONFIN say.2S.IMPER Madlen
+%eng:	how the hell does this work, Madlen?
+*MAD:	be@1 [?] ? %snd:"fusser28"_319122_320411
+%gls:	what
+%eng:	what?
+*LLA:	&s &s # (oe)s@1 gyn@1 ti@1 syniad@1 sut@1 mae@1 hwn@1 yn@1 gweithio@1 ? %snd:"fusser28"_320411_322779
+%gls:	be.3S.PRES with PRON.2S idea how be.3S.PRES this PRT work.NONFIN
+%eng:	do you have any idea how this works?
+*IFO:	xxx ? %snd:"fusser28"_322559_323592
+*IFO:	be@1 [?] i@1 Gabby@0 ? %snd:"fusser28"_323592_325136
+%gls:	what for Gabby
+%eng:	what, for Gabby?
+*IFO:	oh@0 right@0 . %snd:"fusser28"_325136_326123
+%gls:	IM right
+%eng:	oh right
+*IFO:	xxx [//] # eighteen@2 months@2 onwards@2 oedd@1 o@1 . %snd:"fusser28"_326123_328317
+%gls:	xxx eighteen months onwards be.3S.IMP PRON.3SM
+%eng:	[...] ...it was eighteen months onwards
+*IFO:	oh@0 &ai [//] &tr hwnna@1 (y)n@1 ideal@0 fysai@1 . %snd:"fusser28"_328317_330094
+%gls:	IM that PRT ideal be.3S.CONDIT
+%eng:	oh, that would be ideal, wouldn't it
+*LLA:	sut@1 goblin@0 ti@1 fod@1 i@1 gael@1 (r)hein@1 i_fewn@1 ? %snd:"fusser28"_330094_334053
+%gls:	how goblin PRON.2S be.NONFIN to get.NONFIN these in
+%eng:	how the hell are you supposed to get these in?
+*IFO:	I@2 don't@2 # think@2 so@2 . %snd:"fusser28"_334053_338546
+*IFO:	cawn@1 cawn@1 . %snd:"fusser28"_338546_340903
+%gls:	get.1PL.NONPAST get.1PL.NONPAST
+%eng:	yes, yes
+*IFO:	aye@0 &=sigh . %snd:"fusser28"_340903_345071
+*IFO:	oes@1 . %snd:"fusser28"_345071_345918
+%gls:	be.3S.PRES
+%eng:	yes
+*IFO:	ti@1 (we)di@1 clywed@1 gyn@1 rywun@1 ? %snd:"fusser28"_345918_352118
+%gls:	PRON.2S PRT.PAST hear.NONFIN from somebody
+%eng:	have you heard from anybody?
+*IFO:	na@1 na@1 . %snd:"fusser28"_352118_354359
+%gls:	no no
+%eng:	no, no
+*IFO:	na@1 xxx heno@1 . %snd:"fusser28"_354359_357586
+%gls:	no xxx tonight
+%eng:	no [...] tonight
+*IFO:	chdi@1 [=! yawn] . %snd:"fusser28"_357586_359513
+%gls:	PRON.2S
+%eng:	you
+*IFO:	xxx [=! yawn] xxx . %snd:"fusser28"_359513_361661
+*IFO:	great@0 . %snd:"fusser28"_361661_365667
+*IFO:	paid@1 â@1 deud@1 gormod@1 . %snd:"fusser28"_365667_366758
+%gls:	desist.2S.IMPER PRT say.NONFIN too_much
+%eng:	don't say too much
+*IFO:	&=laugh <ti@1 cael@1 dy@1 recordio@1> [=! laughs] . %snd:"fusser28"_366758_370171
+%gls:	PRON.2S get.NONFIN POSS.2S record.NONFIN
+%eng:	you're being recorded
+*IFO:	&=laugh wyt@1 [=! laughs] . %snd:"fusser28"_370171_371843
+%gls:	be.2S.PRES
+%eng:	yes
+*IFO:	&=laugh mae@1 (y)na@1 rywun@1 yn@1 shop@0 yn@1 recordio@1 fi@1 a@1 Llawdden@0 yn@1 siarad@1 . %snd:"fusser28"_371843_376065
+%gls:	be.3S.PRES there somebody in shop PRT record.NONFIN PRON.1S and Llawdden PRT speak.NONFIN
+%eng:	there's somebody in the shop recording me and Llawdden talking
+*IFO:	oh@0 rywun@1 o@1 [/] o@1 coleg@1 (fe)lly@1 . %snd:"fusser28"_376065_378712
+%gls:	IM somebody from from college thus
+%eng:	oh, somebody from the university, like
+*IFO:	so@0 paid@1 â@1 deud@1 <gormod@1 please@0> [=! laughs] . %snd:"fusser28"_378712_380743
+%gls:	so desist.2S.IMPER PRT say.NONFIN too_much please
+%eng:	so don't say too much, please
+*IFO:	o_k@0 [=! laughs] cyw@1 . %snd:"fusser28"_380743_383495
+%gls:	o_k chick
+%eng:	ok darling
+*IFO:	ta_ra@0 [=! laughs] &=laugh . %snd:"fusser28"_383495_385747
+%gls:	ta_ra
+%eng:	ta-ra
+*IFO:	<fucking@2 hell@2> [=! laughs] ! %snd:"fusser28"_385747_387094
+*LLA:	be@1 wnaeth@1 hi@1 ? %snd:"fusser28"_386734_387222
+%gls:	what do.3S.PAST PRON.3SF
+%eng:	what did she do?
+*LLA:	mynd@1 off@0 yn@1 straight@0 [=! laughs] ? %snd:"fusser28"_387222_388313
+%gls:	go.NONFIN off PRT straight
+%eng:	hung up immediately?
+*IFO:	+< xxx [=! laughs] <sediwsio@1 chdi@1> [=! laughs] . %snd:"fusser28"_387547_390798
+%gls:	xxx seduce.NONFIN PRON.2S
+%eng:	[...] seduce you
+*LLA:	+< &=laugh . %snd:"fusser28"_388789_391262
+*IFO:	+" <paid@1 deud@1 llawer@1> [=! laughs] ! %snd:"fusser28"_391262_392395
+%gls:	desist.2S.IMPER say.NONFIN much
+%eng:	"don't say a lot!"
+*IFO:	meddai@1 fi@1 &=laugh +"/. %snd:"fusser28"_392395_392987
+%gls:	say.1S.PAST PRON.1S
+%eng:	I said
+*LLA:	&=laugh . %snd:"fusser28"_392806_393735
+*LLA:	oh@0 . %snd:"fusser28"_393735_395727
+*LLA:	greadures@1 . %snd:"fusser28"_395727_397770
+%gls:	creature
+%eng:	the poor thing
+*IFO:	<just@0 rhag@1 ofn@1> [=! laughs] . %snd:"fusser28"_397770_399326
+%gls:	just lest fear
+%eng:	just in case
+*LLA:	ia@1 . %snd:"fusser28"_399326_400522
+%gls:	yes
+%eng:	yes
+*LLA:	fedr@1 hi@1 +/? %snd:"fusser28"_400522_403053
+%gls:	can.3S.NONPAST PRON.3SF
+%eng:	can she..?
+*IFO:	mae@1 (r)hein@1 isio@1 mynd@1 yn_ôl@1 wan@1 does@1 . %snd:"fusser28"_402705_404005
+%gls:	be.3S.PRES these want go.NONFIN back now be.3S.PRES.NEG
+%eng:	these need to go back now, don't they
+*LLA:	xxx de@1 . %snd:"fusser28"_403808_405445
+%gls:	xxx TAG
+%eng:	[...] isn't it
+*IFO:	oh@0 actually@2 mae@1 Tim@0 isio@1 hand@2 . %snd:"fusser28"_405445_408545
+%gls:	IM actually be.3S.PRES Tim want hand
+%eng:	oh actually, Tim wants a hand
+*LLA:	+< (y)dy@1 o@1 (we)di@1 gorffen@1 efo@1 hi@1 dŵad@1 ? %snd:"fusser28"_407941_409055
+%gls:	be.3S.PRES PRON.3SM PRT.PAST finish.NONFIN with PRON.3SF say.2S.IMPER
+%eng:	has he finished with her/it?
+*IFO:	mae@1 isio@1 hand@2 . %snd:"fusser28"_409055_409596
+%gls:	be.3S.PRES want hand
+%eng:	he wants a hand
+*IFO:	mae@1 (we)di@1 gofyn@1 ers@1 un@1 awr@1 . %snd:"fusser28"_409596_411233
+%gls:	be.3S.PRES PRT.PAST ask.NONFIN since one hour
+%eng:	he asked an hour ago
+@Comment:	Ifor goes outside to talk to Tim (Ifor's mic blanked out here) while Llawdden continues with his work in silence, listening to the radio. Ifor re-enters room a minute or so later
+*LLA:	xxx hwn@1 ? %snd:"fusser28"_491790_493334
+%gls:	xxx this
+%eng:	[...] this?
+*IFO:	oh@0 Radio_Two@2 de@1 ! %snd:"fusser28"_493334_497293
+%gls:	IM Radio_Two TAG
+%eng:	oh Radio 2 isn't it!
+*LLA:	<o'n@1 i@1 meddwl@1 bod@1 chdi@1> [?] roid@1 o@1 on@2 special@0 i@1 fi@1 . %snd:"fusser28"_497293_499221
+%gls:	be.1S.IMP PRON.1S think.NONFIN be.NONFIN PRON.2S put.NONFIN PRON.3SM on special for PRON.1S
+%eng:	I thought you put it on especially for me
+*IFO:	+< na@1 ! %snd:"fusser28"_498454_499221
+%gls:	no
+%eng:	no!
+*IFO:	Drive_Time@0 Johnnie_Walker@0 . %snd:"fusser28"_499221_500869
+*LLA:	+< &=laugh . %snd:"fusser28"_499731_500358
+*IFO:	ti@1 (we)di@1 cynnig@1 paned@1 i@1 Marika@0 ? %snd:"fusser28"_500869_506465
+%gls:	PRON.2S PRT.PAST offer.NONFIN cuppa to Marika
+%eng:	have you offered Marika a cuppa?
+*LLA:	naddo@1 . %snd:"fusser28"_506465_508067
+%gls:	no
+%eng:	no
+*IFO:	&t ti@1 isio@1 paned@1 ? %snd:"fusser28"_507754_508741
+%gls:	PRON.2S want cuppa
+%eng:	do you want a cuppa?
+%com:	addresses researcher
+*LLA:	&=laugh . %snd:"fusser28"_508741_509461
+*RES:	oes@1 # diolch@1 . %snd:"fusser28"_509379_510645
+%gls:	be.3S.PRES thanks
+%eng:	yes, thanks
+*IFO:	llefrith@1 ? %snd:"fusser28"_510645_511446
+%gls:	milk
+%eng:	milk?
+*IFO:	siwgr@1 ? %snd:"fusser28"_511446_512119
+%gls:	sugar
+%eng:	sugar?
+*RES:	sorry@0 ? %snd:"fusser28"_512119_513129
+%gls:	sorry
+%eng:	sorry?
+*IFO:	llefrith@1 a@1 siwgr@1 ? %snd:"fusser28"_513129_514209
+%gls:	milk and sugar
+%eng:	milk and sugar?
+*RES:	dim@1 ond@1 llefrith@1 please@0 [?] . %snd:"fusser28"_514209_515486
+%gls:	NEG but milk please
+%eng:	only milk please
+*IFO:	dim@1 ond@1 llefrith@1 . %snd:"fusser28"_515486_516310
+%gls:	NEG but milk
+%eng:	only milk
+*IFO:	eh@0 wnest@1 ti@1 (ddi)m@1 clywed@1 be@1 (de)udodd@1 cariad@1 fi@1 ar@1 y@1 phone@0 wan@1 naddo@1 ? %snd:"fusser28"_516310_518946
+%gls:	IM do.2S.PAST PRON.2S NEG hear.NONFIN what say.3S.PAST love PRON.1S on DET phone now no
+%eng:	eh, you didn't hear what my girlfriend said on the phone now, did you
+*RES:	&=laugh . %snd:"fusser28"_518946_519480
+*IFO:	do@1 +!? %snd:"fusser28"_519480_520316
+%gls:	yes
+%eng:	did you!?
+*IFO:	oh@0 my@2 God@2 ! %snd:"fusser28"_520316_521825
+*RES:	+< na@1 na@1 na@1 na@1 na@1 na@1 na@1 . %snd:"fusser28"_520780_522313
+%gls:	no no no no no no no
+%eng:	no no no no no no no
+*IFO:	oh@0 na@1 ? %snd:"fusser28"_522313_522835
+%gls:	IM no
+%eng:	oh no?
+*RES:	+< xxx clywed@1 . %snd:"fusser28"_522394_523393
+%gls:	xxx hear.NONFIN
+%eng:	[...] hear
+*RES:	dim@1 ond@1 xxx . %snd:"fusser28"_523393_524855
+%gls:	NEG but xxx
+%eng:	only [...]
+*LLA:	+< &=laugh . %snd:"fusser28"_523416_524530
+*IFO:	<oh@0 God@2> [=! laughs] . %snd:"fusser28"_524530_527247
+%com:	pours the researcher a cuppa
+*LLA:	&=laugh . %snd:"fusser28"_527050_527955
+*RES:	xxx torri@1 fo@1 allan@1 . %snd:"fusser28"_527793_529360
+%gls:	xxx cut.NONFIN PRON.3SM out
+%eng:	[...] cut it out
+*RES:	xxx . %snd:"fusser28"_529360_530138
+*LLA:	&=laugh . %snd:"fusser28"_529871_531868
+*IFO:	&=laugh . %snd:"fusser28"_530985_531868
+*IFO:	sorry@0 llefrith@1 yeah@0 ? %snd:"fusser28"_531868_533145
+%gls:	sorry milk yeah
+%eng:	sorry, milk yeah?
+*RES:	yeah@0 . %snd:"fusser28"_533145_533493
+%gls:	yeah
+%eng:	yeah
+*IFO:	siwgr@1 ? %snd:"fusser28"_533493_534213
+%gls:	sugar
+%eng:	sugar?
+*LLA:	<ti@1 isio@1 un@1 o@1> [?] +..? %snd:"fusser28"_534213_537394
+%gls:	PRON.2S want one of
+%eng:	do you want one of..?
+*LLA:	xxx mynd@1 yn_ôl@1 xxx . %snd:"fusser28"_537394_539647
+%gls:	xxx go.NONFIN back xxx
+%eng:	[...] go back [...]
+*IFO:	+< na@1 job@0 done@2 . %snd:"fusser28"_538532_539565
+%gls:	no job done
+%eng:	no, job done
+*IFO:	job@0 done@2 . %snd:"fusser28"_539647_541760
+*IFO:	(dy)na@1 chdi@1 . %snd:"fusser28"_541760_549503
+%gls:	there PRON.2S
+%eng:	there you go
+%com:	takes the researcher her cuppa
+*RES:	diolch@1 yn@1 fawr@1 iawn@1 . %snd:"fusser28"_549503_550444
+%gls:	thanks PRT big very
+%eng:	thank you very much
+*LLA:	wnes@1 i@1 losgi@1 (y)n@1 llaw@1 ar@1 y@1 slyfaeth@1 yna@1 wan@1 (he)fyd@1 . %snd:"fusser28"_550444_556121
+%gls:	do.1S.PAST PRON.1S burn.NONFIN POSS.1S hand on DET prey there now also
+%eng:	I just burnt my hand on that bastard too
+*IFO:	wnest@1 ti@1 losgi@1 do@1 ? %snd:"fusser28"_556121_556934
+%gls:	do.2S.PAST PRON.2S burn.NONFIN yes
+%eng:	you got burnt, did you
+*IFO:	do@1 . %snd:"fusser28"_556934_557456
+%gls:	yes
+%eng:	yes
+*LLA:	go@1 iawn@1 . %snd:"fusser28"_557456_559604
+%gls:	rather right
+%eng:	really
+*IFO:	mae@1 (r)hein@1 yn@1 mynd@1 fory@1 meddai@1 [?] Madlen@0 anyway@2 drysau@1 (y)na@1 . %snd:"fusser28"_559604_562263
+%gls:	be.3S.PRES these PRT go.NONFIN tomorrow say.3S.NONPAST Madlen anyway doors there
+%eng:	these are going tomorrow, Madlen says, anyway, those doors
+*LLA:	mae@1 (y)n@1 packed@2 yn@1 Rhos_lan@0 [?] wan@1 . %snd:"fusser28"_562263_567766
+%gls:	be.3S.PRES PRT packed in Rhos_lan now
+%eng:	it's packed in Rhos-lan now
+*IFO:	be@1 ? %snd:"fusser28"_567766_570332
+%gls:	what
+%eng:	what?
+*LLA:	<fydd@1 hi@1 (y)n@1> [?] packed@2 yn@1 Rhos_lan@0 wan@1 . %snd:"fusser28"_570332_571911
+%gls:	be.3S.FUT PRON.3SF PRT packed in Rhos_lan now
+%eng:	it'll be packed in Rhos-lan now
+*IFO:	packed@2 ? %snd:"fusser28"_571911_572723
+*LLA:	yeah@0 . %snd:"fusser28"_572723_573246
+%gls:	yeah
+%eng:	yeah
+*LLA:	golwg@1 yna@1 de@1 . %snd:"fusser28"_573246_574546
+%gls:	sight there TAG
+%eng:	a mess there, you know
+*IFO:	+< be@1 tiles@0 ? %snd:"fusser28"_573850_574639
+%gls:	what tiles
+%eng:	what, tiles?
+*LLA:	yeah@0 . %snd:"fusser28"_574639_575103
+%gls:	yeah
+%eng:	yeah
+*IFO:	oh@0 dw@1 gwybod@1 . %snd:"fusser28"_575103_575846
+%gls:	IM be.1S.PRES know.NONFIN
+%eng:	oh I know
+*IFO:	rhoi@1 nhw@1 dan@1 do@1 wnes@1 i@1 <am@1 wan@1 timod@1> [?] . %snd:"fusser28"_575846_577565
+%gls:	put.NONFIN PRON.3PL under roof do.1S.PAST PRON.1S for now know.2S
+%eng:	I just put a roof over them for now, you know
+*LLA:	+< golwg@1 yna@1 . %snd:"fusser28"_575858_576543
+%gls:	sight there
+%eng:	a mess there
+*LLA:	be@1 ? %snd:"fusser28"_577565_578331
+%gls:	what
+%eng:	what?
+*IFO:	rhoi@1 nhw@1 dan@1 do@1 . %snd:"fusser28"_578331_579817
+%gls:	put.NONFIN PRON.3PL under roof
+%eng:	put a roof over them
+*IFO:	ges@1 [?] i@1 tri@1 xxx . %snd:"fusser28"_579817_583393
+%gls:	get.1S.PAST PRON.1S three.M xxx
+%eng:	I got three [...]
+*LLA:	oh@0 . %snd:"fusser28"_583126_583474
+*LLA:	lle@1 gest@1 ti@1 roi@1 (r)heiny@1 ta@1 ? %snd:"fusser28"_583474_584728
+%gls:	where get.2S.PAST PRON.2S put.NONFIN those then
+%eng:	where did you get to put them then?
+*IFO:	dw@1 i@1 (we)di@1 roid@1 er@0 # un@1 yn@1 shed@0 gefn@1 un@1 shed@0 fawr@1 a@1 un@1 shed@0 # borders@0 [?] . %snd:"fusser28"_584728_589105
+%gls:	be.1S.PRES PRON.1S PRT.PAST put.NONFIN IM one in shed back one shed big and one shed borders
+%eng:	I put, er, one in the back shed, one in the big shed and one in the borders shed
+*LLA:	+< xxx ? %snd:"fusser28"_585877_586597
+*IFO:	tyllau@1 ar@1 y@1 tarpaulin@0 (y)na@1 i@1 weld@1 does@1 . %snd:"fusser28"_589105_593819
+%gls:	holes on DET tarpaulin there to see.NONFIN be.3S.PRES.NEG
+%eng:	there are holes in that tarpaulin, it looks like, aren't there
+*LLA:	(dy)dy@1 o@1 (y)n@1 da@1 i@1 (di)m_byd@1 na(g)@1 (y)dy@1 . %snd:"fusser28"_593819_595641
+%gls:	be.3S.PRES.NEG PRON.3SM PRT good for nothing NEG be.3S.PRES
+%eng:	it's useless, isn't it
+*LLA:	(doe)s@1 (yn)a@1 (ddi)m_byd@1 gwaeth@1 na@1 roi@1 boxes@0 rhacs@1 i@1 bobl@1 nag@1 oes@1 # <neu@1 (y)n@1> [?] socian@1 . %snd:"fusser28"_595641_601470
+%gls:	be.3S.PRES there nothing worse PRT give.NONFIN boxes tattered to people NEG be.3S.PRES or PRT be_soaked.NONFIN
+%eng:	threre's nothing worse than giving people tattered boxes, is there, or soaking
+*IFO:	+< na@1 . %snd:"fusser28"_600181_600680
+%gls:	no
+%eng:	no
+*IFO:	na@1 . %snd:"fusser28"_601470_602375
+%gls:	no
+%eng:	no
+*IFO:	mae@1 llechi@1 (y)ma@1 isio@1 mynd@1 yn_ôl@1 (he)fyd@1 does@1 . %snd:"fusser28"_602375_604233
+%gls:	be.3S.PRES slates here want go back also be.3S.PRES.NEG
+%eng:	these slates need to go back too, don't they
+*LLA:	oes@1 . %snd:"fusser28"_604233_605684
+%gls:	be.3S.PRES
+%eng:	yes
+*LLA:	(y)dy@1 um@0 # peth@1 (y)na@1 (y)n@1 barod@1 # van@0 ? %snd:"fusser28"_605684_609039
+%gls:	be.3S.PRES IM thing there PRT ready van
+%eng:	is, um, thingy ready, the van?
+*IFO:	na(g)@1 (y)dy@1 . %snd:"fusser28"_609039_610305
+%gls:	NEG be.3S.PRES
+%eng:	no
+*IFO:	na@1 # mae@1 dal@1 wrthi@1 . %snd:"fusser28"_610305_612162
+%gls:	no be.3S.PRES still at.3SF
+%eng:	no, he's still on it
+*LLA:	(dy)dy@1 o@1 (ddi)m@1 bwys@1 anyway@2 really@2 . %snd:"fusser28"_612162_615355
+%gls:	be.3S.PRES.NEG PRON.3SM NEG weight anyway really
+%eng:	it doesn't matter anyway really
+*LLA:	genno@1 fi@1 [=? fo@1] gar@0 yn@1 [=? ei@1] hun@1 wan@1 does@1 . %snd:"fusser28"_615355_617329
+%gls:	with.1S PRON.1S car POSS.1S self now be.3S.PRES.NEG
+%eng:	I've got my own car now, haven't I
+*IFO:	oes@1 oes@1 . %snd:"fusser28"_617329_618699
+%gls:	be.3S.PRES be.3S.PRES
+%eng:	yes, yes
+*IFO:	mae@1 isio@1 (y)r@1 [?] tax@0 iddi@1 (he)fyd@1 . %snd:"fusser28"_618699_621381
+%gls:	be.3S.PRES want DET tax for.3SF also
+%eng:	it needs tax too
+*LLA:	+< xxx +/. %snd:"fusser28"_620731_621694
+*LLA:	oes@1 . %snd:"fusser28"_621694_622507
+%gls:	be.3S.PRES
+%eng:	yes
+*LLA:	<dw@1 isio@1 tax@0 am@1 y@1 mis@1 (y)ma@1> [?] ac@1 M_O_T@0 a@1 tyres@0 mae@1 sure@0 . %snd:"fusser28"_622507_625653
+%gls:	be.1S.PRES want tax for DET month here and M_O_T and tyres be.3S.PRES sure
+%eng:	I need tax for this month and an MOT and tyres probably
+*IFO:	oes@1 ? %snd:"fusser28"_625653_626222
+%gls:	be.3S.PRES
+%eng:	do you?
+*IFO:	be@1 wnei@1 di@1 ? %snd:"fusser28"_626222_627244
+%gls:	what do.2S.NONPAST PRON.2S
+%eng:	what will you do?
+*IFO:	tax@0 chwech@1 ta@1 blwyddyn@1 ? %snd:"fusser28"_627244_628335
+%gls:	tax six or year
+%eng:	six [months'] tax or a year?
+*LLA:	chwech@1 . %snd:"fusser28"_628335_629287
+%gls:	six
+%eng:	six
+*IFO:	faint@1 (y)dy@1 o@1 i@1 chdi@1 ? %snd:"fusser28"_629287_630425
+%gls:	how_much be.3S.PRES PRON.3SM to PRON.2S
+%eng:	how much is it for you?
+*LLA:	ninety@2 (ry)wbeth@1 yeah@0 ? %snd:"fusser28"_630425_631621
+%gls:	ninety something yeah
+%eng:	ninety something, yeah?
+*IFO:	am@1 chwech@1 ? %snd:"fusser28"_631621_632341
+%gls:	for six
+%eng:	for six?
+*LLA:	yeah@0 . %snd:"fusser28"_632341_632631
+*IFO:	yeah@0 . %snd:"fusser28"_632445_633153
+*IFO:	ac@1 [?] mae@1 dad@0 de@1 +//. %snd:"fusser28"_633153_634744
+%gls:	and be.3S.PRES dad TAG
+%eng:	and dad, right...
+*IFO:	Ford@0 Focus@0 s(y)@1 gyn@1 dad@0 . %snd:"fusser28"_634744_636311
+%gls:	Ford Focus be.PRES.REL with dad
+%eng:	dad's got a Ford Focus
+*IFO:	hundred@2 and@2 # thirty@2 (ryw)beth@1 mae@1 o@1 dalu@1 am@1 flwyddyn@1 de@1 . %snd:"fusser28"_636311_640700
+%gls:	hundred and thirty something be.3S.PRES PRON.3SM pay.NONFIN for year TAG
+%eng:	he pays a hundred and thirty something for a year, right
+*LLA:	yeah@0 . %snd:"fusser28"_640700_641129
+*IFO:	dw@1 i@1 talu@1 hundred@2 and@2 eighty@2 (ryw)beth@1 . %snd:"fusser28"_641129_642302
+%gls:	be.1S.PRES PRON.1S pay.NONFIN hundred and eighty something
+%eng:	I pay a hundred and eighty something
+*IFO:	emissions@2 a@1 (ba)llu@1 (y)dy@1 o@1 de@1 . %snd:"fusser28"_642302_644357
+%gls:	emissions and such be.3S.PRES PRON.3SM TAG
+%eng:	it's emissions and so on, isn't it
+*LLA:	ie@1 . %snd:"fusser28"_644357_644856
+%gls:	yes
+%eng:	yes
+*LLA:	xxx gyn@1 ti@1 xxx T_D_I@0 does@1 [?] . %snd:"fusser28"_644856_647399
+%gls:	xxx with PRON.2S xxx T_D_I be.3S.PRES.NEG
+%eng:	[...] you've got a [...] TDI, haven't you
+*LLA:	high@2 performance@0 yndy@1 . %snd:"fusser28"_647399_648780
+%gls:	high performance be.3S.PRES
+%eng:	high performance, isn't it
+*IFO:	mae@1 dad@0 yn@1 T_D_C_I@0 . %snd:"fusser28"_648780_650208
+%gls:	be.3S.PRES dad PRT T_D_C_I
+%eng:	dad's TDCI
+*LLA:	&=laugh [?] oh@0 yeah@0 mae@1 hynna@1 (y)n@1 # helpu@1 yndy@1 . %snd:"fusser28"_650208_653169
+%gls:	IM yeah be.3S.PRES that PRT help.NONFIN be.3S.PRES
+%eng:	oh yeah, that helps, doesn't it
+*LLA:	<mae@1 nhw@1> [?] ryw@1 # bach@1 o@1 rywbeth@1 special@0 dw@1 meddwl@1 yndy@1 . %snd:"fusser28"_653169_656164
+%gls:	be.3PL.PRES PRON.3PL some small of something special be.1S.PRES think.NONFIN be.3S.PRES
+%eng:	they're a bit of something special I think, aren't they
+*IFO:	yndy@1 . %snd:"fusser28"_656164_656675
+%gls:	be.3S.PRES
+%eng:	yes
+*IFO:	efo@1 (y)r@1 er@0 # amgylchedd@1 <a@1 (ba)llu@1> [?] yeah@0 ? %snd:"fusser28"_656675_659856
+%gls:	with DET IM environment and such yeah
+%eng:	with the environment and so on, yeah?
+*LLA:	yeah@0 # (a)pparently@2 . %snd:"fusser28"_659856_661458
+*IFO:	&dəʔ bydd@1 raid@1 i@1 un@1 o@1 ni@1 picio@1 i@1 Gaernarfon@0 fory@1 . %snd:"fusser28"_661458_667879
+%gls:	be.3S.FUT necessity for one of PRON.1PL pop.NONFIN to Caernarfon tomorrow
+%eng:	one of us will have to pop to Caernarfon tomorrow
+*LLA:	i@1 be@1 ? %snd:"fusser28"_667879_669191
+%gls:	for what
+%eng:	what for?
+*IFO:	+< <(o)s@1 (y)dy@1 ddistaw@1 a@1 i@1> [?] # &m <Hardie@0 backerboards@2> [?] (y)na@1 # gyn@1 Smiths@0 . %snd:"fusser28"_668773_672627
+%gls:	if be.3S.PRES quiet go.1S.NONPAST PRON.1S Hardie backerboards there by Smiths
+%eng:	if it's quiet I'll go [...?] those Hardie backerboards by Smiths
+*LLA:	yn@1 lle@1 (y)na@1 ? %snd:"fusser28"_672627_674171
+%gls:	in where there
+%eng:	where?
+*IFO:	mae@1 nhw@1 (y)n@1 dilifro@1 # no@2 further@2 than@2 Caernarfon@0 fory@1 . %snd:"fusser28"_674171_676726
+%gls:	be.3PL.PRES PRON.3PL PRT deliver.NONFIN no further than Caernarfon tomorrow
+%eng:	they're delivering no further than Caernarfon tomorrow
+*LLA:	<a@1 mynd@1 i@1 gyfarfod@1 nhw@1> [?] ? %snd:"fusser28"_676726_678351
+%gls:	and go.NONFIN to meet.NONFIN PRON.3PL
+%eng:	and go meet them?
+*IFO:	ia@1 . %snd:"fusser28"_678351_678804
+%gls:	yes
+%eng:	yes
+*IFO:	<(ba)sen@1 nhw@1> [?] (we)di@1 deud@1 +"/. %snd:"fusser28"_678804_679477
+%gls:	be.3PL.CONDIT PRON.3PL PRT.PAST say.NONFIN
+%eng:	they would have said:
+*IFO:	+" if@2 you're@2 willing@2 to@2 go@2 to@2 Caernarfon@0 and@2 meet@2 him@2 there@2 # you@2 know@2 we'll@2 put@2 them@2 on@2 . %snd:"fusser28"_679477_683192
+*LLA:	+< xxx . %snd:"fusser28"_679674_680011
+*IFO:	so@0 iawn@1 mae@1 (y)na@1 cheque@0 Smiths@0 xxx blank@0 [?] . %snd:"fusser28"_683192_685294
+%gls:	so right be.3S.PRES there cheque Smiths xxx blank
+%eng:	so right, there's a Smiths cheque [...] blank
+*LLA:	oes@1 oes@1 iawn@1 . %snd:"fusser28"_685294_686292
+%gls:	be.3S.PRES be.3S.PRES right
+%eng:	yes yes, alright
+*LLA:	um@0 +/. %snd:"fusser28"_686292_687476
+*IFO:	+< one@2 point@0 two@2 metre@2 . %snd:"fusser28"_686884_687732
+*IFO:	<(we)dyn@1 wneith@1 nhw@1> [?] iawn@1 i@1 car@0 yn@1 iawn@1 . %snd:"fusser28"_687732_688916
+%gls:	then do.3PL.NONPAST PRON.3PL right for car PRT right
+%eng:	so they'll do fine for the car
+*LLA:	a@1 aethan@1 [?] nhw@1 fewn@1 i@1 car@0 (y)n_aethan@1 [?] ? %snd:"fusser28"_688649_689984
+%gls:	and go.3PL.CONDIT PRON.3PL in to car go.3PL.CONDIT.NEG
+%eng:	and they'll go into the car, will they
+*LLA:	right@0 dim@1 problem@0 . %snd:"fusser28"_689984_692109
+%gls:	right NEG problem
+%eng:	right, no problem
+*IFO:	+< roid@1 [/] roid@1 seti@1 lawr@1 <rywbeth@1 wna@1 i@1 sti@1> [?] xxx . %snd:"fusser28"_691575_694199
+%gls:	put.NONFIN put.NONFIN seats down something do.1S.NONPAST PRON.1S know.2S xxx
+%eng:	I'll put the seats down or something you know [...]
+*LLA:	+< yeah@0 . %snd:"fusser28"_693444_694048
+*LLA:	yeah@0 (dy)na@1 chdi@1 o_k@0 ta@1 . %snd:"fusser28"_694199_695778
+%gls:	yeah there PRON.2S o_k then
+%eng:	yeah, that's it, ok then
+@Comment:	long silence as they go about their work
+*IFO:	<yeah@0 dyn@1 nhw@1 (ddi)m@1> [?] bethau@1 mawr@1 iawn@1 na(g)@1 (y)dyn@1 . %snd:"fusser28"_716292_717895
+%gls:	yeah be.3PL.PRES.NEG PRON.3PL NEG things big very NEG be.3PL.PRES
+%eng:	yeah, they're not very big things, are they
+*LLA:	be@1 ? %snd:"fusser28"_717895_720693
+%gls:	what
+%eng:	what?
+*IFO:	bydd@1 raid@1 ni@1 gael@1 sêt@1 nôl@1 [?] actually@2 . %snd:"fusser28"_720391_721761
+%gls:	be.3S.FUT necessity PRON.1PL get.NONFIN seat back actually
+%eng:	we'll have to have the seat back actually
+*IFO:	one@2 point@0 two@2 . %snd:"fusser28"_721761_723641
+*LLA:	y@1 backerboards@2 ? %snd:"fusser28"_723641_724559
+%gls:	DET backerboards
+%eng:	the backerboards?
+*IFO:	ie@1 . %snd:"fusser28"_724524_725116
+%gls:	yes
+%eng:	yes
+*IFO:	Hardie@0 backer@2 . %snd:"fusser28"_725116_727310
+*LLA:	faint@1 (oh)onyn@1 nhw@1 sy@1 (y)na@1 ? %snd:"fusser28"_726997_728088
+%gls:	how_many of.3PL PRON.3PL be.PRES.REL there
+%eng:	how many of them are there?
+*IFO:	wyth@1 . %snd:"fusser28"_728088_728680
+%gls:	eight
+%eng:	eight
+*LLA:	<be@1 sy@1> [?] mynd@1 i@1 orffen@1 y@1 llawr@1 (y)ma@1 off@0 wan@1 ta@1 ? %snd:"fusser28"_728680_733819
+%gls:	what be.PRES.REL go.NONFIN to finish.NONFIN DET floor here off now then
+%eng:	what's going to finish off this floor now then?
+*IFO:	+< twelve@2 &m +//. %snd:"fusser28"_732112_732693
+*LLA:	<be@1 sy@1> [?] mynd@1 i@1 orffen@1 y@1 llawr@1 (y)ma@1 off@0 ? %snd:"fusser28"_733819_737232
+%gls:	what be.PRES.REL go.NONFIN to finish.NONFIN DET floor here off
+%eng:	what's going to finish off this floor?
+*IFO:	Fred@0 . %snd:"fusser28"_737232_737836
+*LLA:	na@1 be@1 ? %snd:"fusser28"_737836_738718
+%gls:	no what
+%eng:	no, what?
+*LLA:	efo@1 be@1 though@2 ? %snd:"fusser28"_738718_739566
+%gls:	with what though
+%eng:	what with though?
+*IFO:	ah@0 dw@1 (ddi)m@1 yn@1 gwybod@1 . %snd:"fusser28"_739566_741029
+%gls:	IM be.1S.PRES NEG PRT know.NONFIN
+%eng:	ah, I don't know
+*IFO:	teilsau@1 [?] newydd@1 eto@1 mae@1 sure@0 . %snd:"fusser28"_741029_742793
+%gls:	tiles new again be.3S.PRES sure
+%eng:	new tiles again, probably
+*LLA:	ar_ôl@1 honna@1 mond@1 un@1 [//] &ɬ lle@1 i@1 un@1 sy@1 (y)na@1 really@2 de@1 . %snd:"fusser28"_742793_745371
+%gls:	after that only one place for one be.PRES.REL there really TAG
+%eng:	after that there's only room for one really, is there
+*IFO:	<fan@1 (y)na@1> [?] ac@1 fewn@1 i@1 (y)r@1 alcove@0 de@1 . %snd:"fusser28"_745371_746915
+%gls:	place there and in to DET alcove TAG
+%eng:	there and into the alcove, isn't it
+*LLA:	yeah@0 . %snd:"fusser28"_746601_747182
+*IFO:	job@0 done@2 . %snd:"fusser28"_747182_748529
+*LLA:	well@1 i@1 &ð just@0 stretsio@1 hwn@1 drwadd@1 i@1 fan@1 (y)na@1 really@2 dydy@1 . %snd:"fusser28"_748529_751420
+%gls:	better to just stretch.NONFIN this through to place there really be.3S.PRES.NEG
+%eng:	better to just stretch this through to there really, isn't it
+*IFO:	bysai@1 really@2 bysai@1 . %snd:"fusser28"_751420_752743
+%gls:	be.3S.CONDIT really be.3S.CONDIT
+%eng:	yes really, yes
+*LLA:	+< yn_hytrach@1 na@1 roid@1 rywbeth@1 +... %snd:"fusser28"_751745_753254
+%gls:	rather PRT put.NONFIN something
+%eng:	rather than putting something...
+*MAD:	xxx be@1 arall@1 s(y)@1 isio@1 wneud@1 gorffen@1 y@1 step@0 (y)na@1 de@1 . %snd:"fusser28"_753184_755367
+%gls:	xxx what other be.PRES.REL want do.NONFIN finish.NONFIN DET step there TAG
+%eng:	[...] what else needs doing, finishing that step, isn't it
+*IFO:	ia@1 . %snd:"fusser28"_755367_756017
+%gls:	yes
+%eng:	yes
+*LLA:	&=grunt . %snd:"fusser28"_756017_758432
+*IFO:	eh@0 [?] (ba)sa@1 chdi@1 medru@1 roi@1 ryw@1 combination@2 o@1 mosaics@0 yma@1 neu@1 (ryw)beth@1 . %snd:"fusser28"_758432_761601
+%gls:	IM be.2S.CONDIT PRON.2S can.NONFIN put.NONFIN some combination of mosaics here or something
+%eng:	eh, you could put a combination of mosaics here or something
+*LLA:	yeah@0 . %snd:"fusser28"_761404_762194
+*IFO:	roi@1 llawr@1 . %snd:"fusser28"_762194_763935
+%gls:	put.NONFIN floor
+%eng:	put flooring
+*LLA:	timod@1 [?] be@1 dylsen@1 ni@1 wneud@1 (he)fyd@1 de@1 ? %snd:"fusser28"_763935_767244
+%gls:	know.2S what should.1PL.CONDIT PRON.1PL do.NONFIN also TAG
+%eng:	you know what we should do too, right?
+*LLA:	iwsio@1 un@1 shed@0 de@1 # i@1 # dim@1 ond@1 stocio@1 pethau@1 # dan@1 ni@1 (y)n@1 ordro@1 i_fewn@1 . %snd:"fusser28"_767244_772190
+%gls:	use.NONFIN one shed TAG to NEG but stock.NONFIN things be.1PL.PRES PRON.1PL PRT order.NONFIN in
+%eng:	use one shed, right, to only stock things we order in
+*IFO:	oh@0 # mae@1 (y)n@1 ofnadwy@1 fan@1 (y)na@1 (y)ndy@1 . %snd:"fusser28"_772190_774222
+%gls:	IM be.3S.PRES PRT terrible place there be.3S.PRES
+%eng:	oh, it's terrible there, isn't it
+*LLA:	+< fath@1 â@1 (r)hein@1 de@1 . %snd:"fusser28"_772863_773850
+%gls:	kind with these TAG
+%eng:	like these, isn't it
+*LLA:	timod@1 iawn@1 hwnna@1 fair@2 enough@2 <just@0 fath@1 â@1> [?] shed@0 bob_dim@1 . %snd:"fusser28"_774222_776892
+%gls:	know.2S right that fair enough just kind with shed everything
+%eng:	you know, alright that, fair enough, just as a shed for everything
+*LLA:	ond@1 (ba)sen@1 [=? (peta)sen@1] ni@1 just@0 yn@1 cadw@1 un@1 shed@0 # i@1 fuck@0 all@2 mond@1 # pethau@1 newydd@1 de@1 +/. %snd:"fusser28"_776892_781640
+%gls:	but be.1PL.CONDIT PRON.1PL just PRT keep.NONFIN one shed for fuck all only things new TAG
+%eng:	but we'd just keep one shed for fuck all only new things, you know
+*IFO:	yeah@0 . %snd:"fusser28"_781640_782430
+*LLA:	+, timod@1 # pethau@1 sy@1 (y)ma@1 am@1 dau@1 ddiwrnod@1 tri@1 . %snd:"fusser28"_782430_784898
+%gls:	know.2S things be.PRES.REL here for two.M day three.M
+%eng:	you know, things that are here for two or three days
+*IFO:	mmm@0 . %snd:"fusser28"_784898_785455
+%gls:	IM
+%eng:	mmm
+*IFO:	xxx mae@1 (y)na@1 few@2 kitchen@2 units@2 yna@1 does@1 hefyd@1 . %snd:"fusser28"_785455_788358
+%gls:	xxx be.3S.PRES there few kitchen units there be.3S.PRES.NEG also
+%eng:	[...] there are a few kitchen units there, aren't there, too
+*LLA:	oes@1 oes@1 oes@1 a@1 mae@1 (y)r@1 bath@0 (y)na@1 dydy@1 . %snd:"fusser28"_788358_790320
+%gls:	be.3S.PRES be.3S.PRES be.3S.PRES and be.3S.PRES DET bath there be.3S.PRES.NEG
+%eng:	yes yes yes, and there's that bath, isn't there
+*IFO:	+< xxx +//. %snd:"fusser28"_789379_789670
+*IFO:	mae@1 (y)r@1 bath@0 gobeithio@1 mynd@1 fory@1 . %snd:"fusser28"_790204_791585
+%gls:	be.3S.PRES DET bath hope.NONFIN go.NONFIN tomorrow
+%eng:	the baths hopefully going tomorrow
+*IFO:	dw@1 i@1 (we)di@1 ffonio@1 fo@1 de@1 i@1 ddeud@1 bod@1 bob_dim@1 yma@1 . %snd:"fusser28"_791585_793431
+%gls:	be.1S.PRES PRON.1S PRT.PAST phone.NONFIN PRON.3SM TAG to say.NONFIN be.NONFIN everything here
+%eng:	I've phoned him, right, to say that everything's here
+*LLA:	<oh@0 yeah@0> [?] (dy)na@1 chdi@1 . %snd:"fusser28"_793431_795660
+%gls:	IM yeah there PRON.2S
+%eng:	oh yeah, that's it
+*IFO:	talking@2 of@2 which@2 ## um@0 +... %snd:"fusser28"_795660_803416
+@Comment:	Ifor dials telephone number
+@Comment:	Long silence as Ifor waits for phone to be picked up at the other end, and Llawdden goes about his work
+*IFO:	Geraint@0 ! %snd:"fusser28"_826341_827305
+*IFO:	sut@1 mae@1 dyn@1 ? %snd:"fusser28"_827305_828977
+%gls:	how be.3S.PRES man
+%eng:	how's things, man?
+*IFO:	mae@1 pethau@1 Gwyn@0 # (we)di@1 cyrraedd@1 . %snd:"fusser28"_828977_832251
+%gls:	be.3S.PRES things Gwyn PRT.PAST arrive.NONFIN
+%eng:	Gwyn's things have arrived
+*IFO:	yr@1 hand@2 dryer@2 yeah@0 a@1 (y)r@1 basin@0 a@1 # toilet@0 felly@1 . %snd:"fusser28"_832251_835687
+%gls:	DET hand dryer yeah and DET basin and toilet thus
+%eng:	the hand dryer, yeah, and the basin and the toilet, like
+*IFO:	cei@1 sure@0 . %snd:"fusser28"_835687_838741
+%gls:	get.2S.NONPAST sure
+%eng:	of course you can
+*IFO:	cei@1 sure@0 . %snd:"fusser28"_838741_839391
+%gls:	get.2S.NONPAST sure
+%eng:	yes of course
+*IFO:	iawn@1 . %snd:"fusser28"_839391_845428
+%gls:	right
+%eng:	alright
+*IFO:	oh@0 great@0 (ba)sai@1 (hyn)na@1 (y)n@1 great@0 yeah@0 . %snd:"fusser28"_845428_851349
+%gls:	IM great be.3S.CONDIT that PRT great yeah
+%eng:	oh great, that would be great, yeah
+*IFO:	superb@2 Geraint@0 . %snd:"fusser28"_851349_852800
+*IFO:	so@0 wela@1 i@1 di@1 dydd@1 Llun@1 yeah@0 ? %snd:"fusser28"_852800_853776
+%gls:	so see.1S.NONPAST PRON.1S PRON.2S day Monday yeah
+%eng:	so I'll see you on Monday, yeah?
+*IFO:	o_k@0 thanks@2 Ger@0 . %snd:"fusser28"_853776_855703
+*IFO:	ta_ra@0 . %snd:"fusser28"_855703_856411
+@Comment:	Ifor hangs up
+*LLA:	mae@1 hwn@1 (we)di@1 treulio@1 tua@1 tri@1 diwrnod@1 ar@1 y@1 van@0 (y)ma@1 wan@1 do@1 . %snd:"fusser28"_856411_863772
+%gls:	be.3S.PRES this PRT.PAST spend.NONFIN approximately three.M day on DET van here now yes
+%eng:	this has been on this van about three days now, hasn't it
+@Comment:	long silence
+*IFO:	be@1 (dde)udaist@1 ti@1 am@1 tri@1 diwrnod@1 sorry@0 ? %snd:"fusser28"_872526_877379
+%gls:	what say.2S.PAST PRON.2S about three.M day sorry
+%eng:	what did you say about three days, sorry?
+*LLA:	mae@1 hwn@1 (we)di@1 treulio@1 tua@1 tri@1 diwrnod@1 ar@1 y@1 van@0 <(y)ma@1 wan@1> [?] do@1 . %snd:"fusser28"_877379_880258
+%gls:	be.3S.PRES this PRT.PAST spend.NONFIN approximately three.M day on DET van here now yes
+%eng:	this has spent about three days on this van now, hasn't it
+*IFO:	wnaeth@1 o@1 (ddi)m_byd@1 ddoe@1 na@1 . %snd:"fusser28"_880258_881953
+%gls:	do.3S.PAST PRON.3SM nothing yesterday no
+%eng:	he/it didn't do anything yesterday, no
+*LLA:	oh@0 na@1 . %snd:"fusser28"_881953_882928
+%gls:	IM no
+%eng:	oh no
+@Comment:	long silence
+*IFO:	<wnes@1 i@1 wneud@1> [?] refund@2 hefyd@1 . %snd:"fusser28"_897243_899217
+%gls:	do.1S.PAST PRON.1S do.NONFIN refund also
+%eng:	I did a refund too
+*IFO:	cwsmer@1 (we)di@1 talu@1 cash@2 am@1 (r)hein@1 . %snd:"fusser28"_899217_902201
+%gls:	customer PRT.PAST pay.NONFIN cash for these
+%eng:	the customer paid cash for these
+*IFO:	dw@1 i@1 deud@1 +"/. %snd:"fusser28"_902201_903223
+%gls:	be.1S.PRES PRON.1S say.NONFIN
+%eng:	I said:
+*IFO:	+" yeah@0 gei@1 di@1 refund@2 . %snd:"fusser28"_903223_903954
+%gls:	yeah get.2S.NONPAST PRON.2S refund
+%eng:	"yeah, you can have a refund"
+*IFO:	+" xxx roi@1 o@1 nôl@1 ar@1 debit@0 card@0 i@1 chdi@1 de@1 . %snd:"fusser28"_903954_905823
+%gls:	xxx put.NONFIN PRON.3SM back on debit card for PRON.2S TAG
+%eng:	"[...] put it back on debit card for you, right"
+*IFO:	+" oh@0 na@1 # dw@1 isio@1 cash@2 yn_ôl@1 . %snd:"fusser28"_905823_907646
+%gls:	IM no be.1S.PRES want cash back
+%eng:	"oh no, I want cash back"
+*IFO:	annifyr@1 . %snd:"fusser28"_907646_909910
+%gls:	unpleasant
+%eng:	difficult
+*IFO:	so@0 gynta@1 dw@1 i@1 (y)n@1 # cymryd@1 digon@1 o@1 cash@2 gorod@1 ffonio@1 fo@1 . %snd:"fusser28"_909910_912360
+%gls:	so first be.1S.PRES PRON.1S PRT take.NONFIN enough of cash must.NONFIN phone.NONFIN PRON.3SM
+%eng:	so as soon as I take enough cash I have to phone him
+*LLA:	mae@1 pwy@1 (y)na@1 (y)n@1 dalu@1 cash@2 sti@1 um@0 # Minffordd@0 [?] . %snd:"fusser28"_912360_916098
+%gls:	be.3S.PRES who there PRT pay.NONFIN cash know.2S IM Minffordd
+%eng:	thingy's paying cash, you know, um, Minffordd
+*IFO:	yndy@1 ? %snd:"fusser28"_916098_917932
+%gls:	be.3S.PRES
+%eng:	are they?
+*LLA:	mae@1 (hyn)na@1 fifteen@2 hundred@2 quid@2 . %snd:"fusser28"_917932_920777
+%gls:	be.3S.PRES that fifteen hundred quid
+%eng:	that's fifteen hundred quid
+*IFO:	yeah@0 waetsiad@1 tan@1 hynna@1 (fe)lly@1 i@1 [?] wneud@1 o@1 . %snd:"fusser28"_920777_923586
+%gls:	yeah wait.NONFIN until that thus to do.NONFIN PRON.3SM
+%eng:	yeah, wait until then to do it, then
+@Comment:	silence
+*IFO:	&t timod@1 [?] # (dy)dy@1 o@1 wneud@1 dim@1 gwahaniaeth@1 ydy@1 [?] timod@1 . %snd:"fusser28"_929310_931690
+%gls:	know.2S be.3S.PRES.NEG PRON.3SM do.NONFIN NEG difference be.3S.PRES know.2S
+%eng:	you know, it makes no difference, does it, you know
+*IFO:	doro@1 di@1 debit@0 card@0 +//. %snd:"fusser28"_931690_932979
+%gls:	give.2S.IMPER PRON.2S debit card
+%eng:	you give a debit card...
+*IFO:	o_k@0 mae@1 (y)n@1 costio@1 Tony@0 weithiau@1 yndy@1 # xxx . %snd:"fusser28"_932979_936311
+%gls:	o_k be.3S.PRES PRT cost.NONFIN Tony sometimes be.3S.PRES xxx
+%eng:	ok, it costs Tony sometimes, doesn't it, [...]
+*LLA:	+< xxx dan@1 ni@1 fod@1 i@1 jarjio@1 amdano@1 fo@1 dydyn@1 . %snd:"fusser28"_935336_937286
+%gls:	xxx be.1PL.PRES PRON.1PL bo.NONFIN to charge.NONFIN for.3SM PRON.3SM be.1PL.PRES.NEG
+%eng:	[...] we're supposed to charge for it, aren't we
+*IFO:	yndyn@1 . %snd:"fusser28"_937286_938041
+%gls:	be.1PL.PRES
+%eng:	yes
+*LLA:	ond@1 dw@1 i@1 (ddi)m@1 yn@1 sure@0 iawn@1 +//. %snd:"fusser28"_938041_939097
+%gls:	but be.1S.PRES PRON.1S NEG PRT sure very
+%eng:	but I'm not quite sure...
+*LLA:	ar@1 be@1 ti@1 (y)n@1 fod@1 i@1 jarjio@1 ? %snd:"fusser28"_939097_940293
+%gls:	on what PRON.2S PRT be.NONFIN to charge.NONFIN
+%eng:	what are you supposed to charge on?
+*LLA:	ar@1 y@1 debit@0 ta@1 (y)r@1 credit@0 . %snd:"fusser28"_940293_941443
+%gls:	on DET debit or DET credit
+%eng:	on the debit or the credit?
+*IFO:	ar@1 credit@0 . %snd:"fusser28"_941443_942325
+%gls:	on credit
+%eng:	on credit
+*IFO:	(d)im@1 ar@1 debit@0 xxx . %snd:"fusser28"_942325_945436
+%gls:	NEG on debit xxx
+%eng:	not on debit [...]
+*LLA:	a@1 sut@1 ti@1 (y)n@1 gweithio@1 fo@1 allan@1 ? %snd:"fusser28"_945436_947549
+%gls:	and how PRON.2S PRT work.NONFIN PRON.3SM out
+%eng:	and how do you work it out?
+*LLA:	five@2 per@2 cent@2 o@1 (y)r@1 total@2 neu@1 (ry)wbeth@1 ? %snd:"fusser28"_947549_949651
+%gls:	five per cent of DET total or something
+%eng:	five per cent of the total or something?
+*IFO:	&u na@1 just@0 times@2 one@2 point@0 five@2 per@2 cent@2 . %snd:"fusser28"_949651_952786
+%gls:	no just times one point five per cent
+%eng:	no, just times one point five per cent
+*LLA:	oh@0 . %snd:"fusser28"_952786_954573
+*IFO:	<so@1 os@1 (yn)a@1> [?] gwsmer@1 yn@1 gwario@1 mil@1 o@1 <bunnoedd@1 efo@1> [?] chdi@1 de@1 +/. %snd:"fusser28"_954573_957035
+%gls:	so if there customer PRT spend.NONFIN thousand of pounds with PRON.2S TAG
+%eng:	so if a customer spends a thousand pounds with you, right...
+*LLA:	(dy)dy@1 o@1 (ddi)m@1 yn@1 +... %snd:"fusser28"_957035_958776
+%gls:	be.3S.PRES.NEG PRON.3SM NEG PRT
+%eng:	it's not...
+*IFO:	+, <times@2 one@2 point@0 f(ive)@2> [//] a@1 talu@1 (e)fo@1 credit@0 card@0 # mae@1 nhw@1 fod@1 i@1 dalu@1 # hynna@1 . %snd:"fusser28"_958776_962863
+%gls:	times one point five and pay.NONFIN with credit card be.3PL.PRES PRON.3PL be.NONFIN to pay.NONFIN that
+%eng:	times one point five...and pays by credit card, they're supposed to pay that much
+*LLA:	+< one@2 thousand@2 fifteen@2 . %snd:"fusser28"_959972_961296
+*LLA:	fifteen@2 quid@2 extra@0 . %snd:"fusser28"_962468_963641
+*IFO:	(be)cause@2 dyna@1 +//. %snd:"fusser28"_963641_965359
+%gls:	because there
+%eng:	becaues that's...
+*IFO:	mae@1 Tony@0 (y)n@1 cael@1 charge@2 yna@1 (y)li@1 . %snd:"fusser28"_965359_966590
+%gls:	be.3S.PRES Tony PRT get.NONFIN charge there see.2S.IMPER
+%eng:	Tony gets that charge, you see
+*IFO:	be@1 mae@1 Tony@0 (y)n@1 deud@1 de@1 # tsiarjio@1 ar@1 y@1 gwsmer@1 be@1 mae@1 o@1 (y)n@1 gael@1 ei@1 jarjio@1 am@1 . %snd:"fusser28"_966590_970142
+%gls:	what be.3S.PRES Tony PRT say.NONFIN TAG charge.NONFIN on DET customer what be.3S.PRES PRON.3SM PRT get.NONFIN POSS.3SM charge.NONFIN for
+%eng:	what Tony says, right, charge the customer what he's charged for
+*LLA:	+< gyn@1 bank@0 # ah@0 [?] . %snd:"fusser28"_967112_968633
+%gls:	by bank IM
+%eng:	by the bank, ah
+*IFO:	<mae@1 (y)n@1> [?] deud@1 gwir@1 yndy@1 . %snd:"fusser28"_970142_970967
+%gls:	be.3S.PRES PRT say.NONFIN truth be.3S.PRES
+%eng:	he's telling the truth, isn't he
+*LLA:	yeah@0 yeah@0 . %snd:"fusser28"_970967_971559
+*IFO:	mae@1 (y)n@1 mowntio@1 fyny@1 . %snd:"fusser28"_971280_972360
+%gls:	be.3S.PRES PRT mount.NONFIN up
+%eng:	it mounts up
+*LLA:	oes@1 (yn)a@1 (ry)wbeth@1 +//? %snd:"fusser28"_972360_973486
+%gls:	be.3S.PRES there something
+%eng:	is there something..?
+*LLA:	sut@1 ti@1 roid@1 o@1 ar@1 till@0 though@2 ? %snd:"fusser28"_973486_975077
+%gls:	how PRON.2S put .NONFIN PRON.3SM on till though
+%eng:	how do you put it on the till though?
+*IFO:	um@0 dw@1 (ddi)m@1 yn@1 sure@0 sut@1 i@1 # xxx wan@1 . %snd:"fusser28"_975077_979117
+%gls:	IM be.1S.PRES NEG PRT sure how to xxx now
+%eng:	um, I'm not sure how to [...] now
+@Comment:	Ifor types something into the till
+*IFO:	(dy)na@1 hi@1 . %snd:"fusser28"_982565_983494
+%gls:	there PRON.3SF
+%eng:	that's it
+*LLA:	+" credit@0 card@0 charge@2 . %snd:"fusser28"_983494_984597
+*LLA:	a@1 (we)dyn@1 ti@1 just@0 rhoid@1 o@1 i_fewn@1 be@1 bynnag@1 (y)dy@1 o@1 yeah@0 . %snd:"fusser28"_984597_987604
+%gls:	and then PRON.2S just put.NONFIN PRON.3SM in what ever be.3S.PRES PRON.3SM yeah
+%eng:	and then you just put it in, whatever it is, yeah
+*IFO:	+< ia@1 # (dy)na@1 chdi@1 . %snd:"fusser28"_986872_988045
+%gls:	yes there PRON.2S
+%eng:	yes, that's it
+@Comment:	Ifor types something into the till
+*LLA:	mond@1 efo@1 cred(it)@0 +//. %snd:"fusser28"_998215_999051
+%gls:	only with credit
+%eng:	only with credit...
+*LLA:	(dy)dy@1 o@1 (ddi)m@1 yn@1 gweithio@1 (e)fo@1 cheques@0 chwaith@1 . %snd:"fusser28"_999051_1000410
+%gls:	be.3S.PRES.NEG PRON.3SM NEG PRT work.NONFIN with cheques either
+%eng:	it doesn't work with cheques either
+*LLA:	mae@1 nhw@1 (y)n@1 tsiarjio@1 am@1 handlo@1 (r)heiny@1 yndy@1 . %snd:"fusser28"_1000410_1004462
+%gls:	be.3PL.PRES PRON.3PL PRT charge.NONFIN for handle.NONFIN those be.3S.PRES
+%eng:	they charge for handling those, don't they
+*IFO:	be@1 wna@1 i@1 efo@1 tax@0 van@0 (y)ma@1 ? %snd:"fusser28"_1004462_1007596
+%gls:	what do.1S.NONPAST PRON.1S with tax van here
+%eng:	what shall I do with the tax on this van?
+*IFO:	mae@1 dad@0 (we)di@1 gadael@1 cheque@0 a@1 manylion@1 . %snd:"fusser28"_1007596_1009686
+%gls:	be.3S.PRES dad PRT.PAST leave.NONFIN cheque and details
+%eng:	dad's left a cheque and details
+*IFO:	waetsiad@1 tan@1 M_O_T@0 a@1 wedyn@1 wneud@1 o@1 ta@1 well@1 (e)i@1 [=? i@1] wneud@1 o@1 wan@1 . %snd:"fusser28"_1009686_1014202
+%gls:	wait.NONFIN until M_O_T and then do.NONFIN PRON.3SM or better POSS.3SM do.NONFIN PRON.3SM now
+%eng:	wait til the MOT and then do it, or better do it now?
+*IFO:	<(ba)sen@1 nhw@1 &k> [///] (ba)sai@1 (y)n@1 cael@1 ei@1 ddal@1 +/. %snd:"fusser28"_1014202_1016002
+%gls:	be.3PL.CONDIT PRON.3PL be.3S.CONDIT PRT get.NONFIN POSS.3S hold.NONFIN
+%eng:	they'd...it/he'd get held/caught...
+*LLA:	+< fydd@1 [?] raid@1 chdi@1 gael@1 M_O_T@0 i@1 gael@1 tax@0 bydd@1 . %snd:"fusser28"_1015387_1017140
+%gls:	be.3S.FUT necessity PRON.2S get.NONFIN M_O_T to get.NONFIN tax be.3S.FUT
+%eng:	you'll have to get MOT to get tax, won't you
+*IFO:	bydd@1 sure@0 . %snd:"fusser28"_1017140_1020321
+%gls:	be.3S.FUT sure
+%eng:	yes, of course
+*IFO:	a@1 dan@1 ni@1 isio@1 M_O_T@0 certificates@0 does@1 xxx . %snd:"fusser28"_1020321_1022353
+%gls:	and be.1PL.PRES PRON.1PL want M_O_T certificates be.3S.PRES.NEG xxx
+%eng:	and we need MOT certificates, don't we [...]
+*IFO:	duh@0 brain@2 . %snd:"fusser28"_1022353_1023560
+%gls:	IM brain
+%eng:	duh brain
+*LLA:	&=laugh # you@2 said@2 it@2 &=laugh . %snd:"fusser28"_1023560_1027031
+*IFO:	aye@0 . %snd:"fusser28"_1027031_1027612
+*IFO:	mis@1 yma@1 fydd@1 un@1 chdi@1 (y)n@1 due@2 (dde)udaist@1 ti@1 ? %snd:"fusser28"_1027612_1035332
+%gls:	month here be.3S.FUT one PRON.2S PRT due say.2S.PAST PRON.2S
+%eng:	yours is due this month, you said?
+*IFO:	xxx [//] mis@1 Mai@1 mae@1 un@1 fi@1 . %snd:"fusser28"_1035332_1036621
+%gls:	xxx month May be.3S.PRES one PRON.1S
+%eng:	[...] ...mine's in May
+*LLA:	diwedd@1 mis@1 yma@1 . %snd:"fusser28"_1036621_1040789
+%gls:	end month here
+%eng:	end of this month
+*LLA:	so@0 gynna@1 fi@1 ryw@1 bythefnos@1 . %snd:"fusser28"_1040789_1043285
+%gls:	so with.1S PRON.1S some two_weeks
+%eng:	so I've got about two weeks
+*IFO:	xxx M_O_T@0 ? %snd:"fusser28"_1043285_1045062
+*LLA:	oh@0 dw@1 i@1 (ddi)m@1 yn@1 sure@0 iawn@1 be@1 (y)dy@1 hanes@1 M_O_T@0 arno@1 fo@1 deud@1 gwir@1 (wr)tha@1 chdi@1 . %snd:"fusser28"_1045062_1049090
+%gls:	IM be.1S.PRES PRON.1S NEG PRT sure very what be.3S.PRES history M_O_T on.3SM PRON.3SM say.NONFIN truth to.2S PRON.2S
+%eng:	oh I'm not sure what its MOT history is, to tell you the truth
+*IFO:	na@1 ? %snd:"fusser28"_1049090_1050472
+%gls:	no
+%eng:	no?
+*LLA:	um@0 <o@1 ra(n)@1> [?] [///] dw@1 i@1 sure@0 bod@1 (y)na@1 # M_O_T@0 arno@1 fo@1 tan@1 (ry)wbeth@1 fath@1 â@1 mis@1 # Mai@1 sti@1 . %snd:"fusser28"_1050472_1055255
+%gls:	IM of part be.1S.PRES PRON.1S sure be.NONFIN there M_O_T on.3SM PRON.3SM until something kind with month May know.2S
+%eng:	um, in terms of...I'm sure there's an MOT on it until something like May, you know
+*IFO:	dos@1 â@1 fo@1 i@1 Port@0 . %snd:"fusser28"_1055255_1056567
+%gls:	go.2S.IMPER with PRON.3SM to Port
+%eng:	take it to Port
+*LLA:	yeah@0 ? %snd:"fusser28"_1056567_1057403
+*IFO:	at@1 Alan@0 . %snd:"fusser28"_1057403_1058193
+%gls:	to Alan
+%eng:	to Alan
+*LLA:	+< be@1 (y)dy@1 o@1 ? %snd:"fusser28"_1057508_1057833
+%gls:	what be.3S.PRES PRON.3SM
+%eng:	what is it?
+*LLA:	fifteen@2 quid@2 ? %snd:"fusser28"_1057833_1058564
+*IFO:	eh@0 ? %snd:"fusser28"_1058564_1059307
+*LLA:	be@1 (y)dy@1 M_O_T@0 dŵad@1 ? %snd:"fusser28"_1059307_1060340
+%gls:	what be.3S.PRES M_O_T say.2S.IMPER
+%eng:	what is MOT?
+*LLA:	fifteen@2 quid@2 ? %snd:"fusser28"_1060340_1061002
+*IFO:	na@1 thirty_five@2 yeah@0 . %snd:"fusser28"_1061002_1062117
+%gls:	no thirty_five yeah
+%eng:	no, thirty-five, yeah
+*LLA:	oh@0 yndy@1 ? %snd:"fusser28"_1062117_1062999
+%gls:	IM be.3S.PRES
+%eng:	oh, is it?
+*IFO:	es@1 i@1 â@1 fo@1 i@1 # Alan@0 yn@1 Port@0 de@1 . %snd:"fusser28"_1062999_1068440
+%gls:	go.1S.PAST PRON.1S with PRON.3SM to Alan in Port TAG
+%eng:	I took it to Alan in Port, right
+%com:	phone starts ringing
+*LLA:	yeah@0 . %snd:"fusser28"_1068440_1068997
+*IFO:	wnaeth@1 o@1 wneud@1 o@1 am@1 ddim@1 i@1 fi@1 . %snd:"fusser28"_1068858_1069717
+%gls:	do.3S.PAST PRON.3SM do.NONFIN PRON.3SM for NEG for PRON.1S
+%eng:	he did it for me for free
+*IFO:	oedd@1 (we)di@1 prynu@1 tiles@0 . %snd:"fusser28"_1069717_1071087
+%gls:	be.3S.IMP PRT.PAST buy.NONFIN tiles
+%eng:	he's bought tiles
+*LLA:	<ah@0 yeah@0> [?] . %snd:"fusser28"_1071087_1072039
+%gls:	IM yeah
+%eng:	ah yeah
+*IFO:	+< gaeth@1 o@1 deal@0 go_lew@1 . %snd:"fusser28"_1071598_1072294
+%gls:	get.3S.PAST PRON.3SM deal alright
+%eng:	he had an alright deal
+*IFO:	wnaeth@1 o@1 wneud@1 o@1 ddim@1 . %snd:"fusser28"_1072294_1073200
+%gls:	do.3S.PAST PRON.3SM do.NONFIN PRON.3SM NEG
+%eng:	he did it for free
+@Comment:	Ifor picks up the phone
+*IFO:	noswaith@1 dda@1 xxx . %snd:"fusser28"_1073200_1075324
+%gls:	evening good xxx
+%eng:	good evening [...]
+%com:	section bleeped out where Ifor says the company name
+*IFO:	yeah@0 who's@2 speaking@2 please@0 ? %snd:"fusser28"_1075324_1077704
+*IFO:	I'll@2 go@2 and@2 get@2 her@2 for@2 you@2 now@2 . %snd:"fusser28"_1077704_1079423
+@Comment:	Ifor takes Madlen the phone
+*MAD:	xxx . %snd:"fusser28"_1079423_1082163
+*IFO:	ia@1 . %snd:"fusser28"_1082163_1083173
+%gls:	yes
+%eng:	yes
+@Comment:	silence
+*LLA:	(y)dy@1 Eilir@0 (we)di@1 talu@1 wan@1 ? %snd:"fusser28"_1091718_1094098
+%gls:	be.3S.PRES Eilir PRT.PAST pay.NONFIN now
+%eng:	has Eilir paid now?
+*IFO:	na@1 wnes@1 i@1 adael@1 neges@1 fo@1 [?] diwrnod@1 blaen@1 # just@0 rhoi@1 caniad@1 . %snd:"fusser28"_1094098_1098266
+%gls:	no do.1S.PAST PRON.1S leave.NONFIN message PRON.3SM day before just give.NONFIN call
+%eng:	no, I left him a message the other day, just gave him a call
+*IFO:	ah@0 [?] bydd@1 Eilir@0 yn@1 iawn@1 . %snd:"fusser28"_1098266_1099845
+%gls:	IM be.3S.FUT Eilir PRT right
+%eng:	ah, Eilir will be fine
+*LLA:	rhaid@1 ni@1 ffeindio@1 [//] xxx ffigro@1 rywbeth@1 allan@1 efo@1 Adam@0 i@1 gael@1 # gorffen@1 o@1 off@0 <(he)fyd@1 bydd@1> [?] . %snd:"fusser28"_1099845_1107240
+%gls:	necessity PRON.1PL find.NONFIN xxx figure.NONFIN something out with Adam to get.NONFIN finish.NONFIN PRON.3SM off also be.3S.FUT
+%eng:	we'll have to find ... [...] figure something out with Adam to finish it off too, won't we
+*IFO:	Criccieth@0 ? %snd:"fusser28"_1107240_1108680
+*LLA:	yeah@0 . %snd:"fusser28"_1108680_1109249
+*LLA:	dw@1 i@1 (ddi)m@1 yn@1 gweld@1 er@0 [?] ffordd@1 mae@1 Tony@0 isio@1 mynd@1 yna@1 de@1 +... %snd:"fusser28"_1109249_1114195
+%gls:	be.1S.PRES PRON.1S NEG PRT see.NONFIN IM way be.3S.PRES Tony want go.NONFIN there TAG
+%eng:	I don't see the way Tony wants to go there, you know...
+*IFO:	be@1 +/? %snd:"fusser28"_1114195_1114740
+%gls:	what
+%eng:	what..?
+*LLA:	dw@1 i@1 (ddi)m@1 yn@1 gweld@1 y@1 boy@0 (y)n@1 talu@1 nine@2 hundred@2 quid@2 de@1 . %snd:"fusser28"_1114369_1116447
+%gls:	be.1S.PRES PRON.1S NEG PRT see.NONFIN DET boy PRT pay.NONFIN nine hundred quid TAG
+%eng:	I don't see the guy paying nine hundred quid, you know
+*IFO:	be@1 ? %snd:"fusser28"_1116447_1116842
+%gls:	what
+%eng:	what?
+*IFO:	mynd@1 yna@1 gung_ho@2 deud@1 <naw@1 cant@1> ["] mae@1 o@1 isio@1 chdi@1 wneud@1 ? %snd:"fusser28"_1116842_1119407
+%gls:	go.NONFIN there gung_ho say.NONFIN nine hundred be.3S.PRES PRON.3SM want PRON.2S do.NONFIN
+%eng:	he wants you to go there gung ho and say "nine hundred"
+*LLA:	yeah@0 . %snd:"fusser28"_1119059_1119918
+*IFO:	na@1 [?] . %snd:"fusser28"_1119918_1120383
+%gls:	no
+%eng:	no
+*LLA:	six@2 hundred@2 cash@2 . %snd:"fusser28"_1120383_1121579
+*IFO:	ti@1 (we)di@1 antagonise_io@21 (y)r@1 boy@0 dwyt@1 . %snd:"fusser28"_1121370_1122925
+%gls:	PRON.2S PRT.PAST antagonise.NONFIN DET boy be.2S.PRES.NEG
+%eng:	you've antagonised the guy, haven't you
+*LLA:	xxx # timod@1 # dw@1 i@1 (ddi)m@1 quite@0 digon@1 +... %snd:"fusser28"_1122925_1126025
+%gls:	xxx know.2S be.1S.PRES PRON.1S NEG quite enough
+%eng:	[...] you know, I'm not quite...
+*LLA:	ddim@1 yn@1 dallt@1 hi@1 ddigon@1 i@1 +/. %snd:"fusser28"_1126025_1128754
+%gls:	NEG PRT understand.NONFIN PRON.3SF enough to
+%eng:	don't understand enough to...
+*IFO:	+< isio@1 fi@1 xxx o@1 ? %snd:"fusser28"_1127488_1128475
+%gls:	want PRON.1S xxx PRON.3SM
+%eng:	want me to [...] him?
+*LLA:	dw@1 i@1 (ddi)m@1 yn@1 meindio@1 . %snd:"fusser28"_1128754_1129578
+%gls:	be.1S.PRES PRON.1S NEG PRT mind.NONFIN
+%eng:	I don't mind
+*LLA:	timod@1 just@0 um@0 # (peta)sai@1 [=? (ba)sai@1] fo@1 (y)n@1 dod@1 i_fyny@1 (y)ma@1 de@1 . %snd:"fusser28"_1129578_1132469
+%gls:	know.2S just IM if_be.3S.CONDIT PRON.3SM PRT come.NONFIN up here TAG
+%eng:	you know, just um, if he came up here, you know
+*IFO:	+< tra@1 mae@1 o@1 ffwrdd@1 a@1 i@1 weld@1 o@1 . %snd:"fusser28"_1129949_1131064
+%gls:	while be.3S.PRES PRON.3SM away go.1S.NONPAST PRON.1S see.NONFIN PRON.3SM
+%eng:	while he's away I'll go see him
+*LLA:	be@1 mae@1 o@1 feddwl@1 ar@1 y@1 funud@1 +"/. %snd:"fusser28"_1132469_1135708
+%gls:	what be.3S.PRES PRON.3SM think.NONFIN on DET minute
+%eng:	what he thinks at the moment:
+*LLA:	+" oh@0 mae@1 nhw@1 (we)di@1 anghofio@1 amdana@1 fi@1 mae@1 sure@0 (y)dy@1 . %snd:"fusser28"_1135708_1137612
+%gls:	IM be.3PL.PRES PRON.3PL PRT.PAST forget.NONFIN about.1S PRON.1S be.3S.PRES sure be.3S.PRES
+%eng:	"oh, they've forgotten about me probably, haven't they"
+*IFO:	gyn@1 ti@1 number@0 o@1 ? %snd:"fusser28"_1137612_1139586
+%gls:	with PRON.2S number PRON.3SM
+%eng:	have you got his number?
+*LLA:	oes@1 . %snd:"fusser28"_1139586_1140259
+%gls:	be.3S.PRES
+%eng:	yes
+*IFO:	wna@1 i@1 ffonio@1 fo@1 wan@1 . %snd:"fusser28"_1140259_1141374
+%gls:	do.1S.NONPAST PRON.1S phone.NONFIN PRON.3SM now
+%eng:	I'll phone him now
+*LLA:	wnei@1 [?] ? %snd:"fusser28"_1141374_1142209
+%gls:	do.2S.NONPAST
+%eng:	will you?
+*IFO:	ia@1 . %snd:"fusser28"_1142209_1143034
+%gls:	yes
+%eng:	yes
+@Comment:	long silence. Sound of Llawdden possibly rummaging through some things and occasionally muttering and whistling to himself
+*LLA:	be@1 [/] be@1 mae@1 nhw@1 (y)n@1 da@1 fa(n)@1 (y)ma@1 anyway@2 ? %snd:"fusser28"_1191447_1193514
+%gls:	what what be.3PL.PRES PRON.3PL PRT good place here anyway
+%eng:	what are they doing here anyway?
+*MAD:	xxx . %snd:"fusser28"_1193514_1194942
+*LLA:	ah@0 . %snd:"fusser28"_1194942_1196115
+@Comment:	long silence. One section of Llawdden's track blanked out where he's outside talking to some customers, and his mic cuts out a lot
+*IFO:	right@0 . %snd:"fusser28"_1303751_1305179
+*IFO:	xxx hen@1 pad@0 (y)na@1 [?] wnaethon@1 ni@1 ddechrau@1 +//? %snd:"fusser28"_1305179_1312110
+%gls:	xxx old pad there do.1PL.PAST PRON.1PL start.NONFIN
+%eng:	[...] that old pad we started..?
+*LLA:	yr@1 hen@1 xxx +/. %snd:"fusser28"_1312110_1313259
+%gls:	DET old xxx
+%eng:	the old [...] ...
+*IFO:	+< <lle@1 gest@1> [/] lle@1 gest@1 ti@1 hyd@1 i@1 hwn@1 ? %snd:"fusser28"_1312319_1313770
+%gls:	where get.2S.PAST where get.2S.PAST PRON.2S find to this
+%eng:	where did you...where did you find this?
+*LLA:	garden@2 centre@2 . %snd:"fusser28"_1313770_1315558
+*LLA:	Tony@0 wnaeth@1 ddropio@1 [=? dropio@1] fo@1 off@0 i@1 fi@1 diwrnod@1 [//] ryw@1 [//] # oes@1 yn_ôl@1 . %snd:"fusser28"_1315558_1318519
+%gls:	Tony do.3S.PAST drop.NONFIN PRON.3SM off to PRON.1S day some age back
+%eng:	Tony dropped it off for me ages ago
+*IFO:	oes@1 yn_ôl@1 ? %snd:"fusser28"_1318519_1319989
+%gls:	age back
+%eng:	ages ago?
+*LLA:	+< oedd@1 o@1 (we)di@1 mynd@1 â@1 fo@1 nôl@1 adre@1 doedd@1 . %snd:"fusser28"_1319339_1321069
+%gls:	be.3S.IMP PRON.3SM PRT.PAST go.NONFIN with PRON.3SM back home be.3S.IMP.NEG
+%eng:	he'd taken it back home, hadn't he
+*IFO:	ah@0 dw@1 i@1 (we)di@1 chwilio@1 amdan@1 hwn@1 a@1 chwilio@1 amdan@1 hwn@1 de@1 . %snd:"fusser28"_1321069_1323321
+%gls:	IM be.1S.PRES PRON.1S PRT.PAST search.NONFIN for this and search.NONFIN for this TAG
+%eng:	ah, I've looked and looked for this, you know
+*LLA:	&=laugh . %snd:"fusser28"_1322880_1323995
+*LLA:	o'n@1 i@1 meddwl@1 (y)r@1 un@1 peth@1 . %snd:"fusser28"_1323995_1326537
+%gls:	be.1S.IMP PRON.1S think.NONFIN DET one thing
+%eng:	I thought the same
+*LLA:	dyma@1 [?] hwn@1 wan@1 mae@1 o@1 (y)n@1 # dod@1 i@1 ben@1 dydy@1 . %snd:"fusser28"_1326537_1328499
+%gls:	here this now be.3S.PRES PRON.3SM PRT come.NONFIN to end be.3S.PRES.NEG
+%eng:	there's this now, it's coming to an end, isn't it
+*IFO:	sbïa@1 . %snd:"fusser28"_1328499_1329207
+%gls:	see.2S.IMPER
+%eng:	look
+*IFO:	hwnna@1 oedden@1 ni@1 chwilio@1 amdan@1 bob@1 man@1 . %snd:"fusser28"_1329207_1331634
+%gls:	that be.1PL.IMP PRON.1PL search.NONFIN for every place
+%eng:	that's the one we were searching for everywhere
+*LLA:	xxx fath@1 â@1 # manna@0 (y)r@1 nefoedd@1 . %snd:"fusser28"_1331634_1336649
+%gls:	xxx kind with manna DET heavens
+%eng:	[...] like manna from heaven
+@Comment:	silence
+*LLA:	(a)chos@1 [?] mae@1 (y)r@1 llall@1 yn@1 dod@1 i@1 ben@1 wan@1 dydy@1 . %snd:"fusser28"_1350082_1353600
+%gls:	because be.3S.PRES DET other PRT come.NONFIN to end now be.3S.PRES.NEG
+%eng:	because the other one's coming to an end now, isn't it
+*IFO:	&=cough wnes@1 i@1 anghofio@1 ffonio@1 Heritage_Homes@0 yn_ôl@1 . %snd:"fusser28"_1353600_1358081
+%gls:	do.1S.PAST PRON.1S forget.NONFIN phone.NONFIN Heritage_Homes back
+%eng:	I forgot to phone back Heritage Homes
+*IFO:	o'n@1 i@1 (y)n@1 brysur@1 pan@1 wnaeth@1 hi@1 ffonio@1 . %snd:"fusser28"_1358081_1360171
+%gls:	be.1S.IMP PRON.1S PRT busy when do.3S.PAST PRON.3SF phone.NONFIN
+%eng:	I was busy when she phoned
+*IFO:	so@0 well@1 i@1 <honno@1 fod@1 yn@1 list@0> [?] . %snd:"fusser28"_1360171_1361913
+%gls:	so better for that be.NONFIN in list
+%eng:	so she'd better be on the list
+*IFO:	xxx iwsio@1 hwn@1 eto@1 . %snd:"fusser28"_1361913_1363445
+%gls:	xxx use.NONFIN this again
+%eng:	[...] use this again
+*IFO:	gadwa@1 i@1 hwn@1 (fe)lly@1 . %snd:"fusser28"_1363445_1364397
+%gls:	keep.1S.NONPAST PRON.1S this thus
+%eng:	I'll keep this then
+*IFO:	(doe)s@1 (yn)a@1 (ddi)m@1 point@0 dechrau@1 un@1 newydd@1 . %snd:"fusser28"_1364397_1365767
+%gls:	be.3S.PRES.NEG there NEG point start.NONFIN one new
+%eng:	there's no point starting a new one
+*LLA:	+< gorffen@1 hwn@1 off@0 gynta@1 . %snd:"fusser28"_1365280_1366545
+%gls:	finish.NONFIN this off first
+%eng:	finish this off first
+*IFO:	ia@1 . %snd:"fusser28"_1366545_1367172
+%gls:	yes
+%eng:	yes
+*IFO:	neu@1 byddan@1 nhw@1 (y)n@1 bob@1 man@1 byddan@1 . %snd:"fusser28"_1367172_1368577
+%gls:	or be.3PL.FUT PRON.3PL in every place be.3PL.FUT
+%eng:	or they'll be everywhere, won't they
+*LLA:	byddan@1 . %snd:"fusser28"_1368577_1369192
+%gls:	be.3PL.FUT
+%eng:	yes
+*IFO:	counter_tops@2 yeah@0 James@0 . %snd:"fusser28"_1369192_1375949
+*IFO:	xxx . %snd:"fusser28"_1375949_1380245
+*LLA:	be@1 mae@1 (y)n@1 roid@1 ? %snd:"fusser28"_1380245_1382079
+%gls:	what be.3S.PRES PRT put.NONFIN
+%eng:	what's he/she/it putting/giving?
+*IFO:	hmm@0 ? %snd:"fusser28"_1382079_1383414
+*LLA:	be@1 mae@1 roid@1 ? %snd:"fusser28"_1383414_1384436
+%gls:	what be.3S.PRES put.NONFIN
+%eng:	what's he/she/it putting/giving?
+*LLA:	pa@1 diles@0 mae@1 nhw@1 isio@1 ? %snd:"fusser28"_1384436_1385569
+%gls:	which tiles be.3PL.PRES PRON.3PL want
+%eng:	which tiles do they want?
+*IFO:	xxx mawr@1 . %snd:"fusser28"_1385407_1387113
+%gls:	xxx big
+%eng:	[...] big
+*LLA:	oh@0 . %snd:"fusser28"_1387113_1387949
+*LLA:	ah@0 yeah@0 (dy)na@1 chdi@1 . %snd:"fusser28"_1387949_1389122
+%gls:	IM yeah there PRON.2S
+%eng:	ah yeah, that's it
+@Comment:	section blanked out where customer comes in and talks to Ifor and Llawdden
+@Comment:	long silence. Ifor flick through some pages
+*IFO:	hwn@1 o'n@1 isio@1 . %snd:"fusser28"_1438244_1439556
+%gls:	this be.1S.IMP want
+%eng:	this is what I wanted
+@Comment:	long silence. Llawdden sings along to the radio a little. Ifor dials a telephone number
+*LLA:	ti@1 ffonio@1 fo@1 ? %snd:"fusser28"_1453430_1454498
+%gls:	PRON.2S phone.NONFIN PRON.3SM
+%eng:	you phoning him?
+@Comment:	Researcher comes to end the recording
+@End

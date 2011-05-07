@@ -1,0 +1,2656 @@
+@Font:	Win95:Arial:-21:0
+@UTF8
+@Begin
+@Languages:	cy, en
+@Participants:	NER Nerys Adult, GUT Guto Adult
+@ID:	cy|siarad|NER|33;|female|||Adult||
+@ID:	cy|siarad|GUT|37;|male|||Adult||
+@Situation:	Informal conversation between a brother and sister, recorded at her home.
+@Comment:	NER (Right channel) was brought up in north-west Wales, and is living there now, after spending a significant period in England and in south Wales
+@Comment:	GUT (Left channel) was brought up in north-west Wales and has lived there all his life
+@Date:	16-OCT-2006
+@Coder:	Jonathan Stammers, Bangor University
+@Comment:	Researcher: Jonathan Stammers, Bangor University
+@Time Duration:	00:31:16
+@Comment:	Filename: Stammers3.CHA; Soundfile: Stammers3.WAV
+@Comment:	Language markers: @1 = Welsh, @2 = English, @0 = Undetermined, @21 = word with first morpheme(s) English, second morpheme(s) Welsh, @12 = word with first morpheme(s) Welsh, second morpheme(s) English.
+*GUT:	um@0 # <trot@2 and@2 walk@2 ride@0> ["] oedd@1 o@1 . %snd:"Stammers3"_513_3924
+%gls:	IM trot and walk ride be.3S.IMP PRON.3SM
+%eng:	um, it was a "trot-and-walk ride".
+*GUT:	er@0 wnaeth@1 [//] wnes@1 i@1 (dd)im@1 ganter_o@21 . %snd:"Stammers3"_4760_6014
+%gls:	IM do.3S.PAST do.1S.PAST PRON.1S NEG canter.NONFIN
+%eng:	er, I didn't canter.
+*GUT:	wnes@1 i@1 ofyn@1 <os@1 o'n@1 i@1> [=? (ba)swn@1 i@1] gael@1 canter_o@21 . %snd:"Stammers3"_6026_6978
+%gls:	do.1S.PAST PRON.1S ask.NONFIN if be.1S.IMP PRON.1S get.NONFIN canter.NONFIN
+%eng:	I asked whether I was allowed to canter.
+*GUT:	ond@1 do'n@1 i@1 (ddi)m@1 yn@1 cael@1 . %snd:"Stammers3"_6989_7918
+%gls:	but be.1S.IMP.NEG PRON.1S NEG PRT get.NONFIN
+%eng:	but I wasn't allowed.
+*NER:	pam@1 ? %snd:"Stammers3"_7953_8510
+%gls:	why
+%eng:	why?
+*GUT:	(be)cause@2 mae@1 (y)na@1 lot@0 o@1 bobl@1 (we)di@1 siwio@1 (y)n@1 y@1 gorffennol@1 . %snd:"Stammers3"_8464_10646
+%gls:	because be.3S.PRES there lot of people PRT.PAST sue.NONFIN in DET past
+%eng:	because a lot of people have sued in the past.
+*NER:	naci@1 ! %snd:"Stammers3"_10716_11320
+%gls:	no
+%eng:	no!
+*GUT:	ia@1 . %snd:"Stammers3"_11308_11970
+%gls:	yes
+%eng:	yes.
+*GUT:	wedi@1 meddwl@1 bod@1 nhw@1 (y)n@1 gallu@1 canter_o@21 . %snd:"Stammers3"_12481_14083
+%gls:	PRT.PAST think.NONFIN be.NONFIN PRON.3PL PRT can.NONFIN canter.NONFIN
+%eng:	had thought they were able to canter.
+*GUT:	a@1 pobl@1 y@1 stables@0 wedi@1 gadael@1 nhw@1 ganter_o@21 . %snd:"Stammers3"_14048_16173
+%gls:	and people DET stables PRT.PAST leave.NONFIN PRON.3PL canter.NONFIN
+%eng:	and the stables people had let them canter.
+*GUT:	a@1 nhw@1 (fa)th@1 â@1 (we)di@1 disgyn@1 i_ffwrdd@1 a@1 siwio@1 # y@1 riding@2 stables@2 wedyn@1 . %snd:"Stammers3"_16202_19395
+%gls:	and PRON.3PL kind with PRT.PAST fall.NONFIN away and sue.NONFIN DET riding stables after
+%eng:	and they'd, like, fallen off and sued the riding stables afterwards.
+*NER:	oh@0 ! %snd:"Stammers3"_20116_20720
+*GUT:	yeah@0 . %snd:"Stammers3"_20639_21451
+*GUT:	so@0 ges@1 i@1 (dd)im@1 canter_o@21 . %snd:"Stammers3"_21753_22659
+%gls:	so get.1S.PAST PRON.1S NEG canter.NONFIN
+%eng:	so I didn't get to canter.
+*GUT:	ond@1 ges@1 i@1 drotio@1 de@1 . %snd:"Stammers3"_22636_23762
+%gls:	but get.1S.PAST PRON.1S trot.NONFIN TAG
+%eng:	but I got to trot, right
+*GUT:	a@1 wnes@1 i@1 drotio@1 Western@2 style@0 . %snd:"Stammers3"_24006_25468
+%gls:	and do.1S.PAST PRON.1S trot.NONFIN Western style
+%eng:	and I trotted Western-style.
+*GUT:	wnes@1 i@1 trotio@1 xxx . %snd:"Stammers3"_26267_27370
+%gls:	do.1S.PAST PRON.1S trot.NONFIN xxx
+%eng:	I trotted [...].
+*NER:	+< just@0 jiggly@2 jig@0 ? %snd:"Stammers3"_26603_27776
+*GUT:	well@0 eistedd@1 (y)n@1 y@1 saddle@2 yn@1 dwfn@1 [?] de@1 peidio@1 jump_io@21 fyny@1 ac@1 i_lawr@1 (fe)lly@1 . %snd:"Stammers3"_28438_31398
+%gls:	well sit.NONFIN in DET saddle PRT deep TAG desist.NONFIN jump.NONFIN up and down thus
+%eng:	well, sitting deep in the saddle, right, not jumping up and down.
+*GUT:	bobio@1 d(y)@1 hun@1 i_fyny@1 (fe)lly@1 ? %snd:"Stammers3"_31829_32816
+%gls:	bob.NONFIN poss.2S self up thus
+%eng:	bobbing yourself up, like.
+*GUT:	just@0 eiste(dd)@1 +//. %snd:"Stammers3"_32943_33652
+%gls:	just sit.NONFIN
+%eng:	just sitting...
+*GUT:	&rei &ə &rei reidio@1 fath@1 â@1 cowboy@0 mewn@1 ffordd@1 de@1 . %snd:"Stammers3"_33721_35474
+%gls:	ride.NONFIN kind with cowboy in way TAG
+%eng:	riding like a cowboy in a way, right
+*NER:	mmm@0 . %snd:"Stammers3"_35440_36020
+*GUT:	fel@1 mae@1 Dad@0 yn@1 reidio@1 de@1 . %snd:"Stammers3"_36310_37448
+%gls:	like be.3S.PRES Dad PRT ride.NONFIN TAG
+%eng:	like Dad rides, eh
+*GUT:	a@1 ryw@1 cross@2 rhwng@1 Shire@2 a@1 ## cob@0 ges@1 i@1 . %snd:"Stammers3"_38076_42066
+%gls:	and some cross between Shire and cob get.1S.PAST PRON.1S
+%eng:	and I got some cross between a Shire and a cob.
+*GUT:	ceffyl@1 digon@1 trwm@1 (d)eud@1 y@1 gwir@1 . %snd:"Stammers3"_42159_43470
+%gls:	horse enough heavy say.NONFIN DET truth
+%eng:	a pretty heavy horse, actually.
+*NER:	pa@1 bryd@1 oedd@1 hynna@1 de@1 [?] ? %snd:"Stammers3"_43963_44788
+%gls:	when be.3S.IMP that then
+%eng:	when was that then?
+*NER:	dydd@1 Sadwrn@1 ta@1 dydd@1 Sul@1 ? %snd:"Stammers3"_44776_45693
+%gls:	day Saturday or day Sunday
+%eng:	Saturday or Sunday?
+*GUT:	dydd@1 Sul@1 oedd@1 hyn@1 . %snd:"Stammers3"_45647_46415
+%gls:	day Sunday be.3S.IMP this
+%eng:	this was Sunday.
+*GUT:	wnes@1 i@1 (dd)im@1 llawer@1 o@1 (di)m_byd@1 dydd@1 Sadwrn@1 . %snd:"Stammers3"_46368_47599
+%gls:	do.1S.PAST PRON.1S NEG much of nothing day Saturday
+%eng:	I didn't do much at all on Saturday.
+*GUT:	es@1 i@1 am@1 jog@2 dydd@1 Sul@1 hefyd@1 . %snd:"Stammers3"_47610_48969
+%gls:	go.1S.PAST PRON.1S for jog day Sunday too
+%eng:	I went for a jog on Sunday too.
+*GUT:	<dw@1 i@1 um@0> [/] # dw@1 i@1 am@1 ddechrau@1 jog_io@21 eto@1 (y)n@1 o@1 fuan@1 # <dw@1 i@1 meddwl@1> [?] +/. %snd:"Stammers3"_49935_52953
+%gls:	be.1S.PRES PRON.1S IM be.1S.PRES PRON.1S for start.NONFIN jog.NONFIN again PRT rather soon be.1S.PRES PRON.1S think.NONFIN
+%eng:	I'm going to start jogging again quite soon I think.
+*NER:	beth@1 am@1 y@1 smocio@1 ? %snd:"Stammers3"_53360_54335
+%gls:	what about DET smoke.NONFIN
+%eng:	what about the somking?
+*GUT:	+, +< weather@2 permitting@2 . %snd:"Stammers3"_54010_54804
+*GUT:	smocio@1 mae@1 smocio@1 (y)n@1 flêr@1 iawn@1 . %snd:"Stammers3"_54777_56449
+%gls:	smoke.NONFIN be.3S.PRES smoke.NONFIN PRT messy very
+%eng:	smoking, smoking is very messy.
+*NER:	yndy@1 ? %snd:"Stammers3"_56638_57172
+%gls:	be.3S.PRES
+%eng:	is it?
+*GUT:	<mond@1 yn@1> [?] smocio@1 baco@1 wan@1 so@0 xxx gwario@1 llai@1 . %snd:"Stammers3"_56870_59204
+%gls:	only PRT smoke.NONFIN tobacco now so xxx spend.NONFIN less
+%eng:	I'm only smoking tobacco now, so [...] spending less.
+*GUT:	um@0 +/. %snd:"Stammers3"_60411_60795
+*NER:	ti@1 (y)n@1 iwsio@1 filters@0 ? %snd:"Stammers3"_60597_61939
+%gls:	PRON.2S PRT use.NONFIN filters
+%eng:	are you using filters?
+*GUT:	nac@1 (y)dw@1 dim@1 iwsio@1 filters@0 o_gwbl@1 . %snd:"Stammers3"_62078_63610
+%gls:	NEG be.1S.PRES NEG use.NONFIN filters at_all
+%eng:	no, I'm not using filters at all
+*GUT:	a@1 mae@1 gwaith:@1 yn@1 galed@1 iawn@1 . %snd:"Stammers3"_64824_67030
+%gls:	and be.3S.PRES work PRT hard very
+%eng:	and work is really hard.
+*GUT:	o'n@1 i@1 (y)n@1 deud@1 wrth@1 <Debbie@0 wan@1> [//] neu@1 Debs@0 . %snd:"Stammers3"_67007_68597
+%gls:	be.1S.IMP PRON.1S PRT say.NONFIN to Debbie now or Debs
+%eng:	I was telling Debbie now... "Debs", rather.
+*GUT:	mae@1 gwaith@1 yn@1 galed@1 iawn@1 . %snd:"Stammers3"_69297_70434
+%gls:	be.3S.PRES work PRT hard very
+%eng:	work is really hard.
+*GUT:	<mae@1 (y)na@1> [///] toes@1 (yn)a@1 (ddi)m@1 digon@1 o@1 oriau@1 (y)n@1 y@1 diwrnod@1 . %snd:"Stammers3"_71787_73622
+%gls:	be.3S.PRES there be.3S.PRES.NEG there NEG enough of hours in DET day
+%eng:	there are...there aren't enough hours in a day.
+*GUT:	gen@1 i@1 case_load@2 o@1 ## um@0 # dri_deg@1 wan@1 . %snd:"Stammers3"_74520_78881
+%gls:	with PRON.1S case_load of IM thirty now
+%eng:	I've got a case-load of, um, 30 now.
+*NER:	mmm@0 . %snd:"Stammers3"_79013_79544
+*GUT:	a@1 lot@0 o@1 nhw@1 (y)n@1 achosion@1 digon@1 cymhleth@1 . %snd:"Stammers3"_79460_81271
+%gls:	and lot of PRON.3PL PRT cases enough complex
+%eng:	and a lot of them are pretty complicated cases.
+*GUT:	mae@1 Nghymraeg@1 i@1 (y)n@1 gwella@1 de@1 . %snd:"Stammers3"_81271_82816
+%gls:	be.3S.PRES Welsh PRON.1S PRT improve.NONFIN TAG
+%eng:	my Welsh is improving, right
+*NER:	yndy@1 mae@1 (y)n@1 swnio@1 . %snd:"Stammers3"_82885_83860
+%gls:	be.3S.PRES be.3S.PRES PRT sound.NONFIN
+%eng:	yes, you can hear.
+*GUT:	yndy@1 mae@1 gweithio@1 +/. %snd:"Stammers3"_83852_85060
+%gls:	be.3S.PRES be.3S.PRES work.NONFIN
+%eng:	yes, working...
+*NER:	++ gweithio@1 drwy@1 gyfrwng@1 Gymraeg@1 yn@1 helpu@1 ? %snd:"Stammers3"_85095_86778
+%gls:	work.NONFIN through medium Welsh PRT help.NONFIN
+%eng:	working through the medium of Welsh helps?
+*GUT:	well@0 dw@1 gorod@1 &ne wneud@1 lot@0 o@1 pethau@1 drwy@1 gyfrwng@1 y@1 Gymraeg@1 . %snd:"Stammers3"_86639_88742
+%gls:	well be.1S.PRES must.NONFIN do.NONFIN lot of things through medium DET Welsh
+%eng:	well, I have to do a lot of things through the medium of Welsh.
+*NER:	dw@1 i@1 wneud@1 pob_dim@1 trwy@1 gyfrwng@1 Saesneg@1 (y)li@1 . %snd:"Stammers3"_88986_90670
+%gls:	be.1S.PRES PRON.1S do.NONFIN everything through medium English see.2S.IMPER
+%eng:	I do everything though the medium of English, you see.
+*GUT:	well@0 yeah@0 (y)n@1 hollol@1 ! %snd:"Stammers3"_90623_91413
+%gls:	well yeah PRT exact
+%eng:	well, yeah, exactly!
+*GUT:	dyna@1 pam@1 ti@1 # <swnio@1 (fa)th@1 â@1> [?] scally@2 de@1 +!? %snd:"Stammers3"_91401_92678
+%gls:	there why PRON.2S sound.NONFIN kind with scally TAG
+%eng:	that's why you sound like a scally, isn't it!?
+*NER:	+< &=laugh ! %snd:"Stammers3"_91842_93526
+*GUT:	wedyn@1 um@0 +... %snd:"Stammers3"_93757_94616
+*NER:	&=laugh . %snd:"Stammers3"_94047_96265
+*GUT:	anyway@2 +... %snd:"Stammers3"_96393_97183
+*GUT:	 mae@1 Nghymraeg@1 i@1 yn@1 gwella@1 yn@1 yr@1 ystyr@1 bod@1 fi@1 (y)n@1 +//. %snd:"Stammers3"_98581_100520
+%gls:	be.3S.PRES Welsh PRON.1S PRT improve.NONFIN in DET sense be.NONFIN PRON.1S PRT
+%eng:	my Welsh is improving, in the sense that I...
+*GUT:	well@0 <dw@1 i@1> [/] dw@1 i@1 sgwennu@1 case@2 notes@0 yn@1 Gymraeg@1 neu@1 # nodiadau@1 achos@1 yn@1 Gymraeg@1 . %snd:"Stammers3"_100549_105106
+%gls:	well be.1S.PRES PRON.1S be.1S.PRES PRON.1S write.NONFIN case notes in Welsh or notes case in Welsh
+%eng:	well, I write case notes in Welsh, or "case notes" in Welsh.
+*NER:	+< &=laugh . %snd:"Stammers3"_104230_104996
+*GUT:	dw@1 i@1 (y)n@1 sgwennu@1 adroddiadau@1 (y)n@1 Gymraeg@1 . %snd:"Stammers3"_105432_107301
+%gls:	be.1S.PRES PRON.1S PRT write.NONFIN reports in Welsh
+%eng:	I write reports in Welsh.
+*GUT:	dw@1 i@1 sgwennu@1 asesiadau@1 (y)n@1 Gymraeg@1 . %snd:"Stammers3"_107313_108880
+%gls:	be.1S.PRES PRON.1S write.NONFIN assessments in Welsh
+%eng:	I write assessments in Welsh.
+*NER:	er@0 &pɔpt +/. %snd:"Stammers3"_109278_110509
+*GUT:	+< adolygiadau@1 . %snd:"Stammers3"_109650_110590
+%gls:	reviews
+%eng:	reviews.
+*NER:	pob_dim@1 trwy@1 Saesneg@1 really@2 . %snd:"Stammers3"_110892_112297
+%gls:	everything through English really
+%eng:	everything through English, really.
+*GUT:	yeah@0 . %snd:"Stammers3"_112273_112680
+*NER:	er@0 mae@1 wneud@1 gwahaniaeth@1 . %snd:"Stammers3"_112645_113655
+%gls:	IM be.3S.PRES make.NONFIN difference
+%eng:	it makes a difference.
+*GUT:	oh@0 er@1 <dw@1 i@1> [///] os@1 mae@1 (y)r@1 client@0 yn@1 Saesneg@1 # <wna@1 i@1> [/] wna@1 i@1 (y)r@1 gwaith@1 trwy@1 Saesneg@1 de@1 . %snd:"Stammers3"_113728_117199
+%gls:	IM although be.1S.PRES PRON.1S if be.3S.PRES DET client PRT English do.1S.NONPAST PRON.1S do.1S.NONPAST PRON.1S DET work through English TAG
+%eng:	oh although I... if the client's English I'll do the work through English, right
+*GUT:	ond@1 mae@1 lot@0 o@1 <client@0 yn@1> [?] Gymraeg@1 . %snd:"Stammers3"_117198_118315
+%gls:	but be.3S.PRES lot of client PRT Welsh
+%eng:	but a lot of clients are Welsh
+*NER:	+< oh@0 yeah@0 sure@0 . %snd:"Stammers3"_117316_118013
+%gls:	IM yeah sure
+%eng:	oh yeah, of course
+*GUT:	so@0 ni@1 (y)n@1 trio@1 cadw@1 +... %snd:"Stammers3"_118303_119347
+%gls:	so PRON.1PL PRT try.NONFIN keep.NONFIN
+%eng:	so we try to keep...
+*GUT:	mae@1 (y)na@1 bolicy@0 iaith@1 cry@1 er@0 er@0 <yn@1 &g> [/] yn@1 Gaernarfon@0 (y)li@1 . %snd:"Stammers3"_119534_121891
+%gls:	be.3S.PRES there policy language strong IM IM in in Caernarfon see.2S.IMPER
+%eng:	there's a strong language policy in Caernarfon, see.
+*GUT:	cryfa@1 yng@1 Nghymru@1 de@1 . %snd:"Stammers3"_122205_123308
+%gls:	strongest in Wales TAG
+%eng:	the strongest in Wales, you know
+*GUT:	lot@0 gwell@1 na@1 Sir_Fôn@1 de@1 . %snd:"Stammers3"_123890_125097
+%gls:	lot better than Anglesey TAG
+%eng:	a lot better than Anglesey, right
+*NER:	+< oh@0 yeah@0 . %snd:"Stammers3"_123959_124981
+*NER:	oh@0 yeah@0 ? %snd:"Stammers3"_125399_125933
+*GUT:	yeah@0 <maen@1 nhw@1 (y)n@1> [/] maen@1 nhw@1 (y)n@1 keen@2 iawn@1 ar@1 y@1 Gymraeg@1 yn@1 Gaernarfon@0 . %snd:"Stammers3"_125875_128255
+%gls:	yeah be.3PL.PRES PRON.3PL PRT be.3PL.PRES PRON.3PL PRT keen very on DET Welsh in Caernarfon
+%eng:	yeah, they're very keen on Welsh in Caernarfon.
+*NER:	mmm@0 . %snd:"Stammers3"_128558_128953
+*GUT:	mae@1 rei@1 mwy@1 keen@2 na@1 (e)i_gilydd@1 de@1 . %snd:"Stammers3"_128930_129975
+%gls:	be.3S.PRES some more keen than each_other TAG
+%eng:	some are keener than others, right
+*GUT:	mae@1 rei@1 yn@1 ofnadwy@1 . %snd:"Stammers3"_129998_130695
+%gls:	be.3S.PRES some PRT awful
+%eng:	some are awful.
+*GUT:	mae@1 rei@1 yn@1 eithafol@1 de@1 . %snd:"Stammers3"_130671_131740
+%gls:	be.3S.PRES some PRT extreme TAG
+%eng:	some are extreme, you know
+*GUT:	mae@1 rei@1 yn@1 # timod@1 &f Welsh@2 Nationalists@2 ffyrnig@1 (ba)swn@1 i@1 ddeud@1 de@1 . %snd:"Stammers3"_132590_135934
+%gls:	be.3S.PRES some PRT know.2S Welsh Nationalists fierce be.1S.CONDIT PRON.1S say.NONFIN TAG
+%eng:	some are fierce Welsh Nationalists, I'd say, right
+*GUT:	gobeithio@1 bod@1 hyn@1 yn@1 confidential@2 ! %snd:"Stammers3"_136178_137222
+%gls:	hope.NONFIN be.NONFIN this PRT confidential
+%eng:	I hope this is confidential!
+*NER:	&=laugh ! %snd:"Stammers3"_137455_139010
+*GUT:	ond@1 um@0 na@1 . %snd:"Stammers3"_138952_139846
+%gls:	but IM no
+%eng:	but, er, no.
+*GUT:	&m mae@1 wneud@1 byd@1 o@1 les@1 i@1 mi@1 . %snd:"Stammers3"_139828_141012
+%gls:	be.3S.PRES make.NONFIN world of benefit to PRON.1S
+%eng:	it does me the world of good.
+*GUT:	um@0 +... %snd:"Stammers3"_141198_141813
+*GUT:	dw@1 i@1 mwynhau@1 yr@1 gwaith@1 . %snd:"Stammers3"_142904_143845
+%gls:	be.1S.PRES PRON.1S enjoy.NONFIN DET work
+%eng:	I enjoy the work
+*GUT:	ond@1 <mae@1 (y)r@1> [//] # mae@1 braidd@1 yn@1 ormodol@1 weithiau@1 . %snd:"Stammers3"_143845_146573
+%gls:	but be.3S.PRES DET be.3S.PRES somewhat PRT excessive sometimes
+%eng:	but it's a bit much sometimes.
+*GUT:	ddes@1 i@1 weld@1 Adam_Adams@0 college@2 tutor@0 ychydig@1 yn_ôl@1 . %snd:"Stammers3"_147145_149781
+%gls:	come.1S.PAST PRON.1S see.NONFIN Adam_Adams college tutor a_bit back
+%eng:	I went to see Adam Adams, the college tutor, a while back.
+*GUT:	<a@1 fel@1> [?] wnes@1 i@1 sylwi@1 llyfr@1 ar@1 ei@1 &ʃ shelf@2 o@1 The_Crisis_of_Local_Authorities@0 . %snd:"Stammers3"_149868_154106
+%gls:	and like do.1S.PAST PRON.1S notice.NONFIN book on POSS.3SM shelf PRON.3SM The_Crisis_of_Local_Authorities
+%eng:	and like, I noticed a book on his shelf, The Crisis of Local Authorities.
+*GUT:	so@0 o'n@1 i@1 meddwl@1 i@1 fi@1 (y)n@1 hun@1 +"/. %snd:"Stammers3"_154094_155116
+%gls:	so be.1S.IMP PRON.1S think.NONFIN to PRON.1S POSS.1S self
+%eng:	so I was thinking to myself:
+*GUT:	+" how@2 very@0 apt@2 ! %snd:"Stammers3"_155104_156021
+*GUT:	(be)cause@2 er@0 mae@1 (y)na@1 dipyn@1 o@1 grisis@0 (y)na@1 in@2 terms@2 of@2 er@0 human@2 resources@2 de@1 . %snd:"Stammers3"_156801_161329
+%gls:	because IM be.3S.PRES there a_bit of crisis there in terms of IM human resources TAG
+%eng:	because there is a bit of a crisis there, in terms of human resources, right
+*GUT:	&efɔ &e team@0 ni@1 er@1 enghraifft@1 oedd@1 yna@1 fod@1 (y)na@1 dri@1 social@2 worker@2 a@1 ddim@1 dau@1 de@1 . %snd:"Stammers3"_161997_166177
+%gls:	team PRON.1PL for example be.3S.IMP there be.NONFIN there three.M social worker and NEG two.M TAG
+%eng:	our team, for example, there were supposed to be three social workers, and not two, you know
+*GUT:	(be)cause@2 mae@1 (y)na@1 digon@1 o@1 waith@1 digon@1 [!] o@1 waith@1 mwy@1 na@1 digon@1 o@1 waith@1 i@1 dri@1 social@2 worker@2 # neu@1 tri@1 gweithiwr@1 cymdeithasol@1 <ddylwn@1 i@1 ddeud@1> [?] . %snd:"Stammers3"_166456_172020
+%com:	have not inserted retracing marks here since repetition here is for extra emphasis.
+%gls:	because be.3S.PRES there enough of work enough of work more than enough of work to three.M social worker or three.M worker social should.1S.CONDIT PRON.1S say.NONFIN
+%eng:	because there's enough work, enough work, more than enough work for three social workers, or "three social workers", I should say.
+*GUT:	<anyway@2 mae@1 hynna@1 swnio@1> [?] contrived@2 wan@1 . %snd:"Stammers3"_172624_174272
+%gls:	anyway be.3S.PRES that sound.NONFIN contrived now
+%eng:	anyway, that sounds contrived now.
+*GUT:	wna@1 i@1 siarad@1 Wenglish@0 eto@1 yeah@0 ? %snd:"Stammers3"_174168_175538
+%gls:	do.1S.NONPAST PRON.1S talk.NONFIN Wenglish again yeah
+%eng:	I'll talk in Wenglish again, shall I?
+*NER:	&=laugh . %snd:"Stammers3"_175795_177316
+*GUT:	deuda@1 [?] di@1 # am@1 dy@1 waith@1 di@1 ta@1 . %snd:"Stammers3"_177629_179475
+%gls:	say.2S.IMPER PRON.2S about POSS.2S work PRON.2S then
+%eng:	you say about your work then.
+*NER:	well@0 &pe at@2 least@2 ti@1 (dd)im@1 yn@1 gorod@1 # mynd@1 i@1 gwaith@1 yn@1 meddwl@1 bod@1 chdi@1 mynd@1 i@1 gael@1 # swaden@1 neu@1 dy@1 frathu@1 bob@1 diwrnod@1 nag@1 wyt@1 ? %snd:"Stammers3"_180369_186244
+%gls:	well at least PRON.2S NEG PRT must.NONFIN go.NONFIN to work PRT think.NONFIN be.NONFIN PRON.2S go.NONFIN to get.NONFIN slap or POSS.2S bite.NONFIN every day NEG be.2S.PRES
+%eng:	well, at least you don't have to go to work thinking you're going to get a slap or bitten every day, do you?
+*NER:	mae@1 hynna@1 (y)n@1 rywbeth@1 dydy@1 . %snd:"Stammers3"_186220_187045
+%gls:	be.3S.PRES that PRT something be.3S.PRES.NEG
+%eng:	that's something, isn't it?
+*GUT:	na@1 . %snd:"Stammers3"_186918_187452
+%gls:	no
+%eng:	no.
+*NER:	a@1 <mae@1 well@1> [/] mae@1 well@1 ers@1 dipyn@1 . %snd:"Stammers3"_188066_190377
+%gls:	and be.3S.PRES better be.3S.PRES better since a_bit
+%eng:	and it's been better for a while.
+*NER:	oedd@1 yr@1 hogyn@1 <oedden@1 ni@1> [?] (y)n@1 gweithio@1 (e)fo@1 ddwytha@1 # creadur@1 bach@1 um@0 # ddipyn@1 o@1 llond@1 llaw@1 . %snd:"Stammers3"_190541_196172
+%gls:	be.3S.IMP DET boy be.1PL.IMP PRON.1PL PRT work.NONFIN with previous creature little a_bit of fill hand
+%eng:	the boy we were last working with, poor little thing, was a bit of a handful.
+*GUT:	mmm@0 . %snd:"Stammers3"_196206_196903
+*NER:	<o'n@1 i@1 (y)n@1> [/] <o'n@1 i@1 (y)n@1 cael@1 lot@0 o@1> [///] o'n@1 i@1 (y)n@1 cael@1 swaden@1 yn@1 aml@1 adeg@1 hynny@1 . %snd:"Stammers3"_197112_200386
+%gls:	be.1S.IMP PRON.1S PRT be.1S.IMP PRON.1S PRT get.NONFIN lot of be.1S.IMP PRON.1S PRT get.NONFIN slap PRT often time that
+%eng:	I was often getting a slap at back then.
+*NER:	ond@1 <oedden@1 ni@1> [/] <oedden@1 ni@1> [///] &n wnes@1 i@1 dechrau@1 deud@1 gynnau@1 do@1 . %snd:"Stammers3"_200444_203080
+%gls:	but be.1PL.IMP PRON.1PL be.1PL.IMP PRON.1PL do.1S.PAST PRON.1S start.NONFIN say.NONFIN earlier yes
+%eng:	but we... I started to say before didn't I
+*NER:	oedden@1 ni@1 (we)di@1 wneud@1 <yr@1 &p> [/] yr@1 [/] ## yr@1 [/] # <functional@2 analysis@2> ["] mae@1 (y)n@1 cael@1 ei@1 alw@1 . %snd:"Stammers3"_203039_208159
+%gls:	be.1PL.IMP PRON.1PL PRT.PAST do.NONFIN DET DET DET functional analysis be.3S.PRES PRT get.NONFIN POSS.3SM call.NONFIN
+%eng:	we'd done the... "functional analysis", it's called.
+*GUT:	ia@1 . %snd:"Stammers3"_208238_208772
+%gls:	yes
+%eng:	yes.
+*NER:	+, lle@1 &m wyt@1 ti@1 (y)n@1 um@0 trio@1 # um@0 # copïo@1 kind@2 of@2 ### &=sigh sefyllfaoedd@1 # naturiol@1 # sy@1 (y)n@1 digwydd@1 ym@1 mywyd@1 # y@1 plentyn@1 dan@1 ni@1 (y)n@1 gweithio@1 efo@1 . %snd:"Stammers3"_208582_222154
+%gls:	where be.2S.PRES PRON.2S PRT IM try.NONFIN IM copy.NONFIN kind of situations natural be.PRES.REL PRT happen.NONFIN in life DET child be.1PL.PRES PRON.1PL PRT work.NONFIN with
+%eng:	...where you're trying to copy kind of, natural situations that happen in the life of the child you're working with.
+*GUT:	+< yeah@0 . %snd:"Stammers3"_220940_221230
+*GUT:	yeah@0 . %snd:"Stammers3"_222217_222589
+*NER:	+, i@1 trio@1 # weld@1 <os@1 mae@1 (y)na@1 rywbeth@1> [//] ## os@1 (y)na@1 er@0 +//. %snd:"Stammers3"_222799_226514
+%gls:	to try.NONFIN see.NONFIN if be.3S.PRES there something if there IM
+%eng:	to try and see if there's something... if there...
+*NER:	<mae@1 o@1 (y)n@1> [/] mae@1 o@1 (y)n@1 # medru@1 attack_io@21 (y)n@1 ofnadwy@1 tydy@1 . %snd:"Stammers3"_226503_229394
+%gls:	be.3S.PRES PRON.3SM PRT be.3S.PRES PRON.3SM PRT can.NONFIN attack.NONFIN PRT awful be.3S.PRES.NEG
+%eng:	he's able to attack you dreadfully, isn't he?
+*GUT:	ymosod@1 ["] yeah@0 . %snd:"Stammers3"_229421_230570
+%gls:	attack.NONFIN yeah
+%eng:	"attack", yeah.
+*NER:	um@0 er@0 yeah@0 . %snd:"Stammers3"_230956_231723
+*NER:	+, a@1 &ɔn &we er@1 enghraifft@1 i@1 [/] i@1 (y)r@1 pwynt@1 lle@1 oedd@1 (y)na@1 un@1 hogan@1 # +//. %snd:"Stammers3"_231815_235670
+%gls:	and for example to to DET point where be.3S.IMP there one girl
+%eng:	and, for example, to the point where there was one girl...
+*NER:	mae@1 un@1 hogan@1 off@0 dal@1 [!] off@0 . %snd:"Stammers3"_235960_237644
+%gls:	be.3S.PRES one girl off still off
+%eng:	one girl is off, still off.
+*GUT:	yeah@0 . %snd:"Stammers3"_237829_238189
+*NER:	mae@1 (we)di@1 brathu@1 llaw@1 hi@1 nes@1 mae@1 (we)di@1 cael@1 fracture@2 yn@1 ei@1 llaw@1 . %snd:"Stammers3"_238120_240999
+%gls:	be.3S.PRES PRT.PAST bite.NONFIN hand PRON.3SF until be.3S.PRES PRT.PAST get.NONFIN fracture in POSS.3S hand
+%eng:	he's bitten her hand so badly that she's got a fracture in her hand.
+*GUT:	ie@1 . %snd:"Stammers3"_241045_241568
+%gls:	yes
+%eng:	yes.
+*NER:	so@0 mae@1 o@1 (y)n@1 timod@1 +//. %snd:"Stammers3"_241788_243115
+%gls:	so be.3S.PRES PRON.3SM PRT know.2S
+%eng:	so he's, you know...
+*NER:	a@1 hefyd@1 mae@1 o@1 medru@1 brif(o)@1 [//] er@0 er@0 attack_io@21 ei@1 hun@1 yn@1 ofnadwy@1 dydy@1 . %snd:"Stammers3"_243103_246157
+%gls:	and also be.3S.PRES PRON.3SM can.NONFIN hurt.NONFIN IM IM attack.NONFIN POSS.3S self PRT awful be.3S.PRES.NEG
+%eng:	and also he can attack himself terribly, can't he
+*NER:	self_injury@2 ofna(dwy)@1 [//] erchyll@1 . %snd:"Stammers3"_246122_247782
+%gls:	self_injury awful atrocious
+%eng:	atrocious self-injury.
+*GUT:	yeah@0 . %snd:"Stammers3"_247922_248398
+*NER:	wedyn@1 maen@1 nhw@1 (y)n@1 trio@1 wneud@1 y@1 study@2 (y)ma@1 <lle@1 mae@1> [//] lle@1 dan@1 ni@1 (y)n@1 trio@1 ffeindio@1 # os@1 [/] &mɔs [//] os@1 mae@1 (y)na@1 rywbeth@1 (he)blaw@1 [?] ## ei@1 environment@2 o@1 # yn@1 (a)chosi@1 ## yr@1 self_injury@2 <a@1 (y)r@1> [/] # a@1 (y)r@1 attack_io@21 de@1 . %snd:"Stammers3"_248517_262245
+%gls:	then be.3PL.PRES PRON.3PL PRT try.NONFIN do.NONFIN DET study here where be.3S.PRES where be.1PL.PRES PRON.1PL PRT try.NONFIN find.NONFIN if if be.3S.PRES there something except POSS.3SM environment PRON.3SM PRT cause.NONFIN DET self_injury and DET and DET attack.NONFIN TAG
+%eng:	so they're trying to do this study where we're trying to find out whether there's anything apart from his environment causing the self-injury and the attacks, right
+*GUT:	+< mmm@0 . %snd:"Stammers3"_257659_257938
+*GUT:	mmm@0 . %snd:"Stammers3"_262349_262628
+*NER:	+, neu@1 ymosod@1 ["] ! %snd:"Stammers3"_262547_263336
+%gls:	or attack.NONFIN
+%eng:	"attacks", rather!
+*GUT:	mmm@0 . %snd:"Stammers3"_263557_263998
+*NER:	a@1 <oedd@1 (y)na@1 fath@1 â@1> [///] un@1 o@1 (y)r@1 pethau@1 # oedd@1 rywun@1 yn@1 teimlo@1 o_blaen@1 # oedd@1 yn@1 medru@1 achosi@1 ## yr@1 ymosod@1 # (y)ma@1 # oedd@1 um@0 pan@1 <fyddai@1 fo@1> [//] # fydda@1 chdi@1 (y)n@1 demand_io@21 rywbeth@1 ohono@1 fo@1 . %snd:"Stammers3"_264524_276969
+%gls:	and be.3S.IMP there kind with one of DET things be.3S.IMP someone PRT feel.NONFIN before be.3S.IMP PRT can.NONFIN cause.NONFIN DET attack.NONFIN here be.3S.IMP IM when be.3S.CONDIT PRON.3SM be.2S.CONDIT PRON.2S PRT demand.NONFIN something of.3SM PRON.3SM
+%eng:	and there was, like... one of the things you previously thought could be causing these attacks was when you would demand something from him.
+*NER:	so@0 <os@1 fyddai@1> [//] fasai@1 (y)r@1 demand@2 yn@1 ry@1 [/] # ry@1 fawr@1 # fasai@1 fo@1 methu@1 cope_io@21 . %snd:"Stammers3"_276949_281570
+%gls:	so if be.3S.CONDIT be.3S.CONDIT DET demand PRT too too big be.3S.CONDIT PRON.3SM fail.NONFIN cope.NONFIN
+%eng:	so if the demand was too great, he wouldn't be able to cope.
+*GUT:	+< mmm@0 mmm@0 . %snd:"Stammers3"_279581_280638
+*NER:	fasai@1 methu@1 deud@1 +"/. %snd:"Stammers3"_281554_282912
+%gls:	be.3S.CONDIT fail.NONFIN say.NONFIN
+%eng:	he wouldn't be able to say:
+*GUT:	mmm@0 . %snd:"Stammers3"_282854_283261
+*NER:	+" oh@0 mae@1 (y)r@1 demand@2 yma@1 ry@1 fawr@1 . %snd:"Stammers3"_283005_284526
+%gls:	IM be.3S.PRES DET demand here too great
+%eng:	"oh, this demand is too much."
+*NER:	<fasai@1 fo@1 (y)n@1> [?] attack_io@21 de@1 . %snd:"Stammers3"_284491_285583
+%gls:	be.3S.CONDIT PRON.3SM PRT attack.NONFIN TAG
+%eng:	he'd attack, right
+*GUT:	mmm@0 . %snd:"Stammers3"_285559_285873
+*NER:	so@0 byddai@1 xxx . %snd:"Stammers3"_285861_286769
+%gls:	so be.3S.CONDIT xxx
+%eng:	so he'd be [...] .
+*NER:	dyna@1 oedd@1 un@1 . %snd:"Stammers3"_286815_287697
+%gls:	there be.3S.IMP one
+%eng:	that was one.
+*NER:	un@1 arall@1 oedd@1 wrth@1 bod@1 gynno@1 fo@1 ddim@1 iaith@1 ## um@0 # &ɨ  <un@1 o@1> [/] un@1 o@1 (y)r@1 sefyllfaoedd@1 oedd@1 bod@1 [/] bod@1 (y)na@1 rywun@1 yn@1 siarad@1 # ato@1 fo@1 am@1 bum@1 munud@1 non_stop@2 . %snd:"Stammers3"_287732_298344
+%gls:	one other be.3S.IMP as be.NONFIN with.3SM PRON.3SM NEG language IM one of one of DET situations be.3S.IMP be.NONFIN be.NONFIN there someone PRT talk.NONFIN to.3SM PRON.3SM for five minute non_stop
+%eng:	another one was, while he had no language, one of the situations was that someone would talk to him for five minutes non-stop.
+*GUT:	+< mmm@0 .
+*GUT:	oh@0 dyna@1 be@1 oedda@1 chdi@1 ddeu(d)@1 (wr)th@1 Deb@0 wan@1 de@1 yeah@0 . %snd:"Stammers3"_298074_299750
+%gls:	IM there what be.2S.IMP PRON.2S say.NONFIN to Deb now TAG yeah
+%eng:	oh, that's what you were telling Deb, now, yeah.
+*NER:	+< yeah@0 &dən yeah@0 . %snd:"Stammers3"_298647_299703
+*NER:	a:@1 weld@1 os@1 [/] os@1 mae@1 hynna@1 medru@1 achosi@1 # ymosod@1 . %snd:"Stammers3"_300435_304789
+%gls:	and see.NONFIN if if be.3S.PRES that can.NONFIN cause.NONFIN attack.NONFIN
+%eng:	and see whether that can cause attacks.
+*GUT:	+< mmm@0 . %snd:"Stammers3"_303511_303976
+*NER:	&məsə a@1 [//] ac@1 oedd@1 hynna@1 weld@1 &θas (pe)tasai@1 [?] fo@1 yn@1 medru@1 . %snd:"Stammers3"_304916_307610
+%gls:	and and be.3S.IMP that see.NONFIN if_be.3S.CONDIT PRON.3SM PRT can.NONFIN
+%eng:	and that seemed that it could.
+*GUT:	+< mmm@0 . %snd:"Stammers3"_305032_305416
+*GUT:	yeah@0 . %snd:"Stammers3"_307653_307990
+*NER:	a@1 &gw [///] so@0 gwahanol@1 sefyllfaoedd@1 +/. %snd:"Stammers3"_307943_309302
+%gls:	and so different situations
+%eng:	so, different situations...
+*GUT:	+< so@0 chwilio@1 am@1 y@1 triggers@0 mewn@1 ffordd@1 . %snd:"Stammers3"_308717_310052
+%gls:	so search.NONFIN for DET triggers in way
+%eng:	so, looking for the triggers, in a way.
+*NER:	yeah@0 be@1 oedd@1 y@1 triggers@0 . %snd:"Stammers3"_310064_310842
+%gls:	yeah what be.3S.IMP DET triggers
+%eng:	yeah, what were the triggers.
+*GUT:	yeah@0 . %snd:"Stammers3"_310912_311318
+*NER:	ond@1 &bem &a &a &sa [///] so@0 i@1 weld@1 os@1 mae@1 (y)na@1 # fath@1 â@1 environmental@2 triggers@0 ta@1 er@0 rywbeth@1 biological@2 ydy@1 o@1 de@1 . %snd:"Stammers3"_311887_317576
+%gls:	but so to see.NONFIN if be.3S.PRES there kind with environmental triggers or IM something biological be.3S.PRES PRON.3SM TAG
+%eng:	but... so, to see whether there are, like, environmental triggers or whether it's something biological, right.
+*GUT:	yeah@0 # yeah@0 . %snd:"Stammers3"_317623_318691
+*NER:	so@0 &ts dyna@1 be@1 dan@1 ni@1 wneud@1 ar@1 y@1 funud@1 . %snd:"Stammers3"_318261_319840
+%gls:	so there what be.1PL.PRES PRON.1PL do.NONFIN on DET minute
+%eng:	so that's what we're doing at the minute.
+*NER:	ond@1 ## dydy@1 [///] yeah@0 ond@1 mae@1 o@1 (y)n@1 iawn@1 . %snd:"Stammers3"_320139_322996
+%gls:	but be.3S.PRES.NEG yeah but be.3S.PRES PRON.3SM PRT right
+%eng:	but it's alright
+*NER:	<ond@1 (ba)swn@1> [?] [//] (ba)sai@1 well@1 gen@1 i@1 fod@1 adre@1 <though@2 bysai@1> [?] . %snd:"Stammers3"_322996_324365
+%gls:	but be.1S.CONDIT be.3S.CONDIT better with.1S PRON.1S be.NONFIN home though be.3S.CONDIT
+%eng:	I'd rather be at home though, wouldn't I.
+*NER:	dyna@1 (y)dy@1 (y)r@1 peth@1 . %snd:"Stammers3"_324768_325500
+%gls:	there be.3S.PRES DET thing
+%eng:	that's the thing.
+*NER:	ond@1 mae@1 o@1 (y)n@1 iawn@1 . %snd:"Stammers3"_325523_326162
+%gls:	but be.3S.PRES PRON.3SM PRT right
+%eng:	but it's alright.
+*GUT:	mmm@0 . %snd:"Stammers3"_325662_326429
+*NER:	mae@1 (y)n@1 iawn@1 . %snd:"Stammers3"_326440_327044
+%gls:	be.3S.PRES PRT right
+%eng:	it's alright.
+*GUT:	ia@1 <matter@0 &w> [/] matter@0 o@1 raid@1 (y)dy@1 o@1 de@1 . %snd:"Stammers3"_326603_328147
+%gls:	yes matter matter of necessity be.3S.PRES PRON.3SM TAG
+%eng:	yes, it's a question of necessity, isn't it?
+*NER:	well@0 dw@1 i@1 (ddi)m@1 yn@1 gwybod@1 gymaint@1 . %snd:"Stammers3"_328037_329662
+%gls:	well be.1S.PRES PRON.1S NEG PRT know.NONFIN so_much
+%eng:	well, I'm not so sure.
+*NER:	er@0 gawn@1 ni@1 weld@1 . %snd:"Stammers3"_329651_330765
+%gls:	IM get.1PL.NONPAST PRON.1PL see.NONFIN
+%eng:	we'll see.
+*GUT:	ia@1 . %snd:"Stammers3"_330707_331311
+%gls:	yes
+%eng:	yes.
+*NER:	achos@1 # dim@1 matter@0 o@1 raid@1 gymaint@1 # yn@1 y@1 sense@0 that@2 [=? (fa)th@1 â@1] +/. %snd:"Stammers3"_331694_335560
+%gls:	because NEG matter of necessity so_much in DET sense that
+%eng:	because, not so much a question of necessity, in the sense that...
+*GUT:	well@0 ti@1 isio@1 cael@1 cadw@1 dy@1 career@2 yn@1 fyw@1 hefyd@1 does@1 i@1 raddau@1 does@1 . %snd:"Stammers3"_335495_338038
+%gls:	well PRON.2S want get.NONFIN keep.NONFIN POSS.2S career PRT alive also be.3S.PRES.NEG to degrees be.3S.PRES.NEG
+%eng:	well, you want to be able to keep your career going too, don't you, to an extent, don't you?
+*GUT:	ti@1 isio@1 cario@1 (y)mlaen@1 +//. %snd:"Stammers3"_338142_338899
+%gls:	PRON.2S want carry.NONFIN forward
+%eng:	you want to carry on...
+*GUT:	nag@1 oes@1 ta@1 ti@1 (dd)im@1 yn@1 fussed@2 am@1 hynna@1 dim@1 mwy@1 ? %snd:"Stammers3"_338957_340501
+%gls:	NEG be.3S.PRES or PRON.2S NEG PRT fussed about that NEG more
+%eng:	no, or are you not fussed about that any more?
+*NER:	well@0 (ba)sai@1 well@1 gyn@1 i@1 fod@1 adre@1 . %snd:"Stammers3"_340917_342879
+%gls:	well be.3S.CONDIT better with PRON.1S be.NONFIN home
+%eng:	well, I'd rather be at home.
+*GUT:	ia@1 oh@0 [?] just@0 yn@1 wraig@1 ac@1 yn@1 fam@1 (fe)lly@1 ? %snd:"Stammers3"_343341_345373
+%gls:	yes IM just PRT wife and PRT mother thus
+%eng:	yes, oh just a wife and a mother, then?
+*NER:	<ond@1 mae@1 (y)na@1 ddigon@1> [?] +//. %snd:"Stammers3"_345386_346431
+%gls:	but be.3S.PRES there enough
+%eng:	but there's enough...
+*NER:	timod@1 fedri@1 +/. %snd:"Stammers3"_346399_346980
+%gls:	know.2S can.2S.NONPAST
+%eng:	you know, you can...
+*GUT:	mae@1 gen@1 ti@1 gymaint@1 i@1 gynnig@1 does@1 . %snd:"Stammers3"_346446_347572
+%gls:	be.3S.PRES with PRON.2S so_much to offer.NONFIN be.3S.PRES.NEG
+%eng:	you've got so much to offer, haven't you?
+*GUT:	tibod@1 . %snd:"Stammers3"_347909_348269
+%gls:	know.2S
+%eng:	you know.
+*NER:	<yeah@0 <fedri@1 di@1 &vi> [/] &vi &di fedri@1 di@1> [?] +/. %snd:"Stammers3"_347995_349987
+%gls:	yeah can.2S.NONPAST PRON.2S can.2S.NONPAST PRON.2S
+%eng:	yeah, you can... you can...
+*GUT:	ar@1 un@1 adeg@1 oedda@1 chdi@1 sôn@1 am@1 bod@1 yn@1 educational@2 psychologist@2 # neu@1 seicoloegwr@1 neu@1 &se seicolegwraig@1 addysgol@1 . %snd:"Stammers3"_349092_355304
+%gls:	on one period be.2S.IMP PRON.2S talk.NONFIN about be.NONFIN PRT educational psychologist or psychologist_man or psychologist_woman educational
+%eng:	at one time you we're talking about becoming an educational psychologist... or "educational psychologist woman".
+*NER:	na@1 seicolegydd@1 ["] (ba)set@1 ti@1 ddeud@1 de@1 . %snd:"Stammers3"_354992_357185
+%gls:	no psychologist be.2S.CONDIT PRON.2S say.NONFIN TAG
+%eng:	no, "psychologist", you say, right.
+*GUT:	oh@0 sorry@0 seicolegydd@1 ["] . %snd:"Stammers3"_357127_358253
+%gls:	IM sorry psychologist
+%eng:	oh, sorry, "psychologist".
+*NER:	&=mumble . %snd:"Stammers3"_358300_358648
+*GUT:	&m (d)eud@1 y@1 gwir@1 dydy@1 Cymraeg@1 ni@1 [?] mor@1 ddrwg@1 â@1 hynna@1 . %snd:"Stammers3"_359001_360963
+%gls:	say.NONFIN DET truth be.3S.PRES.NEG Welsh PRON.1PL so bad with that
+%eng:	actually, our Welsh isn't that bad.
+*GUT:	just@0 diogrwydd@1 (y)dy@1 o@1 <fath@1 â@1 ran@1 fwya@1> [?] bobl@1 Cymraeg@1 . %snd:"Stammers3"_360998_362798
+%gls:	just laziness be.3S.PRES PRON.3SM kind with part most people Welsh
+%eng:	it's just laziness, like most Welsh people.
+*NER:	na@1 na@1 na@1 ! %snd:"Stammers3"_362728_363773
+%gls:	no no no
+%eng:	no, no!
+*GUT:	naci@1 ? %snd:"Stammers3"_363518_363854
+%gls:	no
+%eng:	no?
+*NER:	na@1 mae@1 (y)n@1 +//. %snd:"Stammers3"_364206_365100
+%gls:	no be.3S.PRES PRT
+%eng:	no, it's...
+*GUT:	xxx . %snd:"Stammers3"_365076_365669
+*NER:	rwyt@1 ti@1 [///] na@1 (dd)im@1 fi@1 na@1 xxx &=laugh uffernol@1 [=! laughs] ! %snd:"Stammers3"_365134_370475
+%gls:	be.2S.PRES PRON.2S no NEG PRON.1S no xxx hellish
+%eng:	you're... no, not me [...] atrocious!
+*GUT:	Wenglish@0 ! %snd:"Stammers3"_370812_371543
+*GUT:	tair@1 iaith@1 de@1 Cymraeg@1 Saesneg@1 a@1 Wenglish@0 ! %snd:"Stammers3"_371601_373320
+%gls:	three.F language TAG Welsh English and Wenglish
+%eng:	three languages, eh, Welsh, English and Wenglish!
+*NER:	yeah@0 # ond@1 dw@1 i@1 (we)di@1 symud@1 o@1 (y)ma@1 ers@1 bod@1 fi@1 (y)n@1 ### eighteen@2 yn_do@1 [=! laughs] yn_do@1 ? %snd:"Stammers3"_372379_379010
+%gls:	yeah but be.1S.PRES PRON.1S PRT.PAST move.NONFIN from here since be.NONFIN PRON.1S PRT eighteen yes yes
+%eng:	yeah, but I've moved away from here since I was eighteen, haven't I?
+*NER:	dw@1 i@1 +/. %snd:"Stammers3"_378963_379161
+%gls:	be.1S.PRES PRON.1S
+%eng:	I...
+*GUT:	do@1 . %snd:"Stammers3"_379068_379474
+%gls:	yes
+%eng:	yes.
+*NER:	do@1 # tibod@1 . %snd:"Stammers3"_379451_380531
+%gls:	yes know.2S
+%eng:	yes, you know.
+*GUT:	do@1 . %snd:"Stammers3"_380535_380930
+%gls:	yes
+%eng:	yes.
+*NER:	+< so@0 +/. %snd:"Stammers3"_381023_381685
+*GUT:	ond@1 um@0 # be@1 mae@1 (y)r@1 bobl@1 (y)ma@1 isio@1 ni@1 wneud@1 really@2 (y)dy@1 siarad@1 fel@1 dan@1 ni@1 siarad@1 adre@1 de@1 efo@1 (ei)n_gilydd@1 de@1 . %snd:"Stammers3"_381267_385725
+%gls:	but IM what be.3S.PRES DET people here want PRON.1PL do.NONFIN really be.3S.PRES talk.NONFIN like be.1PL.PRES PRON.1PL talk.NONFIN home TAG with each_other TAG
+%eng:	but what these people want us to do really is to talk like we talk at home, right, together, yeah?
+*NER:	well@0 dw@1 i@1 yn@1 ! %snd:"Stammers3"_385540_386214
+%gls:	well be.1S.PRES PRON.1S PRT
+%eng:	well, I am!
+*NER:	dyna@1 dw@1 i@1 wneud@1 [?] ! %snd:"Stammers3"_386191_386911
+%gls:	there be.1S.PRES PRON.1S do.NONFIN
+%eng:	that's what I'm doing!
+*GUT:	yeah@0 # a@1 dyna@1 be@1 dw@1 i@1 wneud@1 I@2 suppose@2 ! %snd:"Stammers3"_386423_388142
+%gls:	yeah and there what be.1S.PRES PRON.1S do.NONFIN I suppose
+%eng:	yeah, and that's what I'm doing, I suppose.
+*GUT:	yeah@0 . %snd:"Stammers3"_388165_388618
+*NER:	&=laugh . %snd:"Stammers3"_388292_389442
+*GUT:	ond@1 um@0 +... %snd:"Stammers3"_389420_390395
+%gls:	but IM
+%eng:	but, er...
+*NER:	xxx . %snd:"Stammers3"_390395_391347
+*GUT:	so@0 ## ar@1 y@1 cyfan@1 ti@1 # yn@1 teimlo@1 (ba)sai@1 well@1 gen@1 ti@1 fod@1 yn@1 fam@1 <ac@1 yn@1> [/] ### ac@1 yn@1 er@0 # wraig@1 ? %snd:"Stammers3"_391883_400312
+%gls:	so on DET whole PRON.2S PRT feel.NONFIN be.3S.CONDIT better with.2S PRON.2S be.NONFIN PRT mother and PRT and PRT IM wife
+%eng:	so on the whole you feel you'd rather be a mother and a wife?
+*NER:	ew@1 ti@1 byth@1 yn@1 gofyn@1 cwestiynau@1 fel@1 hyn@1 <fi@1 fel@1 arfer@1 Guto@0> [?] ! %snd:"Stammers3"_399411_401388
+%gls:	IM PRON.2S never PRT ask.NONFIN questions like this PRON.1s like habit Guto
+%eng:	oh, you never ask me questions like this usually, Guto!
+*GUT:	yeah@0 . %snd:"Stammers3"_401493_401922
+*NER:	&=laugh ! %snd:"Stammers3"_401983_403446
+*NER:	yndw@1 [?] a@1 mae@1 Anna@0 [///] aethon@1 ni@1 i@1 [///] ## hi@1 +//. %snd:"Stammers3"_403528_406930
+%gls:	be.1S.PRES and be.3S.PRES Anna go.1PL.PAST PRON.1PL to PRON.3SF
+%eng:	yes, and Anna... we went to... she...
+*NER:	oh@0 Go(d)@2 ! %snd:"Stammers3"_406941_407557
+*NER:	mae@1 iaith@1 hi@1 yn@1 dod@1 yn@1 ei@1 blaen@1 yn@1 wych@1 ! %snd:"Stammers3"_407568_410181
+%gls:	be.3S.PRES language PRON.3SF PRT come.NONFIN in POSS.3S front PRT brilliant
+%eng:	her language is coming along brilliantly.
+*NER:	yndy@1 ? %snd:"Stammers3"_410146_410831
+%gls:	be.3S.PRES
+%eng:	is it?
+*NER:	yndy@1 aethon@1 ni@1 i@1 Ti_a_Fi@0 heddiw@1 [//] # Auntie@0 Mary@0 sorry@0 # mae@1 (y)n@1 gael@1 ei@1 alw@1 yn@1 [/] yn@1 Mynydd_Llandygai@0 . %snd:"Stammers3"_410698_415726
+%gls:	be.3S.PRES go.1PL.PAST PRON.1PL to Ti_a_Fi today Auntie Mary sorry be.3S.PRES PRT get.NONFIN POSS.3SM call.NONFIN in in Mynydd_Llandygai
+%com:	"Ti a Fi" (literally, "you and me") is a Welsh parent and toddlers organisation.
+%eng:	yes, we went to "Ti a Fi" today, sorry, "Auntie Mary" it's called, in Mynydd Llandygai.
+*GUT:	mmm@0 . %snd:"Stammers3"_415911_416260
+*NER:	oh@0 mae@1 mo:r@1 lovely@2 ! %snd:"Stammers3"_416422_418268
+%gls:	IM be.3S.PRES so lovely
+%eng:	oh, it's so lovely!
+*NER:	yeah@0 mae@1 plant@1 arall@1 yn@1 mynd@1 . %snd:"Stammers3"_418303_419420
+%gls:	yeah be.3S.PRES children other PRT go.NONFIN
+%eng:	yes, other children go there.
+*GUT:	mmm@0 . %snd:"Stammers3"_419397_419733
+*NER:	ond@1 timod@1 be@1 wnaeth@1 hi@1 ? %snd:"Stammers3"_419420_420453
+%gls:	but know.2S what do.3S.PAST PRON.3SF
+%eng:	but do you know what she did?
+*NER:	oh@0 my@2 goodness@2 ! %snd:"Stammers3"_420453_421835
+*NER:	oedd@1 hi@1 chwarae@1 (y)n@1 y@1 tywod@1 de@1 . %snd:"Stammers3"_421901_423074
+%gls:	be.3S.IMP PRON.3SF play.NONFIN in DET sand TAG
+%eng:	she was playing in the sand, right
+*NER:	a@1 [?] oedd@1 (y)na@1 hogyn@1 bach@1 yma@1 [?] yn_de@1 . %snd:"Stammers3"_423097_424618
+%gls:	and be.3S.IMP there boy little here TAG
+%eng:	and there was this little boy, right?
+*NER:	um@0 dim@1 bod@1 yn@1 annifyr@1 oedd@1 hi@1 . %snd:"Stammers3"_424595_426266
+%gls:	IM NEG be.NONFIN PRT unpleasant be.3S.IMP PRON.3SF
+%eng:	she wasn't being horrible.
+*NER:	ond@1 be@1 &m +//. %snd:"Stammers3"_426516_427514
+%gls:	but what
+%eng:	but, what...
+*NER:	achos@1 dw@1 i@1 (y)n@1 gadael@1 iddi@1 gael@1 dip(yn)@1 [//] # lot@0 o@1 ryddid@1 dydw@1 # really@2 tra@1 dw@1 i@1 fath@1 â@1 +//. %snd:"Stammers3"_427631_432159
+%gls:	because be.1S.PRES PRON.1S PRT leave.NONFIN to.3SF get.NONFIN a_bit lot of freedom be.1S.PRES.NEG really while be.1S.PRES PRON.1S kind with
+%eng:	because I let her have a bit... a lot of freedom, don't I, really, while I, like...
+*NER:	<mae@1 (y)na@1> [/] mae@1 (y)na@1 rei@1 [///] dw@1 i@1 gweld@1 rei@1 mamau@1 . %snd:"Stammers3"_432194_434098
+%gls:	be.3S.PRES there be.3S.PRES there some be.1S.PRES PRON.1S see.NONFIN some mothers
+%eng:	there are... I see some mothers.
+*NER:	maen@1 nhw@1 really@2 kind@2 of@2 hung@2 up@2 ar@1 # fath@1 â@1 +... %snd:"Stammers3"_434093_437216
+%gls:	be.3PL.PRES PRON.3PL really kind of hung up on kind with
+%eng:	they're really kind of hung up on, like...
+*NER:	&dental_click timod@1 os@1 maen@1 nhw@1 (y)n@1 pein(tio)@1 +//. %snd:"Stammers3"_437543_439145
+%gls:	know.2S if be.3PL.PRES PRON.3PL PRT paint.NONFIN
+%eng:	you know, if they're painting...
+*NER:	achos@1 er@0 wrth_gwrs@1 # cefndir@1 fi@1 (y)dy@1 mewn@1 celf@1 hefyd@1 de@1 . %snd:"Stammers3"_439110_442465
+%gls:	because IM of_course background PRON.1S be.3S.PRES in art too TAG
+%eng:	because of course, my background's in art too, right
+*GUT:	yeah@0 . %snd:"Stammers3"_442616_442964
+*NER:	so@0 timod@1 <os@1 mae@1> [/] os@1 mae@1 rywun@1 yn@1 wneud@1 gwaith@1 peintio@1 efo@1 [/] efo@1 plant@1 yeah@0 maen@1 nhw@1 (y)n@1 cael@1 fath@1 â@1 pishyn@1 bach@1 o@1 bapur@1 a@1 mae@1 (y)n@1 wneud@1 dipyn@1 bach@1 o@1 beintio@1 wedyn@1 cadw@1 (y)r@1 paent@1 yn@1 dwt@1 . %snd:"Stammers3"_442934_450195
+%gls:	so know.2S if be.3S.PRES if be.3S.PRES someone PRT do.NONFIN work paint.NONFIN with with children yeah be.3PL.PRES PRON.3PL PRT get.NONFIN kind with piece little of paper and be.3S.PRES PRT do.NONFIN a_bit little of paint.NONFIN then keep.NONFIN DET paint PRT tidy
+%eng:	so you know, if someone's doing painting work with the children, yeah, they get, like, a scrap of paper, and do a little bit of painting, then put the paint away tidily.
+*NER:	a@1 (dy)na@1 o@1 de@1 . %snd:"Stammers3"_450195_451022
+%gls:	and there PRON.3SM TAG
+%eng:	and that's it, right.
+*GUT:	mmm@0 . %snd:"Stammers3"_450848_451091
+*NER:	a@1 wedyn@1 dan@1 ni@1 (y)n@1 peintio@1 ym@1 bob@1 man@1 dydan@1 ? %snd:"Stammers3"_451028_453002
+%gls:	and then be.1PL.PRES PRON.1PL PRT paint.NONFIN in every place be.1PL.PRES.NEG
+%eng:	and now, we paint everywhere, don't we.
+*GUT:	mmm@0 . %snd:"Stammers3"_453037_453385
+*NER:	+, fi@1 a@1 Anna@0 . %snd:"Stammers3"_453548_454221
+%gls:	PRON.1S and Anna
+%eng:	me and Anna.
+*GUT:	mmm@0 . %snd:"Stammers3"_454256_454732
+*NER:	+, timod@1 . %snd:"Stammers3"_454744_455185
+%gls:	know.2S
+%eng:	you know.
+*NER:	a@1 hefyd@1 (fa)th@1 â@1 pan@1 &d # dan@1 ni@1 (y)n@1 wneud@1 gwaith@1 clai@1 dan@1 ni@1 dim@1 just@0 dod@1 â@1 ryw@1 rowlyn@1 bach@1 o@1 glai@1 allan@1 a@1 well@0 (dy)na@1 o@1 (fe)lly@1 . %snd:"Stammers3"_455764_462277
+%gls:	and also kind with when be.1PL.PRES PRON.1PL PRT do.NONFIN work clay be.1PL.PRES PRON.1PL NEG just come.NONFIN with some roll little of clay out and well there PRON.3SM thus
+%eng:	and also, like, when we do work with clay, we don't just get out a little roll of clay, and then that's it.
+*NER:	dw@1 i@1 (y)n@1 dod@1 â@1 homer@1 o@1 bot@0 allan@1 a@1 # powndio@1 (y)r@1 clai@1 a@1 blah@0 blah@0 blah@0 <mae@1 o@1> [?] de@1 ? %snd:"Stammers3"_462299_466630
+%gls:	be.1S.PRES PRON.1S PRT come.NONFIN with whopper of pot out and pound.NONFIN DET clay and blah blah blah be.3S.PRES PRON.3SM TAG
+%eng:	I get a whacking great pot out, and pound the caly, and it's blah blah blah, right...
+*GUT:	+< mmm@0 . %snd:"Stammers3"_464588_464948
+*GUT:	ia@1 . %snd:"Stammers3"_466573_466933
+%gls:	yes
+%eng:	yes.
+*NER:	a@1 &d anyway@2 <oedd@1 hi@1> [/] oedd@1 hi@1 (y)n@1 &=laugh [/] yn@1 chwarae@1 (y)n@1 y@1 tywod@1 . %snd:"Stammers3"_467296_470141
+%gls:	and anyway be.3S.IMP PRON.3SF be.3S.IMP PRON.3SF PRT PRT play.NONFIN in DET sand
+%eng:	and anyway, she was playing in the sand.
+*NER:	(we)dyn@1 [?] dim@1 bod@1 yn@1 annifyr@1 oedd@1 hi@1 . %snd:"Stammers3"_470535_472045
+%gls:	then NEG be.NONFIN PRT unpleasant be.3S.IMP PRON.3SF
+%eng:	so she wasn't being horrible.
+*NER:	ond@1 dyma@1 hi@1 (y)n@1 just@0 # dechrau@1 # fling_io@21 (y)r@1 tywod@1 i@1 bob@1 <man@1 xxx> [=! laughs] ! %snd:"Stammers3"_472066_477711
+%gls:	but here PRON.3SF PRT just start.NONFIN fling.NONFIN DET sand to every place xxx
+%eng:	but then she just started to fling the sand everywhere [...] !
+*GUT:	&=laugh . %snd:"Stammers3"_476919_477407
+*NER:	+" oh@0 my@2 God@2 ! %snd:"Stammers3"_477688_479220
+*NER:	<dyma@1 hi@1 (y)n@1 gael@1> [=! laughs] gafael@1 ar@1 +//. %snd:"Stammers3"_479696_481196
+%gls:	here PRON.3SF PRT get.NONFIN hold on
+%eng:	so she go hold of...
+*NER:	a@1 dim@1 bod@1 yn@1 annifyr@1 . %snd:"Stammers3"_481329_482525
+%gls:	and NEG be.NONFIN PRT unpleasant
+%eng:	and not being horrible.
+*NER:	mae@1 (y)n@1 gafael@1 ar@1 &r rhawiaid@1 o@1 tywod@1 tywod@1 soft@2 timod@1 sych@1 ofnadwy@1 # a@1 roi@1 fling@0 iddo@1 fo@1 dros@1 yr@1 hogyn@1 bach@1 (y)ma@1 ! %snd:"Stammers3"_482516_488518
+%gls:	be.3S.PRES PRT hold.NONFIN on spadeful of sand sand soft know.2S dry awful and give.NONFIN fling to.3SM PRON.3SM over DET boy little here
+%eng:	she gets hold of a spadeful of sand, soft sand, you know, really dry, and gives it a fling over this little boy!
+*NER:	o'n@1 i@1 fath@1 â@1 +"/. %snd:"Stammers3"_488495_488901
+%gls:	be.1S.IMP PRON.1S kind with
+%eng:	I was like:
+*NER:	+" o:h@0 Norah@0 [?] ! %snd:"Stammers3"_488890_490515
+*GUT:	fel@1 (yn)a@1 mae@1 plant@1 de@1 . %snd:"Stammers3"_490391_491343
+%gls:	like there be.3S.PRES children TAG
+%eng:	that's what children are like, isn't it.
+*NER:	yeah@0 ond@1 ## &f a@1 [///] yeah@0 ond@1 digwydd@1 bod@1 yr@1 hogyn@1 bach@1 (y)ma@1 efo@1 phobia@0 am@1 dywod@1 ! %snd:"Stammers3"_491414_495802
+%gls:	yeah but and yeah but happen.NONFIN be.NONFIN DET boy little here with phobia about sand
+%eng:	yeah, but it so happened that this little boy had a phobia of sand!
+*GUT:	oh@0 Go(d)@2 ! %snd:"Stammers3"_495837_496476
+*GUT:	oh@0 wela@1 i@1 . %snd:"Stammers3"_496441_497184
+%gls:	IM see.1S.NONPAST PRON.1S
+%eng:	oh, I see.
+*NER:	so@0 [=! laughs] # oedd@1 o@1 (y)n@1 iawn@1 . %snd:"Stammers3"_497106_499265
+%gls:	so be.3S.IMP PRON.3SM PRT right
+%eng:	so, he was okay.
+*GUT:	well@0 mae@1 (y)na@1 rywbeth@1 yn@1 ddireidus@1 yni@1 [?] does@1 ? %snd:"Stammers3"_498557_499939
+%gls:	well be.3S.PRES there something PRT mischievous in.3SF be.3S.PRES.NEG
+%eng:	well, there is something mischievous about her, isn't there?
+*NER:	oes@1 . %snd:"Stammers3"_500751_501727
+%gls:	be.3S.PRES
+%eng:	there is.
+*GUT:	+, deud@1 y@1 gwir@1 does@1 ? %snd:"Stammers3"_501622_502354
+%gls:	say.NONFIN DET truth be.3S.PRES.NEG
+%eng:	really, isn't there?
+*NER:	oes@1 . %snd:"Stammers3"_502307_502864
+%gls:	be.3S.PRES
+%eng:	there is.
+*GUT:	mae@1 (y)na@1 does@1 ? %snd:"Stammers3"_502888_503433
+%gls:	be.3S.PRES there be.3S.PRES.NEG
+%eng:	there is, isn't there?
+*NER:	oes@1 mae@1 (y)na@1 gymeriad@1 +/. %snd:"Stammers3"_503402_504539
+%gls:	be.3S.PRES be.3S.PRES there character
+%eng:	yes, there's a character...
+*GUT:	+< a@1 [?] mae@1 [/] mae@1 [/] mae@1 chwerthin@1 yn@1 ddrwg@1 weithiau@1 dydy@1 ? %snd:"Stammers3"_503680_505375
+%gls:	and be.3S.PRES be.3S.PRES be.3S.PRES laugh.NONFIN PRT bad sometimes be.3S.PRES.NEG
+%eng:	and she does an evil laugh sometimes, doesn't she?
+*NER:	+< yndy@1 [?] # a@1 mae@1 (y)na@1 gymeriad@1 cry@1 +/. %snd:"Stammers3"_505111_507028
+%gls:	be.3S.PRES and be.3S.PRES there character strong
+%eng:	yes, and there's a strong character...
+*GUT:	+< ryw@1 cackle@2 bach@1 (fe)lly@1 de@1 ? %snd:"Stammers3"_505786_506994
+%gls:	some cackle little thus TAG
+%eng:	like, a little cackle, right?
+*NER:	yeah@0 . %snd:"Stammers3"_507098_507597
+*GUT:	yeah@0 . %snd:"Stammers3"_507644_508050
+*NER:	es@1 i@1 â@1 +/. %snd:"Stammers3"_508155_508991
+%gls:	go.1S.PAST PRON.1S with
+%eng:	I took...
+*GUT:	fydd@1 hi@1 (y)n@1 gymeriad@1 de@1 . %snd:"Stammers3"_508898_509977
+%gls:	be.3S.FUT PRON.3SF PRT character TAG
+%eng:	she'll be a character, you know.
+*GUT:	fydd@1 hi@1 (y)n@1 uffar@1 [!] o@1 gymeriad@1 pan@1 wneith@1 [?] hi@1 dyfu@1 fyny@1 de@1 . %snd:"Stammers3"_509989_512230
+%gls:	be.3S.FUT PRON.3SF PRT hell of character when do.3S.NONPAST PRON.3SF grow.NONFIN up TAG
+%eng:	she'll be one hell of a character when she grows up, right.
+*NER:	mmm@0 . %snd:"Stammers3"_512301_512858
+*GUT:	+, dw@1 i@1 meddwl@1 . %snd:"Stammers3"_513009_513532
+%gls:	be.1S.PRES PRON.1S think.NONFIN
+%eng:	I think.
+*NER:	+< mmm@0 . %snd:"Stammers3"_513160_513741
+*NER:	es@1 i@1 â@1 hi:@1 um@0 weld@1 homeopath@2 do@1 # dipyn@1 yn_ôl@1 . %snd:"Stammers3"_514200_518008
+%gls:	go.1S.PAST PRON.1S with PRON.3SF IM see.NONFIN homeopath yes a_bit back
+%eng:	I took her to see a homeopath, didn't I, a while back.
+*NER:	achos@1 pan@1 mae@1 (y)n@1 cael@1 dodgy@2 tummy@2 . %snd:"Stammers3"_517950_519216
+%gls:	because when be.3S.PRES PRT get.NONFIN dodgy tummy
+%eng:	because of when she gets a dodgy tummy.
+*GUT:	+< homeopath@2 &t er@0 oh@0 yeah@0 yeah@0 . %snd:"Stammers3"_518682_520737
+*NER:	a@1 dyma@1 [///] <o'n@1 i@1 (y)n@1 gorod@1 &di> [/] <o'n@1 i@1> [/] o'n@1 i@1 gorod@1 treulio@1 ## xxx tua@1 [/] tua@1 awr@1 # a@1 disgrifio@1 ei@1 phersonoliaeth@1 hi@1 . %snd:"Stammers3"_520866_527878
+%gls:	and here be.1S.IMP PRON.1S PRT must.NONFIN be.1S.IMP PRON.1S be.1S.IMP PRON.1S must.NONFIN spend.NONFIN xxx about about hour and describe.NONFIN POSS.3SF personality PRON.3SF
+%eng:	and I had to spend about an hour describing her personality.
+*GUT:	mmm@0 . %snd:"Stammers3"_527960_528343
+*NER:	a@1 um@0 so@0 os@1 [///] deuda@1 bod@1 [///] os@1 [/] os@1 gynni@1 hi@1 # fath@1 â@1 gwendid@1 <yn@1 ei@1> [/] yn@1 ei@1 stumog@1 deuda@1 +//. %snd:"Stammers3"_529117_536256
+%gls:	and IM so if say.2S.IMPER be.NONFIN if if with.3SF PRON.3SF kind with weakness in POSS.3S in POSS.3S stomach say.2S.IMPER
+%eng:	and so... say that... if she does have some kind of weakness in her stomach, right...
+*NER:	<pan@1 mae@1 hi@1 (y)n@1 cael@1 yn@1> [/] pan@1 mae@1 hi@1 (y)n@1 cael@1 yn@1 upset@0 xxx +//. %snd:"Stammers3"_536244_538334
+%gls:	when be.3S.PRES PRON.3SF PRT get.NONFIN PRT when be.3S.PRES PRON.3SF PRT get.NONFIN PRT upset xxx
+%eng:	when she gets upset [...]...
+*NER:	<fath@1 â@1> [?] lot@0 o@1 plant@1 bach@1 arall@1 wrth_gwrs@1 wneith@1 hi@1 fod@1 yn@1 sâl@1 neu@1 # gael@1 upset@0 tummy@2 neu@1 rywbeth@1 xxx lot@0 # wrth_gwrs@1 lot@0 o@1 blant@1 bach@1 arall@1 +//. %snd:"Stammers3"_538398_545912
+%gls:	kind with lot of children little other of_course do.3S.NONPAST PRON.3SF be.NONFIN PRT sick or get.NONFIN upset tummy or something xxx lot of_course lot of children little other
+%eng:	like a lot of other small children, of course, she'll be sick or get an upset tummy or something [...] a lot, of course, a lot of other small children.
+*GUT:	+< mmm@0 . %snd:"Stammers3"_541645_541877
+*GUT:	+< mmm@0 . %snd:"Stammers3"_544489_544744
+*NER:	ond@1 <oedd@1 o@1 (y)n@1> [/] <oedd@1 o@1 (y)n@1 deud@1 um@0 # er@0> [///] oedd@1 o@1 (y)n@1 disgrifio@1 fath@1 â@1 personality@2 type@0 hi@1 (fe)lly@1 de@1 . %snd:"Stammers3"_545929_551908
+%gls:	but be.3S.IMP PRON.3SM PRT be.3S.IMP PRON.3SM PRT say.NONFIN IM IM be.3S.IMP PRON.3SM PRT describe.NONFIN kind with personality type PRON.3SF thus TAG
+%eng:	but he was saying... er, he was describing, like, her personality type, right.
+*GUT:	mmm@0 . %snd:"Stammers3"_551911_552213
+*NER:	a@1 &b bod@1 hi@1 (y)n@1 er@0 [///] # a@1 [/] a@1 be@1 fasai@1 fo@1 roid@1 iddi@1 hi@1 fel@1 trin(iaeth)@1 [/] triniaeth@1 pan@1 fasai@1 (y)n@1 gael@1 ei@1 bouts@0 (y)ma@1 ## fasai@1 phosphorus@0 . %snd:"Stammers3"_552237_562265
+%gls:	and be.NONFIN PRON.3SF PRT IM and and what be.3S.CONDIT PRON.3SM give.NONFIN to.3SF PRON.3SF like treatment treatment when be.3S.CONDIT PRT get.NONFIN POSS.3S bouts here be.3S.CONDIT phosphorus
+%eng:	and that she... and what he'd give her as treatment when she had these bouts of hers would be phosphorus.
+*GUT:	+< mmm@0 . %snd:"Stammers3"_559936_560540
+*NER:	ac@1 i@1 [/] i:@1 um@0 [/] # i@1 blant@1 bach@1 wnaeth@1 o@1 ddeud@1 [///] i@1 [?] # quote_io@21 fo@1 (fe)lly@1 [?] wnaeth@1 o@1 ddeud@1 +"/. %snd:"Stammers3"_562477_568294
+%gls:	and to to IM to children little do.3S.PAST PRON.3SM say.NONFIN to quote.NONFIN PRON.3SM thus do.3S.PAST PRON.3SM say.NONFIN
+%eng:	and for little children, he said... to quote him then, he said:
+*NER:	+" er@0 <they@2 (a)re@2> [/] they@2 (a)re@2 a@2 delight@2 ! %snd:"Stammers3"_568313_569776
+*NER:	+" phosphorus@0 children@2 are@2 a@2 delight@2 . %snd:"Stammers3"_569729_571262
+*NER:	achos@1 maen@1 nhw@1 just@0 mor@1 [!] fath@1 â@1 # llawn@1 +/. %snd:"Stammers3"_571250_573804
+%gls:	because be.3PL.PRES PRON.3PL just so kind with full
+%eng:	because they're just so, like, full of...
+*GUT:	+< phosphorus@0 children@2 +!? %snd:"Stammers3"_573386_574513
+*NER:	well@0 mae@1 [///] dyna@1 sut@1 mae@1 &pʊ +//. %snd:"Stammers3"_574554_575749
+%gls:	well be.3S.PRES there how be.3S.PRES
+%eng:	well, it... that's how...
+*NER:	dw@1 (ddi)m@1 yn@1 really@2 gwybod@1 llawer@1 amdan@1 homeopathy@0 . %snd:"Stammers3"_575773_577572
+%gls:	be.1S.PRES NEG PRT really know.NONFIN much about homeopathy
+%eng:	I don't really know much about homeopathy.
+*NER:	ond@1 basically@2 dw@1 meddwl@1 ## ti@1 (y)n@1 sbïo@1 ar@1 # +//. %snd:"Stammers3"_577584_581589
+%gls:	but basically be.1S.PRES think.NONFIN PRON.2S PRT look.NONFIN on
+%eng:	but basically, I think, you look at...
+*NER:	oh@0 xxx ! %snd:"Stammers3"_581729_582785
+*NER:	ti@1 (y)n@1 sbïo@1 ar@1 y@1 plentyn@1 # neu@1 <ar@1 y@1> [/] ar@1 y@1 person@0 holistically@2 . %snd:"Stammers3"_582773_586187
+%gls:	PRON.2S PRT look.NONFIN on DET child or on DET on DET person holistically
+%eng:	you look at the child, or at the person, holistically.
+*NER:	so@0 ti@1 (y)n@1 sbïo@1 ar@1 [///] pan@1 ti@1 [///] os@1 [/] <os@1 mae@1> [/] os@1 mae@1 (y)na@1 (ryw)beth@1 yn@1 matter@0 efo@1 nhw@1 ti@1 (y)n@1 sbïo@1 ar@1 eu@1 personoliaeth@1 nhw@1 ## um@0 # i@1 weld@1 &s ## timod@1 sut@1 [/] sut@1 i@1 [/] i@1 trin@1 eu@1 afiechyd@1 nhw@1 hyd_(y)n_oed@1 os@1 mae@1 (y)r@1 afiechyd@1 yn@1 physical@2 (fe)lly@1 timod@1 ? %snd:"Stammers3"_586178_600099
+%gls:	so PRON.2S PRT look.NONFIN on when PRON.2S if if be.3S.PRES if be.3S.PRES there something PRT matter with PRON.3PL PRON.2S PRT look.NONFIN on POSS.3PL personality PRON.3PL IM to see.NONFIN know.2S how how to to treat.NONFIN POSS.3PL illness PRON.3PL even if be.3S.PRES DET illness PRT physical thus know.2S
+%eng:	so you look at... when you... if there's something the matter with them, you look at their personality to see, you know, how to treat their illness, even if the illness is physical, you know?
+*GUT:	+< mmm@0 . %snd:"Stammers3"_591936_592354
+*GUT:	+< mmm@0 . %snd:"Stammers3"_598101_598542
+*GUT:	yeah@0 yeah@0 . %snd:"Stammers3"_599796_600504
+*NER:	a@1 # so@0 [/] so@0 mae@1 (y)na@1 (fa)th@1 â@1 types@0 . %snd:"Stammers3"_600783_603511
+%gls:	and so so be.3S.PRES there kind with types
+%eng:	and so there are, like, types.
+*NER:	ti@1 (y)n@1 sbïo@1 ar@1 sut@1 type@0 o@1 berson@0 wyt@1 ti@1 . %snd:"Stammers3"_603604_605589
+%gls:	PRON.2S PRT look.NONFIN on how type of person be.2S.PRES PRON.2S
+%eng:	you look at what type of person you are.
+*GUT:	+< oh@0 ti@1 (we)di@1 sôn@1 am@1 hyn@1 o_blaen@1 dw@1 meddwl@1 yeah@0 yeah@0 . %snd:"Stammers3"_604672_606762
+%gls:	IM PRON.2S PRT.PAST mention.NONFIN about this before be.1S.PRES think.NONFIN yeah yeah
+%eng:	oh, you've mentioned this before, I think, yeah, yeah.
+*NER:	+< yeah@0 yeah@0 . %snd:"Stammers3"_605624_606762
+*GUT:	anyway@2 phosphorus@0 fasai@1 [//] <oedd@1 o@1 (y)n@1> [/] oedd@1 o@1 (y)n@1 awgrymu@1 iddi@1 hi@1 . %snd:"Stammers3"_607087_610082
+%gls:	anyway phosphorus be.3S.CONDIT be.3S.IMP PRON.3SM PRT be.3S.IMP PRON.3SM PRT suggest.NONFIN to.3SF PRON.3SF
+%eng:	anyway, phosphorus is what he was suggesting for her.
+*NER:	a@1 i@1 [/] i@1 um@0 +... %snd:"Stammers3"_610133_612223
+%gls:	and to to IM
+%eng:	and, um...
+*NER:	xx dw@1 meddwl@1 wnaeth@1 o@1 ddeud@1 xx +"/. %snd:"Stammers3"_612328_613442
+%gls:	xx be.1S.PRES think.NONFIN do.3S.PAST PRON.3SM say.NONFIN
+%eng:	[..] I think he said [..] .
+*NER:	+" if@2 [/] if@2 she's@2 a@2 phosphorus@0 child@2 +//. %snd:"Stammers3"_613419_614789
+*NER:	achos@1 toedd@1 hi@1 cau@1 mynd@1 i_fewn@1 ato@1 fo@1 (y)li@1 . %snd:"Stammers3"_614777_616856
+%gls:	because be.3S.IMP.NEG PRON.3SF refuse.NONFIN go.NONFIN in to.3SM PRON.3SM see.2S.IMPER
+%eng:	because, she was refusing to go through to him, see.
+*NER:	mae@1 mor@1 [///] # timod@1 mae@1 (y)n@1 pers(on)@0 [///] oedd@1 hi@1 (y)n@1 adamant@2 toedd@1 hi@1 ddim@1 yn@1 mynd@1 i_fewn@1 at@1 y@1 doctor@0 (y)ma@1 . %snd:"Stammers3"_617140_621470
+%gls:	be.3S.PRES so know.2S be.3S.PRES PRT person be.3S.IMP PRON.3SF PRT adamant be.3S.IMP.NEG PRON.3SF NEG PRT go.NONFIN in to DET doctor here
+%eng:	she's so... you know, she's... she was adamant she wasn't going through to this doctor.
+*NER:	so@0 o'n@1 i@1 (y)n@1 just@0 gorod@1 +//. %snd:"Stammers3"_621435_622331
+%gls:	so be.1S.IMP PRON.1S PRT just must.NONFIN
+%eng:	so I just had to...
+*NER:	so@0 wnaeth@1 o@1 (ddi)m@1 observe_io@21 hi@1 o_gwbl@1 . %snd:"Stammers3"_622308_623898
+%gls:	so do.3S.PAST PRON.3SM NEG observe.NONFIN PRON.3SF at_all
+%eng:	so he didn't observe her at all.
+*GUT:	ie@1 . %snd:"Stammers3"_624072_624351
+%gls:	yes
+%eng:	yes.
+*NER:	a@1 <wnaeth@1 hi@1 [?]> [//] wnaeth@1 o@1 ddeud@1 um@0 # na@1 er@0 # phosphorus@0 child@2 oedd@1 hi@1 [?] . %snd:"Stammers3"_624283_629171
+%gls:	and do.3S.PAST PRON.3SF do.3S.PAST PRON.3SM say.NONFIN IM PRT IM phosphorus child be.3S.IMP PRON.3SF
+%eng:	and he said that she was a phosphorus child.
+*NER:	a@1 mae@1 (y)n@1 deud@1 bod@1 nhw@1 (y)n@1 delight@2 a@1 bod@1 nhw@1 (y)n@1 ofnadwy@1 [!] o@1 greadigol@1 ofnadwy@1 [!] o@1 expressive@2 ofna(dwy)@1 +//. %snd:"Stammers3"_629182_634712
+%gls:	and be.3S.PRES PRT say.NONFIN be.NONFIN PRON.3PL PRT delight and be.NONFIN PRON.3PL PRT awful of creative awful of expressive awful
+%eng:	and he says they're a delight, and that they're extremely creative, extremely expressive, extremely...
+*NER:	achos@1 o'n@1 i@1 (y)n@1 deud@1 sut@1 mae@1 hi@1 er@0 efo@1 ei@1 er@0 dawnsio@1 a@1 &d +/. %snd:"Stammers3"_634672_639014
+%gls:	because be.1S.IMP PRON.1S PRT say.NONFIN how be.3S.PRES PRON.3SF IM with POSS.3S IM dance.NONFIN and
+%eng:	because I was saying what she's like with her dancing, and...
+*GUT:	yeah@0 fedri@1 [///] yeah@0 fel@1 (yn)a@1 mae@1 yeah@0 [?] . %snd:"Stammers3"_638596_639955
+%gls:	yeah can.2S.NONPAST yeah like there be.3S.PRES yeah
+%eng:	yeah you can... yeah, that's what she's like, yeah.
+*NER:	symudiadau@1 mawr@1 [!] <felly@1 a@1> [?] # er@0 [?] gwyneb@1 hi@1 . %snd:"Stammers3"_639026_642353
+%gls:	movements big thus and IM face PRON.3SF
+%eng:	big movements, like and, er, her face...
+*GUT:	+< ie@1 . %snd:"Stammers3"_639936_640331
+%gls:	yes
+%eng:	yes.
+*GUT:	+< mmm@0 . %snd:"Stammers3"_641283_641573
+*NER:	gwneud@1 [?] symudiadau@1 &m &p expressive@2 ofnadwy@1 [!] tydy@1 . %snd:"Stammers3"_642446_645186
+%gls:	make.NONFIN movements expressive awful be.3S.PRES.NEG
+%eng:	she makes extremely expressive movements, doesn't she.
+*GUT:	+< ia@1 ie@1 . %snd:"Stammers3"_642922_643932
+%gls:	yes yes
+%eng:	yes, yes.
+*GUT:	yeah@0 mae@1 [/] <mae@1 (y)n@1> [/] mae@1 (y)n@1 &an anhygoel@1 yn@1 yr@1 ystyr@1 yna@1 (dy)dy@1 . %snd:"Stammers3"_644652_647171
+%gls:	yeah be.3S.PRES be.3S.PRES PRT be.3S.PRES PRT incredible in DET sense there be.3S.PRES.NEG
+%eng:	yeah, she's amazing in that sense, isn't she.
+*NER:	+< mmm@0 . %snd:"Stammers3"_646846_647276
+*NER:	so@0 yeah@0 # so@0 +//. %snd:"Stammers3"_647287_649029
+*NER:	a@1 mae@1 [/] mae@1 [/] mae@1 iaith@1 hi@1 (y)n@1 dod@1 yn@1 ei@1 blaen@1 yn@1 really@2 da@1 # Saesneg@1 a@1 Cymraeg@1 . %snd:"Stammers3"_649029_652616
+%gls:	and be.3S.PRES be.3S.PRES be.3S.PRES language PRON.3SF PRT come.NONFIN in POSS.3S front PRT really good English and Welsh
+%eng:	and her language is coming along really well, English and Welsh.
+*GUT:	yndy@1 ? %snd:"Stammers3"_651896_652198
+%gls:	be.3S.PRES
+%eng:	is it?
+*GUT:	well@0 &di dipyn@1 o@1 gamp@1 # tyfu@1 fyny@1 efo@1 dwy@1 iaith@1 dydy@1 . %snd:"Stammers3"_652558_654996
+%gls:	well a_bit of achievement grow.NONFIN up with two.F language be.3S.PRES.NEG
+%eng:	well, it's quite a feat to grow up with two languages, isn't it.
+*NER:	&=laugh ! %snd:"Stammers3"_654892_655774
+*GUT:	mae@1 dipyn@1 o@1 gamp@1 . %snd:"Stammers3"_655820_656633
+%gls:	be.3S.PRES a_bit of achievement
+%eng:	it's quite a feat.
+*NER:	(ba)swn@1 i@1 (y)n@1 deud@1 mae@1 [?] ella@1 ## xxx +/. %snd:"Stammers3"_656714_659791
+%gls:	be.1S.CONDIT PRON.1S PRT say.NONFIN be.3S.PRES maybe xxx
+%eng:	I'd say it might [...] ...
+*GUT:	+< mae@1 fod@1 i@1 helpu@1 di@1 [///] well@0 mae@1 fod@1 i@1 helpu@1 chdi@1 cognitively@2 de@1 . %snd:"Stammers3"_659315_662427
+%gls:	be.3S.PRES be.NONFIN to help.NONFIN PRON.2S well be.3S.PRES be.NONFIN to help.NONFIN PRON.2S cognitively TAG
+%eng:	it's supposed to help you... well, it's supposed to help you cognitively, right.
+*GUT:	mae@1 fod@1 i@1 &ə &əme ymestyn@1 dy@1 feddwl@1 di@1 a@1 +... %snd:"Stammers3"_662844_664899
+%gls:	be.3S.PRES be.NONFIN to stretch.NONFIN POSS.2S mind PRON.2S and
+%eng:	it's supposed to expand your mind and...
+*NER:	+< yndy@1 yndy@1 . %snd:"Stammers3"_662984_663843
+%gls:	be.3S.PRES be.3S.PRES
+%eng:	yes, yes.
+*GUT:	<well@0 appare(ntly)@2> [/] well@0 apparently@2 [!] # um@0 # mae@1 # monolingual@2 [//] # pobl@1 monolingual@2 yn@1 minority@2 bach@1 yn@1 y@1 byd@1 . %snd:"Stammers3"_666269_673340
+%gls:	well apparently well apparently IM be.3S.PRES monolingual people monolingual PRT minority little in DET world
+%eng:	well, apparently monolingual people are a small minority in the world.
+*GUT:	mae@1 ran@1 fwya@1 o@1 bobl@1 y@1 byd@1 yn@1 siarad@1 dwy@1 iaith@1 . %snd:"Stammers3"_673436_675584
+%gls:	be.3S.PRES part biggest of people DET world PRT speak.NONFIN two.F language
+%eng:	most people in the world do speak two languages.
+*GUT:	so@0 # ni@1 (y)dy@1 (y)r@1 norm@0 really@2 . %snd:"Stammers3"_676199_677813
+%gls:	so PRON.1PL be.3S.PRES DET norm really
+%eng:	so we're the norm really.
+*GUT:	so@0 &dəd dan@1 ni@1 (ddi)m@1 yn@1 mor@1 unusual@2 â@1 dan@1 ni@1 licio@1 meddwl@1 bod@1 ni@1 tibod@1 . %snd:"Stammers3"_677801_680530
+%gls:	so be.1PL.PRES PRON.1PL NEG PRT so unusual with be.1PL.PRES PRON.1PL like.NONFIN think.NONFIN be.NONFIN PRON.1PL know.2S
+%eng:	so we're not as unusual as we like to think we are, you know.
+*NER:	mmm@0 . %snd:"Stammers3"_680646_681400
+*GUT:	tibod@1 ? %snd:"Stammers3"_681458_681992
+%gls:	know.2S
+%eng:	you know?
+*GUT:	anyway@2 # moving@2 swiftly@2 on@2 back@2 on@2 the@2 ranch@0 de@1 +... %snd:"Stammers3"_682259_685441
+%gls:	anyway moving swiftly on back on the ranch TAG
+%eng:	anyway, moving swiftly on, back on the ranch, right...
+*NER:	o:h@0 (y)r@1 granny@2 annexe@2 ! %snd:"Stammers3"_685592_687217
+%gls:	IM DET granny annexe
+%eng:	oh, the granny annexe!
+*GUT:	ia@1 . %snd:"Stammers3"_687170_687612
+%gls:	yes
+%eng:	yes.
+*NER:	&=laugh ! %snd:"Stammers3"_687705_691489
+*GUT:	&=laugh . %snd:"Stammers3"_691408_691907
+*NER:	&=laugh mae@1 o@1 mynd@1 i@1 gael@1 ei@1 wneud@1 ! %snd:"Stammers3"_692290_695390
+%gls:	be.3S.PRES PRON.3SM go.NONFIN to get.NONFIN POSS.3SM make.NONFIN
+%eng:	it's going to get made!
+*GUT:	mmm@0 ! %snd:"Stammers3"_695344_695913
+*NER:	mae@1 o@1 yn@1 [!] mynd@1 i@1 gael@1 ei@1 wneud@1 . %snd:"Stammers3"_696006_697318
+%gls:	be.3S.PRES PRON.3SM PRT go.NONFIN to get.NONFIN POSS.3SM make.NONFIN
+%eng:	it is going to get made.
+*GUT:	(be)cause@2 er@0 dw@1 i@1 isio@1 gadael@1 Aberffraw@0 ! %snd:"Stammers3"_697469_699152
+%gls:	because IM be.1S.PRES PRON.1S want leave.NONFIN Aberffraw
+%eng:	because, er, I want to leave Aberffraw!
+*NER:	+< &=laugh ! %snd:"Stammers3"_698618_699535
+*GUT:	dw@1 i@1 isio@1 gadael@1 Sir_Fôn@1 . %snd:"Stammers3"_699537_700721
+%gls:	be.1S.PRES PRON.1S want leave.NONFIN Anglesey
+%eng:	I want to leave Anglesey.
+*GUT:	dw@1 i@1 isio@1 ## cael@1 y@1 Menai_Straits@2 rhwng@1 fi@1 a@1 +... %snd:"Stammers3"_701615_704773
+%gls:	be.1S.PRES PRON.1S want get.NONFIN DET Menai_Straits between PRON.1S and
+%eng:	I want to get the Menai Straits between me and...
+*NER:	&=laugh <yeah@0 <a@1 dy@1> [/] a@1 dy@1 frawd@1> [=! laughs] ! %snd:"Stammers3"_704192_706874
+%gls:	yeah and POSS.2S and POSS.2S brother
+%eng:	yeah, and your brother.
+*GUT:	a@1 mrawd@1 yeah@0 &=laugh . %snd:"Stammers3"_706770_708430
+%gls:	and brother.POSSD.1S yeah
+%eng:	and my brother, yeah.
+*GUT:	anyway@2 the@2 less@2 said@2 the@2 better@2 ! %snd:"Stammers3"_708790_710055
+*NER:	&=laugh ! %snd:"Stammers3"_710055_711251
+*GUT:	so@0 basically@2 ynteu@1 dan@1 ni@1 am@1 gael@1 um@0 +... %snd:"Stammers3"_711263_713689
+%gls:	so basically then be.1PL.PRES PRON.1PL for get.NONFIN IM
+%eng:	so basically, then, we're going to get, um...
+*NER:	y@1 peth@1 cynta@1 ydy@1 (y)r@1 +/. %snd:"Stammers3"_713840_715001
+%gls:	DET thing first be.3S.PRES DET
+%eng:	the first thing is the...
+*GUT:	+, &rə ryw@1 fath@1 o@1 Tardis@0 effect@0 trwyddo@1 [?] yeah@0 ? %snd:"Stammers3"_714188_716301
+%gls:	some kind of Tardis effect through.3SM yeah
+%eng:	some kind of Tardis effect through it, yeah?
+*NER:	&=laugh ! %snd:"Stammers3"_715547_717242
+*GUT:	(be)cause@2 er@0 # no@2 way@2 fedri@1 di@1 gael@1 cooker@0 # fridge@2 # shower@2 ## wash_basin@2 # sink@0 ### yn@1 y@1 cwt@1 bach@1 (y)ma@1 (y)n@1 cefn@1 de@1 . %snd:"Stammers3"_716777_729004
+%gls:	because IM no way can.2S.NONPAST PRON.2S get.NONFIN cooker fridge shower wash_basin sink in DET hut little here in back TAG
+%eng:	because no way can you get a cooker, a fridge, a shower, a wash-basin, a sink into this little hut at the back, right.
+*NER:	+< &=laugh &=clap:hands &=laugh ! %snd:"Stammers3"_718861_723249
+*NER:	&=laugh ! %snd:"Stammers3"_729345_731446
+*GUT:	surely@2 ! %snd:"Stammers3"_731446_732212
+*NER:	&=laugh ! %snd:"Stammers3"_732317_733698
+*GUT:	huh@0 ? %snd:"Stammers3"_733873_734290
+*NER:	&=laugh <ti@1 isio@1 bet@0> [=! laughs] ? %snd:"Stammers3"_734674_736682
+%gls:	PRON.2S want bet
+%eng:	you want a bet?
+*NER:	&=laugh ! %snd:"Stammers3"_737321_738296
+*GUT:	mae@1 [?] # music@0 Doctor_Who@0 <yn@1 dod@1 i_fewn@1> [?] ! %snd:"Stammers3"_738284_740792
+%gls:	be.3S.PRES music Doctor_Who PRT come.NONFIN in
+%eng:	the Doctor Who music's coming in!
+*NER:	&=laugh ! %snd:"Stammers3"_739654_740548
+*GUT:	at@2 some@2 point@2 xxx [?] &=imit:tardis ! %snd:"Stammers3"_741192_742952
+%gls:	at some point xxx
+%eng:	at some point [...] "ooh" [imitates "Tardis" noise] !
+*NER:	+< <dw@1 i@1 (y)n@1 gweld@1 chdi@1> [=! laughs] +//. %snd:"Stammers3"_741585_743059
+%gls:	be.1S.PRES PRON.1S PRT see.NONFIN PRON.2S
+%eng:	I see you...
+*NER:	dw@1 i@1 (y)n@1 gweld@1 chdi@1 (y)n@1 amau@1 bob@1 tro@1 ! %snd:"Stammers3"_743059_744940
+%gls:	be.1S.PRES PRON.1S PRT see.NONFIN PRON.2S PRT doubt.NONFIN every turn
+%eng:	I see you doubting every time!
+*NER:	ti@1 (y)n@1 amau@1 [?] yn@1 deud@1 +"/. %snd:"Stammers3"_744980_746199
+%gls:	PRON.2S PRT doubt.NONFIN PRT say
+%eng:	you're doubting, saying:
+*NER:	+" hey@0 ! %snd:"Stammers3"_746200_746618
+*NER:	<<ti@1 (y)n@1 &mə> [/] ti@1 (y)n@1 mynd@1> [=! laughs] +"/. %snd:"Stammers3"_746653_749463
+%gls:	PRON.2S PRT PRON.2S PRT go.NONFIN
+%eng:	you go:
+*NER:	+" na@1 ! %snd:"Stammers3"_749428_749974
+%gls:	no
+%eng:	"no!"
+*NER:	mae@1 <mynd@1 i@1 weithio@1> [=! laughs] ! %snd:"Stammers3"_750159_751785
+%gls:	be.3S.PRES go.NONFIN to work.NONFIN
+%eng:	it's going to work!
+*NER:	<mynd@1 i@1 fod@1 yn@1 lovely@2> [=! laughs] ! %snd:"Stammers3"_751599_753120
+%gls:	go.NONFIN to be.NONFIN PRT lovely
+%eng:	it's going to be lovely!
+*NER:	mae@1 mynd@1 i@1 fod@1 yn@1 lovely@2 . %snd:"Stammers3"_753584_754954
+%gls:	be.3S.PRES go.NONFIN to be.NONFIN PRT lovely
+%eng:	it's going to be lovely.
+*NER:	dan@1 ni@1 mynd@1 i@1 codi@1 (y)r@1 to@1 . %snd:"Stammers3"_754978_756626
+%gls:	be.1PL.PRES PRON.1PL go.NONFIN to raise.NONFIN DET roof
+%eng:	we're going to raise the roof.
+*NER:	so@0 mae@1 mynd@1 i@1 fod@1 yn@1 uwch@1 . %snd:"Stammers3"_757114_758193
+%gls:	so be.3S.PRES go.NONFIN to be.NONFIN PRT higher
+%eng:	so it's going to be higher.
+*NER:	<mae@1 hynna@1 mynd@1 i@1 roid@1 sense@0 o@1 [=? of@2] space@2 i@1 chdi@1> [=! laughs] ! %snd:"Stammers3"_758193_760782
+%gls:	be.3S.PRES that go.NONFIN to give.NONFIN sense of space to PRON.2S
+%eng:	that's going to give you a sense of space!
+*GUT:	well@0 sense@0 o@1 [=? of@2] space@2 yeah@0 ! %snd:"Stammers3"_760807_762026
+%gls:	well sense of space yeah
+%eng:	well, a sense of space, yeah!
+*GUT:	lack@2 of@2 space@2 dal@1 i@1 fodoli@1 fydd@1 . %snd:"Stammers3"_762038_763524
+%gls:	lack of space continue.NONFIN to exist.NONFIN be.3S.FUT
+%eng:	a lack of space will still exist, won't it!
+*NER:	&=laugh ! %snd:"Stammers3"_763408_764453
+*GUT:	&=laugh . %snd:"Stammers3"_764197_764836
+*NER:	&=laugh <a@1 dan@1 ni@1 mynd@1 i@1 roid@1> [=! laughs] # +/. %snd:"Stammers3"_765962_768191
+%gls:	and be.1PL.PRES PRON.1PL go.NONFIN to put.NONFIN
+%eng:	and we're going to put...
+*GUT:	er@1 bod@1 xxx <fath@1 â@1> [?] sardine@0 at@2 least@2 mae@1 genna@1 i@1 sense@0 o@1 [?] space@2 timod@1 ! %snd:"Stammers3"_768216_771258
+%gls:	although be.NONFIN xxx kind with sardine at least be.3S.PRES with.1S PRON.1S sense of space know.2S
+%eng:	even though [...] like a sardine, at least I have a sense of space, you know!
+*GUT:	great@0 ! %snd:"Stammers3"_771455_772140
+*GUT:	ond@1 having@2 said@2 that@2 well@1 gen@1 i@1 fyw@1 fan@1 (y)na@1 na@1 # er@0 lle@1 [/] lle@1 ydw@1 i@1 wan@1 de@1 . %snd:"Stammers3"_772338_775995
+%gls:	but having said that better with.1S PRON.1S live.NONFIN place there than IM where where be.1S.PRES PRON.1S now TAG
+%eng:	but having said that, I'd rather live there than where I am now, you know
+*NER:	+< &=laugh ! %snd:"Stammers3"_772500_774160
+*NER:	&=laugh <fydd@1 o@1> [/] fydd@1 o@1 (y)n@1 lovely@2 ! %snd:"Stammers3"_776262_778189
+%gls:	be.3S.FUT PRON.3SM be.3S.FUT PRON.3SM PRT lovely
+%eng:	it'll be lovely!
+*GUT:	+< it's@2 no@2 secret@0 ! %snd:"Stammers3"_776970_777620
+*GUT:	huh@0 ? %snd:"Stammers3"_778363_778642
+*NER:	<a@1 (y)li@1> [?] codi@1 fyny@1 <i@1 (y)r@1> [/] <i@1 (y)r@1> [/] i@1 (y)r@1 olygfa@1 gwych@1 # sy@1 +/. %snd:"Stammers3"_778642_783297
+%gls:	and see.2S.IMPER rise.NONFIN up to DET to DET to DET view brilliant be.PRES.REL
+%eng:	and you know, waking up to this fine view, which...
+*GUT:	++ prydferth@1 # hardd@1 # bendigedig@1 ! %snd:"Stammers3"_782838_785543
+%gls:	beautiful pretty blessed
+%eng:	... beautiful, pretty, marvelous!
+*NER:	+< ++ prydferth@1 hardd@1 ! %snd:"Stammers3"_783604_784707
+%gls:	beautiful and pretty
+%eng:	beautiful and pretty!
+*NER:	(dy)na@1 chdi@1 ! %snd:"Stammers3"_785561_786188
+%gls:	there PRON.2S
+%eng:	there you are!
+*GUT:	yeah@0 . %snd:"Stammers3"_786409_786920
+*NER:	+, sy@1 f(an)@1 yma@1 . %snd:"Stammers3"_786989_787883
+%gls:	be.PRES.REL place here
+%eng:	...which is here.
+*NER:	a@1 <mae@1 (y)na@1 gitch(en)@2> [///] dan@1 [?] ni@1 mynd@1 i@1 roi@1 porch@0 bach@1 a@1 roid@1 y@1 kitchen@2 yn@1 f(an)@1 yna@1 . %snd:"Stammers3"_787883_791006
+%gls:	and be.3S.PRES there kitchen be.1PL.PRES PRON.1PL go.NONFIN to put.NONFIN porch little and put.NONFIN DET kitchen in place there
+%eng:	and there's a... we're going to put in a little porch, and put the kitchen in there.
+*GUT:	so@0 mae@1 (y)na@1 # extension@2 bach@1 oes@1 ? %snd:"Stammers3"_790809_792562
+%gls:	so be.3S.PRES there extension little be.3S.PRES
+%eng:	so there is a small extension, is there?
+*NER:	oes@1 . %snd:"Stammers3"_792527_792922
+%gls:	be.3S.PRES
+%eng:	yes.
+*GUT:	oh@0 right@0 . %snd:"Stammers3"_792887_793688
+*NER:	y@1 porch@0 bach@1 # a@1 kitchen@2 yn@1 f(an)@1 yna@1 . %snd:"Stammers3"_793677_795685
+%gls:	DET porch little and kitchen in place there
+%eng:	the little porch,  and a kitchen there.
+*GUT:	iawn@1 (be)cause@2 be@1 (y)dy@1 o@1 basically@2 de@1 dw@1 i@1 (dd)im@1 isio@1 talu@1 # pres@1 i@1 boced@1 [?] ryw@1 complete@2 +/. %snd:"Stammers3"_794932_799553
+%gls:	right because what be.3S.PRES PRON.3SM basically TAG be.1S.PRES PRON.1S NEG want pay.NONFIN money to pocket some complete
+%eng:	alright, because what it is basically, right, I don't want to pay money into the pocket of some complete...
+*NER:	oh@0 ! %snd:"Stammers3"_799506_800145
+*GUT:	+, well@0 dyn@1 estron@1 basically@2 a@1 ## timod@1 # satisfy_o@21 [?] capitalist@2 needs@2 o@1 de@1 . %snd:"Stammers3"_800946_806310
+%gls:	well man foreign basically and know.2S satisfy.NONFIN capitalist needs PRON.3SM TAG
+%eng:	...well, outsider basically, and, you know, satisfy his capitalist needs, you know.
+*GUT:	dw@1 i@1 isio@1 [///] os@1 dw@1 i@1 am@1 dalu@1 # rent@0 i@1 rywun@1 well@1 fi@1 dalu@1 rent@0 i@1 nheulu@1 yeah@0 ? %snd:"Stammers3"_806298_809178
+%gls:	be.1S.PRES PRON.1S want if be.1S.PRES PRON.1S for pay.NONFIN rent to someone better PRON.1S pay.NONFIN rent to family.POSSD.1S yeah
+%eng:	I want to... if I'm going to pay rent to someone, I'd rather pay rent to my family, yeah.
+*NER:	+< oh@0 paid@1 â@1 poeni@1 am@1 hynna@1 . %snd:"Stammers3"_806426_808214
+%gls:	IM desist.2S.IMPER with worry.NONFIN about that
+%eng:	oh, don't worry about that.
+*NER:	<bydd@1 (y)na@1 ddigon@1 o@1 pres@1 yn@1 cael@1 ei@1 dalu@1> [=! laughs] ! %snd:"Stammers3"_808632_811093
+%gls:	be.3S.FUT there enough of money PRT get.NONFIN POSS.3SM pay.NONFIN
+%eng:	enough money will get paid!
+*GUT:	well@0 yeah@0 xxx +//. %snd:"Stammers3"_811244_812184
+*GUT:	dim@1 ots@1 gen@1 i@1 dalu@1 chi@1 . %snd:"Stammers3"_812196_813287
+%gls:	NEG odds with.1S PRON.1S pay.NONFIN PRON.2PL
+%eng:	I don't mind paying you.
+*GUT:	ond@1 um@0 dw@1 i@1 (we)di@1 bod@1 yn@1 sbïo@1 ar@1 bedsit@2 yn@1 Felinheli@0 er@1 enghraifft@1 . %snd:"Stammers3"_813662_816274
+%gls:	but IM be.1S.PRES PRON.1S PRT.PAST be.NONFIN PRT look.NONFIN on bedsit in Felinheli for example
+%eng:	but I've been looking at a bedsit in Felinheli, for example.
+*GUT:	a@1 &dɔ &dɔ do'n@1 i@1 (dd)im@1 yn@1 licio@1 (y)r@1 idea@0 o@1 # wario@1 seventy@2 pound@2 a@2 week@2 # mond@1 am@1 # box_room@2 basically@2 ## a@1 roi@1 pres@1 ym@1 boced@1 dyn@1 dw@1 (dd)im@1 yn@1 nabod@1 # boy@0 sydd@1 just@0 isio@1 wneud@1 [?] pres@1 &ɔ ohonof@1 fi@1 timod@1 ? %snd:"Stammers3"_816845_827491
+%gls:	and be.1S.IMP.NEG PRON.1S NEG PRT like.NONFIN DET idea of spend.NONFIN seventy pound a week only for box_room basically and put.NONFIN money in pocket man be.1S.PRES PRON.1S NEG PRT know.NONFIN boy be.PRES.REL just want make.NONFIN money of.1S PRON.1S know.2S
+%eng:	and I didn't like the idea of spending £70 a week just for a box-room, basically, and putting money into the pocket of a man I don't know, a bloke who just wants to make money out of me, you know?
+*NER:	+< faint@1 oedd@1 hwnnw@1 ? %snd:"Stammers3"_818412_818970
+%gls:	how_much be.3S.IMP that
+%eng:	how much was that?
+*GUT:	so@0 # os@1 dw@1 i@1 am@1 dalu@1 rent@0 i@1 rywun@1 well@1 gyn@1 i@1 dalu@1 rent@0 i@1 nheulu@1 sy@1 &a [//] timod@1 pobl@1 yn@1 hun@1 de@1 tibod@1 . %snd:"Stammers3"_828378_833591
+%gls:	so if be.1S.PRES PRON.1S for pay.NONFIN rent to someone better with PRON.1S pay.NONFIN rent to family.POSSD.1S be.PRES.REL know.2S people POSS.1S self TAG know.2S
+%eng:	so if I'm going to pay somebody rent, I'd rather pay rent to my family who... you know, my own people, you know.
+*NER:	mmhm@0 mmm@0 . %snd:"Stammers3"_833243_834694
+*GUT:	dyna@1 (y)dy@1 rheswm@1 dw@1 i@1 <isio@1 byw@1> [?] (y)na@1 de@1 ? %snd:"Stammers3"_834659_836227
+%gls:	there be.3S.PRES reason be.1S.PRES PRON.1S want live.NONFIN there TAG
+%eng:	that's the reason I want to live there, isn't it
+*GUT:	plus@2 dw@1 i@1 isio@1 ## lle@1 i@1 fi@1 (y)n@1 hun@1 basically@2 de@1 . %snd:"Stammers3"_836296_839234
+%gls:	plus be.1S.PRES PRON.1S want place to PRON.1S POSS.1S self basically TAG
+%eng:	plus I want a place for myself basically, you know.
+*NER:	bysai@1 fo@1 (y)n@1 &stə step@0 [//] stepping_stone@2 bysai@1 ? %snd:"Stammers3"_839605_841730
+%gls:	be.3S.CONDIT PRON.3SM PRT step stepping_stone be.3S.CONDIT
+%eng:	it would be a step... a stepping-stone, wouldn't it?
+*GUT:	+< (be)cause@2 um@0 +/. %snd:"Stammers3"_839977_840592
+*GUT:	(be)cause@2 <dw@1 i@1 bod@1> [?] xxx ry@1 hir@1 wan@1 i@1 fod@1 yn@1 honest@0 . %snd:"Stammers3"_841892_843936
+%gls:	because be.1S.PRES PRON.1S be.NONFIN xxx too long now to be.NONFIN PRT honest
+%eng:	because I've been [...] too long now, to be honest.
+*GUT:	dw@1 i@1 (we)di@1. %snd:"Stammers3"_844226_845422
+%gls:	be.1S.PRES PRON.1S PRT.PAST
+%eng:	I have.
+*NER:	&=laugh . %snd:"Stammers3"_844725_845503
+*NER:	(ba)sai@1 fo@1 (y)n@1 stepping_stone@2 bysai@1 . %snd:"Stammers3"_846200_847314
+%gls:	be.3S.CONDIT PRON.3SM PRT stepping_stone be.3S.CONDIT
+%eng:	it would be a stepping-stone, wouldn't it.
+*GUT:	+< ry@1 hir@1 . %snd:"Stammers3"_846455_846966
+%gls:	too long
+%eng:	too long.
+*GUT:	a@1 dw@1 i@1 meddwl@1 bod@1 fi@1 wneud@1 mwy@1 o@1 ddrwg@1 na@1 daioni@1 # drwy@1 fyw@1 adre@1 (be)cause@2 mae@1 lot@0 o@1 stress@0 yn@1 xxx creu@1 rhwng@1 # Adrian@0 a@1 fi@1 yn@1 ffraeo@1 . %snd:"Stammers3"_847757_853922
+%gls:	and be.1S.PRES PRON.1S think.NONFIN be.NONFIN PRON.1S do.NONFIN more of bad than goodness through live.NONFIN home because be.3S.PRES lot of stress PRT create.NONFIN between Adrian and PRON.1S PRT argue.NONFIN
+%eng:	and I think I'm doing more harm than good by living at home, because there's a lot of stress gets created between Adrian and me arguing.
+*GUT:	a@1 (peta)swn@1 i@1 (y)n@1 tynnu@1 <yn@1 hun@1> [?] allan@1 o@1 (y)r@1 equation@2 # ella@1 (ba)sai@1 (y)na@1 llai@1 o@1 &fr ffraeo@1 a@1 hence@2 # llai@1 o@1 stress@0 de@1 . %snd:"Stammers3"_854960_860545
+%gls:	and if_be.1S.CONDIT PRON.1S PRT pull.NONFIN POSS.1S self out of DET equation maybe be.3S.CONDIT there less of argue.NONFIN and hence less of stress TAG
+%eng:	and if I took myself out of the equation, there might be less arguing and hence less stress, right.
+*NER:	dw@1 i@1 dal@1 dal@1 hi@1 gynno@1 fo@1 ? %snd:"Stammers3"_860923_861840
+%gls:	be.1S.PRES PRON.1S still catch.NONFIN PRON.3SF with.3SM PRON.3SM
+%eng:	do I still cop it from him?
+*GUT:	huh@0 ? %snd:"Stammers3"_861968_862351
+*NER:	dw@1 i@1 dal@1 dal@1 hi@1 ? %snd:"Stammers3"_862351_863094
+%gls:	be.1S.PRES PRON.1S still catch.NONFIN PRON.3SF
+%eng:	do I still cop it?
+*GUT:	oh@0 dw@1 i@1 (dd)im@1 yn@1 gwybod@1 . %snd:"Stammers3"_863083_863988
+%gls:	IM be.1S.PRES PRON.1S NEG PRT know.NONFIN
+%eng:	oh, I don't know.
+*GUT:	mae@1 pawb@1 dal@1 hi@1 gynno@1 fo@1 at@2 some@2 point@2 (dy)dy@1 # bob@1 diwrnod@1 . %snd:"Stammers3"_864050_866241
+%gls:	be.3S.PRES everyone catch.NONFIN PRON.3SF with.3SM PRON.3SM at some point be.3S.PRES.NEG every day
+%eng:	everyone cops it from him at some point, don't they, every day.
+*NER:	mmm@0 . %snd:"Stammers3"_867355_867715
+*GUT:	ond@1 ella@1 daw@1 haul@1 ar@1 fryn@1 yn@1 diwedd@1 . %snd:"Stammers3"_867541_868772
+%gls:	but maybe come.3S.NONPAST sun on hill in end
+%eng:	but maybe things will get better in the end.
+*GUT:	gawn@1 ni@1 weld@1 . %snd:"Stammers3"_868957_869468
+%gls:	get.1PL.NONPAST PRON.1PL see.NONFIN
+%eng:	we'll see.
+*NER:	mmm@0 er@0 &w &d be@1 (y)dy@1 (y)r@1 +/. %snd:"Stammers3"_870468_872429
+%gls:	IM IM what be.3S.PRES DET
+%eng:	mmm, what's the...
+*GUT:	mae@1 Mam@0 yn@1 gweddïo@1 de@1 . %snd:"Stammers3"_872313_873381
+%gls:	be.3S.PRES Mam PRT pray.NONFIN TAG
+%eng:	Mam's praying, yeah.
+*GUT:	dyna@1 be@1 mae@1 <Mam@0 yn@1 wneud@1> [//] xxx Mam@0 yn@1 wneud@1 xxx fo@1 . %snd:"Stammers3"_873363_875267
+%gls:	there what be.3S.PRES Mam PRT do.NONFIN xxx Mam PRT do.NONFIN xxx PRON.3SM
+%eng:	that's what Mam's doing [...] it.
+*GUT:	&ɔji bydd@1 raid@1 fi@1 gyfadde@1 [?] dw@1 i@1 (y)n@1 gweddïo@1 (y)n@1 hun@1 de@1 . %snd:"Stammers3"_875383_877171
+%gls:	be.3S.FUT necessity PRON.1S admit.NONFIN be.1S.PRES PRON.1S PRT pray.NONFIN POSS.1S self TAG
+%eng:	I'll have to admit, I pray myself, right.
+*GUT:	(be)cause@2 dw@1 i@1 isio@1 pethau@1 wella@1 de@1 . %snd:"Stammers3"_877211_878279
+%gls:	because be.1S.PRES PRON.1S want things improve.NONFIN TAG
+%eng:	because I do want things to improve, right.
+*GUT:	(be)cause@2 fedrith@1 [?] pethau@1 (ddi)m@1 aros@1 (y)r@1 u(n)@1 fath@1 am@1 hir@1 de@1 ## eto@1 (be)cause@2 mae@1 [?] too@2 much@2 . %snd:"Stammers3"_878209_881996
+%gls:	because can.3S.NONPAST things NEG stay.NONFIN DET one kind for long TAG again because be.3S.PRES too much
+%eng:	because things can't stay as they are for long, right, again, because it's too much.
+*GUT:	ond@1 (dy)na@1 o@1 . %snd:"Stammers3"_882088_882669
+%gls:	but there PRON.3SM
+%eng:	but there you are.
+*NER:	mmm@0 . %snd:"Stammers3"_884799_885635
+*NER:	dw@1 i@1 (y)n@1 meddwl@1 # <be@1 (y)dy@1> [//] er@0 yr@1 plan@0 ydy@1 ## bod@1 y@1 to@1 (y)n@1 dod@1 i_ffwrdd@1 . %snd:"Stammers3"_886111_892485
+%gls:	be.1S.PRES PRON.1S PRT think.NONFIN what be.3S.PRES IM DET plan be.3S.PRES be.NONFIN DET roof PRT come.NONFIN away
+%eng:	I think that what's... the plan is that that roof is coming off.
+*GUT:	yeah@0 . %snd:"Stammers3"_892624_893181
+*NER:	+, a@1 [//] ac@1 yn@1 mynd@1 yn@1 uwch@1 . %snd:"Stammers3"_894041_896142
+%gls:	and and PRT go.NONFIN PRT higher
+%eng:	...and is going to be higher.
+*GUT:	mmm@0 . %snd:"Stammers3"_896606_897152
+*NER:	a@1 to@1 newydd@1 yn@1 # cael@1 ei@1 roid@1 yn@1 ei@1 le@1 fo@1 . %snd:"Stammers3"_897535_899486
+%gls:	and roof new PRT get.NONFIN POSS.3S put.NONFIN in POSS.3SM place PRON.3SM
+%eng:	and a new roof is being put in its place.
+*NER:	dyna@1 (y)dy@1 (y)r@1 plan@0 gynta@1 . %snd:"Stammers3"_899520_900740
+%gls:	there be.3S.PRES DET plan first
+%eng:	that's the first plan.
+*NER:	so@0 mae@1 hynna@1 (y)n@1 gael@1 ei@1 wneud@1 diwedd@1 mis@1 (y)ma@1 . %snd:"Stammers3"_900716_902435
+%gls:	so be.3S.PRES that PRT get.NONFIN POSS.3SM do.NONFIN end month here
+%eng:	so that's getting done at the end of this month.
+*GUT:	yeah@0 . %snd:"Stammers3"_902428_902858
+*NER:	a@1 wedyn@1 # yn@1 y@1 build_up@2 i@1 [?] wedyn@1 # cyn@1 Dolig@1 # mae@1 o@1 mynd@1 i@1 roi@1 bathroom@0 newydd@1 i_fewn@1 . %snd:"Stammers3"_903770_909250
+%gls:	and after in DET build_up to after before Christmas be.3S.PRES PRON.3SM go.NONFIN to put.NONFIN bathroom new in
+%eng:	and afterwards... in the build up to then before Christmas he's going to put in a new bathroom.
+*GUT:	oh@0 right@0 . %snd:"Stammers3"_910074_910945
+*NER:	+, a@1 roid@1 partition@0 wall@2 . %snd:"Stammers3"_910945_912640
+%gls:	and put.NONFIN partition wall
+%eng:	and put in a partition wall.
+*NER:	a@1 wedyn@1 +/. %snd:"Stammers3"_914045_915519
+%gls:	and then
+%eng:	and then...
+*GUT:	cyn@1 Dolig@1 fydd@1 hyn@1 i_gyd@1 yeah@0 ? %snd:"Stammers3"_915507_916541
+%gls:	before Christmas be.3S.FUT this all yeah
+%eng:	this will all be before Christmas, yeah?
+*NER:	cyn@1 Dolig@1 # yeah@0 . %snd:"Stammers3"_916483_917563
+%gls:	before Christmas yeah
+%eng:	before Christmas, yeah.
+*GUT:	well@0 ro@1 i@1 hand@2 i@1 Bob@0 (y)li@1 . %snd:"Stammers3"_917284_918689
+%gls:	well give.1S.NONPAST PRON.1S hand to Bob see.2S.IMPER
+%eng:	well look, I'll give Bob a hand.
+*GUT:	(be)cause@2 er@0 +/. %snd:"Stammers3"_918677_919188
+*NER:	fydd@1 rhaid@1 chdi@1 ! %snd:"Stammers3"_919165_919745
+%gls:	be.3S.FUT necessity PRON.2S
+%eng:	you'll have to!
+*GUT:	+, bob@1 weekend@2 dw@1 i@1 (y)n@1 er@0 ## free@0 as@2 a@2 bird@2 . %snd:"Stammers3"_919838_922868
+%gls:	every weekend be.1S.PRES PRON.1S PRT IM free as a bird
+%eng:	...every weekend I'm free as a bird.
+*NER:	ie@1 (dy)dy@1 o@1 (ddi)m@1 isio@1 bod@1 yn@1 wneud@1 o@1 +//. %snd:"Stammers3"_922833_924296
+%gls:	yes be.3S.PRES.NEG PRON.3SM NEG want be.NONFIN PRT do.NONFIN PRON.3SM
+%eng:	yes, he doesn't want to be doing it...
+*NER:	timod@1 # be@1 mae@1 o@1 (y)n@1 gobeithio@1 wneud@1 (y)li@1 +//. %snd:"Stammers3"_924459_927187
+%gls:	know.2S what be.3S.PRES PRON.3SM PRT hope.NONFIN do.NONFIN see.2S.IMPER
+%eng:	you know, what he's hoping to do, see...
+*NER:	mae@1 (y)r@1 # joban@1 nesa@1 s(y)@1 gynno@1 fo@1 &m mae@1 o@1 mynd@1 i@1 gael@1 rywun@1 arall@1 i_fewn@1 i@1 wneud@1 y@1 rhan@1 gynta@1 . %snd:"Stammers3"_927164_932168
+%gls:	be.3S.PRES DET job next be.PRES.REL with.3SM PRON.3SM be.3S.PRES PRON.3SM go.NONFIN to get.NONFIN someone other in to do.NONFIN DET part first
+%eng:	the next job he's got he's going to get someone else in to do the first bit.
+*GUT:	mmm@0 . %snd:"Stammers3"_932179_932679
+*NER:	achos@1 ## dw@1 i@1 meddwl@1 mae@1 hynna@1 mynd@1 i@1 <safio@1 fo@1> [//] safio@1 pres@1 iddo@1 fo@1 . %snd:"Stammers3"_933271_936928
+%gls:	because be.1S.PRES PRON.1S think.NONFIN be.3S.PRES that go.NONFIN to save.NONFIN PRON.3SM save.NONFIN money to.3SM PRON.3SM
+%eng:	because I think that's going to save him money.
+*NER:	wedyn@1 mae@1 o@1 mynd@1 i@1 fod@1 efo@1 amser@1 i@1 wneud@1 o@1 adeg@1 hynny@1 (y)li@1 . %snd:"Stammers3"_936905_939714
+%gls:	then be.3S.PRES PRON.3SM go.NONFIN to be.NONFIN with time to do.NONFIN PRON.3SM time that see.2S.IMPER
+%eng:	then he's going to have time to do it around then, see.
+*GUT:	mmm@0 . %snd:"Stammers3"_939761_940527
+*NER:	ond@1 ## &ɔ: gobeithio@1 fydd@1 di@1 fewn@1 cyn@1 Dolig@1 . %snd:"Stammers3"_941119_945113
+%gls:	but hope.NONFIN be.2S.FUT PRON.2S in before Christmas
+%eng:	but hopefully you'll be in before Christmas.
+*GUT:	oh@0 gobeithio@1 de@1 . %snd:"Stammers3"_944846_945856
+%gls:	IM hope.NONFIN TAG
+%eng:	oh, hopefully, yeah.
+*NER:	yeah@0 <well@0 mae@1 [/] mae@1 wneud@1> [?] +//. %snd:"Stammers3"_945786_946831
+%gls:	yeah well be.3S.PRES be.3S.PRES make.NONFIN
+%eng:	yeah, well it makes...
+*NER:	well@0 +... %snd:"Stammers3"_946796_947272
+*GUT:	i@1 mi@1 gael@1 bod@1 dyn@1 yn@1 hun@1 de@1 . %snd:"Stammers3"_947783_949258
+%gls:	for PRON.1S get.NONFIN be.NONFIN man POSS.1S self TAG
+%eng:	so I can be my own man, you know.
+*NER:	+< (be)cause@2 +/. %snd:"Stammers3"_948503_948944
+*GUT:	timod@1 <dw@1 (ddi)m@1> [//] <(dy)dy@1 (ddi)m@1> [/] <(dy)dy@1 o@1 (ddi)m@1 yn@1 &təm> [//] &dmən [///] dw@1 i@1 (dd)im@1 yn@1 teimlo@1 (y)n@1 +... %snd:"Stammers3"_949432_952216
+%gls:	know.2S be.1S.PRES NEG be.3S.PRES.NEG NEG be.3S.PRES.NEG PRON.3SM NEG PRT be.1S.PRES PRON.1S NEG PRT feel.NONFIN PRT
+%eng:	you know, I don't... it's not...it's not... I don't feel...
+*GUT:	&i gen@1 i@1 (dd)im@1 yr@1 un@1 hunan_barch@1 # yn@1 byw@1 adre@1 fel@1 ydw@1 i@1 ar@1 hyn@1 o@1 bryd@1 timod@1 . %snd:"Stammers3"_952402_955845
+%gls:	 with.1S PRON.1S NEG DET one self_respect PRT live.NONFIN home like be.1S.PRES PRON.1S on this of time know.2S
+%eng:	I don't have as much self-respect living at home like I am at the moment, you know.
+*NER:	+< na@1 # na@1 na@1 &t na@1 . %snd:"Stammers3"_954626_956646
+%gls:	no no no no
+%eng:	no, no, no, no.
+*GUT:	dydw@1 i@1 ddim@1 . %snd:"Stammers3"_956832_957216
+%gls:	be.1S.PRES.NEG PRON.1S NEG
+%eng:	I don't
+*GUT:	dw@1 (ddi)m@1 yn@1 teimlo@1 (y)n@1 # complete@2 (fe)lly@1 . %snd:"Stammers3"_957216_958910
+%gls:	be.1S.PRES NEG PRT feel.NONFIN PRT complete thus
+%eng:	I don't feel complete, like.
+*GUT:	neu@1 cyflawn@1 ["] (y)dy@1 (y)r@1 gair@1 Cymraeg@1 de@1 . %snd:"Stammers3"_959142_960501
+%gls:	or complete be.3S.PRES DET word Welsh TAG
+%eng:	or "cyflawn" is the Welsh word, isn't it.
+*NER:	+< na@1 # na@1 na@1 . %snd:"Stammers3"_959328_961383
+%gls:	no no no
+%eng:	no, no, no.
+*GUT:	timod@1 . %snd:"Stammers3"_961604_961998
+%gls:	know.2S
+%eng:	you know.
+*NER:	na@1 na@1 (dy)dy@1 o@1 (ddi)m@1 yn@1 &ja [///] na@1 . %snd:"Stammers3"_962080_963868
+%gls:	no no be.3S.PRES.NEG PRON.3SM NEG PRT no
+%eng:	no, no, it's not... no.
+*GUT:	mmm@0 . %snd:"Stammers3"_963879_964239
+*NER:	(dy)dy@1 o@1 (ddi)m@1 yn@1 wneud@1 daioni@1 chdi@1 . %snd:"Stammers3"_964158_965656
+%gls:	be.3S.PRES.NEG PRON.3SM NEG PRT do.NONFIN goodness to PRON.2S
+%eng:	it's not doing you any good.
+*NER:	na@1 &=mumble ond@1 [/] ond@1 (dy)na@1 o@1 de@1 timod@1 . %snd:"Stammers3"_966306_968512
+%gls:	no but but there PRON.3SM TAG know.2S
+%eng:	no, but that's it, isn't it, you know.
+*GUT:	mmm@0 . %snd:"Stammers3"_969011_969580
+*NER:	(dy)dy@1 o@1 (ddi)m_byd@1 +//. %snd:"Stammers3"_970230_971066
+%gls:	be.3S.PRES.NEG PRON.3SM nothing
+%eng:	it's nothing...
+*NER:	timod@1 # dim@1 ots@1 chwaith@1 nac@1 (y)dy@1 . %snd:"Stammers3"_971066_972935
+%gls:	know.2S NEG odds either NEG be.3S.PRES
+%eng:	you know, it doesn't matter either, does it.
+*NER:	ond@1 [/] ond@1 na@1 # well@0 y@1 [/] y@1 sefyllfa@1 sy@1 mwy@1 anodd@1 anyway@2 de@1 . %snd:"Stammers3"_972970_976255
+%gls:	but but no well DET DET situation be.PRES.REL more difficult anyway TAG
+%eng:	but no, well, it's the situation which is more difficult, isn't it.
+*GUT:	yeah@0 . %snd:"Stammers3"_976267_976882
+*NER:	so@0 na@1 [/] na@1 <fydd@1 o@1 (y)n@1> [/] <fydd@1 o@1 (y)n@1> [/] fydd@1 o@1 nice@0 . %snd:"Stammers3"_976906_979437
+%gls:	so no no be.3S.FUT PRON.3SM PRT be.3S.FUT PRON.3SM PRT be.3S.FUT PRON.3SM PRT nice
+%eng:	so, no, it'll be nice.
+*GUT:	a@1 wedyn@1 <fydd@1 ti@1> [?] xx fydd@1 [/] <fydd@1 di@1> [//] gei@1 di@1 ddod@1 i_fewn@1 # &n cael@1 [//] mae@1 [//] a@1 [/] a@1 [/] # a@1 [/] a@1 [//] am@1 baned@1 am@1 fwyd@1 efo@1 ni@1 # a@1 chwarae@1 efo@1 Anna@0 . %snd:"Stammers3"_979413_988285
+%gls:	and then be.2S.FUT PRON.2S xx be.2S.FUT be.2S.FUT PRON.2S get.2S.NONPAST PRON.2S come.NONFIN in get.NONFIN be.3S.PRES and and and and for hot_drink for food with PRON.1PL and play.NONFIN with Anna
+%eng:	and then you'll... you can come in [...] for a drink, for food with us, and play with Anna.
+*GUT:	well@0 na@1 [/] na@1 <fydda@1 i@1> [/] # fydda@1 i@1 (y)n@1 hollol@1 annibynnol@1 . %snd:"Stammers3"_987356_989980
+%gls:	well no no be.1S.FUT PRON.1S be.1S.FUT PRON.1S PRT total independent
+%eng:	well no, I'll be totally independent.
+*NER:	+< na@1 weithiau@1 ! %snd:"Stammers3"_988379_989226
+%gls:	no times
+%eng:	no, sometimes!
+*NER:	yeah@0 ond@1 (ba)sai@1 [?] &ne +//. %snd:"Stammers3"_990224_990816
+%gls:	yeah but be.3S.CONDIT
+%eng:	yeah but that would...
+*NER:	na@1 <dw@1 i@1 isio@1> [?] +//. %snd:"Stammers3"_990816_991408
+%gls:	no be.1S.PRES PRON.1S want
+%eng:	no, I want to...
+*NER:	mae@1 Anna@0 wrth@1 ei@1 bodd@1 efo@1 chdi@1 . %snd:"Stammers3"_991385_992499
+%gls:	be.3S.PRES Anna by POSS.3S pleasure with PRON.2S
+%eng:	Anna adores you.
+*GUT:	well@0 yeah@0 ddo@1 i@1 fyny@1 [?] weld@1 Anna@0 wrth_gwrs@1 de@1 . %snd:"Stammers3"_992534_994357
+%gls:	well yeah come.1S.NONPAST PRON.1S up see.NONFIN Anna of_course TAG
+%eng:	well, yeah, I'll be up to see Anna, of course, right.
+*GUT:	ond@1 &g gewch@1 chi@1 (ei)ch@1 bwyd@1 yn@1 f(an)@1 yma@1 a@1 ga@1 i@1 mwyd@1 yn@1 f(an)@1 yna@1 de@1 . %snd:"Stammers3"_994345_996783
+%gls:	but get.2PL.NONPAST PRON.2PL POSS.2PL food in place here and get.1S.NONPAST PRON.1S food.POSSD.1S in place there TAG
+%eng:	but you'll have your food here, and I'll have my food there, isn't it.
+*NER:	+< oh@0 yeah@0 sure@0 . %snd:"Stammers3"_996029_997039
+*GUT:	a@1 mae@1 (y)n@1 iawn@1 mi@1 # invite_io@21 Chris@0 neu@1 rywun@1 round@0 rhyw@1 noson@1 ella@1 ? %snd:"Stammers3"_997097_1000162
+%gls:	and be.3S.PRES PRT alright PRON.1S invite.NONFIN Chris or someone round some night maybe
+%eng:	and it's alright for me to invite Chris or someone round some night, maybe?
+*NER:	well@0 yndy@1 sure@0 ! %snd:"Stammers3"_1000605_1001290
+%gls:	well be.3S.PRES sure
+%eng:	well, of course it is!
+*GUT:	+< yndy@1 ? %snd:"Stammers3"_1001046_1001452
+%gls:	be.3S.PRES
+%eng:	yes?
+*GUT:	cael@1 ffrindiau@1 round@0 weithiau@1 ? %snd:"Stammers3"_1001580_1002532
+%gls:	get.NONFIN friends round times
+%eng:	have friends round sometimes?
+*NER:	xxx sure@0 ! %snd:"Stammers3"_1002543_1003112
+%eng:	[...] of course!
+*GUT:	+, os@1 oes@1 (yn)a@1 le@1 yna@1 de@1 . %snd:"Stammers3"_1002996_1003797
+%gls:	if be.3S.PRES there place there TAG
+%eng:	if there's room there, eh.
+*NER:	&=snort &=laugh ! %snd:"Stammers3"_1003890_1005968
+*GUT:	&=laugh <fedra@1 i@1 (dd)im@1 gael@1> [?] mwy@1 na@1 un@1 neu@1 ddau@1 fedra@1 . %snd:"Stammers3"_1006018_1008479
+%gls:	can.1S.NONPAST PRON.1S NEG get.NONFIN more than one or two.M can.1S.NONPAST
+%eng:	I won't be able to have more than one or two, will I.
+*NER:	<na(g)@1 (y)dy@1> [?] ! %snd:"Stammers3"_1008700_1009489
+%gls:	NEG be.3S.PRES
+%eng:	no!
+*GUT:	(doe)s@1 (yn)a@1 (ddi)m@1 lle@1 i@1 dri@1 nag@1 oes@1 . %snd:"Stammers3"_1009141_1010023
+%gls:	be.3S.PRES.NEG there NEG place for three.M NEG be.3S.PRES
+%eng:	there's no room for three, is there.
+*NER:	fedri@1 di@1 (ddi)m@1 cael@1 dinner_party@2 (y)na@1 de@1 . %snd:"Stammers3"_1009722_1011393
+%gls:	can.2S.NONPAST PRON.2S NEG have.NONFIN dinner_party there TAG
+%eng:	you can't have a dinner-party there, you know.
+*GUT:	oh@0 mae@1 (y)r@1 [?] phone@0 yn@1 canu@1 . %snd:"Stammers3"_1011335_1012206
+%gls:	IM be.3S.PRES DET phone PRT sing.NONFIN
+%eng:	oh, the phone's ringing.
+*NER:	&=laugh . %snd:"Stammers3"_1012543_1013286
+@Comment:	GUT's mobile phone starts to play a tune, and he answers it.
+*NER:	hello@0 ! %snd:"Stammers3"_1016026_1016838
+*NER:	oh@0 xxx <fo@1 fod@1> [?] off@0 ! %snd:"Stammers3"_1017351_1018698
+%gls:	IM xxx PRON.3SM be.NONFIN off
+%eng:	oh [...] it off!
+*GUT:	dw@1 i@1 (y)n@1 tŷ@1 Nerys@0 ! %snd:"Stammers3"_1018280_1019220
+%gls:	be.1S.PRES PRON.1S in house Nerys
+%eng:	I'm at Nerys's house!
+*GUT:	dw@1 i@1 (y)n@1 tŷ@1 Nerys@0 . %snd:"Stammers3"_1020184_1021066
+%gls:	be.1S.PRES PRON.1S in house Nerys
+%eng:	I'm at Nerys's house.
+*GUT:	fydda@1 i@1 adre@1 tua@1 +//. %snd:"Stammers3"_1021323_1022554
+%gls:	be.1S.FUT PRON.1S home about
+%eng:	I'll be home around...
+*GUT:	well@0 +... %snd:"Stammers3"_1022577_1023332
+*GUT:	yeah@0 fydda@1 i@1 (dd)im@1 yn@1 hir@1 . %snd:"Stammers3"_1023866_1024829
+%gls:	yeah be.1S.FUT PRON.1S NEG PRT long
+%eng:	yeah, I won't be long.
+*GUT:	o_k@0 iawn@1 . %snd:"Stammers3"_1027400_1028282
+%gls:	o_k right
+%eng:	okay, right.
+*GUT:	wnes@1 i@1 ddeud@1 (ba)swn@1 i@1 adre@1 (y)n@1 hwyr@1 anyway@2 [?] ! %snd:"Stammers3"_1028538_1030059
+%gls:	do.1S.PAST PRON.1S say.NONFIN be.1S.CONDIT PRON.1S home PRT late anyway
+%eng:	I said I'd be home late, anyway!
+*GUT:	wnes@1 i@1 ddeud@1 (ba)swn@1 i@1 adre@1 (y)n@1 hwyr@1 xxx . %snd:"Stammers3"_1030812_1032112
+%gls:	do.1S.PAST PRON.1S say.NONFIN be.1S.CONDIT PRON.1S home PRT late xxx
+%eng:	I said I'd be home late, [...].
+*GUT:	do@1 . %snd:"Stammers3"_1033343_1033853
+%gls:	yes
+%eng:	yes.
+*GUT:	o_k@0 tara@0 . %snd:"Stammers3"_1035630_1036617
+*GUT:	tara@0 . %snd:"Stammers3"_1037081_1037464
+*GUT:	yeah@0 # so@0 +... %snd:"Stammers3"_1039589_1041435
+*NER:	be@1 Adrian@0 oedd@1 hwnna@1 ? %snd:"Stammers3"_1041562_1042514
+%gls:	what Adrian be.3S.IMP that
+%eng:	what, was that Adrian?
+*GUT:	na@1 # Papa@0 ## hwnna@1 # father@2 dear@0 ## Dad@0 ! %snd:"Stammers3"_1043269_1048935
+%gls:	no Papa that father dear Dad
+%eng:	no, Papa, that was... father dear... Dad!
+*NER:	oedd@1 o@1 (y)n@1 gwybod@1 bod@1 xxx ddim@1 yn@1 sure@0 oedda@1 chdi@1 deud@1 xxx . %snd:"Stammers3"_1049213_1052035
+%gls:	be.3S.IMP PRON.3SM PRT know.NONFIN be.NONFIN xxx NEG PRT sure be.2S.IMP PRON.2S say.NONFIN xxx
+%eng:	did he know that [...], not sure you'd said [...] .
+*GUT:	huh@0 ? %snd:"Stammers3"_1052453_1052917
+*NER:	o'ch@1 chdi@1 (we)di@1 deud@1 bod@1 chdi@1 am@1 ddod@1 yma@1 ? %snd:"Stammers3"_1052871_1054345
+%gls:	be.2S.IMP PRON.2S PRT.PAST say.NONFIN be.NONFIN PRON.2S for come.NONFIN here
+%eng:	had you said you were coming here?
+*GUT:	oeddwn@1 . %snd:"Stammers3"_1054892_1055450
+%gls:	be.1S.IMP
+%eng:	yes.
+*GUT:	well@0 o'n@1 [/] o'n@1 i@1 (we)di@1 deu(d)@1 wrth@1 Mam@0 de@1 . %snd:"Stammers3"_1055508_1056831
+%gls:	well be.1S.IMP be.1S.IMP PRON.1S PRT.PAST say.NONFIN to Mam TAG
+%eng:	well, I'd told Mam, right.
+*GUT:	oh@0 dw@1 i@1 gael@1 missed@2 call@2 gyn@1 Chris@0 (he)fyd@1 [?] . %snd:"Stammers3"_1057133_1058468
+%gls:	IM be.1S.PRES PRON.1S get.NONFIN missed call from Chris too
+%eng:	oh, I've had a missed call off Chris as well.
+*NER:	mmm@0 . %snd:"Stammers3"_1058805_1059304
+*NER:	oh@0 paid@1 â@1 dechrau@1 ateb@1 dy@1 phone@0 wan@1 ! %snd:"Stammers3"_1059350_1060860
+%gls:	IM desist.2S.IMPER with start.NONFIN answer.NONFIN POSS.2S phone now
+%eng:	oh, don't start answering your phone now!
+*GUT:	wna@1 i@1 (dd)im@1 . %snd:"Stammers3"_1060837_1061463
+%gls:	do.1S.NONPAST PRON.1S NEG
+%eng:	I won't.
+*GUT:	so@0 be@1 arall@1 fedrwn@1 ni@1 siarad@1 amdan@1 ? %snd:"Stammers3"_1062369_1063878
+%gls:	so what other can.1PL.NONPAST PRON.1PL talk.NONFIN about
+%eng:	so what else can we talk about?
+*NER:	um@0 Anna@0 ? %snd:"Stammers3"_1064645_1065759
+*GUT:	well@0 +... %snd:"Stammers3"_1067456_1068443
+*GUT:	fedran@1 ni@1 siarad@1 am@1 An(na)@0 [/] Anna@0 till@2 the@2 cows@2 come@2 home@2 ## xxx . %snd:"Stammers3"_1069615_1073087
+%gls:	can.1PL.NONPAST PRON.1PL talk.NONFIN about Anna Anna till the cows come home xx
+%eng:	we could talk about Anna till the cows come home, [..] .
+*GUT:	(oe)s@1 (y)na@1 rywbeth@1 arall@1 ? %snd:"Stammers3"_1074944_1076198
+%gls:	be.3S.PRES there something other
+%eng:	is there anything else?
+*GUT:	um@0 +... %snd:"Stammers3"_1078172_1079228
+*GUT:	faint@1 amser@1 sy@1 (we)di@1 pasio@1 ? %snd:"Stammers3"_1080865_1081980
+%gls:	how_much time be.PRES.REL PRT.PAST pass.NONFIN
+%eng:	how much time has it been?
+*NER:	ugain@1 munud@1 . %snd:"Stammers3"_1086926_1087959
+%gls:	twenty minute
+%eng:	20 minutes.
+*GUT:	ugain@1 munud@1 ? %snd:"Stammers3"_1087947_1088667
+%gls:	twenty minute
+%eng:	20 minutes?
+*NER:	well@0 # dros@1 [/] dros@1 dw@1 i@1 meddwl@1 . %snd:"Stammers3"_1088969_1091349
+%gls:	well over over be.1S.PRES PRON.1S think.NONFIN
+%eng:	well, more I think.
+*GUT:	+< oh@0 mae@1 (y)na@1 ugain@1 munud@1 (we)di@1 pasio@1 de@1 oh@0 . %snd:"Stammers3"_1089561_1090885
+%gls:	IM be.3S.PRES there twenty minute PRT.PAST pass.NONFIN TAG IM
+%eng:	oh, the 20 minutes have gone, oh.
+*GUT:	dim@1 bad@2 . %snd:"Stammers3"_1091326_1092081
+%gls:	NEG bad
+%eng:	not bad.
+*NER:	&=laugh diolch@1 yn@1 fawr@1 Guto@0 &=laugh ! %snd:"Stammers3"_1092545_1094437
+%gls:	thanks PRT big Guto
+%eng:	thanks very much, Guto!
+*GUT:	um@0 ## (ga)d@1 [?] i@1 mi@1 feddwl@1 . %snd:"Stammers3"_1094623_1096875
+%gls:	IM leave.2S.IMPER to PRON.1S think.NONFIN
+%eng:	um... let me think.
+*GUT:	<be@1 sy@1> [?]  [///] (ryw)beth@1 ddiddorol@1 sy@1 digwydd@1 i@1 mi@1 # ddiweddar@1 (y)ma@1 ? %snd:"Stammers3"_1096887_1099093
+%gls:	what be.PRES.REL something interesting be.PRES.REL happen.NONFIN to PRON.1S recent here
+%eng:	something interesting that's happened to me lately?
+*GUT:	well@0 dw@1 i@1 dal@1 yn@1 young@2 free@2 and@2 single@2 de@1 [?] . %snd:"Stammers3"_1100456_1102128
+%gls:	well be.1S.PRES PRON.1S still PRT young free and single TAG
+%eng:	well, I'm still young, free and single, right.
+*NER:	yeah@0 <mae@1 hynna@1> [/] mae@1 hynna@1 +/. %snd:"Stammers3"_1102191_1104130
+%gls:	yeah be.3S.PRES that be.3S.PRES that
+%eng:	yeah, that's...
+*GUT:	(doe)s@1 (yn)a@1 (ddi)m@1 females@2 ar@1 y@1 scene@0 o_gwbl@1 de@1 . %snd:"Stammers3"_1103445_1104908
+%gls:	be.3S.PRES.NEG there NEG females on DET scene at_all TAG
+%eng:	there are no females on the scene at all, you know.
+*GUT:	maen@1 nhw@1 [?] +/. %snd:"Stammers3"_1104908_1105256
+%gls:	be.3PL.PRES PRON.3PL
+%eng:	they're...
+*NER:	na@1 mae@1 hyn@1 yn@1 ddigalon@1 wan@1 de@1 . %snd:"Stammers3"_1105036_1106812
+%gls:	no be.3S.PRES this PRT discouraging now TAG
+%eng:	no, this is discouraging now, isn't it.
+*GUT:	+" plenty@2 of@2 fish@2 in@2 the@2 sea@2 . %snd:"Stammers3"_1106515_1107281
+*GUT:	<medden@1 nhw@1> [?] +". %snd:"Stammers3"_1107311_1107497
+%gls:	say.3PL.PAST PRON.3PL
+%eng:	they say.
+*GUT:	ond@1 dw@1 i@1 (dd)im@1 yn@1 gweld@1 nhw@1 de@1 . %snd:"Stammers3"_1107509_1108379
+%gls:	but be.1S.PRES PRON.1S NEG PRT see.NONFIN PRON.3PL TAG
+%eng:	but I don't see them, you know.
+*NER:	mae@1 hyn@1 +/. %snd:"Stammers3"_1108408_1109441
+%gls:	be.3S.PRES this
+%eng:	this is...
+*GUT:	dw@1 i@1 mewn@1 môr@1 wahanol@1 mae@1 raid@1 . %snd:"Stammers3"_1108524_1109545
+%gls:	be.1S.PRES PRON.1S in sea different be.3S.PRES necessity
+%eng:	I must be in a different sea.
+*GUT:	the@2 dead@2 sea@2 <dw@1 i@1 (we)di@1 bod@1> [?] ! %snd:"Stammers3"_1109801_1110753
+%gls:	the dead sea be.1S.PRES PRON.1S PRT.PAST be.NONFIN
+%eng:	the dead sea I've been!
+*NER:	+< &=laugh . %snd:"Stammers3"_1110230_1112100
+*NER:	mae@1 hyn@1 yn@1 ddigalon@1 de@1 . %snd:"Stammers3"_1111902_1113342
+%gls:	be.3S.PRES this PRT discouraging TAG
+%eng:	this is discouraging, isn't it.
+*GUT:	yndy@1 dw@1 gwybod@1 . %snd:"Stammers3"_1113353_1114038
+%gls:	be.3S.PRES be.1S.PRES know.NONFIN
+%eng:	yes, I know.
+*NER:	mae@1 hyn@1 yn@1 +//. %snd:"Stammers3"_1114468_1115037
+%gls:	be.3S.PRES this PRT
+%eng:	this is...
+*NER:	rhaid@1 chdi@1 sortio@1 hyn@1 allan@1 Guto@0 . %snd:"Stammers3"_1115095_1116674
+%gls:	necessity PRON.2S sort.NONFIN this out Guto
+%eng:	you have to sort this out, Guto.
+*GUT:	yeah@0 dw@1 i@1 gwybod@1 . %snd:"Stammers3"_1116662_1117115
+%gls:	yeah be.1S.PRES PRON.1S know.NONFIN
+%eng:	yeah, I know.
+*GUT:	mae@1 (y)n@1 embarrassing@2 (y)ndy@1 # huh@0 ? %snd:"Stammers3"_1117115_1118322
+%gls:	be.3S.PRES PRT embarrassing be.3S.PRES IM
+%eng:	it's embarassing, isn't it, eh?
+*NER:	oh@0 na(g)@1 (y)dy@1 [?] . %snd:"Stammers3"_1118369_1119112
+%gls:	IM no be.3S.PRES
+%eng:	oh, no.
+*NER:	na@1 &n just@0 [/] just@0 fath@1 â@1 <come@2 on@2 wan@1> ["] de@1 . %snd:"Stammers3"_1119054_1121364
+%gls:	no just just kind with come on now TAG
+%eng:	no, just sort of, "come on, now", eh.
+*GUT:	yeah@0 dw@1 i@1 gwybod@1 . %snd:"Stammers3"_1121469_1122293
+%gls:	yeah be.1S.PRES PRON.1S know.NONFIN
+%eng:	yeah, I know.
+*NER:	mae@1 (y)n@1 amser@1 +/. %snd:"Stammers3"_1122955_1123582
+%gls:	be.3S.PRES PRT time
+%eng:	it's time...
+*GUT:	+< dw@1 (ddi)m@1 gwybod@1 . %snd:"Stammers3"_1123083_1123396
+%gls:	be.1S.PRES NEG know.NONFIN
+%eng:	I don't know.
+*GUT:	(dy)dy@1 [/] <(dy)dy@1 (y)r@1 um@0> [/] # (dy)dy@1 (y)r@1 <oomph@0 (dd)im@1 gynno@1 fi@1 dim@1 mwy@1> [?] de@1 . %snd:"Stammers3"_1123384_1125706
+%gls:	be.3S.PRES.NEG be.3S.PRES.NEG DET IM be.3S.PRES.NEG DET oomph NEG with.1S PRON.1S NEG more TAG
+%eng:	I haven't got the oomph any more, no.
+*GUT:	dw@1 (ddi)m@1 gwybod@1 . %snd:"Stammers3"_1126032_1126566
+%gls:	be.1S.PRES NEG know.NONFIN
+%eng:	I don't know.
+*GUT:	dw@1 i@1 <sort@2 of@2> [?] er@0 [?] set@0 my@2 ways@2 (fe)lly@1 . %snd:"Stammers3"_1126658_1128040
+%gls:	be.1S.PRES PRON.1S sort of IM set my ways thus
+%eng:	I'm sort of, er, set in my ways, like.
+*GUT:	fydd@1 raid@1 fi@1 watsiad@1 . %snd:"Stammers3"_1128028_1128899
+%gls:	be.3S.FUT necessity PRON.1S watch.NONFIN
+%eng:	I'll have to watch out.
+*NER:	<fyddi@1 di@1> [?] (fa)th@1 â@1 Dean@0 tad@1 Bob@0 . %snd:"Stammers3"_1129398_1131093
+%gls:	be.2S.FUT PRON.2S kind with Dean father Bob
+%eng:	you'll be like Dean, Bob's father.
+*GUT:	yeah@0 . %snd:"Stammers3"_1131059_1131720
+*GUT:	yeah@0 . %snd:"Stammers3"_1133090_1133566
+*NER:	fydd@1 [?] cael@1 llwyth@1 o@1 gŵn@1 . %snd:"Stammers3"_1133629_1134976
+%gls:	be.3S.FUT get.NONFIN load of dogs
+%eng:	you'll get a lots of dogs.
+*GUT:	+< oedd@1 (y)na@1 ferched@1 nice@0 yn@1 coleg@1 . %snd:"Stammers3"_1134778_1135754
+%gls:	be.3S.IMP there women nice in college
+%eng:	there were some nice women at college.
+*GUT:	ond@1 # ti@1 gwybod@1 sut@1 maen@1 nhw@1 gyd@1 . %snd:"Stammers3"_1135730_1137333
+%gls:	but PRON.2S know.NONFIN how be.3PL.PRES PRON.3PL all
+%eng:	but you know the way they all are.
+*GUT:	timod@1 pawb@1 mor@1 i_fewn@1 [?] i@1 gwaith@1 . %snd:"Stammers3"_1138714_1140270
+%gls:	know.2S everyone so in to work
+%eng:	you know, everyone so into their work.
+*GUT:	ti@1 (dd)im@1 yn@1 # meddwl@1 am@1 bethau@1 felly@1 tibod@1 . %snd:"Stammers3"_1140247_1142418
+%gls:	PRON.2S NEG PRT think.NONFIN about things thus know.2S
+%eng:	you don't think about those kind of things, you know.
+*NER:	na@1 . %snd:"Stammers3"_1143265_1144217
+%gls:	no
+%eng:	no
+*NER:	oh@0 ti@1 (y)n@1 gwybod@1 +/. %snd:"Stammers3"_1144287_1145332
+%gls:	IM PRON.2S PRT know.NONFIN
+%eng:	oh, you know...
+*GUT:	mae@1 (y)na@1 ferched@1 nice@0 yn@1 [/] yn@1 y@1 gwaith@1 lle@1 dw@1 i@1 wan@1 de@1 . %snd:"Stammers3"_1144728_1146446
+%gls:	be.3S.PRES there women nice in in DET work where be.1S.PRES PRON.1S now TAG
+%eng:	there are some nice women at work where I am now, right.
+*GUT:	ond@1 <dw@1 (dd)im@1 yn@1> [?] bothered@2 <deud@1 gwir@1> [?] timod@1 . %snd:"Stammers3"_1146412_1147898
+%gls:	but be.1S.PRES NEG PRT bothered say.NONFIN truth know.2S
+%eng:	but, I'm not bothered really, you know.
+*NER:	ti@1 (y)n@1 gwyb(od)@1 &t +//. %snd:"Stammers3"_1148037_1148583
+%gls:	PRON.2S PRT know.NONFIN
+%eng:	you know...
+*NER:	oh@0 isio@1 [?] chdi@1 ofyn@1 nhw@1 [?] ! %snd:"Stammers3"_1148560_1149639
+%gls:	IM want PRON.2S ask.NONFIN PRON.3PL
+%eng:	oh, you need to ask them!
+*NER:	<ti@1 isio@1 chdi@1 fynd@1> [?] ofyn@1 nhw@1 allan@1 de@1 ! %snd:"Stammers3"_1149662_1151067
+%gls:	PRON.2S want PRON.2S go.NONFIN ask.NONFIN PRON.3PL out TAG
+%eng:	you need to go and ask them out!
+*GUT:	ie@1 +... %snd:"Stammers3"_1151044_1151729
+%gls:	yes
+%eng:	yeah...
+*NER:	isio@1 chdi@1 ofyn@1 xxx [?] +//. %snd:"Stammers3"_1151973_1152658
+%gls:	want PRON.2S ask.NONFIN xxx
+%eng:	you need to ask [...] ...
+*NER:	rhaid@1 i@1 chdithau@1 +/. %snd:"Stammers3"_1152681_1153447
+%gls:	necessity to PRON.2S
+%eng:	you have to...
+*GUT:	mae@1 (y)na@1 foy@0 yn@1 gwaith@1 (we)di@1 cael@1 cariad@1 ar@1 yr@1 internet@2 sti@1 . %snd:"Stammers3"_1153471_1155317
+%gls:	be.3S.PRES there boy in work PRT.PAST get.NONFIN love on DET internet know.2S
+%eng:	there's a bloke at work who's got a girlfriend on the internet, you know.
+*NER:	well@0 dyna@1 o'n@1 i@1 mynd@1 i@1 ddeud@1 (wr)tha@1 chd(i)@1 . %snd:"Stammers3"_1155352_1157337
+%gls:	well there be.1S.IMP PRON.1PL go.NONFIN to say.NONFIN to.2S PRON.2S
+%eng:	well, that's what I was going to tell you.
+*GUT:	mae@1 hynna@1 (y)n@1 sad@0 de@1 . %snd:"Stammers3"_1156606_1157616
+%gls:	be.3S.PRES that PRT sad TAG
+%eng:	that's sad, isn't it.
+*NER:	nac@1 ydy@1 dydy@1 o@1 ddim@1 [!] yn@1 sad@0 Guto@0 ! %snd:"Stammers3"_1157581_1159427
+%gls:	NEG be.3S.PRES be.3S.PRES.NEG PRON.3SM NEG PRT sad Guto
+%eng:	no, it is not sad, Guto!
+*GUT:	oh@0 God@2 yndy@1 ! %snd:"Stammers3"_1159125_1160205
+%gls:	IM God be.3S.PRES
+%eng:	oh God, it is
+*NER:	Guto@0 dydy@1 o@1 ddim@1 [!] yn@1 sad@0 ! %snd:"Stammers3"_1159845_1161667
+%gls:	Guto be.3S.PRES.NEG PRON.3SM NEG PRT sad
+%eng:	Guto, it is not sad!
+*NER:	timod@1 mae@1 hi@1 (y)n@1 fine@2 pan@1 ti@1 yn@1 dy@1 er@0 early@2 twenties@2 . %snd:"Stammers3"_1161830_1165673
+%gls:	know.2S be.3S.PRES PRON.3SF PRT fine when PRON.2S in POSS.2S IM early twenties
+%eng:	you know, it's fine when you're in your early twenties.
+*GUT:	+< (ba)sai@1 well@1 <gen@1 i@1> [?] gael@1 dim@1 cariad@1 o_gwbl@1 na@1 gael@1 cariad@1 ar@1 internet@2 !  %snd:"Stammers3"_1163478_1165650
+%gls:	be.3S.CONDIT better with.1S PRON.1S get.NONFIN NEG love at_all than get.NONFIN love on internet
+%eng:	I'd rather have no girlfriend at all than get one on the internet!
+*NER:	early@2 twenties@2 o_k@0 mae@1 pawb@1 yn@1 young@2 free@2 and@2 single@2 . %snd:"Stammers3"_1165708_1168320
+%gls:	early twenties o_k be.3S.PRES everyone PRT young free and single
+%eng:	in your early twenties, okay, everyone's young, free and single.
+*NER:	a@1 mae@1 pawb@1 allan@1 <paw(b)@1 un_ai@1> [?] yn@1 coleg@1 <neu@1 unrhyw@1 man@1> [?] . %snd:"Stammers3"_1168308_1170548
+%gls:	and be.3S.PRES everyone out everyone either in college or any place
+%eng:	and everyone's out, everyone, whether at college or anywhere.
+*NER:	a@1 pawb@1 yn@1 chwilio@1 . %snd:"Stammers3"_1170618_1171442
+%gls:	and everyone PRT search.NONFIN
+%eng:	and everyone's looking.
+*NER:	a@1 <mae@1 (y)n@1> [/] mae@1 (y)n@1 hawdd@1 # adeg@1 hynny@1 . %snd:"Stammers3"_1171431_1173532
+%gls:	and be.3S.PRES PRT be.3S.PRES PRT easy time that
+%eng:	and it's easy at that stage.
+*NER:	rwyt@1 ti@1 (y)n@1 cyfar(fod)@1 +//. %snd:"Stammers3"_1173544_1174182
+%gls:	be.2S.PRES PRON.2S PRT meet.NONFIN
+%eng:	you're meeting...
+*NER:	<mae@1 o@1> [/] mae@1 o@1 (y)n@1 kind@2 of@2 er@0 # unspoken@2 rule@2 . %snd:"Stammers3"_1174182_1176760
+%gls:	be.3S.PRES PRON.3SM be.3S.PRES PRON.3SM PRT kind of IM unspoken rule
+%eng:	it's kind of an unspoken rule.
+*NER:	(dy)na@1 o@1 . %snd:"Stammers3"_1176748_1177135
+%gls:	there PRON.3SM
+%eng:	there it is.
+*NER:	ti@1 (y)n@1 mynd@1 i@1 cael@1 cariad@1 [?] . %snd:"Stammers3"_1177123_1178075
+%gls:	PRON.2S PRT go.NONFIN to get.NONFIN love
+%eng:	you're going to find a partner.
+*GUT:	yeah@0 . %snd:"Stammers3"_1177309_1177762
+*NER:	ond@1 pan@1 [?] +//. %snd:"Stammers3"_1178006_1178621
+%gls:	but when
+%eng:	but when...
+*NER:	<argoel@1 mae@1 hann(er)@1> [?] +//. %snd:"Stammers3"_1178586_1179236
+%gls:	lord be.3S.PRES half
+%eng:	God, half...
+*NER:	&mə &rə timod@1 pan@1 ti@1 (y)n@1 dy:@1 # &n approaching@2 [//] well@0 # +/. %snd:"Stammers3"_1179225_1183091
+%gls:	know.2S when PRON.2S in POSS.2S approaching well
+%eng:	you know, when you're in your... approaching... well...
+*GUT:	yeah@0 yeah@0 less@2 said@2 the@2 better@2 ! %snd:"Stammers3"_1183195_1184426
+*NER:	+< yeah@0 &=laugh ! %snd:"Stammers3"_1183636_1185041
+*NER:	mae@1 [//] tibod@1 mae@1 rhan@1 fwya@1 o@1 bobl@1 # <neu@1 lot@0> [/] neu@1 lot@0 dim@1 rhan@1 fwya@1 [///] mae@1 lot@0 wedi@1 priodi@1 do@1 ? %snd:"Stammers3"_1185796_1191589
+%gls:	be.3S.PRES know.2S be.3S.PRES part biggest of people or lot or lot NEG part biggest be.3S.PRES lot PRT.PAST marry.NONFIN yes
+%eng:	you know, most people... or a lot, not most... a lot of people have got married, haven't they?
+*NER:	mae@1 lot@0 wedi@1 priodi@1 neu@1 efo@1 rywun@1 . %snd:"Stammers3"_1191578_1193308
+%gls:	be.3S.PRES lot PRT.PAST marry.NONFIN or with someone
+%eng:	a lot have got married or are with someone.
+*GUT:	+< do@1 . %snd:"Stammers3"_1191717_1192019
+%gls:	yes
+%eng:	yes.
+*GUT:	yeah@0 . %snd:"Stammers3"_1193435_1193737
+*NER:	a@1 wedyn@1 # tydy@1 o@1 +//. %snd:"Stammers3"_1193644_1194457
+%gls:	and after be.3S.PRES.NEG PRON.3SM
+%eng:	and then, it's not...
+*NER:	dw@1 i@1 (y)n@1 nabod@1 loa(ds)@2 [?] +//. %snd:"Stammers3"_1194480_1195467
+%gls:	be.1S.PRES PRON.1S PRT know.NONFIN loads
+%eng:	I know loads...
+*NER:	timod@1 Bridget@0 um@0 godmother@2 # Anna@0 o@1 Chepstow@2 ? %snd:"Stammers3"_1195498_1199074
+%gls:	know.2S Bridget IM godmother Anna from Chepstow
+%eng:	you know Bridget, Anna's godmother, from Chepstow?
+*GUT:	+< yeah@0 yeah@0 . %snd:"Stammers3"_1198401_1199597
+*NER:	brawd@1 hi@1 iawn@1 ## brawd@1 hi@1 <oedd@1 o@1> [//] mae@1 o@1 <rywbeth@1 tebyg@1 i@1 oed@1> [/] # rywbeth@1 tebyg@1 i@1 oed@1 fi@1 dw@1 meddwl@1 . %snd:"Stammers3"_1199624_1207496
+%gls:	brother PRON.3SF right brother PRON.3SF be.3S.IMP PRON.3SM be.3S.PRES PRON.3SM something similar to age something similar to age PRON.1S be.1S.PRES think.NONFIN
+%eng:	her brother, right, her brother, he was... he is roughly my age I think.
+*GUT:	yeah@0 . %snd:"Stammers3"_1207484_1207856
+*NER:	ac@1 oedd@1 o@1 (we)di@1 bod@1 yn@1 # &s sengl@1 # am@1 oes@1 . %snd:"Stammers3"_1207856_1211327
+%gls:	and be.3S.IMP PRON.3SM PRT.PAST be.NONFIN PRT single for age
+%eng:	and he'd been single for ages.
+*GUT:	sengl@1 yeah@0 . %snd:"Stammers3"_1211420_1212419
+%gls:	single yeah
+%eng:	single, yeah.
+*NER:	am@1 oes@1 # yn_de@1 ? %snd:"Stammers3"_1212616_1214334
+%gls:	for age TAG
+%eng:	for ages, right?
+*GUT:	+< yeah@0 . %snd:"Stammers3"_1213823_1214056
+*NER:	a:@1 oedd@1 o@1 (ddi)m@1 yn@1 meddwl@1 bod@1 o@1 mynd@1 i@1 gael@1 neb@1 . %snd:"Stammers3"_1215449_1218061
+%gls:	and be.3S.IMP PRON.3SM NEG PRT think.NONFIN be.NONFIN PRON.3SM go.NONFIN to get.NONFIN nobody
+%eng:	and he didn't think he was going to find anyone.
+*NER:	(dy)na@1 o@1 la_la@0 (dy)na@1 o@1 . %snd:"Stammers3"_1218038_1219431
+%gls:	there PRON.3SM la_la there PRON.3SM
+%eng:	that's it, "la-la", that's it.
+*NER:	wedyn@1 oedd@1 o@1 (we)di@1 mynd@1 ar@1 yr@1 +//. %snd:"Stammers3"_1219479_1220977
+%gls:	then be.3S.IMP PRON.3SM PRT.PAST go.NONFIN on DET
+%eng:	then he went on the...
+*NER:	dw@1 i@1 [///] gynno@1 fi@1 (y)r@1 um@0 website@2 address@2 actually@2 i@1 chdi@1 &=laugh ! %snd:"Stammers3"_1221023_1223705
+%gls:	be.1S.PRES PRON.1S with.1S PRON.1S DET IM website address actually for PRON.2S
+%eng:	I've got the website address actually, for you!
+*GUT:	+< oh@0 na@1 # na@1 ! %snd:"Stammers3"_1223323_1225007
+%gls:	IM no no
+%eng:	oh, no, no!
+*NER:	yeah@0 gwranda@1 ! %snd:"Stammers3"_1224216_1225180
+%gls:	yeah listen.2S.IMPER
+%eng:	yeah, listen!
+*NER:	gwranda@1 ! %snd:"Stammers3"_1225040_1225934
+%gls:	listen.2S.IMPER
+%eng:	listen!
+*NER:	anyway@2 # so@0 dyma@1 fo@1 (y)n@1 cyfarfod@1 hi@1 . %snd:"Stammers3"_1225993_1227955
+%gls:	anyway so here PRON.3SM PRT meet.NONFIN PRON.3SF
+%eng:	anyway, so then he met her.
+*NER:	oedd@1 hi@1 o@1 [/] # o@1 (y)r@1 Alban@1 . %snd:"Stammers3"_1227955_1229952
+%gls:	be.3S.IMP PRON.3SF from from DET Scotland
+%eng:	she was from Scotland.
+*GUT:	ia@1 . %snd:"Stammers3"_1230033_1230532
+%gls:	yes
+%eng:	yes.
+*NER:	a@1 +... %snd:"Stammers3"_1230532_1230904
+%gls:	and
+%eng:	and...
+*GUT:	o@1 (y)r@1 Alban@1 oedd@1 hi@1 yeah@0 ? %snd:"Stammers3"_1230578_1231391
+%gls:	from DET Scotland be.3S.IMP PRON.3SF yeah
+%eng:	from Scotland ["Yr Alban"], was she, yeah?
+*GUT:	oh@0 right@0 yeah@0 . %snd:"Stammers3"_1231386_1232407
+*GUT:	dim@1 Scotland@2 ["] ? %snd:"Stammers3"_1232431_1233000
+%gls:	NEG Scotland
+%eng:	not "Scotland"?
+*NER:	&=laugh <<ac@1 oedd@1> [?] hi@1 o@1 (y)r@1> [=! laughs] Alban@1 . %snd:"Stammers3"_1233023_1235623
+%gls:	and be.3S.IMP PRON.3SF from DET Scotland
+%eng:	and she was from Scotland.
+*NER:	a@1 mi@1 oedd@1 hi@1 yn@1 +... %snd:"Stammers3"_1235925_1237516
+%gls:	and PRT be.3S.IMP PRON.3SF PRT
+%eng:	and she was...
+*NER:	anyway@2 &s &ədə <dyma@1 nhw@1 (y)n@1 &kə> [///] ar_ôl@1 [//] # dwn@1 i@1 (ddi)m@1 am@1 [///] ar_ôl@1 [/] ar_ôl@1 hyn@1 a@1 hyn@1 o@1 amser@1 dyma@1 nhw@1 (y)n@1 cyfarfod@1 . %snd:"Stammers3"_1238131_1244029
+%gls:	anyway here PRON.3PL PRT after know.1S.NONPAST.NEG PRON.1S NEG for after after this and this of time here PRON.3PL PRT meet.NONFIN
+%eng:	anyway, they... after (I don't know) after such and such a time they met.
+*NER:	a@1 mi@1 wnaethon@1 nhw@1 ddechrau@1 mynd@1 +//. %snd:"Stammers3"_1244033_1244880
+%gls:	and PRT do.3PL.PAST PRON.3PL start.NONFIN go.NONFIN
+%eng:	and they started to go...
+*NER:	wnaeth@1 o@1 ddechrau@1 mynd@1 i_fyny@1 gweld@1 hi@1 hi@1 ddechrau@1 <dod@1 i_fyny@1 weld@1> [//] i@1 [?] ddod@1 i_lawr@1 i@1 weld@1 o@1 blah@0 blah@0 blah@0 +... %snd:"Stammers3"_1244915_1249118
+%gls:	do.3S.PAST PRON.3SM start.NONFIN go.NONFIN up see.NONFIN PRON.3SF PRON.3SF start.NONFIN come.NONFIN up see.NONFIN to come.NONFIN down to see.NONFIN PRON.3SM blah blah blah
+%eng:	he started going up to see her, she starting to come down to see him, blah blah blah...
+*GUT:	yeah@0 . %snd:"Stammers3"_1249292_1249524
+*NER:	a@1 [?] maen@1 [=? (dy)ma@1] nhw@1 (y)n@1 priodi@1 ! %snd:"Stammers3"_1249513_1250174
+%gls:	and be.3PL.PRES PRON.3PL PRT marry.NONFIN
+%eng:	and they're getting married!
+*GUT:	good@2 grief@2 ! %snd:"Stammers3"_1251068_1251811
+*NER:	maen@1 [=? (dy)ma@1] nhw@1 (y)n@1 priodi@1 . %snd:"Stammers3"_1251718_1252542
+%gls:	be.3PL.PRES PRON.3PL PRT marry.NONFIN
+%eng:	they're getting married.
+*NER:	um@0 # boy@0 # dw@1 i@1 (y)n@1 nabod@1 i_fyny@1 (y)r@1 lôn@1 yn@1 f(an)@1 yma@1 # de@1 ? %snd:"Stammers3"_1252960_1257697
+%gls:	IM boy be.1S.PRES PRON.1S PRT know.NONFIN up DET lane in place here TAG
+%eng:	um, a bloke I know up the road here, right?
+*GUT:	ia@1 . %snd:"Stammers3"_1257372_1257790
+%gls:	yes
+%eng:	yes.
+*NER:	um@0 boy@0 dw@1 i@1 +/. %snd:"Stammers3"_1257894_1258684
+%gls:	IM boy be.1S.PRES PRON.1S
+%eng:	um, a bloke I...
+*GUT:	internet@2 job@0 arall@1 ? %snd:"Stammers3"_1258312_1259183
+%gls:	internet job other
+%eng:	another internet job?
+*NER:	&=stutter na@1 dw@1 i@1 mynd@1 i@1 baby@2 gym@2 efo@1 fo@1 <efo@1 (e)i@1 hogyn@1> [?] bach@1 o@1 de@1 . %snd:"Stammers3"_1259522_1262773
+%gls:	no be.1S.PRES PRON.1S go.NONFIN to baby gym with PRON.3SM with PRON.3SM boy little PRON.3SM TAG
+%eng:	no, I go to baby gym with him with his little boy, right.
+*GUT:	ie@1 . %snd:"Stammers3"_1262772_1263248
+%gls:	yes
+%eng:	yes.
+*NER:	&d um@0 mae@1 o@1 (y)n@1 adre@1 efo@1 (y)r@1 hogyn@1 bach@1 . %snd:"Stammers3"_1263423_1265622
+%gls:	IM be.3S.PRES PRON.3SM PRT home with DET boy little
+%eng:	um, he's at home with the little boy.
+*NER:	a@1 mae@1 ei@1 wraig@1 yn@1 gweithio@1 yn@1 actually@2 yn@1 Agoriad@0 . %snd:"Stammers3"_1265610_1268036
+%gls:	and be.3S.PRES POSS.3SM wife PRT work.NONFIN in actually in Agoriad
+%com:	Agoriad [lit: "key"] is a local organisation working to support disabled people.
+%eng:	and his wife works, actually, at Agoriad.
+*GUT:	ie@1 wir@1 ? %snd:"Stammers3"_1269070_1269581
+%gls:	yes true
+%eng:	really?
+*NER:	yeah@0 . %snd:"Stammers3"_1269534_1269975
+*GUT:	oh@0 Dad@0 [?] it's@2 not@2 me@2 timod@1 . %snd:"Stammers3"_1269940_1271566
+%gls:	IM father it's not me know.2S
+%eng:	oh, man, it's not me, you know!
+*NER:	+< yeah@0 . %snd:"Stammers3"_1270811_1271043
+*GUT:	<dw@1 (ddi)m@1 yn@1> [/] dw@1 (ddi)m@1 yn@1 licio@1 (y)r@1 idea@0 ! %snd:"Stammers3"_1271868_1273052
+%gls:	be.1S.PRES NEG PRT be.1S.PRES NEG PRT like.NONFIN DET idea
+%eng:	I don't like the idea.
+*NER:	&jɔ Guto@0 <toes@1 (yn)a@1 (ddi)m@1> [/] toes@1 (yn)a@1 (ddi)m@1 +//. %snd:"Stammers3"_1271995_1274167
+%gls:	Guto be.3S.PRES.NEG there NEG be.3S.PRES.NEG there NEG
+%eng:	there's no... there's no...
+*NER:	ti@1 (y)n@1 cofio@1 [///] o_k@0 &=growl +/. %snd:"Stammers3"_1274376_1275687
+%gls:	PRON.2S PRT remember.NONFIN o_k
+%eng:	you remember, okay...
+*GUT:	wnes@1 i@1 ddeu(d)@1 (wr)th@1 y@1 boy@0 (y)ma@1 (y)n@1 gwaith@1 de@1 +//. %snd:"Stammers3"_1274422_1276825
+%gls:	do.1S.PAST PRON.1S say.NONFIN to DET boy here in work TAG
+%eng:	I told this bloke at work, right.
+*GUT:	wnes@1 i@1 ddeu(d)@1 (wr)th@1 y@1 boy@0 (y)ma@1 (y)n@1 gwaith@1 +... %snd:"Stammers3"_1275641_1276593
+%gls:	do.1S.PAST PRON.1S say.NONFIN to DET boy here in work
+%eng:	I told this bloke at work...
+*GUT:	&=stutter <wnes@1 i@1> [/] wnes@1 i@1 (dd)im@1 deud@1 <na@1 bod@1> [?] [///] wnes@1 i@1 (dd)im@1 ddeu(d)@1 (wr)tho@1 fo@1 <fod@1 o@1 (y)n@1> [?] sad@0 ! %snd:"Stammers3"_1277139_1279786
+%gls:	do.1S.PAST PRON.1S do.1S.PAST PRON.1S NEG say.NONFIN PRT be.NONFIN do.1S.PAST PRON.1S NEG say.NONFIN to.3SM PRON.3SM be.NONFIN PRON.3SM PRT sad
+%eng:	I didn't say that... I didn't tell him it was sad!
+*GUT:	dydy@1 (ddi)m@1 yn@1 sad@0 o_gwbl@1 . %snd:"Stammers3"_1279844_1280738
+%gls:	be.3S.PRES.NEG NEG PRT sad at_all
+%eng:	it's not sad at all.
+*NER:	+< tydy@1 o@1 ddim@1 yn@1 sad@0 o_gwbl@1 ! %snd:"Stammers3"_1280180_1281585
+%gls:	be.3S.PRES.NEG PRON.3SM NEG PRT sad at_all
+%eng:	it isn't sad at all!
+*GUT:	be@1 wnes@1 i@1 ddeu(d)@1 (wr)tho@1 fo@1 +". %snd:"Stammers3"_1281260_1281934
+%gls:	what do.1S.PAST PRON.1S say.NONFIN to.3SM PRON.3SM
+%eng:	what I told him:
+*NER:	+< (ba)swn@1 i@1 (y)n@1 wneud@1 o@1 (peta)swn@1 i@1 (y)n@1 &s +/. %snd:"Stammers3"_1281829_1283060
+%gls:	be.1S.CONDIT PRON.1S PRT do.NONFIN PRON.3SM if_be.1S.CONDIT PRON.1S PRT
+%eng:	I'd do it if I was...
+*GUT:	+" +< oes@1 felly@1 ydy@1 . %snd:"Stammers3"_1281922_1282852
+%gls:	age thus be.3S.PRES
+%eng:	"it's that kind of age"
+*GUT:	+" mae@1 [/] mae@1 pawb@1 yn@1 wneud@1 o@1 oes@1 yma@1 . %snd:"Stammers3"_1282852_1284314
+%gls:	be.3S.PRES be.3S.PRES everyone PRT do.NONFIN PRON.3SM age here
+%eng:	"everybody does it these days."
+*NER:	(ba)swn@1 i@1 (y)n@1 wneud@1 o@1 ! %snd:"Stammers3"_1284047_1284801
+%gls:	be.1S.CONDIT PRON.1S PRT do.NONFIN PRON.3SM
+%eng:	I'd do it!
+*GUT:	(dy)dy@1 hynna@1 [?] (ddi)m@1 golygu@1 bod@1 raid@1 i@1 fi@1 wneud@1 o@1 na(g)@1 (y)dy@1 . %snd:"Stammers3"_1284702_1285979
+%gls:	be.3S.PRES.NEG that NEG mean.NONFIN be.NONFIN necessity to PRON.1S do.NONFIN PRON.3SM NEG be.3S.PRES
+%eng:	that doesn't mean I have to do it, does it.
+*GUT:	tibod@1 ? %snd:"Stammers3"_1286582_1286896
+%gls:	know.2S
+%eng:	you know?
+*NER:	+< (ba)swn@1 i@1 (y)n@1 wneud@1 o@1 ! %snd:"Stammers3"_1286594_1287476
+%gls:	be.1S.CONDIT PRON.1S PRT do.NONFIN PRON.3SM
+%eng:	I'd do it!
+*GUT:	<dw@1 (ddi)m@1> [?] mor@1 desperate@2 â@1 hynna@1 timod@1 . %snd:"Stammers3"_1287302_1288301
+%gls:	be.1S.PRES NEG so desperate with that know.2S
+%eng:	I'm not that desperate, you know.
+*NER:	(dy)dy@1 [?] [/] <(dy)dy@1 o@1 ddim@1 yn@1 am@1 bod@1 yn@1> [//] (dy)dy@1 o@1 ddim@1 +/. %snd:"Stammers3"_1288219_1290390
+%gls:	 be.3S.PRES.NEG be.3S.PRES.NEG PRON.3SM NEG PRT about be.NONFIN PRT be.3S.PRES.NEG PRON.3SM NEG
+%eng:	it's not about being... it's not...
+*GUT:	in@2 fact@2 de@1 (ba)swn@1 i@1 right@0 fodlon@1 de@1 # bod@1 ar@1 ben@1 yn@1 hun@1 am@1 weddill@1 yn@1 oes@1 . %snd:"Stammers3"_1289996_1293235
+%gls:	in fact TAG be.1S.CONDIT PRON.1S right willing TAG be.NONFIN on head POSS.1S self for remainder POSS.1S age
+%eng:	in fact, right, I'd be quite willing, right, to be on my own for the rest of my days.
+*NER:	+< mmm@0 . %snd:"Stammers3"_1291935_1292353
+*NER:	oh@0 rwtsh@1 ! %snd:"Stammers3"_1292979_1293955
+%gls:	IM rubbish
+%eng:	oh, rubbish!
+*GUT:	(be)cause@2 dw@1 i@1 licio@1 cwmni@1 (y)n@1 hun@1 de@1 . %snd:"Stammers3"_1293560_1294883
+%gls:	because be.1S.PRES PRON.1S like.NONFIN company POSS.1S self TAG
+%eng:	because I like my own company, right.
+*GUT:	dw@1 i@1 (y)n@1 deu(d)@1 (wr)tha@1 chdi@1 ! %snd:"Stammers3"_1295580_1296393
+%gls:	be.1S.PRES PRON.1S PRT say.NONFIN to.2S PRON.2S
+%eng:	I'm telling you!
+*GUT:	dw@1 (ddi)m@1 yn@1 fussed@2 ! %snd:"Stammers3"_1296579_1297473
+%gls:	be.1S.PRES NEG PRT fussed
+%eng:	I'm not fussed!
+*NER:	r:wtsh@1 ! %snd:"Stammers3"_1297681_1298692
+%gls:	rubbish
+%eng:	rubbish!
+*GUT:	dw@1 (ddi)m@1 yn@1 fussed@2 ! %snd:"Stammers3"_1298657_1299388
+%gls:	be.1S.PRES NEG PRT fussed
+%eng:	I'm not fussed!
+*NER:	rwtsh@1 ! %snd:"Stammers3"_1299911_1300491
+%gls:	rubbish
+%eng:	rubbish!
+*GUT:	ond@1 y@1 [?] drwg@1 ydy@1 mae@1 pobl@1 yn@1 meddwl@1 bod@1 chi@1 (y)n@1 odd@0 # os@1 ti@1 ar@1 ben@1 dy@1 hun@1 (fe)lly@1 yn@1 yr@1 oes@1 hon@1 . %snd:"Stammers3"_1300216_1304094
+%gls:	but DET bad be.3S.PRES be.3S.PRES people PRT think.NONFIN be.NONFIN PRON.2PL PRT odd if PRON.2S on head POSS.2S self thus in DET age this
+%eng:	but the problem is people think you're weird if you're on your own, like, these days.
+*NER:	ti@1 (we)di@1 darllen@1 &prɨ +/. %snd:"Stammers3"_1304097_1304748
+%gls:	PRON.2S PRT.PAST read.NONFIN
+%eng:	have you read...
+*GUT:	+< ti@1 fod@1 efo@1 partner@0 ["] tibod@1 ? %snd:"Stammers3"_1304431_1305801
+%gls:	PRON.2S be.NONFIN with partner know.2S
+%com:	mimics American pronunciation of "partner".
+%eng:	you're supposed to have a "partner", you know?
+*NER:	ti@1 (we)di@1 darllen@1 Bridget_Jones_Diary@0 ? %snd:"Stammers3"_1305802_1307461
+%gls:	PRON.2S PRT.PAST read.NONFIN Bridget_Jones_Diary
+%eng:	have you read Bridget Jones's Diary?
+*GUT:	oh@0 well@0 fedra@1 i@1 &dai identify_o@21 efo@1 hwnna@1 deud@1 y@1 gwir@1 . %snd:"Stammers3"_1307461_1309853
+%gls:	IM well can.1S.NONPAST PRON.1S identify.NONFIN with that say.NONFIN DET truth
+%eng:	oh, well I can identify with that actually.
+*NER:	&=laugh . %snd:"Stammers3"_1309005_1311383
+*GUT:	tibod@1 ? %snd:"Stammers3"_1311406_1311894
+%gls:	know.2S
+%eng:	you know?
+*GUT:	anyway@2 anyway@2 siarad@1 am@1 rywbeth@1 arall@1 . %snd:"Stammers3"_1312577_1314504
+%gls:	anyway anyway talk.NONFIN about something other
+%eng:	anyway, talk about something else.
+*NER:	&=laugh ! %snd:"Stammers3"_1314481_1315781
+*NER:	(ba)set@1 ti@1 # isio@1 xx +//. %snd:"Stammers3"_1317806_1319165
+%gls:	be.2S.CONDIT PRON.2S want xx
+%eng:	you'd want [..] ...
+*NER:	well@0 # dw@1 i@1 meddwl@1 dyla@1 chdi@1 . %snd:"Stammers3"_1319141_1321278
+%gls:	well be.1S.PRES PRON.1S think.NONFIN should.2S.CONDIT PRON.2S
+%eng:	well, I think you should.
+*GUT:	yeah@0 . %snd:"Stammers3"_1321364_1321782
+*NER:	dw@1 i@1 yn@1 . %snd:"Stammers3"_1321840_1322432
+%gls:	be.1S.PRES PRON.1S PRT
+%eng:	I do.
+*GUT:	<dan@1 ni@1 deud@1 gormod@1 > [?] xxx ! %snd:"Stammers3"_1322490_1323163
+%gls:	be.1PL.PRES PRON.1PL say.nonfin too_much xxx
+%eng:	we're saying too much [...] !
+*GUT:	na@1 dan@1 ni@1 (y)n@1 iawn@1 (dy)dan@1 . %snd:"Stammers3"_1323906_1324812
+%gls:	no be.1PL.PRES PRON.1PL PRT right be.1PL.PRES.NEG
+%eng:	no, we're okay, aren't we.
+*NER:	xxx # do@1 sure@0 . %snd:"Stammers3"_1325288_1326519
+%gls:	xxx yes sure
+%eng:	[...] , of course.
+*GUT:	anyway@2 um@0 +... %snd:"Stammers3"_1326832_1328992
+*GUT:	so@0 &b ydy@1 (y)r@1 humidity@2 dal@1 ddrwg@1 (y)ma@1 ? %snd:"Stammers3"_1329920_1331999
+%gls:	so be.3S.PRES DET humidity still bad here
+%eng:	so, is the humidity still bad here?
+*NER:	&=laugh ! %snd:"Stammers3"_1332893_1334762
+*GUT:	dw@1 (ddi)m@1 yn@1 gwybod@1 be@1 (y)dy@1 gair@1 Cymraeg@1 am@1 humidity@2 ["] de@1 . %snd:"Stammers3"_1336077_1338027
+%gls:	be.1S.PRES NEG PRT know.NONFIN what be.3S.PRES word Welsh for humidity TAG
+%eng:	I don't know what the Welsh word for "humidity" is, eh.
+*NER:	+< &=laugh . %snd:"Stammers3"_1336286_1336541
+*NER:	ti@1 (dd)im@1 yn@1 fod@1 <i@1 ddeud@1> [?] hwnna@1 . %snd:"Stammers3"_1338585_1339513
+%gls:	PRON.2S NEG PRT be.NONFIN to say.NONFIN that
+%eng:	you're not supposed to say that.
+*GUT:	um@0 +... %snd:"Stammers3"_1339699_1340233
+*NER:	um@0 # mae@1 +//. %snd:"Stammers3"_1340082_1341167
+%gls:	IM be.3S.PRES
+%eng:	um, it...
+*NER:	well@0 dw@1 (ddi)m@1 yn@1 gwybod@1 . %snd:"Stammers3"_1341155_1341898
+%gls:	well be.1S.PRES NEG PRT know.NONFIN
+%eng:	well, I don't know.
+*NER:	mae@1 well@1 de@1 . %snd:"Stammers3"_1341898_1342606
+%gls:	be.3S.PRES better TAG
+%eng:	it's better, right.
+*NER:	mae@1 (y)r@1 ## dehumidifier@2 (y)na@1 on@2 # wastad@1 . %snd:"Stammers3"_1342606_1345451
+%gls:	be.3S.PRES DET dehumidifier there on always
+%eng:	that dehumidifier's on all the time.
+*NER:	um@0 &ɔ <oedd@1 um@0> [/] # oedd@1 mam@0 Carol@0 (we)di@1 bod@1 efo@1 problem@0 # er@0  # tamprwydd@1 . %snd:"Stammers3"_1345431_1351770
+%gls:	IM be.3S.IMP IM be.3S.IMP mother Carol PRT.PAST be.NONFIN with problem IM dampness
+%eng:	um, Carol's mother had had a problem, er, with damp.
+*GUT:	yeah@0 . %snd:"Stammers3"_1351909_1352269
+*NER:	a@1 <oedd@1 hi@1> [/] oedd@1 hi@1 (y)n@1 deu(d)@1 (wr)tha@1 fi@1 &=stutter os@1 mae@1 o@1 seventy_five@2 percent@2 ## <neu@1 &s er@0> [//] neu@1 i_fyny@1 humidity@2 &m <mae@1 o@1 (y)n@1 &ri> [//] hwnna@1 [//] # mae@1 drwg@1 (fe)lly@1 . %snd:"Stammers3"_1352129_1361547
+%gls:	and be.3S.IMP PRON.3SF be.3S.IMP PRON.3SF PRT say.NONFIN to.1S PRON.1S if be.3S.PRES PRON.3SM seventy_five percent or IM or up humidity be.3S.PRES PRON.3SM PRT that be.3S.PRES bad thus
+%eng:	and she was telling me, if it's 75% or more, humidity, then that's bad.
+*GUT:	ia@1 . %snd:"Stammers3"_1361582_1362046
+%gls:	yes
+%eng:	yes.
+*NER:	a@1 pan@1 wnaethon@1 ni@1 sticio@1 (y)r@1 thing@2 on@2 am@1 y@1 tro@1 cynta@1 oedd@1 hi@1 (y)n@1 ## um@0 # dros@1 eighty@2 ## percent@2 humidity@2 sy@1 (y)n@1 +//. %snd:"Stammers3"_1362094_1371556
+%gls:	and when do.1PL.PAST PRON.1PL stick.NONFIN DET thing on for DET turn first be.3S.IMP PRON.3SF PRT IM over eighty percent humidity be.PRES.REL PRT
+%eng:	and when we stuck the thing on for the first time it was over 80% humidity, which is...
+*GUT:	+< ia@1 . %snd:"Stammers3"_1364363_1364955
+%gls:	yes
+%eng:	yes.
+*GUT:	yeah@0 . %snd:"Stammers3"_1371933_1372409
+*NER:	dw@1 i@1 sure@0 ninety_five@2 sti@1 . %snd:"Stammers3"_1372491_1373710
+%gls:	be.1S.PRES PRON.1S sure ninety_five know.2S
+%eng:	I'm sure it was 95, you know.
+*NER:	anyway@2 mae@1 (y)n@1 tueddu@1 fod@1 o_gwmpas@1 y@1 sixty@2 (y)ma@1 [?] rŵan@1 . %snd:"Stammers3"_1373768_1376532
+%gls:	anyway be.3S.PRES PRT tend.NONFIN be.NONFIN around DET sixty here now
+%eng:	anyway, it tends to be around sixty here now.
+*NER:	so@0 <mae@1 hynna@1> [?] +... %snd:"Stammers3"_1376566_1377379
+%gls:	so be.3S.PRES that
+%eng:	so that's...
+*GUT:	yeah@0 . %snd:"Stammers3"_1377008_1377484
+*NER:	pph@0 dw@1 (ddi)m@1 yn@1 gwybod@1 . %snd:"Stammers3"_1377809_1379016
+%gls:	be.1S.PRES NEG PRT know.NONFIN
+%eng:	I don't know.
+*NER:	dw@1 (ddi)m@1 yn@1 gwybod@1 . %snd:"Stammers3"_1379272_1380061
+%gls:	be.1S.PRES NEG PRT know.NONFIN
+%eng:	I don't know.
+*NER:	really@2 [?] gawn@1 ni@1 weld@1 . %snd:"Stammers3"_1380653_1381605
+%gls:	really get.1PL.NONPAST PRON.1PL see.NONFIN
+%eng:	really, we'll see.
+*GUT:	ti@1 meddwl@1 bod@1 o@1 (y)n@1 creu@1 yr@1 annwyd@1 yma@1 # fath@1 â@1 +..? %snd:"Stammers3"_1381350_1383348
+%gls:	PRON.2S think.NONFIN be.NONFIN PRON.3SM PRT create.NONFIN DET cold here kind with
+%eng:	do you think it's causing this cold, like..?
+*NER:	oh@0 dw@1 (ddi)m@1 yn@1 gwybod@1 . %snd:"Stammers3"_1383730_1384682
+%gls:	IM be.1S.PRES NEG PRT know.NONFIN
+%eng:	oh, I don't know.
+*NER:	oh@0 dw@1 (ddi)m@1 +... %snd:"Stammers3"_1385286_1387178
+%gls:	IM be.1S.PRES NEG
+%eng:	oh, I don't...
+*NER:	fedr@1 o@1 +/. %snd:"Stammers3"_1387654_1388432
+%gls:	can.3S.NONPAST PRON.3SM
+%eng:	it can...
+*GUT:	+< (ba)swn@1 i@1 +//. %snd:"Stammers3"_1388002_1388374
+%gls:	be.1S.CONDIT PRON.1S
+%eng:	I'd...
+*GUT:	yeah@0 . %snd:"Stammers3"_1388397_1389117
+*NER:	&vid fedr@1 o@1 (ddi)m@1 wneud@1 dim@1 drwg@1 sticio@1 thing@2 (y)na@1 on@2 na@1 (fe)dr@1 timod@1 . %snd:"Stammers3"_1390477_1393217
+%gls:	can.3S.NONPAST PRON.3SM NEG do.NONFIN NEG bad stick.NONFIN thing there on NEG can.3S.NONPAST know.2S
+%eng:	it can't do any harm sticking that thing there on, can it, you know.
+*GUT:	+< na@1 . %snd:"Stammers3"_1392984_1393693
+%gls:	no
+%eng:	no
+*NER:	ac@1 ers@1 [//] ## well@0 ers@1 +/. %snd:"Stammers3"_1393217_1394935
+%gls:	and since well since
+%eng:	and since...
+*GUT:	(y)dy@1 o@1 (y)n@1 wneud@1 gwahaniaeth@1 ti@1 meddwl@1 ? %snd:"Stammers3"_1394447_1395202
+%gls:	be.3S.PRES PRON.3SM PRT make.NONFIN difference PRON.2S think.NONFIN
+%eng:	does it make a difference, do you think?
+*GUT:	efo@1 (y)r@1 annwyd@1 ? %snd:"Stammers3"_1397791_1398940
+%gls:	with DET cold
+%eng:	with the cold?
+*GUT:	well@0 +/. %snd:"Stammers3"_1399335_1399776
+*NER:	er@0 um@0 well@0 dw@1 (ddi)m@1 yn@1 gwyb(od)@1 +/. %snd:"Stammers3"_1399625_1400856
+%gls:	IM IM well be.1S.PRES NEG PRT know.NONFIN
+%eng:	er, well I don't know...
+*GUT:	i@1 (y)r@1 humidity@2 ei@1 hun@1 (fe)lly@1 . %snd:"Stammers3"_1400380_1401483
+%gls:	to DET humidity POSS.3S self thus
+%eng:	to the humidity itself, like.
+*NER:	well@0 yndy@1 mae@1 +//. %snd:"Stammers3"_1401367_1402110
+%gls:	well be.3S.PRES be.3S.PRES
+%eng:	well yes, it...
+*NER:	oh@0 sure@0 iawn@1 bod@1 o@1 os@1 mae@1 o@1 (w)edi@1 mynd@1 o@1 eighty_five@2 i@1 sixty@2 . %snd:"Stammers3"_1402098_1404711
+%gls:	IM sure very be.NONFIN PRON.3SM if be.3S.PRES PRON.3SM PRT.PAST go.NONFIN from eighty_five to sixty
+%eng:	oh, certainly it has, if it's gone from 85 to 60.
+*GUT:	yeah@0 yeah@0 ond@1 ## (y)dy@1 [/] (y)dy@1 o@1 deimlo@1 wahanol@1 (fe)lly@1 yn@1 y@1 tŷ@1 ? %snd:"Stammers3"_1404711_1407880
+%gls:	yeah yeah but be.3S.PRES be.3S.PRES PRON.3SM feel.NONFIN different thus in DET house
+%eng:	yeah, yeah but does it feel different, like, in the house?
+*NER:	oh@0 dw@1 (ddi)m@1 yn@1 amau@1 . %snd:"Stammers3"_1407857_1409018
+%gls:	IM be.1S.PRES NEG PRT doubt.NONFIN
+%eng:	oh, I've no doubt.
+*NER:	ydy@1 dw@1 (ddi)m@1 yn@1 amau@1 . %snd:"Stammers3"_1409064_1410341
+%gls:	be.3S.PRES be.1S.PRES NEG PRT doubt.NONFIN
+%eng:	yes, I've no doubt.
+*NER:	bod@1 [///] oedd@1 (y)na@1 ryw@1 oglau@1 musty@2 (y)ma@1 <a@1 ballu@1 yn@1 [/] yn@1 dechrau@1 mynd@1> [?] xx . %snd:"Stammers3"_1410202_1414208
+%gls:	be.NONFIN be.3S.IMP there some smell musty here and such PRT PRT start.NONFIN go.NONFIN xxx
+%eng:	there was this musty smell here, and stuff, starting to go [..] .
+*GUT:	mmm@0 . %snd:"Stammers3"_1413882_1414289
+*NER:	(a)chos@1 <oedd@1 o@1> [?] [///] mae@1 o@1 (we)di@1 bod@1 yn@1 iawn@1 yn@1 (y)r@1 ha@1 . %snd:"Stammers3"_1414370_1416460
+%gls:	because be.3S.IMP PRON.3SM be.3S.PRES PRON.3SM PRT.PAST be.NONFIN PRT right in DET summer
+%eng:	because... it was... it's been alright in the summer.
+*NER:	ond@1 (we)dyn@1 efo@1 (y)r@1 glaw@1 mawr@1 (y)ma@1 &m mae@1 [/] mae@1 (y)r@1 dŵr@1 yn@1 rhedeg@1 # o_dan@1 y@1 tai@1 (y)li@1 . %snd:"Stammers3"_1416553_1421708
+%gls:	but then with DET rain big here be.3S.PRES be.3S.PRES DET water PRT run.NONFIN under DET houses see.2S.IMPER
+%eng:	but with this heavy rain, the water runs underneath the houses, see.
+*NER:	mae@1 (y)na@1 (fa)th@1 â@1 gullies@0 . %snd:"Stammers3"_1421824_1423020
+%gls:	be.3S.PRES there kind with gulleys
+%eng:	there are, like, gullies.
+*GUT:	+< yeah@0 &deɨ oedd@1 Bob@0 yn@1 sôn@1 am@1 hyn@1 yeah@0 . %snd:"Stammers3"_1422253_1423646
+%gls:	yeah be.3S.IMP Bob PRT talk.NONFIN about this yeah
+%eng:	yeah, Bob was saying about this, yeah.
+*NER:	+< yeah@0 . %snd:"Stammers3"_1423321_1423646
+*GUT:	yeah@0 . %snd:"Stammers3"_1423739_1424262
+*NER:	a@1 wedyn@1 # dw@1 i@1 meddwl@1 # mae@1 o@1 just@0 rhedeg@1 +//. %snd:"Stammers3"_1424389_1427420
+%gls:	and then be.1S.PRES PRON.1S think.NONFIN be.3S.PRES PRON.3SM just run.NONFIN
+%eng:	and then, I think it just runs...
+*NER:	mae@1 Diane@0 <yn@1 gael@1> [//] drws@1 nesa@1 yn@1 xxx cael@1 (y)r@1 un@1 trafferth@1 . %snd:"Stammers3"_1427420_1429428
+%gls:	be.3S.PRES Diane PRT get.NONFIN noor next PRT xxx get.NONFIN DET one trouble
+%eng:	Diane next door hast the same problem.
+*NER:	wedyn@1 <rydw@1 i@1 sure@0 bod@1 o@1> [/] ## dw@1 i@1 sure@0 bod@1 o@1 (y)n@1 helpu@1 . %snd:"Stammers3"_1429417_1432807
+%gls:	then be.1S.PRES PRON.1S sure be.NONFIN PRON.3SM be.1S.PRES PRON.1S sure be.NONFIN PRON.3SM PRT help.NONFIN
+%eng:	so I'm sure it does help.
+*GUT:	mmm@0 . %snd:"Stammers3"_1432865_1433318
+*NER:	ond@1 er@0 ac@1 [/] ac@1 [/] ac@1 ers@1 <maen@1 nhw@1> [?] (we)di@1 gael@1 +//. %snd:"Stammers3"_1434757_1437242
+%gls:	but IM and and and since be.3PL.PRES PRON.3PL PRT.PAST get.NONFIN
+%eng:	but... and since they've had...
+*NER:	dw@1 (ddi)m@1 yn@1 gwybod@1 . %snd:"Stammers3"_1437230_1437636
+%gls:	be.1S.PRES NEG PRT know.NONFIN
+%eng:	I don't know.
+*NER:	(e)fallai@1 na@1 just@0 fluke@0 (y)dy@1 o@1 yn_de@1 . %snd:"Stammers3"_1437613_1438937
+%gls:	perhaps PRT just fluke be.3S.PRES PRON.3SM TAG
+%eng:	perhaps it's just a fluke, right.
+*NER:	ond@1 ers@1 bod@1 ni@1 nôl@1 o@1 Florence@0 # timod@1 <tydy@1 (ddi)m@1> [/] tydy@1 (ddi)m@1 (we)di@1 cael@1 annwyd@1 . %snd:"Stammers3"_1438902_1443082
+%gls:	but since be.NONFIN PRON.1PL back from Florence know.2S be.3S.PRES.NEG NEG be.3S.PRES.NEG NEG PRT.PAST get.NONFIN cold
+%eng:	but since we got back from Florence, you know, she's not had a cold.
+*GUT:	+< ia@1 . %snd:"Stammers3"_1441804_1442130
+%gls:	yes
+%eng:	yes.
+*NER:	ond@1 doedd@1 [//] wnaeth@1 hi@1 (dd)im@1 stop(io)@1 +//. %snd:"Stammers3"_1443058_1444324
+%gls:	but be.3S.IMP.NEG do.3S.PAST PRON.3SF NEG stop.NONFIN
+%eng:	but she didn't stop...
+*NER:	toedd@1 (y)na@1 (ddi)m@1 +//. %snd:"Stammers3"_1444324_1445241
+%gls:	be.3S.IMP.NEG there NEG
+%eng:	there wasn't...
+*GUT:	&=cough . %snd:"Stammers3"_1444695_1445183
+*NER:	dw@1 (ddi)m@1 yn@1 meddwl@1 bod@1 (y)na@1 wsnos@1 gyfan@1 [?] heb@1 iddi@1 gael@1 annwyd@1 blwyddyn@1 dwytha@1 . %snd:"Stammers3"_1445311_1448596
+%gls:	be.1S.PRES NEG PRT think.NONFIN be.NONFIN there week whole without to.3SF get.NONFIN cold year previous
+%eng:	I don't think there was one whole week last year where she didn't have a cold.
+*NER:	ond@1 ella@1 na@1 just@0 +/. %snd:"Stammers3"_1448608_1449513
+%gls:	but maybe PRT just
+%eng:	but that might just be...
+*GUT:	Argol@1 tybed@1 [?] ? %snd:"Stammers3"_1448910_1449525
+%gls:	Lord wonder.NONFIN
+%eng:	Crikey, you think?
+*NER:	naddo@1 [?] xxx o@1 un@1 annwyd@1 i@1 (y)r@1 llall@1 de@1 trwy@1 (y)r@1 gaea@1 . %snd:"Stammers3"_1449897_1453356
+%gls:	no xxx from one cold to DET other TAG through DET winter
+%eng:	no, [...] from one cold to another, right, all winter.
+*GUT:	yeah@0 . %snd:"Stammers3"_1453368_1453914
+*NER:	ond@1 um@0 # er@0 dw@1 [/] dw@1 (ddi)m@1 (y)n@1 gwybod@1 . %snd:"Stammers3"_1454517_1457989
+%gls:	but IM IM be.1S.PRES be.1S.PRES NEG PRT know.NONFIN
+%eng:	but, er... I don't know.
+*GUT:	yeah@0 . %snd:"Stammers3"_1458501_1458966
+*NER:	ddim@1 yn@1 gwybod@1 . %snd:"Stammers3"_1459186_1460301
+%gls:	NEG PRT know.NONFIN
+%eng:	don't know.
+*NER:	gawn@1 ni@1 weld@1 yn_de@1 . %snd:"Stammers3"_1460452_1461578
+%gls:	get.1PL.NONPAST PRON.1PL see.NONFIN TAG
+%eng:	we'll see, eh.
+*GUT:	yeah@0 . %snd:"Stammers3"_1461914_1462228
+*NER:	<gawn@1 ni@1 weld@1> [?]  . %snd:"Stammers3"_1462082_1462373
+%gls:	get.1PL.NONPAST PRON.1PL see.NONFIN
+%eng:	we'll see.
+*NER:	<dw@1 (ddi)m@1> [/] <dw@1 (ddi)m@1> [//] <dan@1 ni@1 meddwl@1> [/] dan@1 ni@1 meddwl@1 symud@1 anyway@2 # yn@1 y@1 +/. %snd:"Stammers3"_1462361_1465003
+%gls:	be.1S.PRES NEG be.1S.PRES NEG be.1PL.PRES PRON.1PL think.NONFIN be.1PL.PRES PRON.1PL think.NONFIN move.NONFIN anyway in DET
+%eng:	we're thinking of moving anyway, in the...
+*GUT:	nac@1 (y)dach@1 ! %snd:"Stammers3"_1464840_1465734
+%gls:	NEG be.2PL.PRES
+%eng:	you're not!
+*NER:	+, yn@1 y@1 blynyddo(edd)@1 [//] well@0 ar_ôl@1 dipyn@1 o@1 flynyddoedd@1 . %snd:"Stammers3"_1465850_1468602
+%gls:	in DET years well after a_bit of years
+%eng:	in the years... well, after a few years.
+*GUT:	oh@0 be@1 am@1 y@1 Tardis@0 ? %snd:"Stammers3"_1468637_1469786
+%gls:	IM what about DET Tardis
+%eng:	oh, what about the Tardis?
+*NER:	well@0 ti@1 (ddi)m@1 am@1 fod@1 yna@1 am@1 flynyddoedd@1 nag@1 wyt@1 ? %snd:"Stammers3"_1470227_1472120
+%gls:	well PRON.2S NEG for be.NONFIN there for years NEG be.2S.PRES
+%eng:	well, you're not going to be there for years, are you?
+*NER:	ti@1 (we)di@1 xxx +/. %snd:"Stammers3"_1472108_1472723
+%gls:	PRON.2S PRT.PAST xxx
+%eng:	you've [...] ...
+*GUT:	oh@0 &me mewn@1 blynyddoedd@1 i@1 ddŵad@1 (fe)lly@1 ? %snd:"Stammers3"_1472259_1473780
+%gls:	IM in years to come.NONFIN thus
+%eng:	oh, in some years to come, then?
+*NER:	+< yeah@0 fyddi@1 di@1 (we)di@1 gael@1 gwraig@1 a@1 +/. %snd:"Stammers3"_1473571_1475405
+%gls:	yeah be.2S.FUT PRON.2S PRT.PAST get.NONFIN wife and
+%eng:	yeah, you'll have got a wife and...
+*GUT:	<ddim@1 yn@1 y@1> [/] # ddim@1 yn@1 y@1 dyfodol@1 agos@1 . %snd:"Stammers3"_1474070_1476264
+%gls:	NEG in DET NEG in DET future near
+%eng:	not in the near future.
+*NER:	wedi@1 &blə blwyddyn@1 neu@1 ddau@1 . %snd:"Stammers3"_1476682_1478354
+%gls:	after year or two.M
+%eng:	after a year or two.
+*GUT:	Argol@1 tybed@1 [?] ? %snd:"Stammers3"_1478324_1479044
+%gls:	Lord wonder.NONFIN
+%eng:	Crikey, you think?
+*NER:	ti@1 (ddi)m@1 i@1 fod@1 yna@1 am@1 flynyddoedd@1 nag@1 wyt@1 Guto@0 xx +/? %snd:"Stammers3"_1479648_1481424
+%gls:	PRON.2S NEG to be.NONFIN there for years NEG be.2S.PRES Guto xx
+%eng:	you're not going to be there for years, are you Guto, [..] ?
+*GUT:	ond@1 be@1 sy@1 wrong@0 efo@1 f(an)@1 yma@1 ? %snd:"Stammers3"_1481261_1481947
+%gls:	but what be.PRES.REL wrong with place here
+%eng:	but what's wrong with here?
+*GUT:	mae@1 &m [/] mae@1 lovely@2 o@1 le@1 . %snd:"Stammers3"_1481971_1483051
+%gls:	be.3S.PRES be.3S.PRES lovely of place
+%eng:	it's lovely a lovely place
+*NER:	dan@1 ni@1 +//. %snd:"Stammers3"_1483946_1484399
+%gls:	be.1PL.PRES PRON.1PL
+%eng:	we're...
+*NER:	yndy@1 yndy@1 yndy@1 yndy@1 # yndy@1 . %snd:"Stammers3"_1484388_1486164
+%gls:	be.3S.PRES be.3S.PRES be.3S.PRES be.3S.PRES be.3S.PRES
+%eng:	yes, yes, yes, yes, it is.
+*NER:	ond@1 na@1 dan@1 ni@1 (we)di@1 cael@1 &aj idea@0 &r # da@1 . %snd:"Stammers3"_1486181_1489455
+%gls:	but no be.1PL.PRES PRON.1PL PRT.PAST get.NONFIN idea good
+%eng:	but no, we've had a good idea.
+*NER:	dan@1 ni@1 mynd@1 i:@1 chwilio@1 am@1 plot:@0 +... %snd:"Stammers3"_1490767_1494807
+%gls:	be.1PL.PRES PRON.1PL go.NONFIN to search.NONFIN for plot
+%eng:	we're going to look for a plot...
+*GUT:	yeah@0 . %snd:"Stammers3"_1494853_1495376
+*NER:	+, a:@1 [///] er@0 ochrau@1 Mynydd_Llandygai@0 +... %snd:"Stammers3"_1496177_1499126
+%gls:	and IM sides Mynydd_Llandygai
+%eng:	...er, around Mynydd Llandygai...
+*GUT:	yeah@0 . %snd:"Stammers3"_1499068_1499555
+*NER:	+, a@1 ## &mni bildio@1 # tŷ@1 arty_farty@2 hefo@1 turret@2 . %snd:"Stammers3"_1500322_1505883
+%gls:	and build.NONFIN house arty_farty with turret
+%eng:	...and build an arty-farty house with a turret.
+*GUT:	ie@1 . %snd:"Stammers3"_1506027_1506654
+%gls:	yes
+%eng:	yes.
+*NER:	&=laugh . %snd:"Stammers3"_1506306_1507630
+*GUT:	oh@0 diddorol@1 ! %snd:"Stammers3"_1507711_1508523
+%gls:	IM interesting
+%eng:	oh, interesting!
+*NER:	yeah@0 well@0 na@1 . %snd:"Stammers3"_1508779_1509406
+%gls:	yeah well no
+%eng:	yeah, well, no.
+*NER:	xxx un@1 o@1 (y)r@1 rhesymau@1 mwya@1 dw@1 i@1 isio@1 symud@1 &əw o@1 f(an)@1 yma@1 ydy@1 yr@1 lôn@1 . %snd:"Stammers3"_1509417_1512947
+%gls:	xxx one of DET reasons biggest be.1S.PRES PRON.1S want move.NONFIN from place here be.3S.PRES DET road
+%eng:	[...] one of the main reasons I want to move from here is the road.
+*NER:	achos@1 pan@1 wnaethon@1 [?] ni@1 symud@1 i_fewn@1 yma@1 # <mae@1 (y)r@1> [/] mae@1 (y)r@1 um@0 # speed@0 # thirty@2 miles@2 an@2 hour@2 (y)dy@1 o@1 fod@1 de@1 ? %snd:"Stammers3"_1513337_1520245
+%gls:	because when do.1PL.PAST PRON.1PL move.NONFIN in here be.3S.PRES DET be.3S.PRES DET IM speed thirty miles an hour be.3S.PRES PRON.3SM be.NONFIN TAG
+%eng:	because when we moved in here, the speed... it's supposed to be thirty miles an hour, right?
+*GUT:	+< yeah@0 . %snd:"Stammers3"_1513776_1514101
+*GUT:	yeah@0 . %snd:"Stammers3"_1520243_1520649
+*NER:	ond@1 pooh@0 maen@1 nhw@1 (y)n@1 curo@1 [?] i_lawr@1 (y)ma@1 de@1 . %snd:"Stammers3"_1521660_1523749
+%gls:	but pooh, be.3PL.PRES PRON.3PL PRT bang.NONFIN down here TAG
+%eng:	but, phew, they race down here, right?
+*GUT:	yndyn@1 ? %snd:"Stammers3"_1523923_1524516
+%gls:	be.3PL.PRES
+%eng:	do they?
+*NER:	mmm@0 mae@1 (y)n@1 ofnadwy@1 . %snd:"Stammers3"_1524527_1525526
+%gls:	IM be.3S.PRES PRT awful
+%eng:	mmm, it's awful.
+*NER:	(we)dyn@1 i@1 hogan@1 bach@1 yn@1 tyfu@1 fyny@1 . %snd:"Stammers3"_1525537_1526721
+%gls:	then for girl little PRT grow.NONFIN up
+%eng:	yhen for a little girl growing up.
+*GUT:	+< boy@0 racers@2 . %snd:"Stammers3"_1526036_1526756
+*NER:	Argol@1 [?] ooh@0 dim@1 hyd_(y)n_oed@1 <just@0 hyn@1> [?] +//. %snd:"Stammers3"_1527151_1529310
+%gls:	Lord IM NEG even just this
+%eng:	Crikey, ooh, not even just that.
+*NER:	dw@1 i@1 meddwl@1 achos@1 bod@1 (y)na@1 allt@1 yna@1 +/. %snd:"Stammers3"_1529276_1531168
+%gls:	be.1S.PRES PRON.1S think.NONFIN because be.NONFIN there hill there
+%eng:	I think because there's a hill there...
+*GUT:	++ yeah@0 maen@1 nhw@1 (y)n@1 codi@1 speed@0 . %snd:"Stammers3"_1531203_1532155
+%gls:	yeah be.3PL.PRES PRON.3PL PRT raise.NONFIN speed
+%eng:	yeah, they gain speed.
+*NER:	maen@1 nhw@1 just@0 yn@1 meddwl@1 <ooh@0 ah@0> ["] ! %snd:"Stammers3"_1532062_1533653
+%gls:	be.3PL.PRES PRON.3PL just PRT think.NONFIN IM IM
+%eng:	they just think "ooh, ah!"
+*GUT:	yeah@0 . %snd:"Stammers3"_1533769_1534175
+*NER:	a@1 mae@1 (y)n@1 <phew@0 (fa)th@1 â@1> [?] +... %snd:"Stammers3"_1533769_1535127
+%gls:	and be.3S.PRES PRT IM kind with
+%eng:	and it's, phew, like...
+*NER:	na@1 dim@1 just@0 boy@0 racers@2 . %snd:"Stammers3"_1535127_1536520
+%gls:	no NEG just boy racers
+%eng:	no, not just boy racers.
+*GUT:	+< yeah@0 . %snd:"Stammers3"_1535266_1535615
+*NER:	mae@1 (y)na@1 rei@1 yn@1 ganol@1 nos@1 de@1 <o@1 (r)heiny@1 (he)fyd@1> [?] . %snd:"Stammers3"_1536543_1538693
+%gls:	be.3S.PRES there some in middle night TAG of those also
+%eng:	there are some in the middle of the night, right, of those too.
+*GUT:	yeah@0 . %snd:"Stammers3"_1538308_1538703
+*NER:	wedyn@1 +/. %snd:"Stammers3"_1539446_1539980
+%gls:	then
+%eng:	so...
+*GUT:	ydy@1 Bob@0 yn@1 # frysur@1 o_hyd@1 ? %snd:"Stammers3"_1540085_1541663
+%gls:	be.3S.PRES Bob PRT busy still
+%eng:	is Bob still busy?
+*NER:	Argol@1 yndy@1 ! %snd:"Stammers3"_1542470_1543340
+%gls:	Lord be.3S.PRES
+%eng:	Lord, yes!
+*GUT:	yndy@1 ? %snd:"Stammers3"_1543329_1543712
+%gls:	be.3S.PRES
+%eng:	yes?
+*GUT:	dim@1 yn@1 stopio@1 na(g)@1 (y)dy@1 ? %snd:"Stammers3"_1544687_1545465
+%gls:	NEG PRT stop.NONFIN NEG be.3S.PRES
+%eng:	doesn't stop, does he?
+*NER:	nac@1 (y)dy@1 ! %snd:"Stammers3"_1545453_1546115
+%gls:	NEG be.3S.PRES
+%eng:	no!
+*GUT:	Argol@1 <bydd@1 rhaid@1> [?] watsiad@1 # huh@0 ? %snd:"Stammers3"_1546591_1548402
+%gls:	Lord be.3S.FUT necessity watch.NONFIN IM
+%eng:	Crikey, have to watch out, eh?
+*NER:	na@1 . %snd:"Stammers3"_1548971_1549819
+%gls:	no
+%eng:	no.
+*GUT:	+< gorwneud@1 hi@1 . %snd:"Stammers3"_1549290_1549859
+%gls:	overdo.NONFIN PRON.3SF
+%eng:	overdoing it.
+*NER:	oedd@1 Dad@0 a@1 fo@1 (we)di@1 cael@1 ymlaen@1 yn@1 iawn@1 yn@1 gweithio@1 hefo@1 ei_gilydd@1 . %snd:"Stammers3"_1549882_1552343
+%gls:	be.3S.IMP Dad an PRON.3SM PRT.PAST get.NONFIN forward PRT right PRT work.NONFIN with each_other
+%eng:	Dad and him had got on fine working together.
+*NER:	o'n@1 i@1 (ddi)m@1 yn@1 synnu@1 . %snd:"Stammers3"_1553010_1553939
+%gls:	be.1S.IMP PRON.1S NEG PRT surprise.NONFIN
+%eng:	I wasn't surprised.
+*NER:	o'n@1 i@1 (we)di@1 synnu@1 . %snd:"Stammers3"_1554148_1554821
+%gls:	be.1S.IMP PRON.1S PRT.PAST surprise.NONFIN
+%eng:	I was surprised.
+*GUT:	yeah@0 . %snd:"Stammers3"_1554867_1555413
+*GUT:	dw@1 i@1 [?] gwybod@1 . %snd:"Stammers3"_1555866_1556458
+%gls:	be.1S.PRES PRON.1S know.NONFIN
+%eng:	I know.
+*NER:	ti@1 (dd)im@1 (we)di@1 synnu@1 ? %snd:"Stammers3"_1556748_1557677
+%gls:	PRON.2S NEG PRT.PAST surprise.NONFIN
+%eng:	you're not surprised?
+*GUT:	na@1 mae(n)@1 [/] maen@1 (y)na@1 rywbeth@1 yn@1 debyg@1 yn@1 y@1 ddau@1 sti@1 ## dw@1 i@1 meddwl@1 . %snd:"Stammers3"_1557898_1560848
+%gls:	no be.3S.PRES be.3S.PRES there something PRT similar in DET two.M know.2S be.1S.PRES PRON.1S think.NONFIN
+%eng:	no, they're fairly similar, the two of them, you know, I think.
+*NER:	+< &=laugh ! %snd:"Stammers3"_1559768_1560221
+*NER:	&=laugh belligerent@2 ! %snd:"Stammers3"_1561059_1562580
+*GUT:	+< mae@1 (y)na@1 +/. %snd:"Stammers3"_1561999_1562452
+%gls:	be.3S.PRES there
+%eng:	there's
+*GUT:	yeah@0 dw@1 (ddi)m@1 yn@1 gwybod@1 be@1 (y)dy@1 o@1 . %snd:"Stammers3"_1563009_1564286
+%gls:	yeah be.1S.PRES NEG PRT know.NONFIN what be.3S.PRES PRON.3SM
+%eng:	yeah, I don't know what it is.
+*GUT:	ond@1 um@0 dw@1 i@1 meddwl@1 bod@1 nhw@1 (y)n@1 dallt@1 ei_gilydd@1 de@1 yn@1 o@1 dda@1 de@1 . %snd:"Stammers3"_1564286_1566701
+%gls:	but IM be.1S.PRES PRON.1S think.NONFIN be.NONFIN PRON.3PL PRT understand.NONFIN each_other TAG PRT quite good TAG
+%eng:	but I think they understand each other quite well, right.
+*NER:	oedden@1 nhw@1 ? %snd:"Stammers3"_1566706_1567228
+%gls:	be.3PL.IMP PRON.3PL
+%eng:	did they?
+*GUT:	yeah@0 . %snd:"Stammers3"_1567623_1567960
+*NER:	oedd@1 y@1 tri@1 +//. %snd:"Stammers3"_1568088_1568697
+%gls:	be.3S.IMP DET three.M
+%eng:	the three of them were...
+*NER:	<a@1 (we)dyn@1 mae@1 &l> [?] [///] ti@1 (we)di@1 cyfarfod@1 Ed@0 ? %snd:"Stammers3"_1568708_1570241
+%gls:	and then be.3S.PRES PRON.2S PRT.PAST meet.NONFIN Ed
+%eng:	and then there's... have you met Ed?
+*GUT:	naddo@1 pwy@1 (y)dy@1 o@1 ? %snd:"Stammers3"_1571037_1571780
+%gls:	no who be.3S.PRES PRON.3SM
+%eng:	no, who's he?
+*NER:	sy@1 (y)n@1 gweithio@1 efo@1 +//. %snd:"Stammers3"_1571733_1572476
+%gls:	be.PRES.REL PRT work.NONFIN with
+%eng:	who works with...
+*GUT:	labrwr@1 (y)dy@1 o@1 ? %snd:"Stammers3"_1571768_1572360
+%gls:	labourer be.3S.PRES PRON.3SM
+%eng:	is he a labourer?
+*NER:	o:h@0 ## personoliaeth@1 # xxx +/. %snd:"Stammers3"_1572488_1576633
+%gls:	IM personality
+%eng:	oh, a [...] personality...
+*GUT:	yeah@0 . %snd:"Stammers3"_1576349_1576651
+*GUT:	cymer@1 ? %snd:"Stammers3"_1577139_1577557
+%gls:	character
+%eng:	character?
+*NER:	na:@1 [!] dim@1 ! %snd:"Stammers3"_1577905_1579426
+%gls:	no NEG
+%eng:	no, none!
+*GUT:	oh@0 dim@1 zilch@2 . %snd:"Stammers3"_1579438_1580448
+%gls:	IM NEG zilch
+%eng:	oh, none, zilch.
+*NER:	Arglwydd@1 o@1 (ddi)m@1 sbïo@1 (ar)na@1 fi@1 . %snd:"Stammers3"_1581098_1582398
+%gls:	Lord PRON.3SM NEG look.NONFIN on.1S PRON.1S
+%eng:	God, didn't look at me.
+*NER:	dw@1 i@1 sure@0 bod@1 o@1 ofn@1 fi@1 . %snd:"Stammers3"_1582317_1583513
+%gls:	be.1S.PRES PRON.1S sure be.NONFIN PRON.3SM fear PRON.1S
+%eng:	I'm sure he's afraid of me.
+*GUT:	shady@2 mae@1 (y)n@1 sure@0 sti@1 . %snd:"Stammers3"_1583489_1584325
+%gls:	shady be.3S.PRES PRT sure know.2S
+%eng:	he must be shady, you know.
+*NER:	ia@1 ond@1 +/. %snd:"Stammers3"_1584929_1585544
+%gls:	yes but
+%eng:	yes, but...
+*GUT:	hogyn@1 ifanc@1 (y)dy@1 o@1 ? %snd:"Stammers3"_1585370_1586020
+%gls:	boy young be.3S.PRES PRON.3SM
+%eng:	is he a young lad?
+*NER:	yeah@0 yeah@0 . %snd:"Stammers3"_1586229_1586763
+*NER:	ond@1 oedd@1 Dad@0 a@1 fo@1 a@1 Bob@0 wedi@1 bod@1 yn@1 cael@1 # whale@2 of@2 a@2 time@2 . %snd:"Stammers3"_1586775_1590467
+%gls:	but be.3S.IMP Dad and PRON.3SM and Bob PRT.PAST be.NONFIN PRT get.NONFIN whale of a time
+%eng:	but Dad and him and Bob had been having a whale of a time.
+*GUT:	yeah@0 ? %snd:"Stammers3"_1590409_1590873
+*NER:	mmm@0 . %snd:"Stammers3"_1591377_1592236
+*NER:	so@0 ## Dad@0 a@1 Bob@0 yn@1 ## hapus@1 iawn@1 efo@1 ei_gilydd@1 . %snd:"Stammers3"_1592399_1596811
+%gls:	so Dad and Bob PRT happy very with each_other
+%eng:	so... Dad and Bob very happy together.
+*NER:	oedd@1 Dad@0 yn@1 deud@1 adre@1 ? %snd:"Stammers3"_1596822_1597960
+%gls:	be.3S.IMP Dad PRT say.NONFIN home
+%eng:	was Dad saying so at home?
+*GUT:	yeah@0 . %snd:"Stammers3"_1598633_1598993
+*NER:	+< na@1 (dy)dy@1 o@1 (ddi)m@1 yn@1 deud@1 dim@1 nac@1 (y)dy@1 ? %snd:"Stammers3"_1598784_1599935
+%gls:	no be.3S.PRES.NEG PRON.3SM NEG PRT say.NONFIN nothing NEG be.3S.PRES
+%eng:	no, he doesn't say anything, does he?
+*NER:	oedd@1 Dad@0 yn@1 deud@1 adre@1 ? %snd:"Stammers3"_1600214_1601317
+%gls:	be.3S.IMP Dad PRT say.NONFIN home
+%eng:	was Dad saying so at home?
+*GUT:	well@0 dw@1 (ddi)m@1 yn@1 gwrando@1 xxx mae@1 sure@0 sti@1 . %snd:"Stammers3"_1602106_1603616
+%gls:	well be.1S.PRES NEG PRT listen.NONFIN xxx be.3S.PRES sure know.2S
+%eng:	well, I don't listen probably, you know.
+*GUT:	ella@1 bod@1 o@1 (we)di@1 deud@1 a@1 fi@1 (dd)im@1 yn@1 cofio@1 de@1 . %snd:"Stammers3"_1603488_1604870
+%gls:	maybe be.NONFIN PRON.3SM PRT.PAST say.NONFIN and PRON.1S NEG PRT remember.NONFIN TAG
+%eng:	he might have said and I didn't remember it, eh.
+*GUT:	yeah@0 . %snd:"Stammers3"_1605485_1606007
+*GUT:	Mam@0 dal@1 efo@1 shingles@2 . %snd:"Stammers3"_1607205_1608726
+%gls:	Mam continue.NONFIN with shingles
+%eng:	Mam's still got shingles.
+*NER:	mmm@0 xxx +/. %snd:"Stammers3"_1608760_1609968
+*GUT:	mae@1 (y)n@1 dechrau@1 gwella@1 slow@0 bach@1 dw@1 meddwl@1 <hefyd@1 de@1> [?] . %snd:"Stammers3"_1609608_1611094
+%gls:	be.3S.PRES PRT start.NONFIN improve.NONFIN slow little be.1S.PRES PRON.1S think.NONFIN also TAG
+%eng:	she's starting to improve very slowly I think too, you know
+*NER:	yndy@1 ? %snd:"Stammers3"_1611349_1611617
+%gls:	be.3S.PRES
+%eng:	is she?
+*GUT:	yndy@1 . %snd:"Stammers3"_1611965_1612383
+%gls:	be.3S.PRES
+%eng:	yes.
+*NER:	mae@1 am@1 ddod@1 yma@1 . %snd:"Stammers3"_1613892_1614635
+%gls:	be.3S.PRES for come.NONFIN here
+%eng:	she wants to come here.
+*GUT:	+< ond@1 um@0 huh@0 ? %snd:"Stammers3"_1614380_1615564
+%gls:	but IM IM
+%eng:	but, er... what?
+*NER:	+< mae@1 [/] <mae@1 (we)di@1> [/] mae@1 (we)di@1 deud@1 bod@1 hi@1 am@1 ddod@1 yma@1 dydd@1 Mercher@1 . %snd:"Stammers3"_1614623_1617781
+%gls:	be.3S.PRES be.3S.PRES PRT.PAST be.3S.PRES PRT.PAST say.NONFIN be.NONFIN PRON.3SF for come.NONFIN here day Wednesday
+%eng:	she's said she's coming here on Wednesday.
+*GUT:	yndy@1 . %snd:"Stammers3"_1618014_1618582
+%gls:	be.3S.PRES
+%eng:	yes.
+*NER:	digon@1 [=? (y)dy@1 (d)igon@1] da@1 ti@1 meddwl@1 ? %snd:"Stammers3"_1618733_1619720
+%gls:	enough good PRON.2S think.NONFIN
+%eng:	good enough, do you think?
+*GUT:	well@0 ges@1 i@1 ddallt@1 um@0 bod@1 rhaid@1 (i)ddi@1 watsiad@1 efo@1 shingles@2 . %snd:"Stammers3"_1619128_1621357
+%gls:	well get.1S.PAST PRON.1S understand.NONFIN IM be.NONFIN necessity PRON.3SF watch.NONFIN with shingles
+%eng:	well, I was given to understand that she has to watch it with shingles.
+*GUT:	(a)chos@1 # mae@1 (y)n@1 beryg@1 i@1 [/] # i@1 +//. %snd:"Stammers3"_1621380_1623528
+%gls:	because be.3S.PRES PRT dangerous to to
+%eng:	because it's dangerous to...
+*GUT:	<(dy)na@1 chdi@1> [?] Anna@0 wan@1 <dydy@1 (dd)im@1 (we)di@1> [?] gael@1 frech@1 y@1 ieir@1 ydy@1 [?] . %snd:"Stammers3"_1624086_1625966
+%gls:	there PRON.2S Anna now be.3S.PRES.NEG NEG PRT.PAST get.NONFIN pox DET chickens be.3S.PRES
+%eng:	take Anna now, she hasn't had chicken-pox, has she.
+*NER:	na@1 . %snd:"Stammers3"_1626036_1626500
+%gls:	no
+%eng:	no.
+*NER:	yndy@1 mae@1 o@1 (y)n@1 beryg@1 [?] &d dw@1 gwybod@1 . %snd:"Stammers3"_1626489_1627963
+%gls:	be.3S.PRES be.3S.PRES PRON.3SM PRT dangerous be.1S.PRES know.NONFIN
+%eng:	yes, it is dangerous, I know.
+*GUT:	so@0 # (peta)sai@1 (y)n@1 dod@1 i@1 contact@2 efo@1 rywun@1 efo@1 shingles@2 ## neu@1 i@1 gyswllt@1 efo@1 rywun@1 efo@1 &ʃi shingles@2 um@0 beryg@1 iddi@1 ddal@1 o@1 (e)i@1 hun@1 tibod@1 ## neu@1 dal@1 rywbeth@1 de@1 . %snd:"Stammers3"_1627917_1637756
+%gls:	so if_be.3S.CONDIT PRT come.NONFIN in contact with someone with shingles or in contact with someone with shingles IM danger to.3SF catch.NONFIN PRON.3SM POSS.3S self know.2S or catch.NONFIN something TAG
+%eng:	so if she comes into contact with someone with shingles, or comes into "contact" with someone with shingles, she's in danger of catching it herself, you know, or of catching something, right?
+*GUT:	so@0 dw@1 (ddi)m@1 yn@1 gwybod@1 os@1 (y)dy@1 (y)n@1 idea@0 dda@1 Mam@0 ddod@1 yma@1 # mor@1 fuan@1 â@1 hynna@1 de@1 . %snd:"Stammers3"_1638110_1640781
+%gls:	so be.1S.PRES NEG PRT know.NONFIN if be.3S.PRES PRT idea good Mam come.NONFIN here so fast with that TAG
+%eng:	so I don't know whether it's a good idea for Mam to come here so soon, right.
+*GUT:	ella@1 (ba)sai@1 well@1 (i)ddo@1 glirio@1 gynta@1 cyn@1 iddi@1 ddod@1 round@0 . %snd:"Stammers3"_1640967_1643021
+%gls:	maybe be.3S.CONDIT better for.3SM clear.NONFIN first before to.3SF come.NONFIN round
+%eng:	it might be better for it to clear first before she comes round.
+*NER:	ond@1 mae@1 hi@1 (we)di@1 deud@1 bod@1 hi@1 am@1 ddŵad@1 [?] . %snd:"Stammers3"_1643758_1645018
+%gls:	but be.3S.PRES PRON.3SF PRT.PAST say.NONFIN be.NONFIN PRON.3SF for come.NONFIN
+%eng:	but she's said she's coming .
+*GUT:	well@0 +... %snd:"Stammers3"_1646191_1647201
+*GUT:	well@0 chi@1 sy@1 gwybod@1 orau@1 de@1 . %snd:"Stammers3"_1649326_1650336
+%gls:	well PRON.2PL be.PRES.REL know.NONFIN best TAG
+%eng:	well, you know best, eh.
+*GUT:	chi@1 (y)dy@1 (y)r@1 ## nurturers@2 . %snd:"Stammers3"_1650324_1653029
+%gls:	PRON.2PL be.3S.PRES DET nurturers
+%eng:	you're the nurturers.
+*NER:	well@0 na@1 hi@1 [/] hi@1 really@2 xxx . %snd:"Stammers3"_1653529_1655386
+%gls:	well no PRON.3SF PRON.3SF really xxx
+%eng:	well, no, it's her really, [...]
+*NER:	<mae@1 (y)r@1 &d> [//] oedd@1 doctor@0 (we)di@1 deud@1 os@1 maen@1 nhw@1 (we)di@1 # sychu@1 # i_fyny@1 # y@1 [//] yr@1 [/] yr@1 # be@1 bynnag@1 ydyn@1 nhw@1 # um@0 # mae@1 (y)n@1 iawn@1 . %snd:"Stammers3"_1655367_1664128
+%gls:	be.3S.PRES DET be.3S.IMP doctor PRT.PAST say.NONFIN if be.3PL.PRES PRON.3PL PRT.PAST dry.NONFIN up DET DET DET what ever be.3PL.PRES PRON.3PL IM be.3S.PRES PRT right
+%eng:	the doctor said that if they've dried up, the... whatever they are, um, it's alright.
+*GUT:	+< yeah@0 . %snd:"Stammers3"_1658119_1658595
+*GUT:	+< yeah@0 . %snd:"Stammers3"_1659710_1660116
+*GUT:	+< yeah@0 . %snd:"Stammers3"_1662659_1663367
+*NER:	so@0 <mae@1 mynd@1 i@1> [/] ## mae@1 mynd@1 i@1 ddŵad@1 &m meddai@1 hi@1 . %snd:"Stammers3"_1664156_1667941
+%gls:	so be.3S.PRES go.NONFIN to be.3S.PRES go.NONFIN to come.NONFIN say.3S.PAST PRON.3SF
+%eng:	so she's going to come, she said.
+*GUT:	+< yeah@0 . %snd:"Stammers3"_1667198_1667558
+*GUT:	am@1 faint@1 dan@1 ni@1 (y)n@1 siarad@1 wan@1 ? %snd:"Stammers3"_1667790_1669183
+%gls:	about how_much be.1PL.PRES PRON.1PL PRT talk.NONFIN now
+%eng:	how long have we been talking now?
+*NER:	&=laugh dw@1 (ddi)m@1 (gwy)bod@1 ryw@1 hanner@1 awr@1 dw@1 meddwl@1 . %snd:"Stammers3"_1669311_1673026
+%gls:	be.1S.PRES NEG know.NONFIN some half hour be.1S.PRES think.NONFIN
+%eng:	dunno, about half an hour, I think.
+*GUT:	yeah@0 (y)dy@1 hwnna@1 ddigon@1 ti@1 meddwl@1 ? %snd:"Stammers3"_1673200_1674536
+%gls:	yeah be.3S.PRES that enough PRON.2S think.NONFIN
+%eng:	yeah, is that enough, do you think?
+*NER:	nac@1 (y)dy@1 . %snd:"Stammers3"_1674675_1675418
+%gls:	NEG be.3S.PRES
+%eng:	no.
+*GUT:	nag@1 (y)dy@1 ? %snd:"Stammers3"_1675546_1676010
+%gls:	NEG be.3S.PRES
+%eng:	isn't it?
+*NER:	nac@1 ydy@1 # thirty_five@2 . %snd:"Stammers3"_1676207_1677601
+%gls:	NEG be.3S.PRES thirty_five
+%eng:	no, 35.
+*GUT:	o_k@0 # <sticia@1 i@1> [?] <(y)r@1 er@0> [//] <i@1 (y)r@1 er@0> [/] # i@1 (y)r@1 cytundeb@1 . %snd:"Stammers3"_1676474_1679609
+%gls:	o_k stick.1S.NONPAST PRON.1S DET IM to DET IM to DET agreement
+%eng:	okay, I'll stick to the agreement.
+*NER:	+< dw@1 i@1 (y)n@1 meddwl@1 . %snd:"Stammers3"_1679040_1679598
+%gls:	be.1S.PRES PRON.1S PRT think.NONFIN
+%eng:	I think so.
+*NER:	xxx [=! laughs] (y)n@1 iawn@1 . %snd:"Stammers3"_1679574_1681072
+%gls:	xxx PRT right
+%eng:	[...] be alright.
+*GUT:	pum@1 munud@1 arall@1 . %snd:"Stammers3"_1680642_1681490
+%gls:	five minute other
+%eng:	another five minutes.
+*NER:	&di [=! laughs] diolch@1 [/] diolch@1 Guto@0 ! %snd:"Stammers3"_1681896_1684067
+%gls:	thanks thanks Guto
+%eng:	thanks, Guto!
+*GUT:	&=laugh . %snd:"Stammers3"_1683742_1684474
+*NER:	&=laugh ti@1 (dd)im@1 yn@1 arfer@1 +/. %snd:"Stammers3"_1684764_1686006
+%gls:	PRON.2S NEG PRT use.NONFIN
+%eng:	you're not used to...
+*GUT:	+< wnest@1 ti@1 erioed@1 [?] meddwl@1 (ba)sa@1 chdi@1 <mewn@1 sefyllfa@1 fel@1 hynny@1> [?] naddo@1 ? %snd:"Stammers3"_1685426_1687098
+%gls:	do.2S.PAST PRON.2S never think.NONFIN be.2S.CONDIT PRON.2S in situation like this no
+%eng:	you never thought you'd be in a situation like this, did you?
+*NER:	naddo@1 ! %snd:"Stammers3"_1688177_1688874
+%gls:	no
+%eng:	no!
+*GUT:	dw@1 i@1 (y)n@1 nabod@1 pobl@1 diddorol@1 sti@1 ## <deu(d)@1 (wr)tha@1 chdi@1> [?] ! %snd:"Stammers3"_1688433_1690964
+%gls:	be.1S.PRES PRON.1S PRT know.NONFIN people interesting know.2S say.NONFIN to.2S PRON.2S
+%eng:	I know some interesting people, you know, telling you!
+*NER:	+< &=laugh ! %snd:"Stammers3"_1689826_1692322
+*GUT:	so@0 # &b be@1 wnawn@1 ni@1 er@0 ## weekend@2 nesa@1 ta@1 be@1 # efo@1 (y)r@1 &g granny@2 annexe@2 ? %snd:"Stammers3"_1694183_1699895
+%gls:	so what do.1PL.NONPAST PRON.1PL IM weekend next or what with DET granny annexe
+%eng:	so, what shall we do, next weekend or what, with the granny annexe?
+*NER:	oh@0 er@0 dw@1 (ddi)m@1 yn@1 gwybod@1 . %snd:"Stammers3"_1700348_1701880
+%gls:	IM IM be.1S.PRES NEG PRT know.NONFIN
+%eng:	oh, er, I don't know.
+*NER:	yeah@0 &sə &gə &də (dy)dy@1 o@1 (ddi)m@1 yn@1 trystio@1 chdi@1 dynnu@1 (y)r@1 to@1 . %snd:"Stammers3"_1701776_1704899
+%gls:	yeah be.3S.PRES.NEG PRON.3SM NEG PRT trust.NONFIN PRON.2S pull.NONFIN DET roof
+%eng:	yeah... he doesn't trust you to take off the roof.
+*NER:	just@0 y@1 ceiling@2 . %snd:"Stammers3"_1705862_1706698
+%gls:	just DET ceiling
+%eng:	just the ceiling.
+*NER:	mae@1 (y)n@1 ofn@1 [?] i@1 chdi@1 disgyn@1 trwy@1 (y)r@1 to@1 . %snd:"Stammers3"_1706721_1708359
+%gls:	be.3S.PRES PRT fear to PRON.2S fall.NONFIN through DET roof
+%eng:	he's afraid of you falling through the roof.
+*GUT:	Argol@1 tibod@1 dw@1 i@1 (we)di@1 gweithio@1 efo@1 toeau@1 ! %snd:"Stammers3"_1708335_1709694
+%gls:	Lord know.2S be.1S.PRES PRON.1S PRT.PAST work.NONFIN with roofs
+%eng:	God, you know, I've worked with roofs!
+*NER:	&=laugh ! %snd:"Stammers3"_1710019_1711528
+*GUT:	wnes@1 i@1 weithio@1 i@1 Ogwen_Roofing@0 am@1 [/] # am@1 flwyddyn@1 . %snd:"Stammers3"_1710158_1712561
+%gls:	do.1S.PAST PRON.1S work.NONFIN for Ogwen_Roofing for for year
+%eng:	I worked for Ogwen Roofing for a year.
+*NER:	do@1 dw@1 i@1 meddwl@1 bod@1 o@1 (y)n@1 xx +/. %snd:"Stammers3"_1713095_1714419
+%gls:	yes be.1S.PRES PRON.1S PRT think.NONFIN be.NONFIN PRON.3SM PRT xx
+%eng:	yes, I think he [..] ...
+*GUT:	dw@1 i@1 (fa)th@1 â@1 mountain@2 goat@2 mechan@1 i@1 ! %snd:"Stammers3"_1713722_1715266
+%gls:	be.1S.PRES PRON.1S kind with mountain goat little PRON.1S
+%eng:	I'm like a mountain goat, my dear!
+*NER:	yeah@0 dyna@1 o'n@1 [?] i@1 ddeu(d)@1 (wr)tho@1 fo@1 ! %snd:"Stammers3"_1715301_1716845
+%gls:	yeah there be.1S.IMP PRON.1S say.NONFIN to.3SM PRON.3SM
+%eng:	yeah, that's what I was telling him!
+*NER:	<mae@1 (y)n@1 ofn@1 i@1 chdi@1> [/] mae@1 fo@1 ofn@1 chdi@1 cael@1 popo@1 . %snd:"Stammers3"_1716746_1718870
+%gls:	be.3S.PRES PRT fear to PRON.2S be.3S.PRES PRON.3SM fear PRON.2S get.NONFIN injury
+%eng:	he's afraid you'll have an injury.
+*GUT:	Argol@1 &b annwyl@1 [?] <be@1 (y)dy@1 o@1> [//] be@1 mae@1 meddwl@1 dw@1 i@1 poof@0 ? %snd:"Stammers3"_1718893_1721297
+%gls:	Lord dear what be.3S.PRES PRON.3SM what be.3S.PRES think.NONFIN be.1S.PRES PRON.1S poof
+%eng:	good Lord, what does he think I am, a poof?
+*GUT:	&ak [=! laughs] ! %snd:"Stammers3"_1722400_1723781
+*GUT:	<be@1 xx dim@1 dyna@1 ddeudodd@1 o@1> [?] ! %snd:"Stammers3"_1724826_1725755
+%gls:	what xx NEG there say.3S.PAST PRON.3SM
+%eng:	what, [..] he didn't say that!
+*GUT:	(dy)dy@1 o@1 (ddi)m@1 yn@1 ofn@1 i@1 mi@1 frifo@1 . %snd:"Stammers3"_1726473_1728389
+%gls:	be.3S.PRES.NEG PRON.3SM NEG PRT fear to PRON.1S hurt.NONFIN
+%eng:	he's not afraid of me getting hurt.
+*NER:	yndy@1 <ella@1 bod@1> [?] chdi@1 dipyn@1 bach@1 yn@1 ## xxx <common@2 sen(se)@0> [?] +/. %snd:"Stammers3"_1728557_1732318
+%gls:	be.3S.PRES maybe be.NONFIN PRON.2S a_bit little PRT xxx common sense
+%eng:	yes, you might be a little bit [..] common sense...
+*GUT:	+< office@0 boy@0 (fe)lly@1 ? %snd:"Stammers3"_1731849_1732615
+%gls:	office boy thus
+%eng:	an office boy, like?
+*NER:	yeah@0 (dy)na@1 chdi@1 yeah@0 ! %snd:"Stammers3"_1732882_1733578
+%gls:	yeah there PRON.2S yeah
+%eng:	yeah, there you are, yeah!
+*GUT:	o:h@0 right@0 oh@0 (y)r@1 working@2 class@2 er@0 grit@0 (y)ma@1 yeah@0 # ddim@1 gynno@1 fi@1 dim@1 mwy@1 ! %snd:"Stammers3"_1733381_1738211
+%gls:	IM right IM DET working class IM grit here yeah NEG with.1S PRON.1S NEG more
+%eng:	oh, right, this working class grit yeah, I've not got it any more!
+*NER:	+< &=laugh ! %snd:"Stammers3"_1734298_1735715
+*GUT:	oh@0 wela@1 i@1 ! %snd:"Stammers3"_1738780_1740080
+%gls:	IM see.1S.NONPAST PRON.1S
+%eng:	oh, I see!
+*NER:	oh@0 yeah@0 er@0 <dw@1 (ddi)m@1 yn@1 gwybod@1 be@1> [/] dw@1 (ddi)m@1 yn@1 gwybod@1 be@1 mae@1 wneud@1 weekend@2 (y)ma@1 . %snd:"Stammers3"_1740057_1743609
+%gls:	IM yeah IM be.1S.PRES NEG PRT know.NONFIN what be.1S.PRES NEG PRT know.NONFIN what be.3S.PRES do.NONFIN weekend here
+%eng:	oh, yeah, I don't know what he's doing this weekend.
+*GUT:	mmm@0 . %snd:"Stammers3"_1744306_1744678
+*NER:	+< um@0 +... %snd:"Stammers3"_1744411_1744921
+*NER:	yeah@0 . %snd:"Stammers3"_1746709_1747580
+*NER:	mae@1 [/] mae@1 [//] dan@1 ni@1 (we)di@1 cael@1 gwa(red)@1 [?] +/. %snd:"Stammers3"_1748207_1749705
+%gls:	be.3S.PRES be.3S.PRES be.1PL.PRES PRON.1PL PRT.PAST get.NONFIN riddance
+%eng:	it's... we've got rid...
+*GUT:	+< <mond@1 (i)ddo@1> [?] roi@1 shout@2 i@1 mi@1 pan@1 mae@1 (y)n@1 barod@1 <a@1 ro@1 i@1> [?] hand@2 (i)ddo@1 [?] de@1 . %snd:"Stammers3"_1749136_1751063
+%gls:	only for.3SM give.NONFIN shout to PRON.1S when be.3S.PRES PRT ready and give.1S.NONPAST PRON.1S hand to.3SM TAG
+%eng:	if he just gives me a shout when he's ready, and I'll give him a hand, right.
+*GUT:	a@1 fydda@1 i@1 yma@1 bright@2 and@2 early@2 . %snd:"Stammers3"_1752294_1753699
+%gls:	and be.1S.FUT PRON.1S here bright and early
+%eng:	and I'll be here bright and early.
+*GUT:	(be)cause@2 er@0 # dw@1 i@1 (y)n@1 edrych@1 ymlaen@1 cael@1 lle@1 <i@1 fi@1> [//] bach@1 i@1 fi@1 (y)n@1 hun@1 . %snd:"Stammers3"_1755707_1758691
+%gls:	because IM be.1S.PRES PRON.1S PRT look.NONFIN forward get.NONFIN place to PRON.1S little to PRON.1S POSS.1S self
+%eng:	because I'm looking forward to having a little place to myself.
+*GUT:	a@1 bach@1 [!] fydd@1 o@1 (he)fyd@1 de@1 +!? %snd:"Stammers3"_1759248_1760351
+%gls:	and little be.3S.FUT PRON.3SM too TAG
+%eng:	and it will be little, too, won't it!?
+*NER:	+< &=laugh <Tardis@0 ["] enw@1 da@1 (i)ddo@1 fo@1> [=! laughs] ! %snd:"Stammers3"_1759852_1763207
+%gls:	Tardis name good for.3SM PRON.3SM
+%eng:	"Tardis" is a good name for it
+*NER:	mi@1 fydd@1 o@1 sti@1 ! %snd:"Stammers3"_1763521_1764507
+%gls:	PRT be.3S.FUT PRON.3SM know.2S
+%eng:	it will be, you know!
+*NER:	fydd@1 o@1 (y)n@1 lovely@2 ! %snd:"Stammers3"_1764496_1765726
+%gls:	be.3S.FUT PRON.3SM PRT lovely
+%eng:	it'll be lovely!
+*NER:	&ɘs &ɘs: <at@2 least@2> [?] dim@1 angen@1 chdi@1 feddwl@1 amdan@1 cael@1 dodrefn@1 nag@1 oes@1 . %snd:"Stammers3"_1765786_1770477
+%gls:	at least NEG need PRON.2S think.NONFIN about get.NONFIN furniture NEG be.3S.PRES
+%eng:	at least there's no need for you to think about getting furniture, is there.
+*GUT:	well@0 fydd@1 (y)na@1 (ddi)m@1 lle@1 <iddyn@1 nhw@1> [?] na@1 fydd@1 . %snd:"Stammers3"_1770465_1771951
+%gls:	well be.3S.FUT there NEG place to.3PL PRON.3PL NEG be.3S.FUT
+%eng:	well, there'll be no room for them, will there?
+*NER:	a@1 fydd@1 (y)na@1 wely@1 (y)ma@1 # yn@1 barod@1 i@1 chdi@1 . %snd:"Stammers3"_1775167_1777663
+%gls:	and be.3S.FUT there bed here PRT ready to PRON.2S
+%eng:	and there'll be a bed here, ready for you.
+*GUT:	+< yeah@0 . %snd:"Stammers3"_1776467_1776920
+*NER:	a:@1 ## nice@0 ! %snd:"Stammers3"_1778441_1781088
+%gls:	and nice
+%eng:	and... nice!
+*NER:	mae@1 (y)n@1 lovely@2 actually@2 . %snd:"Stammers3"_1781378_1782319
+%gls:	be.3S.PRES PRT lovely actually
+%eng:	it's lovely, actually.
+*GUT:	ie@1 ? %snd:"Stammers3"_1782319_1782819
+%gls:	yes
+%eng:	yes?
+*NER:	fydd@1 [//] <mi@1 fydd@1> [?] [/] mi@1 fydd@1 o@1 . %snd:"Stammers3"_1782969_1784385
+%gls:	be.3S.FUT PRT be.3S.FUT PRT be.3S.FUT PRON.3SM
+%eng:	it will be.
+*GUT:	well@0 dw@1 i@1 edrych@1 ymlaen@1 . %snd:"Stammers3"_1784525_1785535
+%gls:	well be.1S.PRES PRON.1S look.NONFIN forward
+%eng:	well, I'm looking forward to it.
+*GUT:	(be)cause@2 er@0 ## mae@1 (y)n@1 hen@1 bryd@1 i@1 mi@1 # symud@1 ymlaen@1 ddeud@1 gwir@1 de@1 . %snd:"Stammers3"_1785709_1789807
+%gls:	because IM be.3S.PRES PRT old time to PRON.1S move.NONFIN forward say.NONFIN truth TAG
+%eng:	because it's high time I moved on really, you know.
+*GUT:	Argol@1 dw@1 i@1 <(we)di@1 bod@1 gael@1> [?] [/] gael@1 yn@1 nal@1 yn_ôl@1 ry@1 hir@1 dw@1 meddwl@1 . %snd:"Stammers3"_1789981_1792059
+%gls:	Lord be.1S.PRES PRON.1S PRT.PAST be.NONFIN get.NONFIN get.NONFIN POSS.1S hold.NONFIN back too long be.1S.PRES think.NONFIN
+%eng:	God, I've been held back too long, I think.
+*NER:	gyn@1 pwy@1 ? %snd:"Stammers3"_1792814_1793348
+%gls:	with who
+%eng:	by who?
+*GUT:	well@0 dim@1 gyn@1 neb@1 arbennig@1 just@0 &s: ## circumstances@2 (fe)lly@1 . %snd:"Stammers3"_1793360_1798190
+%gls:	well NEG with nobody special just circumstances thus
+%eng:	well, not by anyone in particular, just circumstances, like.
+*GUT:	felly@1 dw@1 i@1 (y)n@1 teimlo@1 . %snd:"Stammers3"_1798956_1800128
+%gls:	thus be.1S.PRES PRON.1S PRT feel.NONFIN
+%eng:	that's how I feel.
+*GUT:	ond@1 wna@1 i@1 (ddi)m@1 mynd@1 i_fewn@1 iddo@1 fo@1 . %snd:"Stammers3"_1800105_1801940
+%gls:	but do.1S.NONPAST PRON.1S NEG go.NONFIN in to.3SM PRON.3SM
+%eng:	but I won't go into it.
+*GUT:	dw@1 (ddi)m@1 yn@1 gwybod@1 . %snd:"Stammers3"_1802880_1803344
+%gls:	be.1S.PRES NEG PRT know.NONFIN
+%eng:	I don't know.
+*GUT:	mae@1 (y)n@1 amser@1 mi@1 symud@1 ymlaen@1 . %snd:"Stammers3"_1803333_1804331
+%gls:	be.3S.PRES PRT time PRON.1S move.NONFIN forward
+%eng:	it's time I moved on.
+*GUT:	dw@1 i@1 +/. %snd:"Stammers3"_1806084_1806282
+%gls:	be.1S.PRES PRON.1S
+%eng:	I...
+*NER:	hey@0 <ti@1 (we)di@1 &m> [//] ti@1 am@1 mynd@1 <am@1 yr@1 um@0> [//] # am@1 y@1 swydd@1 (y)na@1 # yn@1 er@0 # +//? %snd:"Stammers3"_1806131_1811553
+%gls:	hey PRON.2S PRT.PAST PRON.2S for go.NONFIN for DET IM for DET job there in IM
+%eng:	hey, have you... are you going to go for that job in...?
+*NER:	oedda@1 chdi@1 am@1 mynd@1 ryw@1 [//] am@1 ryw@1 swydd@1 arall@1 neu@1 rywbeth@1 ? %snd:"Stammers3"_1811773_1813793
+%gls:	be.2S.IMP PRON.2S for go.NONFIN some for some job other or something
+%eng:	were you going to go for some other job or something?
+*GUT:	pa@1 swydd@1 (y)dy@1 hon@1 ? %snd:"Stammers3"_1814002_1815268
+%gls:	which job be.3S.PRES this
+%eng:	which job is this?
+*NER:	dw@1 (ddi)m@1 yn@1 gwybod@1 . %snd:"Stammers3"_1815175_1815813
+%gls:	be.1S.PRES NEG PRT know.NONFIN
+%eng:	I don't know.
+*NER:	efo@1 # child@2 # protection@0 . %snd:"Stammers3"_1815825_1819180
+%gls:	with child protection
+%eng:	with child protection.
+*GUT:	+< ++ protection@0 ? %snd:"Stammers3"_1818754_1819648
+*GUT:	oh@0 &di ella@1 # ella@1 . %snd:"Stammers3"_1819729_1821726
+%gls:	IM maybe maybe
+%eng:	oh, maybe... maybe.
+*GUT:	mae@1 dipyn@1 o@1 # minefield@2 um@0 legally@2 yn@1 y@1 &l legal@2 sense@0 de@1 . %snd:"Stammers3"_1821693_1826952
+%gls:	be.3S.PRES a_bit of minefield IM legally in DET legal sense TAG
+%eng:	it's a bit of a minefield legally, in the legal sense, right.
+*GUT:	mae@1 (y)r@1 legal@2 framework@2 yn@1 gymhleth@1 ofnadwy@1 . %snd:"Stammers3"_1826987_1828891
+%gls:	be.3S.PRES DET legal framework PRT complicated awful
+%eng:	the legal framework is horrendously complicated.
+*NER:	yn@1 Gaernarfon@0 mae@1 hwnna@1 mynd@1 i@1 fod@1 yeah@0 ? %snd:"Stammers3"_1829019_1830505
+%gls:	in Caernarfon be.3S.PRES that go.NONFIN to be.NONFIN yeah
+%eng:	that's going to be in Caernarfon, yeah?
+*GUT:	+< a@1 # yeah@0 mae@1 [/] mae@1 job@0 stressful@2 ofnadwy@1 . %snd:"Stammers3"_1829646_1832293
+%gls:	and yeah be.3S.PRES be.3S.PRES job stressful awful
+%eng:	and yeah, it's a really stressful job.
+*GUT:	mwy@1 [?] [//] os@1 rywbeth@1 mae@1 mwy@1 stressful@2 na@1 be@1 dw@1 wneud@1 wan@1 de@1 . %snd:"Stammers3"_1832293_1834708
+%gls:	more if something be.3S.PRES more stressful than what be.1S.PRES do.NONFIN now TAG
+%eng:	if anything it's more stressful than what I'm doing now, right.
+*GUT:	&lai well@0 # dw@1 i@1 licio@1 pawb@1 ar@1 y@1 team@0 yna@1 . %snd:"Stammers3"_1835394_1837867
+%gls:	well be.1S.PRES PRON.1S like.NONFIN everyone on DET team there
+%eng:	well, I like everyone on that team.
+*NER:	oh@0 mae@1 hynna@1 (y)n@1 bwysig@1 yndy@1 . %snd:"Stammers3"_1838668_1840595
+%gls:	IM be.3S.PRES that PRT important be.3S.PRES
+%eng:	oh, that's important, yes.
+*GUT:	+< mae@1 hynna@1 rywbeth@1 de@1 . %snd:"Stammers3"_1839527_1840398
+%gls:	be.3S.PRES that something TAG
+%eng:	that's something, isn't it.
+*GUT:	a@1 dw@1 i@1 cael@1 ymlaen@1 i_gyd@1 [?] [/] i_gyd@1 efo@1 nhw@1 . %snd:"Stammers3"_1840479_1841884
+%gls:	and be.1S.PRES PRON.1S get.NONFIN forward all all with PRON.3PL
+%eng:	and I get along with all of them.
+*GUT:	a@1 maen@1 nhw@1 (we)di@1 deud@1 &i mae@1 croeso@1 fi@1 gael@1 [//] ddod@1 round@0 am@1 chat@0 . %snd:"Stammers3"_1841884_1844788
+%gls:	and be.3PL.PRES PRON.3PL PRT.PAST say.NONFIN be.3S.PRES welcome PRON.1S get.NONFIN come.NONFIN round for chat
+%eng:	and they've said I'm welcome to come round for a chat.
+*GUT:	y@1 team@0 leaders@2 (y)dy@1 hyn@1 de@1 . %snd:"Stammers3"_1844846_1846193
+%gls:	DET team leaders be.3S.PRES this TAG
+%eng:	this is the team leaders, right.
+*NER:	mmhm@0 . %snd:"Stammers3"_1846135_1846530
+*GUT:	neu@1 (y)r@1 <arweinydd@1 team@0> ["] <ddylwn@1 i@1 ddeud@1> [?] . %snd:"Stammers3"_1846483_1847853
+%gls:	or DET leader team should.1S.CONDIT PRON.1S say.NONFIN
+%eng:	or the "team leader", I should say.
+*GUT:	um@0 dyna@1 be@1 (y)dy@1 o@1 yn@1 Gwynedd@0 . %snd:"Stammers3"_1848712_1850152
+%gls:	IM there what be.3S.PRES PRON.3SM in Gwynedd
+%eng:	um, that's what it is in Gwynedd.
+*GUT:	a@1 wedyn@1 um@0 +"/. %snd:"Stammers3"_1850047_1851116
+%gls:	and then IM
+%eng:	and then, um...
+*GUT:	+" be@1 am@1 siarad@1 efo@1 Ben_Bennett@0 # ynglŷn@1 â@1 hyn@1 ? %snd:"Stammers3"_1851290_1853983
+%gls:	what about talk.NONFIN with Ben_Bennett concerning with this
+%eng:	"how about talking to Ben Bennett about this?"
+*GUT:	ac@1 ella@1 wna@1 i@1 # gysidro@1 # ymuno@1 (y)r@1 team@0 yna@1 de@1 ? %snd:"Stammers3"_1854575_1857675
+%gls:	and maybe do.1S.NONPAST PRON.1S consider.NONFIN join.NONFIN DET team there TAG
+%eng:	and maybe I'll consider joining that team, right?
+*GUT:	ond@1 mae@1 (y)na@1 options@0 eraill@1 ysti@1 . %snd:"Stammers3"_1857710_1859753
+%gls:	but be.3S.PRES there options others know.2S
+%eng:	but there are other options, you know.
+*NER:	oes@1 ? %snd:"Stammers3"_1859835_1860195
+%gls:	be.3S.PRES
+%eng:	are there?
+*GUT:	oes@1 . %snd:"Stammers3"_1860136_1860763
+%gls:	be.3S.PRES
+%eng:	yes.
+*GUT:	&m &me <dw@1 i@1 gweld@1> [?] [///] dw@1 i@1 clywed@1 sôn@1 mae@1 (y)na@1 job@0 yn@1 my(nd)@1 [/] mynd@1 yn@1 team@0 hen@1 bobl@1 . %snd:"Stammers3"_1860926_1864525
+%gls:	be.1S.PRES PRON.1S see.NONFIN be.1S.PRES PRON.1S hear.NONFIN talk.NONFIN be.3S.PRES there job PRT go.NONFIN go.NONFIN in team old people
+%eng:	I've heard there's a job going on the old people's team.
+*GUT:	mae@1 (y)na@1 job@0 arall@1 yn@1 mynd@1 er@0 ochrau@1 Dolgellau@0 ffordd@1 (y)no@1 . %snd:"Stammers3"_1864862_1867462
+%gls:	be.3S.PRES there job other PRT go.NONFIN IM sides Dolgellau way there
+%eng:	there's another job going round Dolgellau, that way.
+*GUT:	(ba)swn@1 i@1 gallu@1 symud@1 lawr@1 f(an)@1 yna@1 . %snd:"Stammers3"_1868171_1869227
+%gls:	be.1S.CONDIT PRON.1S can.NONFIN move.NONFIN down place there
+%eng:	I could move down there.
+*GUT:	ond@1 eto@1 dw@1 (dd)im@1 yn@1 teimlo@1 os@1 [?] dw@1 i@1 isio@1 +... %snd:"Stammers3"_1869239_1870887
+%gls:	but again be.1S.PRES NEG PRT feel.NONFIN if be.1S.PRES PRON.1S want
+%eng:	but again, I don't feel if I want to...
+*GUT:	timod@1 <pwy@1 sy@1> [?] (y)n@1 byw@1 yn@1 Dolgellau@0 wan@1 ? %snd:"Stammers3"_1871108_1872617
+%gls:	know.2S who be.PRES.REL PRT live in Dolgellau now
+%eng:	you know who lives in Dolgellau now?
+*GUT:	Frank@0 sti@1 ! %snd:"Stammers3"_1873070_1873859
+%gls:	Frank know.2S
+%eng:	Frank !
+*NER:	o'n@1 i@1 (we)di@1 clywed@1 yeah@0 . %snd:"Stammers3"_1873883_1875334
+%gls:	be.1S.IMP PRON.1S PRT.PAST hear.NONFIN yeah
+%eng:	I'd heard, yeah.
+*GUT:	yeah@0 . %snd:"Stammers3"_1875061_1875897
+@End
