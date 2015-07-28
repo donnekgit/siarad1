@@ -1,9 +1,9 @@
 @UTF8
 @Begin
-@Languages:	cy, en
+@Languages:	cym, eng
 @Participants:	KAT Kath Adult, KIM Kim Adult
-@ID:	cy|siarad|KAT|24;|female|||Adult||
-@ID:	cy|siarad|KIM|25;|female|||Adult||
+@ID:	cym|siarad|KAT|24;|female|||Adult||
+@ID:	cym|siarad|KIM|25;|female|||Adult||
 @Situation:	informal conversation at the university between friends who are studying on the same course
 @Comment:	KAT was brought up in north-west Wales and has lived there ever since
 @Comment:	KIM was brought up in north-west Wales, where she is living now, after spending a few years in Cardiff
@@ -11,8 +11,7 @@
 @Comment:	Researcher: Elen Robert, Bangor University
 @Coder:	Elen Robert, Bangor University
 @Time Duration:	00:32:42
-@Comment:	Filename: Robert4.CHA; Robert4.WAV
-@Comment:	Language markers: @1 = Welsh, @2 = English, @0 = Undetermined, @21 = word with first morpheme(s) English, second morpheme(s) Welsh, @12 = word with first morpheme(s) Welsh, second morpheme(s) English
+@Comment:	Language markers: @s:eng = English, @s:cym&eng = Undetermined, @s:eng+cym = word with first morpheme(s) English, second morpheme(s) Welsh, @s:cym+eng = word with first morpheme(s) Welsh, second morpheme(s) English. Untagged words are Welsh except where part of an utterance headed [- eng], in which untagged words are English.
 *KAT:	faint o gloch wnest ti ddod i Gaerdydd ? %snd:"robert4"_70_3135
 %gls:	how_much of clock do.2S.PAST PRON.2S come.NONFIN to Cardiff
 %eng:	what time did you come to Cardiff?

@@ -1,11 +1,11 @@
 @Font:	Win95:Arial Unicode MS:-13:0
 @UTF8
 @Begin
-@Languages:	cy, en
+@Languages:	cym, eng
 @Participants:	HIL Hilda Adult, CLE Cledwyn Adult, MIC Michael Adult, RES Researcher Adult
-@ID:	cy|siarad|HIL|63;|female|||Adult||
-@ID:	cy|siarad|CLE|58;|male|||Adult||
-@ID:	cy|siarad|MIC|52;|male|||Adult||
+@ID:	cym|siarad|HIL|63;|female|||Adult||
+@ID:	cym|siarad|CLE|58;|male|||Adult||
+@ID:	cym|siarad|MIC|52;|male|||Adult||
 @Situation:	Informal conversation in a village hall in North Wales between three fellow actors.
 @Comment:	HIL was brought up in north-west and north-east Wales, and now lives in north-west Wales.
 @Comment:	CLE was brought up in north-west Wales and has lived there all his life.
@@ -14,8 +14,7 @@
 @Coder:	Peredur Davies, University of Wales Bangor.
 @Comment:	Researcher: Peredur Davies, University of Wales Bangor.
 @Comment:	Time duration: 00:25:22
-@Comment:	Filename:  davies10.cha; Soundfile: davies10.wav
-@Comment:	Language markers: @1 = Welsh, @2 = English, @0 = Undetermined, @21 = word with first morpheme(s) English, second morpheme(s) Welsh, @12 = word with first morpheme(s) Welsh, second morpheme(s) English.
+@Comment:	Language markers: @s:eng = English, @s:cym&eng = Undetermined, @s:eng+cym = word with first morpheme(s) English, second morpheme(s) Welsh, @s:cym+eng = word with first morpheme(s) Welsh, second morpheme(s) English. Untagged words are Welsh except where part of an utterance headed [- eng], in which untagged words are English.
 @Comment:	Soundfile is in stereo, with two speakers (HIL and MIC) on the right hand track; CLE is on the left hand track.
 *HIL:	well@s:cym&eng fydd hi (y)n ddiddorol . %snd:"davies10"_0_1242
 %gls:	well be.3S.FUT PRON.3SF PRT interesting
@@ -2977,7 +2976,7 @@
 *MIC:	neu mae nhw mynd i &n [//] sefydlu ryw weithgor hefo yr # diweithdra mawr (y)ma sy (y)n mynd i ddŵad i Ynys_Môn . %snd:"davies10"_1262225_1268016
 %gls:	or be.3PL.PRES PRON.3PL go.NONFIN PRT establish some committee with DET unemployment great here be.PRES.REL PRT go.NONFIN PRT come.NONFIN to Anglesey
 %eng:	or they're going to establish some committe over this great unemployment which is going to come to Anglesey.
-*CLE:	<mae nhw (we)di> [///] yndy mae nhw (we)di bod heddiw ydyn . %snd:"davies10"_1267705_1269619
+*CLE:	<mae nhw (we)di> [///] yndy maen nhw (we)di bod heddiw ydyn . %snd:"davies10"_1267705_1269619
 %gls:	be.3PL.PRES PRON.3PL PRT.PAST be.3S.PRES be.3PL.PRES PRON.3PL PRT.PAST be.NONFIN today be.3S.PRES
 %eng:	they've been today, haven't they.
 *HIL:	efo (y)r um@s:cym&eng +/ . %snd:"davies10"_1269457_1270200

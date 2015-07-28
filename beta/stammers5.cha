@@ -1,10 +1,10 @@
 @Font:	Win95:Arial Unicode MS:-13:0
 @UTF8
 @Begin
-@Languages:	cy, en
+@Languages:	cym, eng
 @Participants:	RHO Rhodri Adult, SND Sioned Adult
-@ID:	cy|siarad|RHO|39;|male|||Adult||
-@ID:	cy|siarad|SND|36;|female|||Adult||
+@ID:	cym|siarad|RHO|39;|male|||Adult||
+@ID:	cym|siarad|SND|36;|female|||Adult||
 @Situation:	informal conversation one evening at the home of RHO and SND, a married couple
 @Comment:	RHO was brought up and lives in north-west Wales
 @Comment:	SND was brought up south-west Wales, lived in England for several years, and has lived in north-west Wales for the past 8 years
@@ -12,8 +12,7 @@
 @Comment:	Researcher:	Jonathan Stammers, Bangor University
 @Coder:	Jonathan Stammers, Bangor University
 @Time Duration:	00:34:48
-@Comment:	Filename: Stammers5.CHA; Soundfile: Stammers5.WAV
-@Comment:	Language markers: @1 = Welsh, @2 = English, @0 = Undetermined, @21 = word with first morpheme(s) English, second morpheme(s) Welsh, @12 = word with first morpheme(s) Welsh, second morpheme(s) English
+@Comment:	Language markers: @s:eng = English, @s:cym&eng = Undetermined, @s:eng+cym = word with first morpheme(s) English, second morpheme(s) Welsh, @s:cym+eng = word with first morpheme(s) Welsh, second morpheme(s) English. Untagged words are Welsh except where part of an utterance headed [- eng], in which untagged words are English.
 @Warning:	Small amount of background noise from TV.
 *SND:	dw i (y)n sure@s:cym&eng <os oedden> [?] nhw (we)di deu(d) (wr)tha fi +// . %snd:"stammers5"_1567_3007
 %gls:	be.1S.PRES PRON.1S PRT sure if be.3PL.IMP PRON.3PL PRT.PAST say.NONFIN to.1S PRON.1S

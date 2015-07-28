@@ -1,10 +1,10 @@
 @Font:	Win95:Arial Unicode MS:-13:0
 @UTF8
 @Begin
-@Languages:	cy, en
+@Languages:	cym, eng
 @Participants:	FRE Frederic Adult, GWA Gwanwyn Adult
-@ID:	cy|siarad|FRE|67;|male|||Adult||
-@ID:	cy|siarad|GWA|53;|female|||Adult||
+@ID:	cym|siarad|FRE|67;|male|||Adult||
+@ID:	cym|siarad|GWA|53;|female|||Adult||
 @Situation:	Informal conversation between two colleagues in a room above GWA's work place.
 @Comment:	GWA was brought up in various parts of north-west Wales and still lives there.
 @Comment:	FRE has lived in the same part of north-west Wales all his life.
@@ -12,8 +12,7 @@
 @Comment:	Researcher:	Peredur Davies, University of Wales Bangor
 @Coder:	Peredur Davies, University of Wales Bangor
 @Time Duration:	00:27:46
-@Comment:	Filename: davies14.CHA; Soundfile: davies14.WAV
-@Comment:	Language markers: @1 = Welsh, @2 = English, @0 = Undetermined, @21 = word with first morpheme(s) English, second morpheme(s) Welsh, @12 = word with first morpheme(s) Welsh, second morpheme(s) English
+@Comment:	Language markers: @s:eng = English, @s:cym&eng = Undetermined, @s:eng+cym = word with first morpheme(s) English, second morpheme(s) Welsh, @s:cym+eng = word with first morpheme(s) Welsh, second morpheme(s) English. Untagged words are Welsh except where part of an utterance headed [- eng], in which untagged words are English.
 *FRE:	wedyn mae o wedi mynd â (y)r llyfrau +/ . %snd:"davies14"_42_1945
 %gls:	after be.3S.PRES PRON.3SM PRT.PAST go.NONFIN with DET books
 %eng:	then, he's taken the books.

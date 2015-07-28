@@ -1,12 +1,12 @@
 @Font:	Win95:Arial Unicode MS:-13:0
 @UTF8
 @Begin
-@Languages:	cy, en
+@Languages:	cym, eng
 @Participants:	BEU Beuno Adult, ARD Arddun Adult, HAF Haf Child, CAI Cai Child
-@ID:	cy|siarad|BEU|41;|male|||Adult||
-@ID:	cy|siarad|ARD|41;|female|||Adult||
-@ID:	cy|siarad|HAF||female|||Child||
-@ID:	cy|siarad|CAI||male|||Child||
+@ID:	cym|siarad|BEU|41;|male|||Adult||
+@ID:	cym|siarad|ARD|41;|female|||Adult||
+@ID:	cym|siarad|HAF||female|||Child||
+@ID:	cym|siarad|CAI||male|||Child||
 @Situation:	informal conversation in a family in the speakers' home
 @Comment:	BEU was brought up in north-west Wales, where he is now living, after spending a significant period in south-east Wales
 @Comment:	ARD was born in north-west Wales, where she is now living, after spending a significant period abroad
@@ -14,8 +14,7 @@
 @Comment:	Researcher:	Marika Fusser, Bangor University
 @Coder:	Elen Robert, Bangor University
 @Time Duration:	00:34:48
-@Comment:	Filename: Fusser18.CHA; Soundfile: Fusser18.wav
-@Comment:	Language markers: @1 = Welsh, @2 = English, @0 = Undetermined, @21 = word with first morpheme(s) English, second morpheme(s) Welsh, @12 = word with first morpheme(s) Welsh, second morpheme(s) English
+@Comment:	Language markers: @s:eng = English, @s:cym&eng = Undetermined, @s:eng+cym = word with first morpheme(s) English, second morpheme(s) Welsh, @s:cym+eng = word with first morpheme(s) Welsh, second morpheme(s) English. Untagged words are Welsh except where part of an utterance headed [- eng], in which untagged words are English.
 @Comment:	Background clicking or tapping noise from some kitchen appliance
 @Comment:	Haf and Cai only make occasional and brief appearances
 *ARD:	a dydd Mawrth . %snd:"fusser18"_0_1974

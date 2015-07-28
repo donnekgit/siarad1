@@ -1,18 +1,17 @@
 @Font:	Win95:Arial Unicode MS:-13:0
 @UTF8
 @Begin
-@Languages:	cy, en
+@Languages:	cym, eng
 @Participants:	MAG Magi Adult, LOI Lois Adult
-@ID:	cy|siarad|MAG|27;|female|||Adult||
-@ID:	cy|siarad|LOI|25;|female|||Adult||
+@ID:	cym|siarad|MAG|27;|female|||Adult||
+@ID:	cym|siarad|LOI|25;|female|||Adult||
 @Situation:	Informal conversation in the University language laboratory between two close friends.
 @Comment:	MAG was born in England, but has lived in north-west Wales from the age of 3.
 @Comment:	LOI was born in north-west Wales and has lived there all her life.
 @Coder:	Jonathan Stammers, Bangor University
 @Comment:	Researcher: Marika Fusser, Bangor University
 @Comment:	Time Duration: 00:31:42
-@Comment:	Filename: fusser29.CHA; Soundfile: fusser29.WAV
-@Comment:	Language markers: @1 = Welsh, @2 = English, @0 = Undetermined, @21 = word with first morpheme(s) English, second morpheme(s) Welsh, @12 = word with first morpheme(s) Welsh, second morpheme(s) English, @5 = French
+@Comment:	Language markers: @s:eng = English, @s:cym&eng = Undetermined, @s:eng+cym = word with first morpheme(s) English, second morpheme(s) Welsh, @s:cym+eng = word with first morpheme(s) Welsh, second morpheme(s) English. Untagged words are Welsh except where part of an utterance headed [- eng], in which untagged words are English.
 @Warning:	problems with MAG's microphone cutting out from middle of recording
 *MAG:	a wnes i ddeu(d) (wr)tho fo y ffordd o'n i (y)n teimlo twel [?] fath â bob_dim . %snd:"fusser29"_998_3727
 %gls:	and do.1S.PAST PRON.1S say.NONFIN to.3SM PRON.3SM DET way be.1S.IMP PRON.1S PRT feel.NONFIN see.2S kind with everything

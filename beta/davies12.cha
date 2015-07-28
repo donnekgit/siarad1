@@ -1,10 +1,10 @@
 @UTF8
 @Font:	Win95:Arial Unicode MS:-13:0
 @Begin
-@Languages:	cy, en
+@Languages:	cym, eng
 @Participants:	SAL Sali Adult, CER Ceri Adult
-@ID:	cy|siarad|SAL|19;|female|||Adult||
-@ID:	cy|siarad|CER|20;|female|||Adult||
+@ID:	cym|siarad|SAL|19;|female|||Adult||
+@ID:	cym|siarad|CER|20;|female|||Adult||
 @Situation:	informal conversation at the university between friends
 @Comment:	SAL was brought up in north-west Wales and has lived there all her life
 @Comment:	CER was born in north-east Wales and has lived there all her life
@@ -12,8 +12,7 @@
 @Comment:	Researcher:	Peredur Davies, Bangor University
 @Coder:	Elen Robert, Bangor University
 @Time Duration:	00:34:09
-@Comment:	Filename: Davies12.CHA; Soundfile: Davies12.wav
-@Comment:	Language markers: @1 = Welsh, @2 = English, @0 = Undetermined, @21 = word with first morpheme(s) English, second morpheme(s) Welsh, @12 = word with first morpheme(s) Welsh, second morpheme(s) English
+@Comment:	Language markers: @s:eng = English, @s:cym&eng = Undetermined, @s:eng+cym = word with first morpheme(s) English, second morpheme(s) Welsh, @s:cym+eng = word with first morpheme(s) Welsh, second morpheme(s) English. Untagged words are Welsh except where part of an utterance headed [- eng], in which untagged words are English.
 *SAL:	be ti wneud weekend@s:eng (y)ma ? %snd:"davies12"_0_755
 %gls:	what PRON.2S do.NONFIN weekend here
 %eng:	what are you doing this weekend?

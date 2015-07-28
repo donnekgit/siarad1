@@ -1,10 +1,10 @@
 @UTF8
 @Font:	Win95:Arial Unicode MS:-13:0
 @Begin
-@Languages:	cy, en
+@Languages:	cym, eng
 @Participants:	GLA Glain Adult, ROB Robin Adult
-@ID:	cy|bangor2|GLA|35;|female|||Adult||
-@ID:	cy|bangor2|ROB|31;|male|||Adult||
+@ID:	cym|bangor2|GLA|35;|female|||Adult||
+@ID:	cym|bangor2|ROB|31;|male|||Adult||
 @Situation:	Informal conversation between friends recorded at the University
 @Comment:	GLA was born and brought up in the Netherlands but has been living permanently in Wales for almost ten years
 @Comment:	ROB was brought up in England, but is now living in south-east Wales, after spending a significant period in north-west Wales
@@ -12,8 +12,7 @@
 @Comment:	Researcher:	Peredur Davies, Bangor University
 @Coder:	Elen Robert, Bangor University
 @Time Duration:	00:29:49
-@Comment:	Filename: davies17.CHA; Soundfile: davies17.WAV
-@Comment:	Language markers: @1 = Welsh, @2 = English, @0 = Undetermined, @21 = word with first morpheme(s) English, second morpheme(s) Welsh, @12 = word with first morpheme(s) Welsh, second morpheme(s) English
+@Comment:	Language markers: @s:eng = English, @s:cym&eng = Undetermined, @s:eng+cym = word with first morpheme(s) English, second morpheme(s) Welsh, @s:cym+eng = word with first morpheme(s) Welsh, second morpheme(s) English. Untagged words are Welsh except where part of an utterance headed [- eng], in which untagged words are English.
 *GLA:	pan o'n i (y)n dechrau yn Yr_Eglwys_yng_Nghymru # um@s:cym&eng <roedd er@s:cym&eng [=? y]> [/] # roedd (y)na digon o # arian <gan # um@s:cym&eng> [/] # gan y [/] # y dalaith +/ . %snd:"davies17"_0_10228
 %gls:	when be.1S.IMP PRON.1S PRT start.NONFIN in The_Church_In_Wales IM be.3S.IMP IM be.3S.IMP there enough of money with IM with DET DET province
 %eng:	when I started at The Church in Wales, um, the, um...the province had enough money

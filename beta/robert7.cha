@@ -1,11 +1,11 @@
 @Font:	Win95:Arial Unicode MS:-13:0
 @UTF8
 @Begin
-@Languages:	cy, en
+@Languages:	cym, eng
 @Participants:	TWM Twm Adult, CLR Claire Adult, HUW Huw Adult
-@ID:	cy|siarad|TWM|34;|male|||Adult||
-@ID:	cy|siarad|CLR|57;|female|||Adult||
-@ID:	cy|siarad|HUW|66;|male|||Adult||
+@ID:	cym|siarad|TWM|34;|male|||Adult||
+@ID:	cym|siarad|CLR|57;|female|||Adult||
+@ID:	cym|siarad|HUW|66;|male|||Adult||
 @Situation:	informal conversaion in Huw and Claire's kitchen. Huw and Claire are husband and wife, Twm is Huw's son, Claire's stepson
 @Comment:	TWM was brought up in north-west Wales and has lived there all his life
 @Comment:	CLR was brought up in north-west Wales and has lived there all her life
@@ -14,8 +14,7 @@
 @Comment:	Researcher:	Elen Robert, Bangor University
 @Coder:	Elen Robert, Bangor University
 @Time Duration:	00:35:31
-@Comment:	Filename: Robert7.CHA; Soundfile: Robert7.wav
-@Comment:	Language markers: @1 = Welsh, @2 = English, @0 = Undetermined, @21 = word with first morpheme(s) English, second morpheme(s) Welsh, @12 = word with first morpheme(s) Welsh, second morpheme(s) English
+@Comment:	Language markers: @s:eng = English, @s:cym&eng = Undetermined, @s:eng+cym = word with first morpheme(s) English, second morpheme(s) Welsh, @s:cym+eng = word with first morpheme(s) Welsh, second morpheme(s) English. Untagged words are Welsh except where part of an utterance headed [- eng], in which untagged words are English.
 @Comment:	Twm tends to mumble and stutter a lot and can often be difficult to understand
 *CLR:	(y)dy (y)r seisys yn iawn hefyd ? %snd:"robert7"_0_2717
 %gls:	be.3S.PRES DET sizes PRT right also

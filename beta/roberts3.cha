@@ -1,10 +1,10 @@
 @Font:	Win95:Arial Unicode MS:-13:0
 @UTF8
 @Begin
-@Languages:	cy, en
+@Languages:	cym, eng
 @Participants:	MED Medeni Adult, LER Leri Adult
-@ID:	cy|siarad|MED|56;|female|||Adult||
-@ID:	cy|siarad|LER|41;|female|||Adult||
+@ID:	cym|siarad|MED|56;|female|||Adult||
+@ID:	cym|siarad|LER|41;|female|||Adult||
 @Situation:	informal conversation between friends recorded at the University
 @Comment:	MED was brought up in north-west Wales, lived for a number of years in north-east Wales, but has been back in north-west Wales for some time
 @Comment:	LER was brought up in north-west Wales and has lived there all her life
@@ -12,8 +12,7 @@
 @Comment:	Researcher:	Nesta Roberts, Bangor University
 @Coder:	Elen Robert, Bangor University
 @Time Duration:	00:40:08
-@Comment:	Filename: Roberts3.CHA; Soundfile: Roberts3.WAV
-@Comment:	Language markers: @1 = Welsh, @2 = English, @0 = Undetermined, @21 = word with first morpheme(s) English, second morpheme(s) Welsh, @12 = word with first morpheme(s) Welsh, second morpheme(s) English
+@Comment:	Language markers: @s:eng = English, @s:cym&eng = Undetermined, @s:eng+cym = word with first morpheme(s) English, second morpheme(s) Welsh, @s:cym+eng = word with first morpheme(s) Welsh, second morpheme(s) English. Untagged words are Welsh except where part of an utterance headed [- eng], in which untagged words are English.
 *MED:	xx (d)igon o angen ryw # grysau . %snd:"roberts3"_1279_3000
 %gls:	xx enough of need some shirts
 %eng:	[...] enough of a need for some shirts

@@ -1,10 +1,10 @@
 @Font:	Win95:Arial Unicode MS:-13:0
 @UTF8
 @Begin
-@Languages:	cy, en
+@Languages:	cym, eng
 @Participants:	MOS Mostyn Adult, LLE Llewelyn Adult, RES Researcher Adult
-@ID:	cy|siarad|MOS|19;|male|||Adult||
-@ID:	cy|siarad|LLE|22;|male|||Adult||
+@ID:	cym|siarad|MOS|19;|male|||Adult||
+@ID:	cym|siarad|LLE|22;|male|||Adult||
 @Situation:	informal conversation between friends at the university tent at the National Eisteddfod
 @Comment:	MOS was brought up in south-east and south-west Wales, but is now living in north-west Wales
 @Comment:	LLE was brought up in north-east Wales, but is now living in north-west Wales
@@ -12,8 +12,7 @@
 @Comment:	Researcher:	Peredur Davies, University of Wales Bangor
 @Coder:	Elen Robert, University of Wales Bangor
 @Time Duration:	00:18:19
-@Comment:	Filename: Davies9.CHA; Soundfile: Davies9.WAV
-@Comment:	Language markers: @1 = Welsh, @2 = English, @0 = Undetermined, @21 = word with first morpheme(s) English, second morpheme(s) Welsh, @12 = word with first morpheme(s) Welsh, second morpheme(s) English
+@Comment:	Language markers: @s:eng = English, @s:cym&eng = Undetermined, @s:eng+cym = word with first morpheme(s) English, second morpheme(s) Welsh, @s:cym+eng = word with first morpheme(s) Welsh, second morpheme(s) English. Untagged words are Welsh except where part of an utterance headed [- eng], in which untagged words are English.
 @Comment:	much background noise, particularly music being performed at the location of recording. Technical difficulties from approximately 00:13:23 to 00:15:22 due to speakers walking away from radio transmitter. Some parts of recording bleeped out because of consent issues.
 *MOS:	edrych ar gwallt (y)na ! %snd:"davies9"_12_1950
 %gls:	look.2S.IMPER on hair there

@@ -1,10 +1,10 @@
 @UTF8
 @Font:	Win95:Arial Unicode MS:-13:0
 @Begin
-@Languages:	cy, en
+@Languages:	cym, eng
 @Participants:	ALB Alban Adult, HUN Hunydd Adult
-@ID:	cy|siarad|ALB|25;|male|||Adult||
-@ID:	cy|siarad|HUN|25;|female|||Adult||
+@ID:	cym|siarad|ALB|25;|male|||Adult||
+@ID:	cym|siarad|HUN|25;|female|||Adult||
 @Situation:	informal conversation between friends at ALB's rkplace
 @Comment:	ALB was brought up in north-west Wales and has lived there all his life, but currently lives in England for part of the time
 @Comment:	HUN was brought up between north-west Wales and England, has recently moved back to north-west Wales
@@ -12,8 +12,7 @@
 @Comment:	Researcher:	Marika Fusser, Bangor University
 @Coder:	Elen Robert, Bangor University
 @Time Duration:	00:32:30
-@Comment:	Filename: Fusser25.CHA; Soundfile: Fusser25.WAV
-@Comment:	Language markers: @1 = Welsh, @2 = English, @0 = Undetermined, @21 = word with first morpheme(s) English, second morpheme(s) Welsh, @12 = word with first morpheme(s) Welsh, second morpheme(s) English
+@Comment:	Language markers: @s:eng = English, @s:cym&eng = Undetermined, @s:eng+cym = word with first morpheme(s) English, second morpheme(s) Welsh, @s:cym+eng = word with first morpheme(s) Welsh, second morpheme(s) English. Untagged words are Welsh except where part of an utterance headed [- eng], in which untagged words are English.
 @Warning:	Soundfile is mono
 @Comment:	Very difficult to understand either speaker. There is a lot of laughing.
 *ALB:	xxx . %snd:"fusser25"_0_1265

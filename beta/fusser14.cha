@@ -1,11 +1,11 @@
 @Font:	Win95:Arial Unicode MS:-13:0
 @UTF8
 @Begin
-@Languages:	cy, en
+@Languages:	cym, eng
 @Participants:	BEL Beli Adult, AWE Awel Adult, CYW Cywryd Child
-@ID:	cy|siarad|BEL|43;|male|||Adult||
-@ID:	cy|siarad|AWE|47;|female|||Adult||
-@ID:	cy|siarad|CYW|02;|male|||Child||
+@ID:	cym|siarad|BEL|43;|male|||Adult||
+@ID:	cym|siarad|AWE|47;|female|||Adult||
+@ID:	cym|siarad|CYW|02;|male|||Child||
 @Situation:	informal conversation at the speakers' house; BEL and AWE are partners and CYW is their child
 @Comment:	BEL was brought up in south-east Wales, where he has spent most of his life, but moved to north-west Wales almost ten years ago, where he is still living
 @Comment:	AWE was brought up in north-west Wales, where she has lived all her life save a short period in south-west Wales; she is now living in north-west Wales
@@ -14,8 +14,7 @@
 @Comment:	Researcher:	Marika Fusser, Bangor University
 @Coder:	Elen Robert, Bangor University
 @Time Duration:	00:26:43
-@Comment:	Filename: Fusser14.CHA; Soundfile: fusser14.WAV
-@Comment:	Language markers: @1 = Welsh, @2 = English, @0 = Undetermined, @21 = word with first morpheme(s) English, second morpheme(s) Welsh, @12 = word with first morpheme(s) Welsh, second morpheme(s) English, @9 = Breton
+@Comment:	Language markers: @s:eng = English, @s:cym&eng = Undetermined, @s:eng+cym = word with first morpheme(s) English, second morpheme(s) Welsh, @s:cym+eng = word with first morpheme(s) Welsh, second morpheme(s) English. Untagged words are Welsh except where part of an utterance headed [- eng], in which untagged words are English.
 @Warning:	Soundfile is mono
 @Comment:	Cywryd's speech is often difficult to understand. It has been transcribed where possible. It is recommended that Cywryd's speech is not used in analysis. If researchers are interested in his speech, it is recommended that his transcribed speech be reconsidered
 @Comment:	Cywryd doesn't seem to have learnt to pronounced [r] yet and uses [d] in its place. These cases have, however, been transcribed to represent [r] (e.g. [bada] has been transcribed as "bara" (bread)).

@@ -1,10 +1,10 @@
 @Font:	Win95:Arial Unicode MS:-13:0
 @UTF8
 @Begin
-@Languages:	cy, en
+@Languages:	cym, eng
 @Participants:	LUN Luned Teenager, BTI Beti Teenager
-@ID:	cy|siarad|LUN|16;|female|||Teenager||
-@ID:	cy|siarad|BTI|15;|female|||Teenager||
+@ID:	cym|siarad|LUN|16;|female|||Teenager||
+@ID:	cym|siarad|BTI|15;|female|||Teenager||
 @Situation:	Informal conversation between friends recorded at the University
 @Comment:	LUN was brought up in north-west Wales, where she has lived all her life
 @Comment:	BTI was brought up in mid Wales, but has been living in north-west Wales for the past few years
@@ -12,8 +12,7 @@
 @Comment:	Researcher: Elen Robert, Bangor University
 @Coder:	Elen Robert, Bangor University
 @Time Duration:	00:32:06
-@Comment:	Filename: Robert3.CHA; Soundfile: Robert3.WAV
-@Comment:	Language markers: @1 = Welsh, @2 = English, @0 = Undetermined, @21 = word with first morpheme(s) English, second morpheme(s) Welsh, @12 = word with first morpheme(s) Welsh, second morpheme(s) English
+@Comment:	Language markers: @s:eng = English, @s:cym&eng = Undetermined, @s:eng+cym = word with first morpheme(s) English, second morpheme(s) Welsh, @s:cym+eng = word with first morpheme(s) Welsh, second morpheme(s) English. Untagged words are Welsh except where part of an utterance headed [- eng], in which untagged words are English.
 *LUN:	&n wna i probably@s:eng gysgu (y)n tŷ Beth@s:cym&eng nos Sadwrn . %snd:"robert3"_37_2868
 %gls:	do.1S.NONPAST PRON.1S probably sleep.NONFIN in house Beth night Saturday
 %eng:	I'll probably sleep at Beth's house on Saturday night

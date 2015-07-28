@@ -1,10 +1,10 @@
 @Font:	Win95:Arial:-21:0
 @UTF8
 @Begin
-@Languages:	cy, en
+@Languages:	cym, eng
 @Participants:	ALY Alys Adult, BEC Beca Adult
-@ID:	cy|siarad|ALY|32;|female|||Adult||
-@ID:	cy|siarad|BEC|31;|female|||Adult||
+@ID:	cym|siarad|ALY|32;|female|||Adult||
+@ID:	cym|siarad|BEC|31;|female|||Adult||
 @Situation:	informal conversation between friends at BEC's house
 @Comment:	ALY was brought up in south-west Wales but has been living in north-west Wales for over ten years
 @Comment:	BEC was brought up in north-west Wales, where she is living now, after spending some years abroad and in England
@@ -12,8 +12,7 @@
 @Comment:	Researcher:	Marika Fusser, Bangor University
 @Coder:	Elen Robert, Bangor University
 @Time Duration:	00:32:36
-@Comment:	Filename: FUSSER3.CHA; Soundfile: FUSSER3.WAV
-@Comment:	Language markers: @1 = Welsh, @2 = English, @0 = Undetermined, @21 = word with first morpheme(s) English, second morpheme(s) Welsh, @12 = word with first morpheme(s) Welsh, second morpheme(s) English
+@Comment:	Language markers: @s:eng = English, @s:cym&eng = Undetermined, @s:eng+cym = word with first morpheme(s) English, second morpheme(s) Welsh, @s:cym+eng = word with first morpheme(s) Welsh, second morpheme(s) English. Untagged words are Welsh except where part of an utterance headed [- eng], in which untagged words are English.
 @Comment:	NB: Alternative versions of this transcription and the linked recording exist, including the first 5 minutes of the recorded conversation (which has routinely been removed from all recordings in the corpus, but this conversation was the first to be transcribed, and was transcribed in full before this convention was decided). These full versions are available on request.
 @Warning:	Linked soundfile begins with five minutes of silence. See comment above.
 *BEC:	wedyn fuon ni fan (y)no # bore (y)ma . %snd:"fusser3"_299893_301832

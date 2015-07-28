@@ -1,10 +1,10 @@
 @UTF8
 @Begin
-@Languages:	cy, en
+@Languages:	cym, eng
 @Participants:	ENA Ena Adult, GWE Gwenith Adult, DYF Dyfed Adult, RES Researcher Adult
-@ID:	cy|siarad|ENA|42;|female|||Adult||
-@ID:	cy|siarad|GWE|36;|female|||Adult||
-@ID:	cy|siarad|DYF|29;|male|||Adult||
+@ID:	cym|siarad|ENA|42;|female|||Adult||
+@ID:	cym|siarad|GWE|36;|female|||Adult||
+@ID:	cym|siarad|DYF|29;|male|||Adult||
 @Situation:	Informal conversation (with some semi-formal work-related talk) at an office between colleagues, and a friend of theirs (DYF) who arrives mid-way through.
 @Comment:	ENA was born and lives in north-west Wales, but also lived for a time in north-east and mid-west Wales
 @Comment:	GWE was born in south-west Wales and brought up both in south-west and north-west Wales. She now lives in north-west Wales.
@@ -13,8 +13,7 @@
 @Coder:	Jonathan Stammers and Peredur Davies, Bangor University
 @Comment:	Researchers: Marika Fusser and Jonathan Stammers, Bangor University
 @Time Duration:	00:35:36
-@Comment:	Filename: fusser5.CHA; Soundfile: fusser5.WAV
-@Comment:	Language markers: @1 = Welsh, @2 = English, @0 = Undetermined, @21 = word with first morpheme(s) English, second morpheme(s) Welsh, @12 = word with first morpheme(s) Welsh, second morpheme(s) English
+@Comment:	Language markers: @s:eng = English, @s:cym&eng = Undetermined, @s:eng+cym = word with first morpheme(s) English, second morpheme(s) Welsh, @s:cym+eng = word with first morpheme(s) Welsh, second morpheme(s) English. Untagged words are Welsh except where part of an utterance headed [- eng], in which untagged words are English.
 *ENA:	just@s:cym&eng isio gweld be oedd yn mynd i ddigwydd yn y &sg peth (y)na (y)n Hong_Kong@s:cym&eng . %snd:"fusser5"_35_3959
 %gls:	just want see.NONFIN what be.3S.IMP PRT go.NONFIN to happen.NONFIN in DET thing there in Hong_Kong
 %eng:	just wanting to see what was going to happen in that thing in Hong Kong.

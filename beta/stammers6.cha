@@ -1,11 +1,11 @@
 @Font:	Win95:Arial Unicode MS:-13:0
 @UTF8
 @Begin
-@Languages:	cy, en
+@Languages:	cym, eng
 @Participants:	IFA Ifan Adult, HEU Heulwen Adult, BLW Blodeuwedd Adult
-@ID:	cy|siarad|IFA|48;|male|||Adult||
-@ID:	cy|siarad|HEU|49;|female|||Adult||
-@ID:	cy|siarad|BLW|18;|female|||Adult||
+@ID:	cym|siarad|IFA|48;|male|||Adult||
+@ID:	cym|siarad|HEU|49;|female|||Adult||
+@ID:	cym|siarad|BLW|18;|female|||Adult||
 @Situation:	Informal family chat between a husband, wife and their daughter at their home
 @Comment:	HEU was born in nor-west Wales and has lived there all her life
 @Comment:	IFA was born in north-west Wales and has lived there all his life except for a significant period in England some years ago
@@ -14,8 +14,7 @@
 @Coder:	Jonathan Stammers, Bangor University
 @Comment:	Researcher: Jonathan Stammers, Bangor University
 @Time Duration:	00:44:59
-@Comment:	Filename: Stammers6.CHA; Soundfile: Stammers6.WAV
-@Comment:	Language markers: @1 = Welsh, @2 = English, @0 = Undetermined, @21 = word with first morpheme(s) English, second morpheme(s) Welsh, @12 = word with first morpheme(s) Welsh, second morpheme(s) English.
+@Comment:	Language markers: @s:eng = English, @s:cym&eng = Undetermined, @s:eng+cym = word with first morpheme(s) English, second morpheme(s) Welsh, @s:cym+eng = word with first morpheme(s) Welsh, second morpheme(s) English. Untagged words are Welsh except where part of an utterance headed [- eng], in which untagged words are English.
 @Comment:	BLW ("Blodeuwedd") often addressed by short forms of her name, represented here as "Blod".
 @Comment:	IFA stutters a lot. All of his stuttering may not have been precisely transcribed.
 *HEU:	lle fuest ti heddiw ta boy@s:cym&eng ? %snd:"stammers6"_3077_4203

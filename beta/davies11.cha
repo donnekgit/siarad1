@@ -1,11 +1,11 @@
 @Font:	Win95:Arial Unicode MS:-13:0
 @UTF8
 @Begin
-@Languages:	cy, en
+@Languages:	cym, eng
 @Participants:	DER Derwena Adult, RAC Rachel Adult, OWA Owain Adult
-@ID:	cy|siarad|DER|72;|female|||Adult||
-@ID:	cy|siarad|RAC|52;|female|||Adult||
-@ID:	cy|siarad|OWA|67;|male|||Adult||
+@ID:	cym|siarad|DER|72;|female|||Adult||
+@ID:	cym|siarad|RAC|52;|female|||Adult||
+@ID:	cym|siarad|OWA|67;|male|||Adult||
 @Situation:	informal conversation after drama rehearsal at village hall, between fellow actors
 @Comment:	DER was brought up in north-west Wales and has lived there ever since
 @Comment:	RAC was brought up in south-west Wales, but is now living in north-west Wales, after spending a significant period in England
@@ -14,8 +14,7 @@
 @Comment:	Researcher:	Peredur Davies, Bangor University
 @Coder:	Elen Robert, Bangor University
 @Time Duration:	00:33:56
-@Comment:	Filename: Davies11.CHA; Soundfile: Davies11.WAV
-@Comment:	Language markers: @1 = Welsh, @2 = English, @0 = Undetermined, @21 = word with first morpheme(s) English, second morpheme(s) Welsh, @12 = word with first morpheme(s) Welsh, second morpheme(s) English
+@Comment:	Language markers: @s:eng = English, @s:cym&eng = Undetermined, @s:eng+cym = word with first morpheme(s) English, second morpheme(s) Welsh, @s:cym+eng = word with first morpheme(s) Welsh, second morpheme(s) English. Untagged words are Welsh except where part of an utterance headed [- eng], in which untagged words are English.
 @Comment:	Derwena and Owain share the right track
 *OWA:	ond er@s:cym&eng na fydda i byth yn clywed neb yn sôn am y brawd . %snd:"davies11"_58_2984
 %gls:	but IM no be.1S.FUT PRON.1S never PRT hear.NONFIN nobody PRT mention.NONFIN about DET brother

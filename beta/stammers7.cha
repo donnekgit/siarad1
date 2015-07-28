@@ -1,10 +1,10 @@
 @Font:	Win95:Arial Unicode MS:-13:0
 @UTF8
 @Begin
-@Languages:	cy, en
+@Languages:	cym, eng
 @Participants:	GWN Gwyn Adult, ROY Roy Adult
-@ID:	cy|siarad|GWN|25;|male|||Adult||
-@ID:	cy|siarad|ROY|31;|male|||Adult||
+@ID:	cym|siarad|GWN|25;|male|||Adult||
+@ID:	cym|siarad|ROY|31;|male|||Adult||
 @Situation:	informal conversation one evening at ROY's house. GWN and ROY are friends who know each other through church and work.
 @Comment:	GWN was brought up and lives in north-west Wales.
 @Comment:	ROY was brought up in the USA, but has lived in North-west Wales for the past 6 years.
@@ -12,8 +12,7 @@
 @Comment:	Researcher:	Jonathan Stammers, Bangor University
 @Coder:	Jonathan Stammers, Bangor University
 @Time Duration:	00:34:06
-@Comment:	Filename: Stammers7.CHA; Soundfile: Stammers7.WAV
-@Comment:	Language markers: @1 = Welsh, @2 = English, @0 = Undetermined, @21 = word with first morpheme(s) English, second morpheme(s) Welsh, @12 = word with first morpheme(s) Welsh, second morpheme(s) English
+@Comment:	Language markers: @s:eng = English, @s:cym&eng = Undetermined, @s:eng+cym = word with first morpheme(s) English, second morpheme(s) Welsh, @s:cym+eng = word with first morpheme(s) Welsh, second morpheme(s) English. Untagged words are Welsh except where part of an utterance headed [- eng], in which untagged words are English.
 @Warning:	Some background noise from strong winds and passing traffic.
 *ROY:	dw i fel arfer yn wneud ryw # gwasanaeth o hanner awr # neu pedwar_deg munud . %snd:"stammers7"_0_4888
 %gls:	be.1S.PRES PRON.1S like habit PRT do.NONFIN some service of half hour or forty minute

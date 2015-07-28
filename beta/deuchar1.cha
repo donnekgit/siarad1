@@ -1,10 +1,10 @@
 @Font:	Win95:Arial Unicode MS:-13:0
 @UTF8
 @Begin
-@Languages:	cy, en
+@Languages:	cym, eng
 @Participants:	MYF Myfanwy Adult, SER Seren Adult
-@ID:	cy|siarad|MYF|65;|female|||Adult||
-@ID:	cy|siarad|SER|64;|female|||Adult||
+@ID:	cym|siarad|MYF|65;|female|||Adult||
+@ID:	cym|siarad|SER|64;|female|||Adult||
 @Situation:	informal conversation at Myfanwy's house between friends
 @Comment:	MYF was brought up between England and north-west Wales, but has been living in north-west Wales now for many years
 @Comment:	SER was brought up in north-east Wales, but has been living in north-west Wales for many years
@@ -12,8 +12,7 @@
 @Comment:	Researcher:	Margaret Deuchar, Bangor University
 @Coder:	Elen Robert, Bangor University
 @Time Duration:	00:29:49
-@Comment:	Filename: Deuchar1.CHA; Soundfile: Deuchar1.WAV
-@Comment:	Language markers: @1 = Welsh, @2 = English, @0 = Undetermined, @21 = word with first morpheme(s) English, second morpheme(s) Welsh, @12 = word with first morpheme(s) Welsh, second morpheme(s) English
+@Comment:	Language markers: @s:eng = English, @s:cym&eng = Undetermined, @s:eng+cym = word with first morpheme(s) English, second morpheme(s) Welsh, @s:cym+eng = word with first morpheme(s) Welsh, second morpheme(s) English. Untagged words are Welsh except where part of an utterance headed [- eng], in which untagged words are English.
 @Warning:	Soundfile is mono
 @Comment:	Sometimes difficult to distinguish between the voices
 *MYF:	um@s:cym&eng # oedd [/] oedd o wedi setio pethau fyny i ni # er@s:cym&eng copïo . %snd:"deuchar1"_23_6293

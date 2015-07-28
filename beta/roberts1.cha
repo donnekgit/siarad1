@@ -1,10 +1,10 @@
 @Font:	Win95:Arial Unicode MS:-13:0
 @UTF8
 @Begin
-@Languages:	cy, en
+@Languages:	cym, eng
 @Participants:	HOW Howyn Adult, HEF Hefeydd Adult
-@ID:	cy|siarad|HOW|33;|male|||Adult||
-@ID:	cy|siarad|HEF|25;|male|||Adult||
+@ID:	cym|siarad|HOW|33;|male|||Adult||
+@ID:	cym|siarad|HEF|25;|male|||Adult||
 @Situation:	informal conversation between colleagues recorded at the University
 @Comment:	HOW was brought up in England, but is now living in north-west Wales, after spending some years in south-west Wales and abroad
 @Comment:	HEF was brought up in north-west Wales where he is still living
@@ -12,8 +12,7 @@
 @Comment:	Researcher:	Nesta Roberts, Bangor University
 @Coder:	Elen Robert, Bangor University
 @Time Duration:	00:35:22
-@Comment:	Filename: Roberts1.CHA; Soundfile: Roberts1.WAV
-@Comment:	Language markers: @1 = Welsh, @2 = English, @0 = Undetermined, @21 = word with first morpheme(s) English, second morpheme(s) Welsh, @12 = word with first morpheme(s) Welsh, second morpheme(s) English, @6 = German
+@Comment:	Language markers: @s:eng = English, @s:cym&eng = Undetermined, @s:eng+cym = word with first morpheme(s) English, second morpheme(s) Welsh, @s:cym+eng = word with first morpheme(s) Welsh, second morpheme(s) English. Untagged words are Welsh except where part of an utterance headed [- eng], in which untagged words are English.
 @Warning:	left track cuts out at 00:01:09. Hefeydd's speech is picked up on the right track, but is sometimes difficult to understand, especially where their speech overlaps. At 00:06:52 the right track also cuts out until 00:07:21 when the researcher comes in to fix the equipment. She leaves at 00:07:47 and the transcription resumes from here. Left track cuts out again at 00:30:12
 *HOW:	dangos nhw er@s:cym&eng yn y <cinema@s:cym&eng i> [=? sinemâu] +.. . %snd:"roberts1"_0_2670
 %gls:	show.NONFIN PRON.3PL IM in DET cinema to

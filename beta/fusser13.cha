@@ -1,11 +1,11 @@
 @UTF8
 @Font:	Win95:Arial Unicode MS:-13:0
 @Begin
-@Languages:	cy, en
+@Languages:	cym, eng
 @Participants:	ANN Ann Adult, CRI Crisiant Adult, BEI Beinon Adult
-@ID:	cy|siarad|ANN|61;|female|||Adult||
-@ID:	cy|siarad|CRI|60;|female|||Adult||
-@ID:	cy|siarad|BEI|65;|male|||Adult||
+@ID:	cym|siarad|ANN|61;|female|||Adult||
+@ID:	cym|siarad|CRI|60;|female|||Adult||
+@ID:	cym|siarad|BEI|65;|male|||Adult||
 @Situation:	informal conversation at Ann and Beinon's house; Ann and Beinon are married, and Crisiant is a friend
 @Comment:	Ann was brought up in north-west Wales and has lived there all her life except for a few years in north-east Wales many years ago
 @Comment:	Crisiant was born in north-west Wales, has spent significant periods in north-east Wales and south-east Wales but has been back in the north-west for many years
@@ -14,8 +14,7 @@
 @Comment:	Researcher:	Marika Fusser, Bangor University
 @Coder:	Elen Robert, Bangor University
 @Time Duration:	00:55:20
-@Comment:	Filename: Fusser13.CHA; Soundfile: Fusser13.wav
-@Comment:	Language markers: @1 = Welsh, @2 = English, @0 = Undetermined, @21 = word with first morpheme(s) English, second morpheme(s) Welsh, @12 = word with first morpheme(s) Welsh, second morpheme(s) English
+@Comment:	Language markers: @s:eng = English, @s:cym&eng = Undetermined, @s:eng+cym = word with first morpheme(s) English, second morpheme(s) Welsh, @s:cym+eng = word with first morpheme(s) Welsh, second morpheme(s) English. Untagged words are Welsh except where part of an utterance headed [- eng], in which untagged words are English.
 @Warning:	Soundfile is mono
 @Comment:	Beinon speaks very quietly and/or isn't picked up by the mic very well
 *ANN:	a (we)dyn um@s:cym&eng # mae nhw mynd ar y degfed . %snd:"fusser13"_0_3843

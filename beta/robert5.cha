@@ -1,10 +1,10 @@
 @Font:	Win95:Arial Unicode MS:-13:0
 @UTF8
 @Begin
-@Languages:	cy, en, zh
+@Languages:	cym, eng, zh
 @Participants:	LIN Lina Adult, ELI Elsi Adult
-@ID:	cy, en, zh|siarad|LIN|59;|female|||Adult||
-@ID:	cy, en, zh|siarad|ELI|89;|female|||Adult||
+@ID:	cym, eng, zh|siarad|LIN|59;|female|||Adult||
+@ID:	cym, eng, zh|siarad|ELI|89;|female|||Adult||
 @Situation:	informal conversation between mother and daughter in ELI's kitchen
 @Comment:	LIN was brought up in north-west Wales but has spent most of her adulthood living in south-east Wales
 @Comment:	ELI was brought up in north-east Wales, but has lived in north-west Wales for more than 50 years
@@ -12,7 +12,6 @@
 @Comment:	Researcher:Elen Robert, Bangor University
 @Coder:	Elen Robert, Bangor University
 @Time Duration:	00:41:29
-@Comment:	Filename: ROBERT5.CHA; Soundfile: ROBERT5.WAV
 @Comment:	Most of the dialog is in Welsh (cy), @s:eng is English, @s:cym&eng is used for undetermined. English words with Welsh suffixes are marked as @s:eng+cym.
 *LIN:	hmm@s:cym&eng (.) yeah (dy)na ni . %snd:"robert5"_58_3425
 %gls:	IM yeah there PRON.1PL

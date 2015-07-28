@@ -1,10 +1,10 @@
 @UTF8
 @Font:	Win95:Arial Unicode MS:-13:0
 @Begin
-@Languages:	cy, en
+@Languages:	cym, eng
 @Participants:	PEN Penri Adult, CRL Carol Adult
-@ID:	cy|siarad|PEN|35;|male|||Adult||
-@ID:	cy|siarad|CRL|23;|female|||Adult||
+@ID:	cym|siarad|PEN|35;|male|||Adult||
+@ID:	cym|siarad|CRL|23;|female|||Adult||
 @Situation:	informal conversation between friends recorded at the University
 @Comment:	PRN was brought up in north-west Wales and has lived there for most of his life
 @Comment:	CRL was brought up in south-east Wales, but has been living in north-west Wales for a number of years
@@ -12,8 +12,7 @@
 @Comment:	Researcher:	Elen Robert, Bangor University
 @Coder:	Elen Robert, Bangor University
 @Time Duration:	00:30:32
-@Comment:	Filename: Robert9.CHA; Soundfile: Robert9.WAV
-@Comment:	Language markers: @1 = Welsh, @2 = English, @0 = Undetermined, @21 = word with first morpheme(s) English, second morpheme(s) Welsh, @12 = word with first morpheme(s) Welsh, second morpheme(s) English
+@Comment:	Language markers: @s:eng = English, @s:cym&eng = Undetermined, @s:eng+cym = word with first morpheme(s) English, second morpheme(s) Welsh, @s:cym+eng = word with first morpheme(s) Welsh, second morpheme(s) English. Untagged words are Welsh except where part of an utterance headed [- eng], in which untagged words are English.
 @Comment:	Deciding where clause boundaries lie can be particularly difficult in Carol's case
 *CRL:	beth oedd y tywydd fel (y)na ? %snd:"robert9"_0_1231
 %gls:	what be.3S.IMP DET weather like there

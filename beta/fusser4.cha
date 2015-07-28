@@ -1,10 +1,10 @@
 @Font:	Win95:Arial Unicode MS:-13:0
 @UTF8
 @Begin
-@Languages:	cy, en
+@Languages:	cym, eng
 @Participants:	ADW Adwen Adult, BAE Baeddan Adult
-@ID:	cy|siarad|ADW|73;|female|||Adult||
-@ID:	cy|siarad|BAE|54;|male|||Adult||
+@ID:	cym|siarad|ADW|73;|female|||Adult||
+@ID:	cym|siarad|BAE|54;|male|||Adult||
 @Situation:	informal conversation between colleagues at BAE's office
 @Comment:	ADW was brought up in south-west Wales but has been living in north-west Wales for many years, after spending a significant period in England
 @Comment:	BAE was brought up in north-west Wales, spent significant periods in north-east Wales and in England, but moved back to north-west Wales some years previously
@@ -12,8 +12,7 @@
 @Comment:	Researcher:	Marika Fusser, Bangor University
 @Coder:	Marika Fusser and Jonathan Stammers, Bangor University
 @Time Duration:	00:31:46
-@Comment:	Filename: FUSSER4.CHA; Soundfile: FUSSER4.WAV
-@Comment:	Language markers: @1 = Welsh, @2 = English, @0 = Undetermined, @21 = word with first morpheme(s) English, second morpheme(s) Welsh, @12 = word with first morpheme(s) Welsh, second morpheme(s) English
+@Comment:	Language markers: @s:eng = English, @s:cym&eng = Undetermined, @s:eng+cym = word with first morpheme(s) English, second morpheme(s) Welsh, @s:cym+eng = word with first morpheme(s) Welsh, second morpheme(s) English. Untagged words are Welsh except where part of an utterance headed [- eng], in which untagged words are English.
 @Comment:	The recording begins as the conversation is resumed after an interruption by the telephone.
 *ADW:	ie wedyn mi wna i ddeud wrth Cadi@s:cym&eng # ryw ddydd Llun +"/ . %snd:"fusser4"_134_3640
 %gls:	yes then PRT do.1S.NONPAST PRON.1S say.NONFIN to Cadi some Monday

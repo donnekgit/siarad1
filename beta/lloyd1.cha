@@ -1,12 +1,12 @@
 @Font:	Win95:Arial:-21:0
 @UTF8
 @Begin
-@Languages:	cy, en
+@Languages:	cym, eng
 @Participants:	JEA Jean Adult, GRG George Adult, SAN Sandra Adult, ART Arthur Adult, RES Researcher Adult
-@ID:	cy|siarad|JEA|53;|female|||Adult||
-@ID:	cy|siarad|GRG|53;|male|||Adult||
-@ID:	cy|siarad|SAN|22;|female|||Adult||
-@ID:	cy|siarad|ART|26;|male|||Adult||
+@ID:	cym|siarad|JEA|53;|female|||Adult||
+@ID:	cym|siarad|GRG|53;|male|||Adult||
+@ID:	cym|siarad|SAN|22;|female|||Adult||
+@ID:	cym|siarad|ART|26;|male|||Adult||
 @Situation:	Familial conversation at speakers' home. George and Jean are husband and wife and Sandra and Arthur are their daughter and son respectively
 @Comment:	JEA was brought up in north-west Wales and has lived there all her life
 @Comment:	GRG was brought up in England but moved to north-west Wales as a teenager, where he has lived since
@@ -16,8 +16,7 @@
 @Comment:	Researcher:	Siân Wynn Lloyd, Bangor University
 @Coder:	Siân Wynn Lloyd, Bangor University
 @Time Duration:	00:34:56
-@Comment:	Filename:	Lloyd1.CHA; Soundfile:	Lloyd1.WAV
-@Comment:	Language markers: @1 = Welsh, @2 = English, @0 = Undetermined, @21 = word with first morpheme(s) English, second morpheme(s) Welsh, @12 = word with first morpheme(s) Welsh, second morpheme(s) English
+@Comment:	Language markers: @s:eng = English, @s:cym&eng = Undetermined, @s:eng+cym = word with first morpheme(s) English, second morpheme(s) Welsh, @s:cym+eng = word with first morpheme(s) Welsh, second morpheme(s) English. Untagged words are Welsh except where part of an utterance headed [- eng], in which untagged words are English.
 *ART:	eh@s:cym&eng ? %snd:"lloyd1"_0_1068
 %gls:	IM
 %eng:	eh

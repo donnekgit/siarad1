@@ -1,10 +1,10 @@
 @Font:	Win95:Arial Unicode MS:-13:0
 @UTF8
 @Begin
-@Languages:	cy, en
+@Languages:	cym, eng
 @Participants:	CEI Ceiriog Adult, DEW Dewi Adult,  RES Researcher Adult
-@ID:	cy|siarad|CEI|17;|male|||Teenager||
-@ID:	cy|siarad|DEW|45;|male|||Adult||
+@ID:	cym|siarad|CEI|17;|male|||Teenager||
+@ID:	cym|siarad|DEW|45;|male|||Adult||
 @Situation:	informal conversation at the Anglesey show between father and son
 @Comment:	CEI was brought up in north-west Wales and has lived there all his life
 @Comment:	DEW was brought up in north-west Wales and has lived there all his life
@@ -12,8 +12,7 @@
 @Comment:	Researcher:	Gary Smith, Bangor University
 @Coder:	Elen Robert, Bangor University
 @Time Duration:	00:24:30
-@Comment:	Filename: Smith1.CHA; Soundfile: Smith1.WAV
-@Comment:	Language markers: @1 = Welsh, @2 = English, @0 = Undetermined, @21 = word with first morpheme(s) English, second morpheme(s) Welsh, @12 = word with first morpheme(s) Welsh, second morpheme(s) English
+@Comment:	Language markers: @s:eng = English, @s:cym&eng = Undetermined, @s:eng+cym = word with first morpheme(s) English, second morpheme(s) Welsh, @s:cym+eng = word with first morpheme(s) Welsh, second morpheme(s) English. Untagged words are Welsh except where part of an utterance headed [- eng], in which untagged words are English.
 @Comment:	a lot of background noise and some interference from the recording equipment. Some parts have been bleeped out for consent reasons
 *CEI:	dw i (ddi)m isio paned . %snd:"smith1"_0_1184
 %gls:	be.1S.PRES PRON.1S NEG want cuppa

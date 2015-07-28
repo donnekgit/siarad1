@@ -1,9 +1,9 @@
 @UTF8
 @Begin
-@Languages:	cy, en
+@Languages:	cym, eng
 @Participants:	REG Reginald Adult, FLO Florence Adult
-@ID:	cy|siarad|REG|29;|male|||Adult||
-@ID:	cy|siarad|FLO|25;|female|||Adult||
+@ID:	cym|siarad|REG|29;|male|||Adult||
+@ID:	cym|siarad|FLO|25;|female|||Adult||
 @Situation:	Informal conversation at REG's home between two fiancés
 @Comment:	REG was brought up in south-west Wales but has been living in south-east Wales for some years
 @Comment:	FLO was brought up in south-west Wales but has been living in south-east Wales for some years
@@ -11,8 +11,7 @@
 @Comment:	Researcher: Elen Robert, Bangor University
 @Coder:	Elen Robert, Bangor University
 @Time Duration:	00:33:45
-@Comment:	Filename: Robert1.CHA; Soundfile: Robert1.WAV
-@Comment:	Language markers: @1 = Welsh, @2 = English, @0 = Undetermined, @21 = word with first morpheme(s) English, second morpheme(s) Welsh, @12 = word with first morpheme(s) Welsh, second morpheme(s) English
+@Comment:	Language markers: @s:eng = English, @s:cym&eng = Undetermined, @s:eng+cym = word with first morpheme(s) English, second morpheme(s) Welsh, @s:cym+eng = word with first morpheme(s) Welsh, second morpheme(s) English. Untagged words are Welsh except where part of an utterance headed [- eng], in which untagged words are English.
 @Warning:	Soundfile is mono
 *FLO:	&waθa anrhegion . %snd:"robert1"_31_3222
 %gls:	presents

@@ -1,10 +1,10 @@
 @Font:	Win95:Arial Unicode MS:-13:0
 @UTF8
 @Begin
-@Languages:	cy, en
+@Languages:	cym, eng
 @Participants:	MEL Meleri Adult, LON Lona Adult
-@ID:	cy|siarad|MEL|28;|female|||Adult||
-@ID:	cy|siarad|LON|25;|female|||Adult||
+@ID:	cym|siarad|MEL|28;|female|||Adult||
+@ID:	cym|siarad|LON|25;|female|||Adult||
 @Situation:	informal conversation between work colleagues recorded at the University
 @Comment:	MEL was born in south-east Wales where she lived during early childhood before moving to north Wales, where she has since lived most of her life (apart from a couple of years abroad)
 @Comment:	LON was brought up in north-west Wales and had lived there all her life
@@ -12,8 +12,7 @@
 @Comment:	Researcher:	Marika Fusser, Bangor Univeresity
 @Coder:	Elen Robert, Bangor University
 @Time Duration:	00:34:37
-@Comment:	Filename: Fusser30.CHA; Soundfile: fusser30.WAV
-@Comment:	Language markers: @1 = Welsh, @2 = English, @0 = Undetermined, @21 = word with first morpheme(s) English, second morpheme(s) Welsh, @12 = word with first morpheme(s) Welsh, second morpheme(s) English
+@Comment:	Language markers: @s:eng = English, @s:cym&eng = Undetermined, @s:eng+cym = word with first morpheme(s) English, second morpheme(s) Welsh, @s:cym+eng = word with first morpheme(s) Welsh, second morpheme(s) English. Untagged words are Welsh except where part of an utterance headed [- eng], in which untagged words are English.
 *MEL:	ond [?] dyna pam o'n isio siarad efo hi (y)n gynta i weld pa mor hanfodol # ydy (y)r peth . %snd:"fusser30"_139_4609
 %gls:	but there why be.1S.IMP want speak.NONFIN with PRON.3SM PRT first to see.NONFIN which so essential be.3S.PRES DET thing
 %eng:	but that's why I wanted to speak to her first, to see how essential it is

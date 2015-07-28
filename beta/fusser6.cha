@@ -1,10 +1,10 @@
 @Font:	Win95:Arial Unicode MS:-13:0
 @UTF8
 @Begin
-@Languages:	cy, en
+@Languages:	cym, eng
 @Participants:	ANT Antonia Adult, AMR Amranwen Adult
-@ID:	cy|siarad|ANT|52;|female|||Adult||
-@ID:	cy|siarad|AMR|36;|female|||Adult||
+@ID:	cym|siarad|ANT|52;|female|||Adult||
+@ID:	cym|siarad|AMR|36;|female|||Adult||
 @Situation:	Informal conversation in a North Wales office between two work colleagues.
 @Comment:	ANT was brought up in south-west Wales and now lives in north-west Wales.
 @Comment:	AMR was brought up in north-west Wales and has lived there all her life, apart from four years living in south England.
@@ -12,8 +12,7 @@
 @Comment:	Researcher: Marika Fusser, Bangor University
 @Coder:	Peredur Davies, Bangor University
 @Comment:	Time duration: 00:20:31
-@Comment:	Filename: fusser6.cha; Soundfile: fusser6.wav
-@Comment:	Language markers: @1 = Welsh, @2 = English, @0 = Undetermined, @21 = word with first morpheme(s) English, second morpheme(s) Welsh, @12 = word with first morpheme(s) Welsh, second morpheme(s) English.
+@Comment:	Language markers: @s:eng = English, @s:cym&eng = Undetermined, @s:eng+cym = word with first morpheme(s) English, second morpheme(s) Welsh, @s:cym+eng = word with first morpheme(s) Welsh, second morpheme(s) English. Untagged words are Welsh except where part of an utterance headed [- eng], in which untagged words are English.
 @Warning:	Soundfile is mono
 *ANT:	ideal@s:cym&eng . %snd:"fusser6"_406_1591
 *AMR:	ia ond [?] mae sure@s:cym&eng ti (ddi)m yn medru roi hwnna yn y system@s:cym&eng though@s:eng nag wyt . %snd:"fusser6"_1416_3796
