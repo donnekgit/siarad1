@@ -2,11 +2,11 @@
 @Begin
 @Languages:	cym, eng, zh
 @Participants:	GOR Gordon Adult, STN Stanley Adult, EML Emlyn Adult, CLV Clive Adult, INT Ianto Adult
-@ID:	cym, eng, zh|siarad|GOR|81;|male|||Adult||
-@ID:	cym, eng, zh|siarad|STN|86;|male|||Adult||
-@ID:	cym, eng, zh|siarad|EML|79;|male|||Adult||
-@ID:	cym, eng, zh|siarad|CLV|77;|male|||Adult||
-@ID:	cym, eng, zh|siarad|INT|82;|male|||Adult||
+@ID:	cym, eng, eng, zh|siarad|GOR|81;|male|||Adult||
+@ID:	cym, eng, eng, zh|siarad|STN|86;|male|||Adult||
+@ID:	cym, eng, eng, zh|siarad|EML|79;|male|||Adult||
+@ID:	cym, eng, eng, zh|siarad|CLV|77;|male|||Adult||
+@ID:	cym, eng, eng, zh|siarad|INT|82;|male|||Adult||
 @Situation:	chat between five friends at a residential home, some of whom are residents, some day visitors
 @Comment:	GOR was brought up in north-west Wales and has lived there all his life
 @Comment:	STN was brought up in north-west Wales and has lived there all his life apart from some years in north-east Wales and some years abroad
